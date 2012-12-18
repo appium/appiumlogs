@@ -156,3 +156,14 @@
 [2012-12-18 14:18:03] toks: ....just in case
 [2012-12-18 14:18:16] toks: someone could google my name... for some reason
 [2012-12-18 14:18:29] toks: it's kinda unlikely, but not outside the ream of possibility :p
+[2012-12-18 14:20:20] lukeis: and like that… history is re-written (except if you really look, you can see the original history… it is git after all)
+[2012-12-18 14:20:35] toks: D:
+[2012-12-18 14:21:42] *toks mental note, no joking in #appium'
+[2012-12-18 14:22:16] toks: so yeah, monkeyrunner(with AndroidViewClient) works in android-17
+[2012-12-18 14:22:21] toks: just fyi
+[2012-12-18 14:22:27] toks: someone asked, I don't remember who now :p
+[2012-12-18 14:22:37] lukeis: me ;)
+[2012-12-18 14:22:45] toks: oh yeah ^_^
+[2012-12-18 14:23:54] toks: Well I'm very much looking forward to appium for android
+[2012-12-18 14:24:05] toks: it would make appium the best solution for my stuff
+[2012-12-18 14:24:59] toks: and by "my"... I guess I mean "the team"
