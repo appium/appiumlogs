@@ -1,0 +1,113 @@
+[2012-12-18 11:37:33] appiumbot, joining. (#appium)[2012-12-18 11:37:42] lukeis: bah, there we go :)[2012-12-18 11:38:27] jcarr: hi appiubot![2012-12-18 11:38:31] jcarr: er appiumbot![2012-12-18 11:38:49] toks: Is there a any thought about appium & android? As in, if I wanted to try my chops at writing such a "plug-in"/"extension", is there anything you'd point me to start looking at?[2012-12-18 11:39:43] appiumbot, joining. (#appium)
+[2012-12-18 11:39:45] hugs: toks, i've been pointed to this:
+[2012-12-18 11:39:46] hugs: http://developer.android.com/tools/testing/testing_ui.html
+[2012-12-18 11:39:54] toks: o.o
+[2012-12-18 11:39:56] hugs: for getting started with Appium & Android
+[2012-12-18 11:40:02] *toks takes a look'
+[2012-12-18 11:40:26] jcarr: toks: best theory I've seen is bootstrapping UI Automator in android (what hugs linked to) with a java jar that has a server in it that can accept commands, then writing a layer in appium to convert webdriver commands to UI Automator commands
+[2012-12-18 11:40:35] hugs: that was recommend to me by simon stewart (Mr. WebDriver himself)
+[2012-12-18 11:40:35] toks: ah!
+[2012-12-18 11:40:45] toks: orly?
+[2012-12-18 11:40:48] toks: good info!
+[2012-12-18 11:40:54] lukeis: so, there's a problem with it… doesn't handle webviews
+[2012-12-18 11:41:02] lukeis: it's a BIG problem
+[2012-12-18 11:41:03] toks: D:
+[2012-12-18 11:41:15] hugs: what I/we haven't done is abstract the code so we can handle two platform OSs
+[2012-12-18 11:41:25] hugs: right now, appium codebase is only aware of iOS
+[2012-12-18 11:41:45] toks: I see
+[2012-12-18 11:41:46] lukeis: tightly-aware ;)
+[2012-12-18 11:41:48] toks: :p
+[2012-12-18 11:41:54] hugs: :-)
+[2012-12-18 11:41:55] lukeis: s/aware/coupled/ :_
+[2012-12-18 11:41:57] lukeis: :)
+[2012-12-18 11:42:00] hugs: so, all i can at the moment, is that Android support for native, hybrid, and mobile will be in Appium... someday
+[2012-12-18 11:42:15] hugs: someday... within the next 6 months I hope
+[2012-12-18 11:42:19] toks: so what I'd want to do, is just write my own selenium-server for an android(wrapping uiautmationviewer).
+[2012-12-18 11:42:31] toks: next 6 months you say?
+[2012-12-18 11:42:33] toks: hmm
+[2012-12-18 11:42:42] hugs: well, if it was left on my plate. :-(
+[2012-12-18 11:42:49] toks: =/
+[2012-12-18 11:42:59] hugs: but if you want to do it... go for it! and send me a pull request. :-)
+[2012-12-18 11:43:04] jcarr: luke - NO awareness of uiwebviews?
+[2012-12-18 11:43:07] lukeis: i do know that a guy at ebay (françois' coworker) is working on something
+[2012-12-18 11:43:13] lukeis: jcarr: NONE :(
+[2012-12-18 11:43:14] toks: o.o
+[2012-12-18 11:43:25] jcarr: do those webviews expose the webkit debugging port?
+[2012-12-18 11:43:30] toks: no webview = if an android app embeds a website, you can't see it?
+[2012-12-18 11:43:41] jcarr: toks: that's the long and short, yeah
+[2012-12-18 11:43:44] toks: ah
+[2012-12-18 11:43:50] jcarr: with that tool
+[2012-12-18 11:43:55] lukeis: jcarr: I haven't been able to hook anything up yet or figure out the magical incantation to do so
+[2012-12-18 11:44:10] jcarr: :( I think it requires the port be opened in the code.
+[2012-12-18 11:44:26] toks: I dunno if you guys have seen MonkeyRunner+AndroidViewClient... it is kinda selenium'ish
+[2012-12-18 11:44:33] jcarr: I've seen monkeyrunner
+[2012-12-18 11:44:41] toks: ah
+[2012-12-18 11:44:46] *lukeis playing around with monkeyrunner right now...'
+[2012-12-18 11:44:56] jcarr: androidviewclient looks interesting!
+[2012-12-18 11:45:08] toks: it works well for my needs
+[2012-12-18 11:45:11] lukeis: we mainly have our tests using (an internal port of) native driver
+[2012-12-18 11:45:25] toks: ah
+[2012-12-18 11:45:36] jcarr: monkeyrunner might work better for us than UIAutomator
+[2012-12-18 11:45:55] lukeis: possibly… but i'm having troubles with it
+[2012-12-18 11:45:59] toks: o.o
+[2012-12-18 11:45:59] hugs: all i know is that Simon (who used to work at Google) recommended uiautomator and not monkeyrunner
+[2012-12-18 11:46:16] lukeis: hugs: true… if / when it supports webviews it will be the way to go
+[2012-12-18 11:46:34] hugs: for that, I need to pick Francois' brain more.
+[2012-12-18 11:47:01] hugs: lukeis: oh, you mean webviews in Android uiautomater
+[2012-12-18 11:47:04] hugs: ?
+[2012-12-18 11:47:11] lukeis: yes
+[2012-12-18 11:47:31] lukeis: which comments in the code suggest there will be in a near future release
+[2012-12-18 11:47:38] hugs: ah, now i'm at the edge of my knowledge of the universe. :-)
+[2012-12-18 11:48:05] *lukeis has the source code of android and uiautomator cloned ;)'
+[2012-12-18 11:48:33] lukeis: and would love to submit a patch to enable support if i could figure it out ;)
+[2012-12-18 11:51:44] jcarr: oh so they want to support it, they just dont have it yet?
+[2012-12-18 11:51:48] jcarr: that's good
+[2012-12-18 11:52:28] lukeis: hugs: I also think when a wrapper is made for uiautomator it should be a separte repo than appium… it's going to have to be a jar that is deployed to the device/emulator and then started up (which will then be listening over http...)
+[2012-12-18 11:54:27] toks: o.o
+[2012-12-18 11:54:34] toks: http://developer.android.com/tools/help/uiautomator/index.html
+[2012-12-18 11:54:40] toks: I see what you guys mean now.
+[2012-12-18 11:55:03] toks: yeah, one would have to wrap this up in a server that responds to selenium type stuff
+[2012-12-18 11:55:05] lukeis: or just have the two very different styles / architectures in different folders… but they really feel like separate beastes
+[2012-12-18 11:55:08] lukeis: beasts*
+[2012-12-18 11:55:16] toks: beasties*
+[2012-12-18 11:55:18] toks: ^_^
+[2012-12-18 11:55:20] lukeis: ;)
+[2012-12-18 11:55:38] lukeis: hugs: Dominik Dary  - François' counterpart working on android
+[2012-12-18 11:56:04] lukeis: jcarr too ^ ;)
+[2012-12-18 11:56:05] hugs: lukeis: danke
+[2012-12-18 11:56:22] jcarr: thanks
+[2012-12-18 11:56:46] lukeis: i have seen him on irc once as ddary
+[2012-12-18 11:58:45] stackedsax: lukeis: the separate jar would be something sort of like the webdriver apk is today, right?  Something that you start up upon launch of the android device
+[2012-12-18 11:59:26] lukeis: kind of, yes… you install the jar into a temp folder on device/emulator and then run it with an adb command
+[2012-12-18 11:59:38] lukeis: as described here http://developer.android.com/tools/help/uiautomator/index.html
+[2012-12-18 12:00:00] lukeis: except instead of running a junit test, you start a web server
+[2012-12-18 12:02:10] lukeis: and port forwarding will likely be needed too
+[2012-12-18 12:06:21] stackedsax: yeah, like what I do here
+[2012-12-18 12:06:22] stackedsax: https://gist.github.com/2639601
+[2012-12-18 12:07:28] lukeis: yes :)
+[2012-12-18 12:07:33] stackedsax: although, the port forwarding out of the local can also be fixed by making a single change to adb
+[2012-12-18 12:07:43] stackedsax: which relieves us of having to use socat
+[2012-12-18 12:07:45] stackedsax: either way
+[2012-12-18 12:09:15] *toks likes socat'
+[2012-12-18 12:27:10] lukeis: btw appiumbot is logging… locally, until i can figure out an easy way to host it publically
+[2012-12-18 12:36:18] jcarr1, joining. (#appium)
+[2012-12-18 12:37:23] jcarr, quitting. (Ping timeout: 255 seconds)
+[2012-12-18 12:42:52] lukeis: hrm, does monkeyrunner work on android16+ ?
+[2012-12-18 12:51:42] jcarr1, quitting. (Ping timeout: 264 seconds)
+[2012-12-18 12:55:08] toks: o.o
+[2012-12-18 12:55:17] toks: I'd be surprised if it didn't
+[2012-12-18 12:55:28] toks: I'm pretty sure I can start an android17 emulator and use monkeyrunner
+[2012-12-18 12:55:36] *toks tries'
+[2012-12-18 12:55:48] *lukeis was getting NPE's on 16, 15 working fine...'
+[2012-12-18 12:59:55] toks: ...a few more seconds...
+[2012-12-18 13:02:11] toks: hmm
+[2012-12-18 13:02:20] lukeis: ?
+[2012-12-18 13:02:29] toks: I'm not seeing an error...
+[2012-12-18 13:02:33] lukeis: ok
+[2012-12-18 13:02:37] lukeis: maybe just me
+[2012-12-18 13:02:40] toks: but... one of the button pushes I expected to work, didn't ...
+[2012-12-18 13:02:43] toks: lemme verify :p
+[2012-12-18 13:04:53] toks: errrmm...
+[2012-12-18 13:06:49] toks: still trying to get a button-push to work
+[2012-12-18 13:10:11] toks: :(
+[2012-12-18 13:11:58] toks: this isn't working :(
