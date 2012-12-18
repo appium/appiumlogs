@@ -115,3 +115,11 @@
 [2012-12-18 13:58:48] appiumbot, joining. (#appium)
 [2012-12-18 13:59:00] lukeis: :log
 [2012-12-18 13:59:17] lukeis: ok, it's not real time, but updated every 5 min :)
+[2012-12-18 14:00:05] stackedsax: that's fine enough
+[2012-12-18 14:01:46] lukeis: w00t just had a meeting, monkeyrunner is off the table, get to focus on 'fixing' some issues with our native driver and start adding support for UIAutomator :)
+[2012-12-18 14:02:09] lukeis: that last part is good news ;)
+[2012-12-18 14:02:18] hugs: w00t, indeed, lukeis. :-)
+[2012-12-18 14:03:13] toks: yay!
+[2012-12-18 14:03:47] toks: sounds like android /w appium has "begun"? :)
+[2012-12-18 14:04:22] lukeis: it will begin… probably xmas week, the native driver bugs will likely last me the rest of the week
+[2012-12-18 14:05:00] toks: you just saved my marriage :)
