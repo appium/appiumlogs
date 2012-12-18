@@ -177,3 +177,6 @@
 [2012-12-18 15:02:14] toks: it does work, but I guess anything can go wrong at anytime
 [2012-12-18 15:02:20] toks: (which is life in general!)
 [2012-12-18 15:04:40] stackedsax: lukeis: where are you going to start with the android version?  you going to prototype Simon's suggestion first?
+[2012-12-18 15:08:28] lukeis: likely
+[2012-12-18 15:08:51] lukeis: embed an http server connect to it (start session)
+[2012-12-18 15:09:08] lukeis: one step at a time :)
