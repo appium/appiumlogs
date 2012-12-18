@@ -132,3 +132,17 @@
 [2012-12-18 14:07:40] lukeis: most up to date github one i know of is https://github.com/nicegraham/appdriver
 [2012-12-18 14:08:36] lukeis: 'we' changed the interfaces, i'm not sure it's worth pushing back anywhere
 [2012-12-18 14:09:47] lukeis: but we only use it for android (not ios)
+[2012-12-18 14:10:02] lukeis: well, and blackberry too for a while, but we stopped support that ;)
+[2012-12-18 14:10:08] toks: my wife is not techie :p
+[2012-12-18 14:10:14] hugs: i big problem with nativedriver's approach is the requirement to compile in a webserver into the app
+[2012-12-18 14:10:28] hugs: which wipes out almost all other test automation tools out there, too
+[2012-12-18 14:11:23] hugs: so my Big Crazy Idea for Appium is that automating native Android apps requires zero modification of the app to get started.
+[2012-12-18 14:12:00] lukeis: y u no like compile bloat into ur app hugs?
+[2012-12-18 14:12:47] hugs: It's a result of watching how an entire industry failed to create an awesome way to test Flash/Flex.
+[2012-12-18 14:13:17] *lukeis so glad i've never worked on a site with that (that i had to test)'
+[2012-12-18 14:14:06] lukeis: hugs: for u… http://cdn.memegenerator.net/instances/400x/32117042.jpg  (the site was very slow… woulda done this originally)
+[2012-12-18 14:14:14] hugs, changing nick to so_.
+[2012-12-18 14:14:23] so_: whoops. trying again
+[2012-12-18 14:14:29] lukeis: ha
+[2012-12-18 14:14:37] so_, changing nick to hugs.
+[2012-12-18 14:14:41] *hugs so glad Steve Jobs killed Flash'
