@@ -124,16 +124,13 @@
 [2012-12-18 14:04:22] lukeis: it will begin… probably xmas week, the native driver bugs will likely last me the rest of the week
 [2012-12-18 14:05:00] toks: you just saved my marriage :)
 [2012-12-18 14:05:05] toks: \o/
-[2012-12-18 14:05:27] toks: srsly, my wife was like "What? No appium for android? Toks... I don't think this is gonna work out"
 [2012-12-18 14:06:09] hugs: happy wife. happy life.
-[2012-12-18 14:06:22] lukeis: your wife is a techie? … maybe i shoulda gone that route
 [2012-12-18 14:06:55] hugs: lukeis.. speaking of nativedriver... is that still getting worked on?
 [2012-12-18 14:07:13] lukeis: on github forks it is… but we also have our own internally
 [2012-12-18 14:07:40] lukeis: most up to date github one i know of is https://github.com/nicegraham/appdriver
 [2012-12-18 14:08:36] lukeis: 'we' changed the interfaces, i'm not sure it's worth pushing back anywhere
 [2012-12-18 14:09:47] lukeis: but we only use it for android (not ios)
 [2012-12-18 14:10:02] lukeis: well, and blackberry too for a while, but we stopped support that ;)
-[2012-12-18 14:10:08] toks: my wife is not techie :p
 [2012-12-18 14:10:14] hugs: i big problem with nativedriver's approach is the requirement to compile in a webserver into the app
 [2012-12-18 14:10:28] hugs: which wipes out almost all other test automation tools out there, too
 [2012-12-18 14:11:23] hugs: so my Big Crazy Idea for Appium is that automating native Android apps requires zero modification of the app to get started.
@@ -146,3 +143,16 @@
 [2012-12-18 14:14:29] lukeis: ha
 [2012-12-18 14:14:37] so_, changing nick to hugs.
 [2012-12-18 14:14:41] *hugs so glad Steve Jobs killed Flash'
+[2012-12-18 14:15:12] toks: okay, android-17 and MonkeyRunner work
+[2012-12-18 14:15:29] toks: but I have to start my emulator with.... tools/emulator @MyAndroid_15 -port 5554 -skin 1024x768
+[2012-12-18 14:15:44] toks: I have no idea why, but with this I can control android calc app... so...
+[2012-12-18 14:15:45] toks: yeah
+[2012-12-18 14:16:28] lukeis: :note jcarr check out the :log next time! :)
+[2012-12-18 14:16:54] toks: uh oh!
+[2012-12-18 14:17:03] toks: okay, I should be careful what I say ^_^;
+[2012-12-18 14:17:09] lukeis: ha ;)
+[2012-12-18 14:17:17] lukeis: doesn't stop people in the selenium channel
+[2012-12-18 14:17:57] lukeis: haha,
+[2012-12-18 14:18:03] toks: ....just in case
+[2012-12-18 14:18:16] toks: someone could google my name... for some reason
+[2012-12-18 14:18:29] toks: it's kinda unlikely, but not outside the ream of possibility :p
