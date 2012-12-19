@@ -81,3 +81,13 @@
 [2012-12-19 13:44:40] toks: o.o
 [2012-12-19 13:44:48] toks: that's different from my command
 [2012-12-19 13:44:50] *toks goes to try'
+[2012-12-19 13:45:06] *lukeis will have to check if we made local modifications to the Instrumentation class that matter'
+[2012-12-19 13:45:42] toks: ....
+[2012-12-19 13:45:43] toks: wait
+[2012-12-19 13:45:50] toks: yeah, that can't work for me
+[2012-12-19 13:45:54] lukeis: ;)
+[2012-12-19 13:46:20] toks: that's not nativedriver's classes at all, you got your own stuff going on :p
+[2012-12-19 13:46:38] lukeis: we wrapped nativedriver...
+[2012-12-19 13:46:45] toks: D:
+[2012-12-19 13:46:46] lukeis: i'm checking if we did anything 'interesting'
+[2012-12-19 13:47:54] toks: sounds like, then the vanilla build of nativedriver from that github is not working anymore :(
