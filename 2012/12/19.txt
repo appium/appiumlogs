@@ -27,3 +27,9 @@
 [2012-12-19 10:22:49] toks: o.o
 [2012-12-19 10:23:17] toks: oh, so maybe I'm using the wrong/outdated one? http://code.google.com/p/nativedriver/source/checkout
 [2012-12-19 10:23:54] *toks goes to search about...'
+[2012-12-19 10:31:54] toks: This looks nice... https://github.com/leandog/nativedriver
+[2012-12-19 10:32:44] lukeis: toks: this is the most up to date one i know of https://github.com/nicegraham/appdriver
+[2012-12-19 10:33:12] lukeis: and it's 'active'
+[2012-12-19 10:34:07] toks: o.o
+[2012-12-19 10:34:25] toks: oh, it's called appdriver now
+[2012-12-19 10:35:00] toks: thanks!
