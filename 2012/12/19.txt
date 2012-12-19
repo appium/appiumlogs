@@ -68,3 +68,16 @@
 [2012-12-19 12:18:15] lukeis: and i'll likely be WFH for most of that time, since kids have no school / daycare
 [2012-12-19 12:19:12] jcarr: ok, sounds like my work weeks too, except I disappear Jan 2-4
 [2012-12-19 12:57:47] hugs|away, changing nick to hugs.
+[2012-12-19 13:42:16] toks: so....  https://github.com/nicegraham/appdriver
+[2012-12-19 13:42:26] toks: gives me the same error as google's code
+[2012-12-19 13:42:36] toks: notclassfound when trying to start the instrumentation
+[2012-12-19 13:42:46] toks: classnotfound*
+[2012-12-19 13:42:48] toks: D:
+[2012-12-19 13:43:41] toks: E/AndroidRuntime(  448): java.lang.RuntimeException: Unable to instantiate instrumentation ComponentInfo{com.rackspace.cloud.android/com.google.android.testing.nativedriver.server.ServerInstrumentation}: java.lang.ClassNotFoundException: com.google.android.testing.nativedriver.server.ServerInstrumentation in loader dalvik.system.PathClassLoader[/data/app/com.rackspace.cloud.android-1.apk:/data/app/com.rackspace.cloud.android-1.apk]
+[2012-12-19 13:43:51] toks: that's from logcat
+[2012-12-19 13:43:57] lukeis: this is my start command:  adb shell am instrument com.salesforce.chatter/com.salesforce.device.test.android.SFDCInstrumentation   (which works…)
+[2012-12-19 13:44:04] *toks goes in search for answers on "TheGoogle"'
+[2012-12-19 13:44:18] toks: o_O
+[2012-12-19 13:44:40] toks: o.o
+[2012-12-19 13:44:48] toks: that's different from my command
+[2012-12-19 13:44:50] *toks goes to try'
