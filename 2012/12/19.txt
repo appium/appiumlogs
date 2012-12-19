@@ -91,3 +91,15 @@
 [2012-12-19 13:46:45] toks: D:
 [2012-12-19 13:46:46] lukeis: i'm checking if we did anything 'interesting'
 [2012-12-19 13:47:54] toks: sounds like, then the vanilla build of nativedriver from that github is not working anymore :(
+[2012-12-19 13:50:59] lukeis: ohhh… we've changed it quite a bit.
+[2012-12-19 13:51:04] lukeis: we don't use jetty :-/
+[2012-12-19 13:51:08] toks: o_O
+[2012-12-19 13:51:53] toks: hmm, okay... I guess I'll have to figure out why the class cannot be found
+[2012-12-19 13:53:09] lukeis: is it bundled in your app (apk)? :)
+[2012-12-19 13:53:19] lukeis: have you installed the apk :)
+[2012-12-19 13:53:30] *lukeis asks the simple first questions'
+[2012-12-19 13:54:02] toks: yup
+[2012-12-19 13:54:11] toks: so when I do pm list instrumentation
+[2012-12-19 13:54:12] toks: I see it
+[2012-12-19 13:54:44] toks: basically, these steps: http://code.google.com/p/nativedriver/wiki/AndroidMakeAnAppTestable
+[2012-12-19 13:54:57] toks: but with the github link you gave me
