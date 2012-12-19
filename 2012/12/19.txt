@@ -103,3 +103,8 @@
 [2012-12-19 13:54:12] toks: I see it
 [2012-12-19 13:54:44] toks: basically, these steps: http://code.google.com/p/nativedriver/wiki/AndroidMakeAnAppTestable
 [2012-12-19 13:54:57] toks: but with the github link you gave me
+[2012-12-19 13:55:38] lukeis: 'should' work ;)
+[2012-12-19 13:55:49] toks: :p
+[2012-12-19 13:57:32] toks: I see other people have my issue too: https://groups.google.com/forum/#!msg/nativedriver-users/vYfbZzUaY20/IsnEhQVI9mQJ
+[2012-12-19 13:58:07] toks, changing nick to toks-meeting.
+[2012-12-19 13:58:09] toks-meeting: brb
