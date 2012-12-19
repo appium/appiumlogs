@@ -118,3 +118,16 @@
 [2012-12-19 14:36:51] toks: *gasp!* A possible solution has appeared! http://code.google.com/p/nativedriver/issues/detail?id=23
 [2012-12-19 14:38:27] lukeis: that will teach you to build in eclipse ;)
 [2012-12-19 14:39:20] toks: :p
+[2012-12-19 14:40:04] toks: eclipse & java, in general, are not my friends.... but I'm dragging my way through this :p
+[2012-12-19 14:40:29] toks: it is interesting to see different solutions to the same automation challenge
+[2012-12-19 14:40:40] toks: ^_^
+[2012-12-19 14:41:06] lukeis: yeah, mobile test automation is still a fragmented market :)
+[2012-12-19 14:42:00] toks: Hmm. That last comment on codegoole doesn't make sense to me. how can my host's CWD, have an effect on the adb command to start instrumentation.
+[2012-12-19 14:42:08] toks: I thought I compiled everything into the apk
+[2012-12-19 14:42:14] toks: ...but, I'll try it anywayz
+[2012-12-19 14:42:29] lukeis: you can't believe arbitrary comments on googlecode projects ;)
+[2012-12-19 14:42:46] toks: lol, spoken like an experienced developer :p
+[2012-12-19 14:43:14] *lukeis is a selenium developer and has 'dealt' with the issues list on a number of occaisons'
+[2012-12-19 14:43:35] *toks gasps'
+[2012-12-19 14:44:13] toks: I'm gettin' my info straight from the horse's mouth :)
+[2012-12-19 14:44:55] toks: (An american saying, for getting information from direct source instead of 2nd-hand)
