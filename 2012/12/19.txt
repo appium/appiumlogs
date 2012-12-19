@@ -12,3 +12,5 @@
 [2012-12-19 08:19:13] freynaud: i think he had some web view stuff working
 [2012-12-19 08:22:23] hugs: eggsellent. :-)
 [2012-12-19 09:00:41] stackedsax, quitting. (Quit: Leaving.)
+[2012-12-19 09:19:30] lukeis, joining. (#appium)
+[2012-12-19 09:19:46] hugs, quitting. (Ping timeout: 246 seconds)
