@@ -10,3 +10,4 @@
 [2012-12-19 08:17:55] hugs: lots of interest and ideas there
 [2012-12-19 08:19:05] freynaud: i'll check with dominik where he is at with android
 [2012-12-19 08:19:13] freynaud: i think he had some web view stuff working
+[2012-12-19 08:22:23] hugs: eggsellent. :-)
