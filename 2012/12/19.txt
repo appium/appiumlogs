@@ -58,3 +58,6 @@
 [2012-12-19 11:23:36] jcarr: :log
 [2012-12-19 11:24:27] lukeis: hmm, i get pinged for that every time, maybe that wasn't a great idea ;)
 [2012-12-19 11:24:54] jcarr: yeah, maybe not ;)
+[2012-12-19 11:50:24] freynaud_, joining. (#appium)
+[2012-12-19 11:51:53] freynaud_, quitting. (Client Quit)
+[2012-12-19 11:52:53] freynaud, quitting. (Ping timeout: 248 seconds)
