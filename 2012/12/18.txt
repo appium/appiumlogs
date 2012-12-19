@@ -201,3 +201,5 @@
 [2012-12-18 17:22:44] jcarr, leaving. (#appium)
 [2012-12-18 18:20:54] stackedsax1, quitting. (Read error: Operation timed out)
 [2012-12-18 18:23:54] stackedsax, joining. (#appium)
+[2012-12-18 18:40:23] stackedsax, quitting. (Quit: Leaving.)
+[2012-12-18 18:42:00] toks, quitting. (Ping timeout: 244 seconds)
