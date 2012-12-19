@@ -141,3 +141,5 @@
 [2012-12-19 14:57:41] toks: interesting, that the packagename is different than all the Activity names
 [2012-12-19 14:57:48] toks: in our apk
 [2012-12-19 14:59:48] toks: The apk definitely grew in size
+[2012-12-19 15:00:14] toks: so apparently something was added by following those steps
+[2012-12-19 15:00:19] *toks continues to poke at this'
