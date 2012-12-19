@@ -113,3 +113,4 @@
 [2012-12-19 14:02:54] hugs: hi, trying to compile your code
 [2012-12-19 14:03:01] hugs: i'll post a gist
 [2012-12-19 14:03:03] freynaud: k
+[2012-12-19 14:24:27] freynaud, quitting. (Quit: freynaud)
