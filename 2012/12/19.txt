@@ -1,0 +1,12 @@
+[2012-12-19 08:15:26] freynaud, joining. (#appium)
+[2012-12-19 08:15:33] hugs|away, changing nick to hugs.
+[2012-12-19 08:15:47] hugs: hi, freynaud. :-)
+[2012-12-19 08:15:58] freynaud: hi there
+[2012-12-19 08:16:18] hugs: :log
+[2012-12-19 08:16:49] hugs: hmm.. that didn't work
+[2012-12-19 08:16:52] hugs: but there's this: https://github.com/lukeis/appiumlogs/blob/master/2012/12/18.txt
+[2012-12-19 08:17:11] freynaud: reading it already
+[2012-12-19 08:17:36] hugs: for fun, search for "android"
+[2012-12-19 08:17:55] hugs: lots of interest and ideas there
+[2012-12-19 08:19:05] freynaud: i'll check with dominik where he is at with android
+[2012-12-19 08:19:13] freynaud: i think he had some web view stuff working
