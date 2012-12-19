@@ -15,3 +15,5 @@
 [2012-12-19 09:19:30] lukeis, joining. (#appium)
 [2012-12-19 09:19:46] hugs, quitting. (Ping timeout: 246 seconds)
 [2012-12-19 09:39:30] lukeis: :note hugs the log works… just there's a 5 minute delay to sync to the github repo and that was the first comment of the day :)
+[2012-12-19 09:45:21] stackedsax, joining. (#appium)
+[2012-12-19 09:46:09] stackedsax: :log
