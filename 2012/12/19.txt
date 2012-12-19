@@ -137,3 +137,7 @@
 [2012-12-19 14:46:01] toks: I don't even know if that sayin is really american, actually :p
 [2012-12-19 14:46:17] lukeis: well, it's in the movies, we'll claim it
 [2012-12-19 14:54:41] toks: lol
+[2012-12-19 14:55:11] toks: hmm... well, that solution didn't work... but I bet something similar will...
+[2012-12-19 14:57:41] toks: interesting, that the packagename is different than all the Activity names
+[2012-12-19 14:57:48] toks: in our apk
+[2012-12-19 14:59:48] toks: The apk definitely grew in size
