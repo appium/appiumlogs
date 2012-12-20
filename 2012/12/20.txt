@@ -11,3 +11,5 @@
 [2012-12-20 04:19:02] hugs|away, joining. (#appium)
 [2012-12-20 07:25:04] freynaud, quitting. (Quit: freynaud)
 [2012-12-20 08:00:43] stackedsax, joining. (#appium)
+[2012-12-20 08:05:28] lukeis, joining. (#appium)
+[2012-12-20 08:06:42] stackedsax, quitting. (Quit: Leaving.)
