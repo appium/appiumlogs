@@ -137,3 +137,10 @@
 [2012-12-20 13:14:03] lukeis: you can do java 6 with javac 7
 [2012-12-20 13:14:40] toks: I see 1.7
 [2012-12-20 13:15:00] lukeis: change the drop-down to 1.6 ;)
+[2012-12-20 13:15:12] toks: ah
+[2012-12-20 13:16:06] toks: okay...
+[2012-12-20 13:16:12] toks: let's see what happens
+[2012-12-20 13:18:40] toks: hmm... still getting the warning
+[2012-12-20 13:18:57] toks: so something about how I made the server-standalone.jar is my problem now
+[2012-12-20 13:19:12] lukeis: you made it?
+[2012-12-20 13:19:56] toks: the apk works
