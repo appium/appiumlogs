@@ -33,3 +33,20 @@
 [2012-12-20 10:34:05] toks: I see a dir called "dexedclasses" when I compile
 [2012-12-20 10:34:18] toks: so I verify that it contains server-standalone.jar
 [2012-12-20 10:34:32] toks: and I see the apk in/decrease in size if it I include or omit it
+[2012-12-20 10:35:13] toks: I don't see a typo in my strings
+[2012-12-20 10:35:27] toks: so what's in my AndroidManifest.xml matches this classpath
+[2012-12-20 10:35:47] toks: ....so.....
+[2012-12-20 10:35:51] *toks looks at lukeis '
+[2012-12-20 10:36:05] toks: If you're able to compile SFDInstrumentation....
+[2012-12-20 10:36:16] toks: and it is found when you start the instrumentation from adb
+[2012-12-20 10:36:33] lukeis: we have hacked ourselves to not resemble native driver in this regard
+[2012-12-20 10:36:35] toks: ....what do you to compile your apk? :)
+[2012-12-20 10:37:01] toks: I've concluded this is a classpath issue and I haven't yet gotten to "does appdriver work or not"
+[2012-12-20 10:37:38] toks: I think if I mimic your setup for compiling, then I'll at least be able to find the appdriver class and then I can evaluate if it works or not
+[2012-12-20 10:37:52] toks: but that error above I don't think is appdriver's fault
+[2012-12-20 10:38:08] lukeis: lemme look ;)
+[2012-12-20 10:38:15] *lukeis goes into ant hell'
+[2012-12-20 10:38:21] toks: :(
+[2012-12-20 10:38:42] toks: when I do "ant -v" I pretty much see exact commandline javac stuff
+[2012-12-20 10:39:05] toks: I'm guessing I'll end up compiling this thing by hand because I don't know eclipse enough to fix whatever the issue is
+[2012-12-20 10:39:26] toks: (I had to do this for robotium,btw)
