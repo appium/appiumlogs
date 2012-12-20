@@ -415,3 +415,7 @@
 [2012-12-20 15:32:06] toks: Hmm... I see that after the exception in the logcat
 [2012-12-20 15:32:45] toks: maybe it tried.
 [2012-12-20 15:34:03] *toks stares at some java code'
+[2012-12-20 15:38:15] toks: so the execption is raised here... https://code.google.com/p/nativedriver/source/browse/trunk/android/src/com/google/android/testing/nativedriver/server/ElementFinder.java
+[2012-12-20 15:38:46] toks: W/roidNativeDriverServlet( 1088): 	at com.google.android.testing.nativedriver.server.ElementFinder$SearchContextImpl.findElementByAndroidId(Unknown Source)
+[2012-12-20 15:39:18] toks: that means someone else must have an instance of this ElementFinder class and perhaps failed to catch it
+[2012-12-20 15:39:28] toks: (as in try/catch)
