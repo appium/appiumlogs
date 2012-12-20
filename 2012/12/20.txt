@@ -204,3 +204,9 @@
 [2012-12-20 13:42:44] toks: platform-tools/adb -s emulator-5554 forward tcp:54129 tcp:54129
 [2012-12-20 13:42:58] toks: ...and now...
 [2012-12-20 13:43:01] *toks drumrolls....'
+[2012-12-20 13:46:55] toks: hmm... I shouldn't need to use the java implemenation of the android driver right?
+[2012-12-20 13:47:12] toks: if this is selenium... I should be able to talk to that port with anything that obeys selenium syntax
+[2012-12-20 13:47:23] *toks tries with python'
+[2012-12-20 13:47:28] lukeis: heh… not that i've seen :)
+[2012-12-20 13:47:49] toks: is that in regards to my first sentence? or 2nd? :p
+[2012-12-20 13:49:15] lukeis: please do try… i don't have an example since we changed from the http communication (axing jetty) to using "AndroidCommunicationManager"
