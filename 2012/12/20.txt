@@ -84,3 +84,8 @@
 [2012-12-20 12:11:57] jcarr: hugs has long imagined that appium would work for ios sim/real, android sim/real, and robot
 [2012-12-20 12:12:45] toks: o.o
 [2012-12-20 12:13:47] jcarr: oooh I see how this works… wow
+[2012-12-20 12:16:12] *lukeis doesn't have time to play around'
+[2012-12-20 12:16:24] lukeis: jcarr: care to give a summary description?
+[2012-12-20 12:18:59] jcarr: looks like it works like a touch screen calibrator
+[2012-12-20 12:19:13] jcarr: it's just the ios app you can use to calibrate the robot, I Think
+[2012-12-20 12:19:31] jcarr: if cnowacek drops into #appium we could ask him...
