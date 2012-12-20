@@ -50,3 +50,12 @@
 [2012-12-20 10:38:42] toks: when I do "ant -v" I pretty much see exact commandline javac stuff
 [2012-12-20 10:39:05] toks: I'm guessing I'll end up compiling this thing by hand because I don't know eclipse enough to fix whatever the issue is
 [2012-12-20 10:39:26] toks: (I had to do this for robotium,btw)
+[2012-12-20 10:40:48] toks: say for example, what does the instrumentation section of your AndroidManifest.xml look like? ...
+[2012-12-20 10:40:51] toks: mine looks like...
+[2012-12-20 10:41:04] toks:  <instrumentation android:targetPackage="com.rackspace.cloud.android"
+[2012-12-20 10:41:04] toks:   android:name="com.google.android.testing.nativedriver.server.ServerInstrumentation">
+[2012-12-20 10:41:07] toks:   </instrumentation>
+[2012-12-20 10:41:32] toks: and that target string is the same thing I see when I do "adb shell pm list packages"
+[2012-12-20 10:41:56] toks: and..... meeting
+[2012-12-20 10:42:01] toks: brb in a few
+[2012-12-20 10:42:04] toks, changing nick to toks-meeting.
