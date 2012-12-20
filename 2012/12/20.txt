@@ -411,3 +411,7 @@
 [2012-12-20 15:20:53] lukeis: i'm not that cruel :)
 [2012-12-20 15:20:56] toks: :p
 [2012-12-20 15:21:23] *lukeis will look through the code on my side to see if there's anything related'
+[2012-12-20 15:31:56] toks: D/SntpClient(   61): request time failed: java.net.SocketException: Address family not supported by protocol
+[2012-12-20 15:32:06] toks: Hmm... I see that after the exception in the logcat
+[2012-12-20 15:32:45] toks: maybe it tried.
+[2012-12-20 15:34:03] *toks stares at some java code'
