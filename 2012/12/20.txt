@@ -389,3 +389,19 @@
 [2012-12-20 15:13:47] toks: o.O
 [2012-12-20 15:14:33] toks: it finally came back!
 [2012-12-20 15:14:39] toks: dangit... I should have left wireshark running
+[2012-12-20 15:15:11] lukeis: :-P
+[2012-12-20 15:15:50] lukeis: maybe should make the hint a little more unsubtle, wireshark isn't going to help in figuring out what is wrong :)
+[2012-12-20 15:16:10] toks: o.o
+[2012-12-20 15:16:38] toks: it isn't? because of wireshark I now know that the driver did not send the reply on the wire
+[2012-12-20 15:16:49] toks: (even though it appears in logcat)
+[2012-12-20 15:16:54] toks: until much much later
+[2012-12-20 15:17:33] *lukeis knows the python bindings don't do anything / wait for anything… so it *had* to be in the native driver'
+[2012-12-20 15:17:42] toks: O_o
+[2012-12-20 15:18:07] toks: oh... cuz I wasn't using "waitfor" stuff
+[2012-12-20 15:18:28] lukeis: yeah, it's just an http request awaiting a response
+[2012-12-20 15:18:51] lukeis: (using urllib2)
+[2012-12-20 15:19:02] toks: ah
+[2012-12-20 15:19:17] toks: okay, so if I fix this... do I send a pull request to him? :p
+[2012-12-20 15:19:22] lukeis: yeah
+[2012-12-20 15:19:35] toks: heh
+[2012-12-20 15:19:46] lukeis: and i'll be interested in what you find :)
