@@ -23,3 +23,5 @@
 [2012-12-20 10:16:48] jcarr: I like the return key, but esc is my favorite
 [2012-12-20 10:17:22] lukeis: i find myself hitting <space> more often than anything else :-D
 [2012-12-20 10:17:28] toks: o.o
+[2012-12-20 10:27:31] toks, quitting. (Quit: leaving)
+[2012-12-20 10:28:01] toks, joining. (#appium)
