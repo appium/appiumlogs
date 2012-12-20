@@ -73,3 +73,4 @@
 [2012-12-20 10:55:14] toks, changing nick to toks-meeting.
 [2012-12-20 10:55:17] toks-meeting: ...again
 [2012-12-20 10:57:02] *lukeis has to walk to another building… back in a while'
+[2012-12-20 11:47:23] lukeis: umm, wtf is this robotcallibration thing?
