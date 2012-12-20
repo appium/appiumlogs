@@ -100,3 +100,28 @@
 [2012-12-20 13:04:16] toks: now that _must_ be a problem :p
 [2012-12-20 13:04:48] toks: maybe that's why the class isn't found.
 [2012-12-20 13:04:55] lukeis: oh, sound like you're mixing your java versions
+[2012-12-20 13:05:02] toks: O_o;
+[2012-12-20 13:05:14] lukeis: like compiling with 1.7 and running 1.6
+[2012-12-20 13:05:22] toks: ooooooooooooohhhhhhhhhhhhhh
+[2012-12-20 13:05:36] toks: the java that's eclipse is using must be different from the commandline I use to make that jar
+[2012-12-20 13:05:41] lukeis: ;)
+[2012-12-20 13:05:43] toks: eureka!
+[2012-12-20 13:05:59] toks: okay... okay... this is good
+[2012-12-20 13:06:09] toks: :)
+[2012-12-20 13:06:21] *toks goes to somehow make these tools use the same java'
+[2012-12-20 13:06:48] toks: hmm... so there are 2 "javac" on my machine, eh?
+[2012-12-20 13:06:52] *toks runs "locate javac"'
+[2012-12-20 13:07:45] lukeis: i think android uses java6
+[2012-12-20 13:07:50] toks: 3 javacs!
+[2012-12-20 13:07:56] lukeis: good lord...
+[2012-12-20 13:08:33] toks: o.o
+[2012-12-20 13:08:41] toks: /opt/jdk1.7.0_09/bin/javac
+[2012-12-20 13:08:47] toks: /home/toks/.m2/repository/com/sun/mirror/apt/sun/tools/javac
+[2012-12-20 13:09:01] toks: /home/toks/.m2/repository/org/codehaus/plexus/plexus-compiler-javac
+[2012-12-20 13:09:05] toks: hmm
+[2012-12-20 13:09:08] lukeis: those last two are just maven
+[2012-12-20 13:09:12] toks: ah
+[2012-12-20 13:09:24] toks: the first one is the one I put on this machine on purpose
+[2012-12-20 13:09:26] lukeis: the /opt is the real one
+[2012-12-20 13:09:31] toks: ah
+[2012-12-20 13:09:35] lukeis: but you should set the compilation level to 6
