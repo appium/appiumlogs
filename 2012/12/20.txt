@@ -91,3 +91,4 @@
 [2012-12-20 12:19:31] jcarr: if cnowacek drops into #appium we could ask him...
 [2012-12-20 12:20:24] lukeis: ahhh
 [2012-12-20 12:41:27] stackedsax, quitting. (Ping timeout: 252 seconds)
+[2012-12-20 12:55:08] stackedsax, joining. (#appium)
