@@ -239,3 +239,10 @@
 [2012-12-20 14:08:42] toks: hmm
 [2012-12-20 14:08:57] toks: ah
 [2012-12-20 14:09:01] toks: oh wait...
+[2012-12-20 14:10:20] toks: hmm... it did come back
+[2012-12-20 14:10:24] toks: took a long time....
+[2012-12-20 14:10:37] *toks checks selenium-timeout settings'
+[2012-12-20 14:13:53] stackedsax: it's great.  apparently toks is hard at work Doing Things.  here I thought he was slacking off because he'd been so quiet.
+[2012-12-20 14:14:15] toks: :p
+[2012-12-20 14:14:40] toks: you don't see all my youtube logs of watching cats do funny things
+[2012-12-20 14:14:42] lukeis: do you guys sit next to each other?
