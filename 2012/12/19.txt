@@ -152,3 +152,4 @@
 [2012-12-19 18:19:17] toks, quitting. (Ping timeout: 255 seconds)
 [2012-12-19 21:09:27] toks, joining. (#appium)
 [2012-12-19 23:41:41] freynaud, joining. (#appium)
+[2012-12-19 23:46:42] freynaud_, joining. (#appium)
