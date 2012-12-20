@@ -125,3 +125,15 @@
 [2012-12-20 13:09:26] lukeis: the /opt is the real one
 [2012-12-20 13:09:31] toks: ah
 [2012-12-20 13:09:35] lukeis: but you should set the compilation level to 6
+[2012-12-20 13:10:06] toks: ok.
+[2012-12-20 13:10:33] toks: let's see... which one is easier to modify... the ant build that creates the jar file
+[2012-12-20 13:10:36] toks: or eclipse
+[2012-12-20 13:10:40] *lukeis just checked mine, and we're set to 6'
+[2012-12-20 13:11:05] toks: cool
+[2012-12-20 13:12:44] *toks searches eclipse for settings about what javac to use'
+[2012-12-20 13:13:17] lukeis: right click on your project, properties, java compiler
+[2012-12-20 13:13:33] lukeis: or window -> preferences
+[2012-12-20 13:13:39] toks: o.o
+[2012-12-20 13:14:03] lukeis: you can do java 6 with javac 7
+[2012-12-20 13:14:40] toks: I see 1.7
+[2012-12-20 13:15:00] lukeis: change the drop-down to 1.6 ;)
