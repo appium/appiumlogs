@@ -77,3 +77,10 @@
 [2012-12-20 12:02:14] toks-meeting, changing nick to toks.
 [2012-12-20 12:02:36] toks: o.o
 [2012-12-20 12:03:03] lukeis: jcarr: ^ ?
+[2012-12-20 12:11:02] jcarr: ?
+[2012-12-20 12:11:10] jcarr: what are you asking about?
+[2012-12-20 12:11:21] lukeis: https://github.com/hugs/appium/pull/33
+[2012-12-20 12:11:38] jcarr: ha, I bet that's for appibot
+[2012-12-20 12:11:57] jcarr: hugs has long imagined that appium would work for ios sim/real, android sim/real, and robot
+[2012-12-20 12:12:45] toks: o.o
+[2012-12-20 12:13:47] jcarr: oooh I see how this works… wow
