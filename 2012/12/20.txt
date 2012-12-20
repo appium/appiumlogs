@@ -1,2 +1,3 @@
 [2012-12-20 00:37:49] freynaud, quitting. (Remote host closed the connection)
 [2012-12-20 00:38:10] freynaud, joining. (#appium)
+[2012-12-20 00:41:27] stackedsax, quitting. (Quit: Leaving.)
