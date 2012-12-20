@@ -233,3 +233,9 @@
 [2012-12-20 13:56:41] toks: (or ruby I guess)
 [2012-12-20 13:58:44] toks: okay... jython first...
 [2012-12-20 14:00:07] toks: in jython, I can at least import the classes without error :)
+[2012-12-20 14:07:33] toks: hmm....
+[2012-12-20 14:07:41] toks: driver.findElement(By.id("planet_spinner"))
+[2012-12-20 14:07:45] toks: hanging on that
+[2012-12-20 14:08:42] toks: hmm
+[2012-12-20 14:08:57] toks: ah
+[2012-12-20 14:09:01] toks: oh wait...
