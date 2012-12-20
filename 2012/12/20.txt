@@ -152,3 +152,17 @@
 [2012-12-20 13:21:49] *toks opens up the build.xml'
 [2012-12-20 13:23:11] *toks opens up the build.properties'
 [2012-12-20 13:24:02] jcarr, changing nick to jcarr|away.
+[2012-12-20 13:25:16] toks: okay, so now I just did : JAVA_HOME=/opt/jdk1.7.0_09 ~/rackspacework/apache-ant-1.8.4/bin/ant compile
+[2012-12-20 13:25:27] toks: to build the standalone.jar
+[2012-12-20 13:25:39] toks: the only thing I haven't done, is somehow tell ant how to build it.
+[2012-12-20 13:25:42] lukeis: why are you building the standalone jar?
+[2012-12-20 13:26:03] toks: according to the docs, I needed to download appdriver and do this?
+[2012-12-20 13:26:29] toks: when I got it from github, it needed building
+[2012-12-20 13:26:32] *lukeis goes to look at the docs ;)'
+[2012-12-20 13:27:23] toks: https://github.com/nicegraham/appdriver
+[2012-12-20 13:27:24] lukeis: ah, yeah
+[2012-12-20 13:27:41] toks: I guess the docs don't "say" it per se... :p
+[2012-12-20 13:27:46] toks: but I don't see the jar in that repo
+[2012-12-20 13:28:19] toks: hmm
+[2012-12-20 13:28:29] toks: still doesn't work(not surprised though)
+[2012-12-20 13:28:46] *toks googles how to change ant build config to do specific build compliance'
