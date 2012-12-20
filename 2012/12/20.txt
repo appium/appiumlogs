@@ -337,3 +337,18 @@
 [2012-12-20 14:54:31] lukeis: to respond *
 [2012-12-20 14:54:43] toks: that takes too long
 [2012-12-20 14:54:56] toks: I'm happy if it gives up after like 3 seconds
+[2012-12-20 14:55:10] lukeis: oh, does it have implicit wait set by default?
+[2012-12-20 14:55:20] *lukeis needs to look closer at that'
+[2012-12-20 14:55:48] lukeis: driver.implicitly_wait(3) ?
+[2012-12-20 14:55:57] toks: hmm
+[2012-12-20 14:55:58] lukeis: try it and lemme know ;)
+[2012-12-20 14:56:29] *lukeis really wishes I was using a more vanilla native driver right now'
+[2012-12-20 14:56:34] toks: hmm... still waiting longer :p
+[2012-12-20 14:56:55] lukeis: one would need to delve into the guts of the code then...
+[2012-12-20 14:57:01] toks: I think I need to wireshark this and even see what converstation is happening
+[2012-12-20 14:57:26] lukeis: i don't think the lag is in the wire call
+[2012-12-20 14:57:43] lukeis: it's likely in the native driver stuff that's running in your apk
+[2012-12-20 14:58:42] toks: ah
+[2012-12-20 14:58:53] toks: yeah, the request is sent
+[2012-12-20 14:59:14] toks: even if there's no reply before 3 seconds... I wish this would just give up
+[2012-12-20 14:59:47] lukeis: i have logcat open in eclipse, and get tons of messages while tests are running, maybe you do too? :)
