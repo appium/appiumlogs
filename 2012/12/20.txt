@@ -277,3 +277,17 @@
 [2012-12-20 14:34:00] toks: (fyi)
 [2012-12-20 14:34:21] toks: "withDefaultServer"
 [2012-12-20 14:34:36] toks: hmmmm :p
+[2012-12-20 14:40:25] toks: let's see... https://code.google.com/p/nativedriver/source/browse/trunk/android/src/com/google/android/testing/nativedriver/client/AndroidNativeDriver.java
+[2012-12-20 14:40:43] toks: public class AndroidNativeDriver extends RemoteWebDriver
+[2012-12-20 14:40:57] toks: extends eh? constructor must be in RemoteWebDriver
+[2012-12-20 14:41:14] *toks says, as he dusts off his 10+ year old java chops'
+[2012-12-20 14:42:35] lukeis: it also overrirdes some of the protected constructors
+[2012-12-20 14:42:58] lukeis: line 138, 155
+[2012-12-20 14:43:03] toks: o.o
+[2012-12-20 14:43:21] toks: ah
+[2012-12-20 14:43:41] lukeis: 155 is some of the guts of what's really going on
+[2012-12-20 14:44:19] toks: I see
+[2012-12-20 14:44:20] lukeis: but it's all the same...
+[2012-12-20 14:44:21] toks: o.o
+[2012-12-20 14:44:26] lukeis: still doing RWD
+[2012-12-20 14:44:48] lukeis: withDefaultServer().build() is deprecated ;)
