@@ -352,3 +352,13 @@
 [2012-12-20 14:58:53] toks: yeah, the request is sent
 [2012-12-20 14:59:14] toks: even if there's no reply before 3 seconds... I wish this would just give up
 [2012-12-20 14:59:47] lukeis: i have logcat open in eclipse, and get tons of messages while tests are running, maybe you do too? :)
+[2012-12-20 15:00:11] toks: :p
+[2012-12-20 15:00:35] *toks starts logcat'
+[2012-12-20 15:00:57] toks: hmmmmm
+[2012-12-20 15:02:32] toks: ah
+[2012-12-20 15:02:38] toks: okay... so it takes a long time
+[2012-12-20 15:02:52] toks: but even after it says not found in logcat, python keeps hanging
+[2012-12-20 15:03:17] toks: I/roidNativeDriverServlet( 1088): Executing: [find element: By.id: No Accounts] at URL: /session/1356029890356/element)
+[2012-12-20 15:03:27] toks: Then after more than 3 seconds...
+[2012-12-20 15:03:34] toks: org.openqa.selenium.NoSuchElementException: The given ID could not be resolved to an Android integral ID: No Accounts
+[2012-12-20 15:03:41] toks: and python is still stuck
