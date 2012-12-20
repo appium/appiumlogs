@@ -262,3 +262,18 @@
 [2012-12-20 14:21:16] lukeis: for now...
 [2012-12-20 14:21:32] stackedsax: :)
 [2012-12-20 14:22:01] *lukeis should give stephend an equally hard time in the selenium chat (he's a mozilla manager)'
+[2012-12-20 14:31:34] toks: okay.... okay...
+[2012-12-20 14:31:40] toks: >>> driver.getTitle()
+[2012-12-20 14:31:41] toks: u'Rackspace Cloud'
+[2012-12-20 14:31:56] toks: this looks good :)
+[2012-12-20 14:32:35] stackedsax: good work.  I'm glad I made that happen.
+[2012-12-20 14:32:44] toks: ^_^;
+[2012-12-20 14:33:27] toks: no, for the parallelism part....
+[2012-12-20 14:33:38] toks: where can I provide a selenium-hub url in all this
+[2012-12-20 14:33:45] *toks pokes around some more'
+[2012-12-20 14:33:54] toks: import com.google.android.testing.nativedriver.client.AndroidNativeDriver;
+[2012-12-20 14:33:55] toks: driver = com.google.android.testing.nativedriver.client.AndroidNativeDriver.withDefaultServer().build()
+[2012-12-20 14:33:58] toks: driver.getTitle()
+[2012-12-20 14:34:00] toks: (fyi)
+[2012-12-20 14:34:21] toks: "withDefaultServer"
+[2012-12-20 14:34:36] toks: hmmmm :p
