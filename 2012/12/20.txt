@@ -253,3 +253,12 @@
 [2012-12-20 14:15:43] toks: since he's also my manager, that'd probably be the last thing I do as an RS employee :p
 [2012-12-20 14:19:06] lukeis: manager? bah…
 [2012-12-20 14:19:31] *lukeis should consider banning stackedsax from the chat… this is a room for people who actually Do Something ;)'
+[2012-12-20 14:20:27] stackedsax: hey!
+[2012-12-20 14:20:34] stackedsax: I tell toks to Work On Things!
+[2012-12-20 14:20:34] lukeis: :-D
+[2012-12-20 14:20:40] stackedsax: isn't that enough?
+[2012-12-20 14:20:52] lukeis: enough to get banned? sure!
+[2012-12-20 14:21:09] stackedsax: I did contribute some patches to Selenium Grid stuff a while back — does that cover me?
+[2012-12-20 14:21:16] lukeis: for now...
+[2012-12-20 14:21:32] stackedsax: :)
+[2012-12-20 14:22:01] *lukeis should give stephend an equally hard time in the selenium chat (he's a mozilla manager)'
