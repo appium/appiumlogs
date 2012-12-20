@@ -220,3 +220,15 @@
 [2012-12-20 13:54:49] lukeis: ;)
 [2012-12-20 13:54:50] toks: just no script
 [2012-12-20 13:54:55] toks: well...
+[2012-12-20 13:55:04] lukeis: get back to that java my friend
+[2012-12-20 13:55:04] toks: I guess I'll just try python and see what happens
+[2012-12-20 13:55:11] toks: O_o
+[2012-12-20 13:55:16] toks: or jython
+[2012-12-20 13:55:34] toks: but first, I just wanna see it crash 'n burn on python... if that's what's gonna happen
+[2012-12-20 13:55:36] lukeis: or that… if the client jar loads cleanly ;)
+[2012-12-20 13:55:41] toks: :p
+[2012-12-20 13:56:04] *lukeis is so optimistic for you ;)'
+[2012-12-20 13:56:10] toks: heh
+[2012-12-20 13:56:34] toks: I'm hoping that the actual tests can be written in python or javascript
+[2012-12-20 13:56:41] toks: (or ruby I guess)
+[2012-12-20 13:58:44] toks: okay... jython first...
