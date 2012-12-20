@@ -377,3 +377,15 @@
 [2012-12-20 15:08:54] toks: I see nothing in wireshark telling me the driver actually repied
 [2012-12-20 15:08:59] toks: replied*
 [2012-12-20 15:09:44] toks: lemme show you the wireshark capture
+[2012-12-20 15:10:09] lukeis: does it ever respond? or just fails with a timeout?
+[2012-12-20 15:10:48] toks: never responses it seems
+[2012-12-20 15:10:53] toks: python is still hung
+[2012-12-20 15:11:17] jcarr|away, changing nick to jcarr.
+[2012-12-20 15:11:24] toks: see, http://www.cloudshark.org/captures/6d84c7aacb8f
+[2012-12-20 15:11:49] toks: click on packet 4, then Follow TCP stream at the upper right hand corner :)
+[2012-12-20 15:11:59] *toks loves having excuses to use cloudshark.org '
+[2012-12-20 15:13:27] lukeis: heh… ok, so the request was sent ;)
+[2012-12-20 15:13:38] lukeis: time for you to debug native driver :)
+[2012-12-20 15:13:47] toks: o.O
+[2012-12-20 15:14:33] toks: it finally came back!
+[2012-12-20 15:14:39] toks: dangit... I should have left wireshark running
