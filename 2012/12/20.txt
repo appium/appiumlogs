@@ -291,3 +291,35 @@
 [2012-12-20 14:44:21] toks: o.o
 [2012-12-20 14:44:26] lukeis: still doing RWD
 [2012-12-20 14:44:48] lukeis: withDefaultServer().build() is deprecated ;)
+[2012-12-20 14:45:17] lukeis: says to use this https://code.google.com/p/nativedriver/source/browse/trunk/android/src/com/google/android/testing/nativedriver/client/AndroidNativeDriverBuilder.java
+[2012-12-20 14:45:33] lukeis: so in python you don't need the client
+[2012-12-20 14:45:36] lukeis: you could do:
+[2012-12-20 14:45:57] toks: o.o
+[2012-12-20 14:46:05] lukeis: driver = webdriver.Remote("http://localhost:<port>/hub", webdriver.DesiredCapabilities.ANDROID)
+[2012-12-20 14:46:22] lukeis: <port> is what it's running on… i assume you know :)
+[2012-12-20 14:46:29] toks: :)
+[2012-12-20 14:46:35] toks: right ^_^
+[2012-12-20 14:46:56] lukeis: and the capabilities I'm sure you could actually just do {} instead
+[2012-12-20 14:47:28] toks: hmm.
+[2012-12-20 14:47:36] toks: that "webdriver" object
+[2012-12-20 14:47:43] lukeis: from selenium import webdriver
+[2012-12-20 14:47:51] lukeis: sudo pip install -U Selenium ;)
+[2012-12-20 14:48:01] toks: oh, we're out of jython world now :p
+[2012-12-20 14:48:09] toks: I did my stuff in jython just now :p
+[2012-12-20 14:48:11] lukeis: yeah, no need to do jython
+[2012-12-20 14:48:18] lukeis: i know
+[2012-12-20 14:48:22] toks: o.o
+[2012-12-20 14:48:52] toks: heh
+[2012-12-20 14:48:56] toks: okay... trying this python now :)
+[2012-12-20 14:49:25] toks: hmm
+[2012-12-20 14:49:32] toks: >>> from selenium import webdriver
+[2012-12-20 14:49:32] toks: >>> driver = webdriver.Remote("http://localhost:54129/hub",{})
+[2012-12-20 14:49:32] toks: >>> driver.getTitle()
+[2012-12-20 14:49:32] toks: Traceback (most recent call last): File "<stdin>", line 1, in <module>
+[2012-12-20 14:49:32] toks: AttributeError: 'WebDriver' object has no attribute 'getTitle'
+[2012-12-20 14:49:41] lukeis: driver.title
+[2012-12-20 14:49:46] toks: o.o
+[2012-12-20 14:49:52] toks: OMG
+[2012-12-20 14:49:53] lukeis: this is Python dammit
+[2012-12-20 14:49:56] toks: oh yeah
+[2012-12-20 14:49:58] toks: sry :p
