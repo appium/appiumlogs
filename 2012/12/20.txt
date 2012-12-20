@@ -89,3 +89,4 @@
 [2012-12-20 12:18:59] jcarr: looks like it works like a touch screen calibrator
 [2012-12-20 12:19:13] jcarr: it's just the ios app you can use to calibrate the robot, I Think
 [2012-12-20 12:19:31] jcarr: if cnowacek drops into #appium we could ask him...
+[2012-12-20 12:20:24] lukeis: ahhh
