@@ -362,3 +362,18 @@
 [2012-12-20 15:03:27] toks: Then after more than 3 seconds...
 [2012-12-20 15:03:34] toks: org.openqa.selenium.NoSuchElementException: The given ID could not be resolved to an Android integral ID: No Accounts
 [2012-12-20 15:03:41] toks: and python is still stuck
+[2012-12-20 15:05:14] lukeis: you're not on a windows cmd shell with it highlighted are you? ;)
+[2012-12-20 15:05:25] toks: lol
+[2012-12-20 15:05:30] toks: nah :p
+[2012-12-20 15:05:31] *lukeis has to ask...'
+[2012-12-20 15:05:44] toks: I'm on Debian 64bit
+[2012-12-20 15:05:49] lukeis: good man
+[2012-12-20 15:05:51] toks: I remember that problem with windows :p
+[2012-12-20 15:06:08] toks: I have that issue with screen command in linux
+[2012-12-20 15:06:14] toks: sometimes I forget I scrolled up
+[2012-12-20 15:06:20] lukeis: i'm on mac / win7 / ubuntu all at the same time ;)
+[2012-12-20 15:07:06] toks: o.o
+[2012-12-20 15:08:40] toks: okay, I think I see the problem
+[2012-12-20 15:08:54] toks: I see nothing in wireshark telling me the driver actually repied
+[2012-12-20 15:08:59] toks: replied*
+[2012-12-20 15:09:44] toks: lemme show you the wireshark capture
