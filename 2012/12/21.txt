@@ -66,3 +66,17 @@
 [2012-12-21 11:13:58] lukeis: take a look at the source :) it's pretty simple
 [2012-12-21 11:14:46] lukeis: the _by_* methods were just convenience so you didn't have to do an extra import
 [2012-12-21 11:14:59] toks: ah
+[2012-12-21 11:15:30] toks: sounds like you're saying I should never need to import "By"
+[2012-12-21 11:16:00] lukeis: you can if you want to...
+[2012-12-21 11:16:21] toks: hmm
+[2012-12-21 11:17:12] *toks wonders where exactly needs fixing...'
+[2012-12-21 11:17:47] toks: Let's see... I know that driver.findElement(AndroidNativeBy.text("No Accounts")) ...will hang if the object isn't on the screen...
+[2012-12-21 11:18:07] toks: so that means there is a call somewhere doing by='text','No Accounts'
+[2012-12-21 11:18:33] toks: I guess I'll start at the the findElement routine and drill down
+[2012-12-21 11:19:01] lukeis: it's not that much code to trace… let's you do the exercise it'll be good for ya ;)
+[2012-12-21 11:19:11] toks: heh :)
+[2012-12-21 11:19:29] toks: "Teach a man to fish" is your philosophy I see :p
+[2012-12-21 11:19:38] toks: I spelled that wrong, but whatevz
+[2012-12-21 11:19:42] lukeis: actually, yes :)
+[2012-12-21 11:19:53] toks: heh
+[2012-12-21 11:20:00] toks: okay... let's see if I can find this ^_^
