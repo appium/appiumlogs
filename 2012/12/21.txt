@@ -20,3 +20,27 @@
 [2012-12-21 11:04:24] toks, joining. (#appium)
 [2012-12-21 11:04:30] toks: \o/
 [2012-12-21 11:04:34] toks: TGIF!
+[2012-12-21 11:05:04] lukeis: :)
+[2012-12-21 11:05:26] toks: Hey so I found out some more stuff...
+[2012-12-21 11:05:28] toks: driver.findElement(AndroidNativeBy.text("No Accounts")).click()
+[2012-12-21 11:05:34] toks: That works in Jython
+[2012-12-21 11:05:42] toks: ...but if the element is not there
+[2012-12-21 11:05:50] toks: ...it takes forever to give an error
+[2012-12-21 11:06:26] toks: There is no equiv call like this in pure selenium
+[2012-12-21 11:06:43] toks: that "AndroidNativeBy" object is from appdriver
+[2012-12-21 11:07:12] toks: the pure selenium "By",... from selenium.webdriver.common import by
+[2012-12-21 11:07:20] toks: ....does not have a ".name"
+[2012-12-21 11:07:30] lukeis: yeah it does
+[2012-12-21 11:07:34] toks: er
+[2012-12-21 11:07:38] toks: I mean... ".text"
+[2012-12-21 11:07:42] toks: :p
+[2012-12-21 11:07:43] lukeis: true ;)
+[2012-12-21 11:08:14] toks: so now I'm no longer sure that I should be trying to use pure selenium-client to talk to appdriver
+[2012-12-21 11:08:26] lukeis: :)
+[2012-12-21 11:08:42] lukeis: in python you could always make your own 'by'
+[2012-12-21 11:08:51] toks: o_O
+[2012-12-21 11:09:16] toks: hmm, implement my on AndroidNativeBy eh?
+[2012-12-21 11:09:25] toks: own*
+[2012-12-21 11:09:38] toks: perhaps... :p
+[2012-12-21 11:09:44] lukeis: driver.find_element('text', 'No Accounts')
+[2012-12-21 11:09:51] toks: O_o
