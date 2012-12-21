@@ -111,3 +111,4 @@
 [2012-12-21 12:11:56] toks: import android.util.Log;
 [2012-12-21 12:12:13] toks: Log.i("some cool string","my message")
 [2012-12-21 12:12:31] toks: print debugging here I come
+[2012-12-21 14:02:44] lukeis, quitting. (Quit: Leaving.)
