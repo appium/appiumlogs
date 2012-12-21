@@ -107,3 +107,7 @@
 [2012-12-21 12:08:00] lukeis: print debugging ;)
 [2012-12-21 12:08:30] lukeis: you can setup a remote debugger… but it's a little involved, but you should at some point do it if you're going to continue with this
 [2012-12-21 12:09:42] toks: o.o
+[2012-12-21 12:11:54] toks: ah
+[2012-12-21 12:11:56] toks: import android.util.Log;
+[2012-12-21 12:12:13] toks: Log.i("some cool string","my message")
+[2012-12-21 12:12:31] toks: print debugging here I come
