@@ -431,3 +431,4 @@
 [2012-12-20 17:49:20] jcarr, joining. (#appium)
 [2012-12-20 17:49:20] jcarr, quitting. (Client Quit)
 [2012-12-20 17:57:34] toks, leaving. ("connection reset by beer")
+[2012-12-20 18:05:19] stackedsax, joining. (#appium)
