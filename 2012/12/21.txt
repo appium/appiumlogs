@@ -88,3 +88,14 @@
 [2012-12-21 11:59:40] lukeis: nope...
 [2012-12-21 11:59:46] lukeis: all it is, is a wire call
 [2012-12-21 11:59:51] lukeis: an http request
+[2012-12-21 12:00:05] toks: hmm
+[2012-12-21 12:00:24] toks: so it's the appdriver server just not replying
+[2012-12-21 12:00:38] toks: hmm
+[2012-12-21 12:00:48] lukeis: yep
+[2012-12-21 12:00:55] toks: 'k
+[2012-12-21 12:00:55] lukeis: didn't we come to this conclusion yesterday? :)
+[2012-12-21 12:00:58] toks: oh yea
+[2012-12-21 12:01:00] toks: :p
+[2012-12-21 12:01:33] toks: looks at logcat again...
+[2012-12-21 12:01:35] toks:  com.google.android.testing.nativedriver.server.ElementFinder.findElementFromHierarchy
+[2012-12-21 12:02:10] *toks reads through code'
