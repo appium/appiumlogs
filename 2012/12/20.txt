@@ -427,3 +427,4 @@
 [2012-12-20 16:04:37] freynaud_, changing nick to freynaud.
 [2012-12-20 16:17:25] freynaud, quitting. (Quit: freynaud)
 [2012-12-20 16:57:32] jcarr, quitting. (Quit: Leaving.)
+[2012-12-20 17:22:15] stackedsax, quitting. (Quit: Leaving.)
