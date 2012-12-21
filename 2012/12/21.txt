@@ -99,3 +99,11 @@
 [2012-12-21 12:01:33] toks: looks at logcat again...
 [2012-12-21 12:01:35] toks:  com.google.android.testing.nativedriver.server.ElementFinder.findElementFromHierarchy
 [2012-12-21 12:02:10] *toks reads through code'
+[2012-12-21 12:06:09] toks: ya know what....
+[2012-12-21 12:06:22] toks: hmm..
+[2012-12-21 12:06:26] toks: nvm :p
+[2012-12-21 12:06:53] toks: I see the messages in logcat and I was gonna ask how to print out strings to that logcat place... but I'm sure I'll find the answer in the code
+[2012-12-21 12:07:25] toks: similar to my javascript days, I think I'm gonna have to put some "alert boxes" in this code to know what gets stuck
+[2012-12-21 12:08:00] lukeis: print debugging ;)
+[2012-12-21 12:08:30] lukeis: you can setup a remote debugger… but it's a little involved, but you should at some point do it if you're going to continue with this
+[2012-12-21 12:09:42] toks: o.o
