@@ -419,3 +419,9 @@
 [2012-12-20 15:38:46] toks: W/roidNativeDriverServlet( 1088): 	at com.google.android.testing.nativedriver.server.ElementFinder$SearchContextImpl.findElementByAndroidId(Unknown Source)
 [2012-12-20 15:39:18] toks: that means someone else must have an instance of this ElementFinder class and perhaps failed to catch it
 [2012-12-20 15:39:28] toks: (as in try/catch)
+[2012-12-20 16:03:48] lukeis, quitting. (Quit: Leaving.)
+[2012-12-20 16:03:55] toks: D:
+[2012-12-20 16:04:13] toks:  /names
+[2012-12-20 16:04:22] freynaud_, joining. (#appium)
+[2012-12-20 16:04:36] freynaud, quitting. (Ping timeout: 248 seconds)
+[2012-12-20 16:04:37] freynaud_, changing nick to freynaud.
