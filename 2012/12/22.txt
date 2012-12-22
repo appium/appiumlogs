@@ -4,3 +4,4 @@
 [2012-12-22 03:43:26] stackedsax, quitting. (Client Quit)
 [2012-12-22 07:38:59] hugs, quitting. (Remote host closed the connection)
 [2012-12-22 07:39:00] sahazel, quitting. (Remote host closed the connection)
+[2012-12-22 07:40:36] stackedsax, joining. (#appium)
