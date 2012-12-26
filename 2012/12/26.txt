@@ -57,3 +57,27 @@
 [2012-12-26 11:29:12] toks: ah
 [2012-12-26 11:29:28] lukeis: https://github.com/lukeis/appiumbot
 [2012-12-26 11:29:37] toks: ah!
+[2012-12-26 11:30:10] lukeis: you can also look at googlecode projects
+[2012-12-26 11:30:14] lukeis: selenium#4614
+[2012-12-26 11:30:22] toks: nice
+[2012-12-26 11:30:38] lukeis: chromedriver#9
+[2012-12-26 11:31:20] toks: That code doesn't look like I'll be able to execute arbitrary ruby in it... =/
+[2012-12-26 11:31:36] lukeis: nope ;)
+[2012-12-26 11:31:41] toks: :p
+[2012-12-26 11:31:47] toks: meh... okay... I guess back to what I was saying
+[2012-12-26 11:31:53] toks: http://code.google.com/p/nativedriver/source/browse/trunk/android/src/com/google/android/testing/nativedriver/server/ElementFinder.java
+[2012-12-26 11:31:56] toks: line 373
+[2012-12-26 11:32:14] toks: I put a Log.i("toks","helloworld")
+[2012-12-26 11:32:23] toks: just before that line... and now I see what's going on
+[2012-12-26 11:32:37] toks: appdriver is looping
+[2012-12-26 11:32:43] toks: through a bunch of stuff before it gives up
+[2012-12-26 11:32:59] toks: I don't know what exactly, cuz I don't see that many objects on the screen
+[2012-12-26 11:33:00] lukeis: ahh
+[2012-12-26 11:33:15] toks: but if it can't find something, it loops like 100+ times before it finally say "okay, not here"
+[2012-12-26 11:33:22] toks: something is catching that exception
+[2012-12-26 11:33:24] toks: but I can't find it
+[2012-12-26 11:33:42] toks: I can see no scenario where if it doesn't find it the first time, it'll find it after that exception is thrown
+[2012-12-26 11:34:00] toks: I was trying to patch it so that, when it throws that exception it would give up immediately
+[2012-12-26 11:34:27] toks: I put in an int variable at the class level, and incremented it everytime that exception is thrown
+[2012-12-26 11:34:42] toks: it seems that "ElementFinder" instances is created once per selenium-session
+[2012-12-26 11:34:48] toks: cuz that number never goes back to 0
