@@ -119,3 +119,9 @@
 [2012-12-26 13:07:05] toks: but there's something wrong; according to AndroidWait... it should have only waited 1 second
 [2012-12-26 13:07:34] toks: and in fact, when I print out the timeout-exception's elapsed time... I get "1".
 [2012-12-26 13:09:11] toks: could it be that the emulator's clock is not running a full speed?!
+[2012-12-26 13:15:20] toks: nope; that's not it... emulator's clock seems correct
+[2012-12-26 13:15:34] toks: (at least, speed-wise... not the actual correct datetime)
+[2012-12-26 13:17:28] toks: well, that's it for now... going home :p
+[2012-12-26 13:17:39] toks: I just came into the office cuz I couldn't get my VPN to work
+[2012-12-26 13:18:05] toks: I will stare at that while-loop until I understand why it can take 52 seconds to evaluate to false
+[2012-12-26 13:18:56] toks, leaving. ("Connectin reset by.....")
