@@ -109,3 +109,8 @@
 [2012-12-26 12:34:57] *toks is wrong'
 [2012-12-26 12:36:15] toks: I just did a find_element that took 52 seconds to fail..
 [2012-12-26 12:37:12] toks: hmm...
+[2012-12-26 12:45:14] toks: yup... that's the issue...
+[2012-12-26 12:45:59] toks: I don't know how this AndroidWait.until method works
+[2012-12-26 12:46:59] toks: so apparently it's not looping through objects.
+[2012-12-26 12:47:14] toks: whatever is making that while loop keep going, is the issue
+[2012-12-26 12:47:32] toks: it doesn't even look like it should take that long.... but it does
