@@ -81,3 +81,17 @@
 [2012-12-26 11:34:27] toks: I put in an int variable at the class level, and incremented it everytime that exception is thrown
 [2012-12-26 11:34:42] toks: it seems that "ElementFinder" instances is created once per selenium-session
 [2012-12-26 11:34:48] toks: cuz that number never goes back to 0
+[2012-12-26 11:35:10] toks: I just keep doing searches; whether or not it actually finds the object, that number only goes up
+[2012-12-26 11:35:28] toks: If I could just figure out where that exception is being catched
+[2012-12-26 11:35:34] toks: I'll see who's doing the looping
+[2012-12-26 11:35:36] lukeis: does 'ElementFinder' really  need to be reconstructed every time? ;)
+[2012-12-26 11:35:41] toks: :p
+[2012-12-26 11:36:27] lukeis: sounds like you've got some exploring to do :)
+[2012-12-26 11:37:11] toks: :p
+[2012-12-26 11:37:25] toks: indeed, but that "search" option in code.google.com doesn't seem to work
+[2012-12-26 11:37:37] toks: if I put "ElementFinder" and do a search, it says zero
+[2012-12-26 11:37:39] toks: o.o
+[2012-12-26 11:38:00] toks: is there something about that searchbox I don't understand?
+[2012-12-26 11:38:46] lukeis: you should load the project in eclipse and search for it that way
+[2012-12-26 11:39:25] toks: D:
+[2012-12-26 11:39:37] toks: does that mean you believe that searchbox doesn't work?
