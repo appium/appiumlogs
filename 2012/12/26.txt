@@ -114,3 +114,8 @@
 [2012-12-26 12:46:59] toks: so apparently it's not looping through objects.
 [2012-12-26 12:47:14] toks: whatever is making that while loop keep going, is the issue
 [2012-12-26 12:47:32] toks: it doesn't even look like it should take that long.... but it does
+[2012-12-26 13:06:25] toks: http://selenium.googlecode.com/svn/trunk/docs/api/java/org/openqa/selenium/support/ui/Clock.html
+[2012-12-26 13:06:40] toks: certainly doesn't look complicated
+[2012-12-26 13:07:05] toks: but there's something wrong; according to AndroidWait... it should have only waited 1 second
+[2012-12-26 13:07:34] toks: and in fact, when I print out the timeout-exception's elapsed time... I get "1".
+[2012-12-26 13:09:11] toks: could it be that the emulator's clock is not running a full speed?!
