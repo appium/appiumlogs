@@ -107,3 +107,5 @@
 [2012-12-26 12:31:26] toks: whatever that's about, that's what's making find_element('text','whateverbutton') take so long to give up
 [2012-12-26 12:33:14] toks: my first suspicion, is that what the developer thinks is milliseconds, is actually seconds
 [2012-12-26 12:34:57] *toks is wrong'
+[2012-12-26 12:36:15] toks: I just did a find_element that took 52 seconds to fail..
+[2012-12-26 12:37:12] toks: hmm...
