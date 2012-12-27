@@ -126,3 +126,4 @@
 [2012-12-26 13:18:05] toks: I will stare at that while-loop until I understand why it can take 52 seconds to evaluate to false
 [2012-12-26 13:18:56] toks, leaving. ("Connectin reset by.....")
 [2012-12-26 16:11:17] lukeis, joining. (#appium)
+[2012-12-26 17:22:42] lukeis, quitting. (Quit: Leaving.)
