@@ -103,3 +103,33 @@
 [2013-01-02 14:08:27] lukeis: toks: i should say, 'fork' the repo first
 [2013-01-02 14:08:27] *toks is still new to git, in that he's only used it at home.. never connecting to remote servers'
 [2013-01-02 14:08:43] toks: 'k
+[2013-01-02 14:14:00] *toks logs into github web, then looks around for repo forking'
+[2013-01-02 14:14:38] lukeis: https://github.com/nicegraham/appdriver top right corner "fork"
+[2013-01-02 14:15:02] toks: ah :)
+[2013-01-02 14:15:05] toks: good times
+[2013-01-02 14:15:27] lukeis: once that's done, 'git clone  <your new repo>'
+[2013-01-02 14:16:04] toks: oh, I can edit files right in the web-browser :)
+[2013-01-02 14:16:11] lukeis: yeah
+[2013-01-02 14:16:28] toks: I just need to change one term
+[2013-01-02 14:17:18] lukeis: you'll be the first pull request to that repo ;)
+[2013-01-02 14:18:25] toks: \o//
+[2013-01-02 14:19:27] toks: okay, I see "Pull request" button up there...
+[2013-01-02 14:19:53] *toks clicks'
+[2013-01-02 14:20:11] lukeis: just a few more clicks away ;)
+[2013-01-02 14:21:08] *toks adds comments... clicks...'
+[2013-01-02 14:21:10] toks: okay!
+[2013-01-02 14:21:49] *lukeis applauds'
+[2013-01-02 14:21:53] toks: yay!
+[2013-01-02 14:22:06] toks: My first ever attempt at contributing to open-source!
+[2013-01-02 14:22:17] lukeis: awesome :)
+[2013-01-02 14:22:40] toks: I'll feel good if he accepts it :)
+[2013-01-02 14:22:56] toks: oh, anyone can see this?
+[2013-01-02 14:23:01] lukeis: try not to feel bad it they don't, but I don't see why they wouldn't
+[2013-01-02 14:23:04] lukeis: yes
+[2013-01-02 14:23:11] toks: maybe I should change my avatar then :p
+[2013-01-02 14:23:14] lukeis: https://github.com/nicegraham/appdriver/pull/1
+[2013-01-02 14:23:22] toks: o.o
+[2013-01-02 14:23:31] lukeis: maybe ;)
+[2013-01-02 14:24:11] toks: I'll at least make it my Mii from Nintendo Wii, that does look like me :p
+[2013-01-02 14:29:12] toks: done :)
+[2013-01-02 14:29:59] lukeis: you mean you're not some hot young asian chick? :-P
