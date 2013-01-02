@@ -195,3 +195,6 @@
 [2013-01-02 15:24:54] toks: it's what is returned
 [2013-01-02 15:24:55] toks: that string
 [2013-01-02 15:25:00] lukeis: :-/
+[2013-01-02 15:25:21] toks: I see in appiums webserver log GET /wd/hub/session/IP:PORT/source
+[2013-01-02 15:25:32] toks: returned HTTP 200
+[2013-01-02 15:25:39] toks: ...but the string is literally "undefined"
