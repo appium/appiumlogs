@@ -60,3 +60,19 @@
 [2013-01-02 13:01:38] toks: :p
 [2013-01-02 13:04:42] jcarr, quitting. (Quit: Leaving.)
 [2013-01-02 13:37:59] toks: oh goodies! appium does respond to the Grid's GET /wd/hub/status
+[2013-01-02 13:40:25] lukeis: i think i added that ;)
+[2013-01-02 13:40:40] toks: nice ^_^
+[2013-01-02 13:41:06] toks: I guess I'll have to write my own agent.py for appdriver if I want this same functionality
+[2013-01-02 13:42:40] toks: ya know, the other day you were able to guess at driver.find_element('text','hellworld')....
+[2013-01-02 13:42:52] toks: would you have a guess for a partialtext? :p
+[2013-01-02 13:43:26] toks: I guess all(I think) the obvious ones, no go
+[2013-01-02 13:43:38] lukeis: no need to guess
+[2013-01-02 13:43:40] lukeis: PARTIAL_LINK_TEXT = "partial link text"
+[2013-01-02 13:43:45] lukeis: that's in by.py
+[2013-01-02 13:43:45] toks: O_o
+[2013-01-02 13:44:11] toks: by.py in what github?
+[2013-01-02 13:44:26] lukeis: from selenium.webdriver.common.by import By
+[2013-01-02 13:44:33] lukeis: By.PARTIAL_LINK_TEXT
+[2013-01-02 13:44:39] toks: oh wow
+[2013-01-02 13:44:43] *toks tries that for appdriver'
+[2013-01-02 13:44:53] lukeis: that's standard selenium
