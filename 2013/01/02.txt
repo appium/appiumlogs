@@ -149,3 +149,20 @@
 [2013-01-02 14:59:35] toks: o.o
 [2013-01-02 14:59:36] lukeis: it communicates to the simulator through the file system
 [2013-01-02 14:59:49] toks: oh wow
+[2013-01-02 15:00:18] toks: okay, I can't do that with android I don't think.
+[2013-01-02 15:00:27] lukeis: ios-driver on the other hand opens two ports and communicates (the reverse way with http ~ the sim calls out to the running code) and performs better
+[2013-01-02 15:00:49] toks: ah
+[2013-01-02 15:01:06] toks: so the ios-driver is polling "Do I have any commands to run?"
+[2013-01-02 15:01:14] lukeis: yeah
+[2013-01-02 15:01:20] toks: cool
+[2013-01-02 15:01:24] lukeis: not polling though, long-polling
+[2013-01-02 15:01:31] toks: o.o
+[2013-01-02 15:01:47] lukeis: makes one request and the 'server' code holds it until the next command comes in
+[2013-01-02 15:02:17] toks: oh... like.... http://conteudo.imasters.com.br/23436/44249.gif ?
+[2013-01-02 15:02:31] lukeis: yes
+[2013-01-02 15:02:42] toks: interesting!
+[2013-01-02 15:03:29] toks: so it's like "being put on hold"
+[2013-01-02 15:03:31] toks: :p
+[2013-01-02 15:04:22] toks: from the point of view of AT&T
+[2013-01-02 15:04:40] toks: if I were at&t and you called me to cancel your service, I'd put you on hold...
+[2013-01-02 15:04:52] lukeis: yep, it's like calling and saying hello and your phone shows connected, but you don't hear 'hello' back from the other guy for a minute or two ;)
