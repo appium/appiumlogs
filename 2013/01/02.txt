@@ -45,3 +45,5 @@
 [2013-01-02 11:09:08] lukeis: nice :)
 [2013-01-02 11:09:19] toks: least invasive :)
 [2013-01-02 11:09:33] toks: now to appium :)
+[2013-01-02 11:19:16] toks: hmm....
+[2013-01-02 11:19:37] toks: I just remembered that appium kinda has a python script that runs as a proxy.
