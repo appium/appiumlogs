@@ -137,3 +137,15 @@
 [2013-01-02 14:30:58] toks: sorry to disappoint :p
 [2013-01-02 14:54:24] *toks looks at appium's server.py'
 [2013-01-02 14:54:46] toks: I like this Bottle thing, nice and simple
+[2013-01-02 14:55:48] toks: ah, so you hardcoded the response to Grid's status request.
+[2013-01-02 14:55:56] lukeis: ;)
+[2013-01-02 14:56:08] toks: nice
+[2013-01-02 14:56:18] lukeis: it's really just a ping anyways
+[2013-01-02 14:56:26] lukeis: can you respond? yes. ok...
+[2013-01-02 14:56:40] toks: cool
+[2013-01-02 14:58:42] toks: what I'm wondering, is do you have to take up 2 ports to do this? or is there a way to avoid it.
+[2013-01-02 14:59:01] toks: like, is there a port open to the iOS simulator
+[2013-01-02 14:59:15] lukeis: no, there's only one port opened
+[2013-01-02 14:59:35] toks: o.o
+[2013-01-02 14:59:36] lukeis: it communicates to the simulator through the file system
+[2013-01-02 14:59:49] toks: oh wow
