@@ -9,3 +9,11 @@
 [2013-01-02 10:34:05] toks: so, I found the problem
 [2013-01-02 10:34:46] lukeis: cool :)
 [2013-01-02 10:34:50] toks: The reason find_element took so long to fail in appdriver, is because elapsedCpuTime is much slower the real-life
+[2013-01-02 10:35:08] toks: 1 second of CpuTime is alot longer than the real world
+[2013-01-02 10:35:47] toks: once I changed the java code to not use elapsedCpuTime-of-process, and instead just use general system.uptime
+[2013-01-02 10:35:55] toks: it fails in 1 second just like it should
+[2013-01-02 10:36:18] *toks gets src code ...'
+[2013-01-02 10:36:20] toks: hold on...
+[2013-01-02 10:36:21] lukeis: nice, sent a pull request? (i'd like to see what you've done)
+[2013-01-02 10:36:41] toks: I changed this... https://code.google.com/p/nativedriver/source/browse/trunk/android/src/com/google/android/testing/nativedriver/server/AndroidWait.java
+[2013-01-02 10:36:48] *toks ssh's to home machine'
