@@ -174,3 +174,24 @@
 [2013-01-02 15:18:51] lukeis: slow as dirt ;)
 [2013-01-02 15:18:59] toks: heh
 [2013-01-02 15:19:33] toks: gotta make sure I work closely with the dev to ensure I know exactly what I'm looking for, never having to do loops like that then :p
+[2013-01-02 15:21:17] lukeis: use instruments to inspect / record things
+[2013-01-02 15:21:27] toks: o.o
+[2013-01-02 15:21:34] toks: I was told there was nothing like that
+[2013-01-02 15:21:56] toks: like windows has "ObjectSpy" stuff, Android has Hierarchyviewer... iOS has.... nothing
+[2013-01-02 15:22:09] toks: but you say I can see object-names/desc for iOS ?
+[2013-01-02 15:22:11] lukeis: well
+[2013-01-02 15:22:19] lukeis: do print driver.page_source
+[2013-01-02 15:22:29] toks: o.o
+[2013-01-02 15:22:34] lukeis: ;)
+[2013-01-02 15:22:48] toks: u'undefined'
+[2013-01-02 15:22:50] toks: o_o
+[2013-01-02 15:22:57] lukeis: hrm
+[2013-01-02 15:23:01] lukeis: i thought that worked...
+[2013-01-02 15:23:20] lukeis: or is it get_page_source
+[2013-01-02 15:23:29] *lukeis looks at the api'
+[2013-01-02 15:23:30] *toks does dir(driver)'
+[2013-01-02 15:24:08] lukeis: driver.page_source should be it
+[2013-01-02 15:24:48] toks: it's not undefined literally
+[2013-01-02 15:24:54] toks: it's what is returned
+[2013-01-02 15:24:55] toks: that string
+[2013-01-02 15:25:00] lukeis: :-/
