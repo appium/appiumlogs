@@ -1,3 +1,11 @@
 [2013-01-02 08:28:16] lukeis, joining. (#appium)
 [2013-01-02 08:51:56] appiumbot, joining. (#appium)
 [2013-01-02 09:57:50] jcarr, joining. (#appium)
+[2013-01-02 10:32:57] toks, joining. (#appium)
+[2013-01-02 10:33:03] toks: okay okay okay!
+[2013-01-02 10:33:12] toks: Happy New Year!
+[2013-01-02 10:33:16] lukeis: hello, hello toks
+[2013-01-02 10:33:21] lukeis: to you too!
+[2013-01-02 10:34:05] toks: so, I found the problem
+[2013-01-02 10:34:46] lukeis: cool :)
+[2013-01-02 10:34:50] toks: The reason find_element took so long to fail in appdriver, is because elapsedCpuTime is much slower the real-life
