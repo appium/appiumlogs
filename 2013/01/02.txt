@@ -48,3 +48,8 @@
 [2013-01-02 11:19:16] toks: hmm....
 [2013-01-02 11:19:37] toks: I just remembered that appium kinda has a python script that runs as a proxy.
 [2013-01-02 11:20:15] toks: so just fixing appdriver to do the same as appium's server script is good enough
+[2013-01-02 11:26:44] toks: okay... we need to get this... http://www.youtube.com/watch?v=cpWHJDLsqTU
+[2013-01-02 11:26:46] toks: oops
+[2013-01-02 11:26:49] toks: wrong channel
+[2013-01-02 11:26:51] toks: :p
+[2013-01-02 11:27:25] toks: man... irssi's split screen is gonna get me in trouble one day
