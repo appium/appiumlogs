@@ -135,3 +135,5 @@
 [2013-01-02 14:29:59] lukeis: you mean you're not some hot young asian chick? :-P
 [2013-01-02 14:30:51] toks: lol
 [2013-01-02 14:30:58] toks: sorry to disappoint :p
+[2013-01-02 14:54:24] *toks looks at appium's server.py'
+[2013-01-02 14:54:46] toks: I like this Bottle thing, nice and simple
