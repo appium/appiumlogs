@@ -59,3 +59,4 @@
 [2013-01-02 12:34:18] toks: ah
 [2013-01-02 13:01:38] toks: :p
 [2013-01-02 13:04:42] jcarr, quitting. (Quit: Leaving.)
+[2013-01-02 13:37:59] toks: oh goodies! appium does respond to the Grid's GET /wd/hub/status
