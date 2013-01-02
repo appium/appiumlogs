@@ -1,2 +1,3 @@
 [2013-01-02 08:28:16] lukeis, joining. (#appium)
 [2013-01-02 08:51:56] appiumbot, joining. (#appium)
+[2013-01-02 09:57:50] jcarr, joining. (#appium)
