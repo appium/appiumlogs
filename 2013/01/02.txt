@@ -90,3 +90,6 @@
 [2013-01-02 13:49:15] toks: yeah... yeah... I see it.
 [2013-01-02 13:49:21] toks: .text
 [2013-01-02 13:49:43] toks: driver.find_elements_by_tag_name("staticText")[0].text works for iOS
+[2013-01-02 13:50:09] toks: works for me :)
+[2013-01-02 13:50:22] toks: I'll know what the labels and editfield names are.
+[2013-01-02 13:50:45] toks: (or whatever they're called in iOS land)
