@@ -76,3 +76,17 @@
 [2013-01-02 13:44:39] toks: oh wow
 [2013-01-02 13:44:43] *toks tries that for appdriver'
 [2013-01-02 13:44:53] lukeis: that's standard selenium
+[2013-01-02 13:45:02] lukeis: appdriver doesn't work with it
+[2013-01-02 13:45:32] lukeis: it only supports by tag name essentially (with a special option to specify text too)
+[2013-01-02 13:45:56] lukeis: d.find_element_by_tag_name("button/save") or something like that
+[2013-01-02 13:46:09] toks: hmm
+[2013-01-02 13:46:30] toks: I see a java test in appdriver that says partial text... lemme see...
+[2013-01-02 13:47:14] lukeis: oh appdriver
+[2013-01-02 13:47:20] lukeis: i thought you were saying appium ;)
+[2013-01-02 13:47:24] toks: oh
+[2013-01-02 13:47:49] toks: oh, hmm so appium does not do the partial text.... yet
+[2013-01-02 13:48:12] toks: ah, but I can do find by tag name then get the text it contains?
+[2013-01-02 13:48:43] toks: say bytag("user_email").getText() or something?
+[2013-01-02 13:49:15] toks: yeah... yeah... I see it.
+[2013-01-02 13:49:21] toks: .text
+[2013-01-02 13:49:43] toks: driver.find_elements_by_tag_name("staticText")[0].text works for iOS
