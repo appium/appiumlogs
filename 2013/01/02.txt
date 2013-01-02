@@ -30,3 +30,8 @@
 [2013-01-02 10:45:56] toks: and everything that says getElapsedCpuTime, to uptimeMillis
 [2013-01-02 10:47:10] toks: ...now, I say this probably could have been done more elegantly because I just noticed that there already is a java file called "AndroidSystemClock"
 [2013-01-02 10:47:37] toks: I should probably just change the AndroidWait to make an instance of that class, instead of altering the AndroidProcessClock class
+[2013-01-02 10:51:00] toks: ...so yeah, there's that.... now there's a 2nd issue
+[2013-01-02 10:51:24] toks: appdriver responds 404 to Grid2's status queries
+[2013-01-02 10:51:41] toks: making it unable to communicate with the Grid :/
+[2013-01-02 10:52:34] toks: I could easily write a short proxy to fix this if I have to, but instead it'd be cooler(and more helpful to everyone out there) to fix appdriver itself
+[2013-01-02 10:53:24] toks: Hmm, for that matter.... I should test appium and see if it replies status queries from the grid
