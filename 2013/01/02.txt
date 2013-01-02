@@ -198,3 +198,6 @@
 [2013-01-02 15:25:21] toks: I see in appiums webserver log GET /wd/hub/session/IP:PORT/source
 [2013-01-02 15:25:32] toks: returned HTTP 200
 [2013-01-02 15:25:39] toks: ...but the string is literally "undefined"
+[2013-01-02 15:31:50] *toks looks at appium's server.py'
+[2013-01-02 15:33:06] toks: adds line before return of @app.route of /source... print ios_response
+[2013-01-02 15:34:57] toks: [['-1','undefined']]
