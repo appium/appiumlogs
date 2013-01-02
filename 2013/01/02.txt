@@ -93,3 +93,7 @@
 [2013-01-02 13:50:09] toks: works for me :)
 [2013-01-02 13:50:22] toks: I'll know what the labels and editfield names are.
 [2013-01-02 13:50:45] toks: (or whatever they're called in iOS land)
+[2013-01-02 14:02:54] toks: ok, now I'll submit my first ever pull-request to the appdriver guy to see if he agrees with my fix.
+[2013-01-02 14:03:16] *toks googles "howto pull request"'
+[2013-01-02 14:03:49] lukeis: :(
+[2013-01-02 14:04:23] lukeis: toks: clone the repo in github, commit your changes and push to that new repo, then use the github ui and click on 'pull request' :)
