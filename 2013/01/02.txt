@@ -47,3 +47,4 @@
 [2013-01-02 11:09:33] toks: now to appium :)
 [2013-01-02 11:19:16] toks: hmm....
 [2013-01-02 11:19:37] toks: I just remembered that appium kinda has a python script that runs as a proxy.
+[2013-01-02 11:20:15] toks: so just fixing appdriver to do the same as appium's server script is good enough
