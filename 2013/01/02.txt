@@ -41,3 +41,7 @@
 [2013-01-02 10:58:16] lukeis: man… another mobile platform? ;)
 [2013-01-02 10:59:13] *lukeis waits for significant % market share before diving into it ;)'
 [2013-01-02 11:00:10] toks: lol
+[2013-01-02 11:08:36] toks: so yeah... the more elegant fix, in AndroidWait... change "new AndroidProcessClock" to "new AndroidSystemClock"... that's it :p
+[2013-01-02 11:09:08] lukeis: nice :)
+[2013-01-02 11:09:19] toks: least invasive :)
+[2013-01-02 11:09:33] toks: now to appium :)
