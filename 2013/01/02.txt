@@ -53,3 +53,7 @@
 [2013-01-02 11:26:49] toks: wrong channel
 [2013-01-02 11:26:51] toks: :p
 [2013-01-02 11:27:25] toks: man... irssi's split screen is gonna get me in trouble one day
+[2013-01-02 12:30:18] toks: btw, does it make sense that getElapsedCpuTime is alot slower than uptime?
+[2013-01-02 12:30:40] toks: I guess it would if the process was say... put to sleep for 1 minute
+[2013-01-02 12:31:06] lukeis: i don't know… would have to look at what the doc says for the method
+[2013-01-02 12:34:18] toks: ah
