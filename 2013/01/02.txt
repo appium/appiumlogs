@@ -35,3 +35,8 @@
 [2013-01-02 10:51:41] toks: making it unable to communicate with the Grid :/
 [2013-01-02 10:52:34] toks: I could easily write a short proxy to fix this if I have to, but instead it'd be cooler(and more helpful to everyone out there) to fix appdriver itself
 [2013-01-02 10:53:24] toks: Hmm, for that matter.... I should test appium and see if it replies status queries from the grid
+[2013-01-02 10:55:36] toks: Oh, and ubuntu.com had a countdown on their homepage until 10amPST today
+[2013-01-02 10:55:51] toks: now that I check it, I like what I see :)
+[2013-01-02 10:56:23] toks: I won't spoil it for you. ;)
+[2013-01-02 10:58:16] lukeis: man… another mobile platform? ;)
+[2013-01-02 10:59:13] *lukeis waits for significant % market share before diving into it ;)'
