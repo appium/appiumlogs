@@ -26,3 +26,7 @@
 [2013-01-02 10:43:56] toks: okay... getting code again...
 [2013-01-02 10:44:10] toks: I just realized that there may have been a more elegant way to change this... but...
 [2013-01-02 10:44:50] toks: In this file... https://code.google.com/p/nativedriver/source/browse/trunk/android/src/com/google/android/testing/nativedriver/server/AndroidProcessClock.java
+[2013-01-02 10:45:25] toks: I changed everything that says AndroidProcessClock to AndroidSystemClock
+[2013-01-02 10:45:56] toks: and everything that says getElapsedCpuTime, to uptimeMillis
+[2013-01-02 10:47:10] toks: ...now, I say this probably could have been done more elegantly because I just noticed that there already is a java file called "AndroidSystemClock"
+[2013-01-02 10:47:37] toks: I should probably just change the AndroidWait to make an instance of that class, instead of altering the AndroidProcessClock class
