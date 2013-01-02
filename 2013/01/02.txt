@@ -167,3 +167,10 @@
 [2013-01-02 15:04:40] toks: if I were at&t and you called me to cancel your service, I'd put you on hold...
 [2013-01-02 15:04:52] lukeis: yep, it's like calling and saying hello and your phone shows connected, but you don't hear 'hello' back from the other guy for a minute or two ;)
 [2013-01-02 15:05:05] toks: cool
+[2013-01-02 15:18:23] toks: ah, hmm... so with appium... if I do elems = driver.find_elements_by_tag_name("staticText")
+[2013-01-02 15:18:32] toks: then for e in elems: print e.text
+[2013-01-02 15:18:42] toks: for each "e.text" another call to the server is made
+[2013-01-02 15:18:46] lukeis: yep
+[2013-01-02 15:18:51] lukeis: slow as dirt ;)
+[2013-01-02 15:18:59] toks: heh
+[2013-01-02 15:19:33] toks: gotta make sure I work closely with the dev to ensure I know exactly what I'm looking for, never having to do loops like that then :p
