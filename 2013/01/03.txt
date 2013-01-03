@@ -72,3 +72,9 @@
 [2013-01-03 13:58:34] lukeis: oh, even better, i can't reproduce the issue that was reported ;)
 [2013-01-03 13:59:34] stackedsax: I'm sure that had to do with my involvement
 [2013-01-03 13:59:52] toks: o.o
+[2013-01-03 14:00:16] stackedsax: so it's actually working?
+[2013-01-03 14:00:28] lukeis: umm, i'm going to say yes… for now
+[2013-01-03 14:01:02] lukeis: i'm asking for more info / if it's still a problem from the reportee
+[2013-01-03 14:01:46] lukeis: they produced a convincing output trace of the corruptness though… so, not sure how it 'corrected itself'
+[2013-01-03 14:03:00] stackedsax: well, I'll continue looking at VCR with selenium, then
+[2013-01-03 14:03:10] *stackedsax sez the guy who doesn't code...'
