@@ -12,3 +12,8 @@
 [2013-01-03 10:31:49] toks: I saw someone else fixed it 14hrs before me :p
 [2013-01-03 10:34:24] toks: element.isEnabled thing :p
 [2013-01-03 10:34:30] lukeis: ah
+[2013-01-03 10:42:25] toks: so... what if... I wanted to run 2 iOS simulators on the same mac? :)
+[2013-01-03 10:43:17] lukeis: call apple to have them support it ;)
+[2013-01-03 10:43:30] toks: :p
+[2013-01-03 10:43:55] toks: what if I found some crazy loop-hole way to do it(I've been told it has been done before), would appium freak out?
+[2013-01-03 10:44:03] toks: I guess I should just try it and see :p
