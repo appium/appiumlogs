@@ -50,3 +50,9 @@
 [2013-01-03 13:29:09] lukeis: it's on a sun box that i'm ssh'd to with root access
 [2013-01-03 13:29:53] lukeis: i see my repo but as a folder name <repo>.git
 [2013-01-03 13:30:01] stackedsax: which user is running the jetty process for gerrit?
+[2013-01-03 13:30:10] lukeis: gerrit :)
+[2013-01-03 13:30:22] stackedsax: might be in that user's dir, then?
+[2013-01-03 13:30:30] lukeis: yeah, i found that...
+[2013-01-03 13:31:45] lukeis: home/gerrit/review_site/git/Android/Chatter.git  <= that's a folder that looks like it is the 'repo' but what you might expect a repo to look like on a server, not a local clone :-/
+[2013-01-03 13:32:40] lukeis: actually it's what you see in the .git folder
+[2013-01-03 13:32:44] lukeis: hrm
