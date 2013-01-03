@@ -4,3 +4,11 @@
 [2013-01-03 09:55:15] lukeis, quitting. (Remote host closed the connection)
 [2013-01-03 09:59:03] lukeis, joining. (#appium)
 [2013-01-03 10:28:30] toks, joining. (#appium)
+[2013-01-03 10:31:28] toks: hey!
+[2013-01-03 10:31:34] lukeis: hey hey
+[2013-01-03 10:31:36] toks: so.... I found the issue with that page_source
+[2013-01-03 10:31:38] toks: then
+[2013-01-03 10:31:42] toks: when I tried to do a pull-request
+[2013-01-03 10:31:49] toks: I saw someone else fixed it 14hrs before me :p
+[2013-01-03 10:34:24] toks: element.isEnabled thing :p
+[2013-01-03 10:34:30] lukeis: ah
