@@ -58,3 +58,5 @@
 [2013-01-03 13:32:44] lukeis: hrm
 [2013-01-03 13:46:49] stackedsax: a .git folders in Android?
 [2013-01-03 13:46:55] stackedsax: or just Chatter.git?
+[2013-01-03 13:53:39] stackedsax: oh, and what were the corruption issues you saw?
+[2013-01-03 13:54:24] stackedsax: I think if you have the .git directory you can run a few things, like git fsck —full and stuff
