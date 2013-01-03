@@ -1,3 +1,5 @@
 [2013-01-03 07:31:35] Jayakumar, joining. (#appium)
 [2013-01-03 07:32:18] Jayakumar, leaving. (#appium)
 [2013-01-03 08:48:45] lukeis, joining. (#appium)
+[2013-01-03 09:55:15] lukeis, quitting. (Remote host closed the connection)
+[2013-01-03 09:59:03] lukeis, joining. (#appium)
