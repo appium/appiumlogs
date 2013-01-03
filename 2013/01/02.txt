@@ -203,3 +203,6 @@
 [2013-01-02 15:34:57] toks: [['-1','undefined']]
 [2013-01-02 15:50:45] *toks searches appium's code for bug :p'
 [2013-01-02 15:54:52] lukeis: when you start the server on the command line use -v
+[2013-01-02 15:58:33] *toks tries'
+[2013-01-02 15:59:15] *lukeis heading home'
+[2013-01-02 15:59:20] lukeis, quitting. (Quit: Leaving.)
