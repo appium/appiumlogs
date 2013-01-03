@@ -17,3 +17,5 @@
 [2013-01-03 10:43:30] toks: :p
 [2013-01-03 10:43:55] toks: what if I found some crazy loop-hole way to do it(I've been told it has been done before), would appium freak out?
 [2013-01-03 10:44:03] toks: I guess I should just try it and see :p
+[2013-01-03 11:34:48] toks: Hey nicegraham merged my pull request!!!! \o/
+[2013-01-03 11:34:57] lukeis: cool :)
