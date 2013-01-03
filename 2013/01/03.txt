@@ -21,3 +21,4 @@
 [2013-01-03 11:34:57] lukeis: cool :)
 [2013-01-03 11:35:19] toks: my first contribution to opensource!!!
 [2013-01-03 11:35:22] *toks is happy'
+[2013-01-03 11:41:12] toks: perhaps I'll also fix it so that appdriver replies to selenium-status-queries like appium does :)
