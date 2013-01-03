@@ -208,3 +208,4 @@
 [2013-01-02 15:59:20] lukeis, quitting. (Quit: Leaving.)
 [2013-01-02 18:59:34] toks, quitting. (Ping timeout: 240 seconds)
 [2013-01-02 19:57:35] jcarr, joining. (#appium)
+[2013-01-02 20:04:15] jcarr, leaving. (#appium)
