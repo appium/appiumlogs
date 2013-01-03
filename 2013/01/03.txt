@@ -24,3 +24,11 @@
 [2013-01-03 11:41:12] toks: perhaps I'll also fix it so that appdriver replies to selenium-status-queries like appium does :)
 [2013-01-03 12:31:43] toks: ^_^
 [2013-01-03 13:10:11] stackedsax, joining. (#appium)
+[2013-01-03 13:17:09] toks: ah, bossman has returned
+[2013-01-03 13:17:27] toks: check it out, my first contrib to open-source! https://github.com/nicegraham/appdriver/pull/1/files
+[2013-01-03 13:17:27] lukeis: ah, i'll try to look busy then
+[2013-01-03 13:17:43] toks: lukeis helped me with the concept of forks & pulls
+[2013-01-03 13:18:18] stackedsax: dang, is that what I've come to be known as?
+[2013-01-03 13:18:29] stackedsax: toks!  Get back to werk!
+[2013-01-03 13:18:38] toks: lol
+[2013-01-03 13:19:39] lukeis: stackedsax: there's 10 types of people in this business, those that code and those that don't ;)
