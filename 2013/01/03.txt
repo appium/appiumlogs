@@ -32,3 +32,10 @@
 [2013-01-03 13:18:29] stackedsax: toks!  Get back to werk!
 [2013-01-03 13:18:38] toks: lol
 [2013-01-03 13:19:39] lukeis: stackedsax: there's 10 types of people in this business, those that code and those that don't ;)
+[2013-01-03 13:21:03] stackedsax: oh, hey now, don't be so quick: I spent my break doing battle with rspec, FactoryGirl and mocha
+[2013-01-03 13:21:35] toks: lukeis: but what about the other 1000?
+[2013-01-03 13:21:39] *lukeis is enjoying giving you a hard time'
+[2013-01-03 13:22:42] stackedsax: I was actually wandering on to see if I could be of service
+[2013-01-03 13:23:15] lukeis: know how to fix a corrupt git repo on a gerrit instance? (that would help me ;) )
+[2013-01-03 13:23:40] lukeis: random things i didn't think i would be working on today
+[2013-01-03 13:24:43] toks: if your daily work consists of exactly what you planned on, you're not a real dev :p
