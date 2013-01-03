@@ -87,3 +87,9 @@
 [2013-01-03 14:28:43] stackedsax: we'd really like to help in any way we can — but I'm not even sure who to help with on this project
 [2013-01-03 14:29:24] lukeis: i'll let it be known quite clearly here whatever i'll be working on :)
 [2013-01-03 14:29:34] lukeis: but i haven't been able to start quite yet
+[2013-01-03 14:31:54] stackedsax: so, I guess I have two questions: 1) should we also be asking Jason and the eBay guy what they're working on and 2) would getting more development help from my company help this cause get started?
+[2013-01-03 14:32:21] lukeis: D) all of the above ;)
+[2013-01-03 14:32:35] stackedsax: that's what I thought :)
+[2013-01-03 14:34:13] stackedsax: so, I forget Jason's nick, but I'll be happy to reach out
+[2013-01-03 14:34:30] stackedsax, changing nick to stackedsax_afk.
+[2013-01-03 14:34:57] lukeis: well, hugs is one to ask too ;) (he's a jason too… but the other sauce jason is jcarr)
