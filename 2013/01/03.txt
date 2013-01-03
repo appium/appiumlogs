@@ -39,3 +39,14 @@
 [2013-01-03 13:23:15] lukeis: know how to fix a corrupt git repo on a gerrit instance? (that would help me ;) )
 [2013-01-03 13:23:40] lukeis: random things i didn't think i would be working on today
 [2013-01-03 13:24:43] toks: if your daily work consists of exactly what you planned on, you're not a real dev :p
+[2013-01-03 13:25:28] stackedsax: I haven't used gerrit, but wouldn't it just be looking at the local git repo you've cloned?  on the box that's hosting gerrit?
+[2013-01-03 13:26:15] stackedsax: or is my understanding of gerrit totally off?
+[2013-01-03 13:26:21] lukeis: i think so… but where is it? ;)
+[2013-01-03 13:26:45] *lukeis doesn't understand .git dirs'
+[2013-01-03 13:27:04] lukeis: apparently i need to learn more git
+[2013-01-03 13:28:10] stackedsax: you running gerrit locally on your own machine?
+[2013-01-03 13:28:29] lukeis: nope
+[2013-01-03 13:28:56] stackedsax: somebody has set it up in your company, then?
+[2013-01-03 13:29:09] lukeis: it's on a sun box that i'm ssh'd to with root access
+[2013-01-03 13:29:53] lukeis: i see my repo but as a folder name <repo>.git
+[2013-01-03 13:30:01] stackedsax: which user is running the jetty process for gerrit?
