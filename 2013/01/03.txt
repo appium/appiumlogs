@@ -93,3 +93,10 @@
 [2013-01-03 14:34:13] stackedsax: so, I forget Jason's nick, but I'll be happy to reach out
 [2013-01-03 14:34:30] stackedsax, changing nick to stackedsax_afk.
 [2013-01-03 14:34:57] lukeis: well, hugs is one to ask too ;) (he's a jason too… but the other sauce jason is jcarr)
+[2013-01-03 14:35:40] toks: o.o
+[2013-01-03 14:35:57] toks: stackedsax_afk: I suspect you'll dig this ^_^ http://www.youtube.com/watch?v=C_j1KpN-6ew
+[2013-01-03 14:36:09] *toks notices the "afk" part'
+[2013-01-03 14:36:13] toks: =/
+[2013-01-03 14:36:29] lukeis: stackedsax_afk: the ebay guy: https://github.com/ddary
+[2013-01-03 14:36:55] *lukeis will start to refer to people only by their github account ;)'
+[2013-01-03 14:39:38] stackedsax_afk, quitting. (Ping timeout: 252 seconds)
