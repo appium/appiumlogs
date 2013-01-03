@@ -19,3 +19,5 @@
 [2013-01-03 10:44:03] toks: I guess I should just try it and see :p
 [2013-01-03 11:34:48] toks: Hey nicegraham merged my pull request!!!! \o/
 [2013-01-03 11:34:57] lukeis: cool :)
+[2013-01-03 11:35:19] toks: my first contribution to opensource!!!
+[2013-01-03 11:35:22] *toks is happy'
