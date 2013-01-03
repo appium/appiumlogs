@@ -111,3 +111,7 @@
 [2013-01-03 15:22:49] toks: :)
 [2013-01-03 15:23:48] toks: I ran into this site and now I've been listen to its Smooth Jazz & 80s stuff for the past week - http://www.polskastacja.pl/
 [2013-01-03 15:28:57] stackedsax: lukeis: any idea how to reach out to the guy at eBay?
+[2013-01-03 15:43:38] lukeis: tweet to him?
+[2013-01-03 15:43:46] lukeis: https://github.com/ddary
+[2013-01-03 15:43:50] lukeis: stackedsax: ^
+[2013-01-03 15:44:06] lukeis: he links his twitter in his github profile
