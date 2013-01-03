@@ -56,3 +56,5 @@
 [2013-01-03 13:31:45] lukeis: home/gerrit/review_site/git/Android/Chatter.git  <= that's a folder that looks like it is the 'repo' but what you might expect a repo to look like on a server, not a local clone :-/
 [2013-01-03 13:32:40] lukeis: actually it's what you see in the .git folder
 [2013-01-03 13:32:44] lukeis: hrm
+[2013-01-03 13:46:49] stackedsax: a .git folders in Android?
+[2013-01-03 13:46:55] stackedsax: or just Chatter.git?
