@@ -78,3 +78,12 @@
 [2013-01-03 14:01:46] lukeis: they produced a convincing output trace of the corruptness though… so, not sure how it 'corrected itself'
 [2013-01-03 14:03:00] stackedsax: well, I'll continue looking at VCR with selenium, then
 [2013-01-03 14:03:10] *stackedsax sez the guy who doesn't code...'
+[2013-01-03 14:25:15] stackedsax: hey, lukeis — who all is working on the android driver for appium?
+[2013-01-03 14:25:40] lukeis: dunno for sure :)
+[2013-01-03 14:26:05] lukeis: i know that a guy at ebay is working on 'something' that is francois' co-worker
+[2013-01-03 14:26:25] lukeis: and jason carr at sauce is the mobile guy
+[2013-01-03 14:26:41] lukeis: but i'm not aware of anything on android yet
+[2013-01-03 14:26:50] lukeis: and hope to start something soonish myself
+[2013-01-03 14:28:43] stackedsax: we'd really like to help in any way we can — but I'm not even sure who to help with on this project
+[2013-01-03 14:29:24] lukeis: i'll let it be known quite clearly here whatever i'll be working on :)
+[2013-01-03 14:29:34] lukeis: but i haven't been able to start quite yet
