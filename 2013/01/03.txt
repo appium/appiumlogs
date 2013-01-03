@@ -23,3 +23,4 @@
 [2013-01-03 11:35:22] *toks is happy'
 [2013-01-03 11:41:12] toks: perhaps I'll also fix it so that appdriver replies to selenium-status-queries like appium does :)
 [2013-01-03 12:31:43] toks: ^_^
+[2013-01-03 13:10:11] stackedsax, joining. (#appium)
