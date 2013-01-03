@@ -60,3 +60,15 @@
 [2013-01-03 13:46:55] stackedsax: or just Chatter.git?
 [2013-01-03 13:53:39] stackedsax: oh, and what were the corruption issues you saw?
 [2013-01-03 13:54:24] stackedsax: I think if you have the .git directory you can run a few things, like git fsck —full and stuff
+[2013-01-03 13:56:40] lukeis: yeah, found that command… trying a few things out
+[2013-01-03 13:57:04] stackedsax: cool
+[2013-01-03 13:57:09] stackedsax: you've seen this, I assume?
+[2013-01-03 13:57:10] stackedsax: https://git.wiki.kernel.org/index.php/GitFaq#How_to_fix_a_broken_repository.3F
+[2013-01-03 13:57:13] lukeis: yep :)
+[2013-01-03 13:57:16] lukeis: that's what I found
+[2013-01-03 13:57:16] stackedsax: goodgood
+[2013-01-03 13:57:37] stackedsax: also: http://git.661346.n2.nabble.com/Corruption-in-the-repository-td5831243.html
+[2013-01-03 13:58:04] stackedsax: might have some clues, but the GitFaq seems to be pretty well written
+[2013-01-03 13:58:34] lukeis: oh, even better, i can't reproduce the issue that was reported ;)
+[2013-01-03 13:59:34] stackedsax: I'm sure that had to do with my involvement
+[2013-01-03 13:59:52] toks: o.o
