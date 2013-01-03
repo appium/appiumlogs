@@ -100,3 +100,4 @@
 [2013-01-03 14:36:29] lukeis: stackedsax_afk: the ebay guy: https://github.com/ddary
 [2013-01-03 14:36:55] *lukeis will start to refer to people only by their github account ;)'
 [2013-01-03 14:39:38] stackedsax_afk, quitting. (Ping timeout: 252 seconds)
+[2013-01-03 14:58:32] stackedsax, joining. (#appium)
