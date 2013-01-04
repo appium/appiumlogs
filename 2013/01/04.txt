@@ -16,3 +16,4 @@
 [2013-01-04 13:39:35] toks: stackedsax: http://code.google.com/p/selenium/source/browse/trunk/java/server/src/org/openqa/grid/selenium/proxy/DefaultRemoteProxy.java#135
 [2013-01-04 14:04:12] stackedsax1, joining. (#appium)
 [2013-01-04 14:06:54] stackedsax, quitting. (Ping timeout: 240 seconds)
+[2013-01-04 14:11:26] stackedsax1, quitting. (Ping timeout: 252 seconds)
