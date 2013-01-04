@@ -122,3 +122,4 @@
 [2013-01-03 18:20:49] stackedsax, joining. (#appium)
 [2013-01-03 19:03:38] toks, quitting. (Ping timeout: 252 seconds)
 [2013-01-03 19:47:35] stackedsax, quitting. (Quit: Leaving.)
+[2013-01-03 22:28:16] stackedsax, joining. (#appium)
