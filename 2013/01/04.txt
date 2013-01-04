@@ -6,3 +6,6 @@
 [2013-01-04 10:55:27] toks: gonna submit my pull-request soon... cleaning up code
 [2013-01-04 10:56:16] lukeis, quitting. (Quit: Leaving.)
 [2013-01-04 11:22:04] lukeis, joining. (#appium)
+[2013-01-04 12:04:07] stackedsax, quitting. (Read error: Connection reset by peer)
+[2013-01-04 12:04:25] stackedsax, joining. (#appium)
+[2013-01-04 12:04:44] lukeis, quitting. (Quit: Leaving.)
