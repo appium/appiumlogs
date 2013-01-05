@@ -7,3 +7,4 @@
 [2013-01-05 01:32:18] stackedsax, joining. (#appium)
 [2013-01-05 03:00:05] stackedsax, quitting. (Quit: Leaving.)
 [2013-01-05 04:10:47] stackedsax, joining. (#appium)
+[2013-01-05 07:54:45] stackedsax, quitting. (Quit: Leaving.)
