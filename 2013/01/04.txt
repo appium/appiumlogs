@@ -22,3 +22,4 @@
 [2013-01-04 16:32:29] toks: https://github.com/nicegraham/appdriver/pull/3
 [2013-01-04 16:32:37] toks: more elegant ^_^
 [2013-01-04 16:46:34] lukeis, quitting. (Quit: Leaving.)
+[2013-01-04 18:41:01] stackedsax, quitting. (Ping timeout: 276 seconds)
