@@ -24,3 +24,4 @@
 [2013-01-04 16:46:34] lukeis, quitting. (Quit: Leaving.)
 [2013-01-04 18:41:01] stackedsax, quitting. (Ping timeout: 276 seconds)
 [2013-01-04 18:50:20] toks, quitting. (Ping timeout: 255 seconds)
+[2013-01-04 19:17:18] stackedsax, joining. (#appium)
