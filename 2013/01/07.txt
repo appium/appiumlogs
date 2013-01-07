@@ -38,3 +38,14 @@
 [2013-01-07 15:44:40] stackedsax: *lose
 [2013-01-07 15:44:41] lukeis: just watched it, it be fast ;)
 [2013-01-07 15:44:53] lukeis: have a safe trip :)
+[2013-01-07 15:45:14] stackedsax: thanks
+[2013-01-07 15:45:41] stackedsax: any thoughts on the message and demo?
+[2013-01-07 15:45:51] stackedsax: does it look like the right approach?
+[2013-01-07 15:45:58] lukeis: i hope he pushes to github soon ;)
+[2013-01-07 15:45:59] stackedsax: were you going to try something dramatically different?
+[2013-01-07 15:46:09] lukeis: and yes, it's the approach i wanted to go with
+[2013-01-07 15:46:46] lukeis: implement the json wire protocol, he is hand waving over the most interesting bits :)
+[2013-01-07 15:47:15] jcarr: lol yes he is
+[2013-01-07 15:48:20] jcarr, quitting. (Quit: Leaving.)
+[2013-01-07 15:49:38] stackedsax: you mean, how he actually makes things do things?
+[2013-01-07 15:49:46] lukeis: yep
