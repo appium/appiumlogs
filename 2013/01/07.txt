@@ -20,3 +20,14 @@
 [2013-01-07 15:31:35] jcarr: that would be great - jason at saucelabs dot com
 [2013-01-07 15:31:40] stackedsax: I don't think the POC is ready to be seen — I don't think he's put it up on github or anything
 [2013-01-07 15:31:49] stackedsax: sure — you too lukeis?
+[2013-01-07 15:35:22] *lukeis tries to catch up'
+[2013-01-07 15:35:44] stackedsax: I found your email in AUTHORS, luke
+[2013-01-07 15:35:52] stackedsax: sent you the message
+[2013-01-07 15:35:57] lukeis: my email is more tan just there :)
+[2013-01-07 15:36:20] stackedsax: do you prefer a different email?
+[2013-01-07 15:36:29] lukeis: nope, that works
+[2013-01-07 15:36:33] stackedsax: cool
+[2013-01-07 15:37:04] lukeis: and yes, definitely if you have something dominik sent you, i'd like to see
+[2013-01-07 15:37:19] lukeis: hiya jcarr have a good holiday?
+[2013-01-07 15:37:41] stackedsax: yep, sent already
+[2013-01-07 15:38:13] jcarr: yes very good, thanks
