@@ -49,3 +49,21 @@
 [2013-01-07 15:48:20] jcarr, quitting. (Quit: Leaving.)
 [2013-01-07 15:49:38] stackedsax: you mean, how he actually makes things do things?
 [2013-01-07 15:49:46] lukeis: yep
+[2013-01-07 15:50:32] stackedsax: well, hopefully I can convince him to get some stuff up in github in the next week or two so that we can look at it
+[2013-01-07 15:50:41] lukeis: for sure!
+[2013-01-07 15:50:46] stackedsax: I imagine we'll either all go "this is definitely the right way to do it"
+[2013-01-07 15:50:50] stackedsax: and all offer to help
+[2013-01-07 15:50:54] jcarr, joining. (#appium)
+[2013-01-07 15:51:01] stackedsax: or we'll have other theories on how to do it
+[2013-01-07 15:51:19] stackedsax: and start some similar projects.
+[2013-01-07 15:51:32] lukeis: his starting principles are the same as what I want to do (and what the sauce guys want to do), so I can't imagine he's far off
+[2013-01-07 15:51:33] stackedsax: I just wanted to coordinate all the threads of thought going on here
+[2013-01-07 15:51:40] lukeis: thanks :)
+[2013-01-07 15:52:12] lukeis: it's like you manage engineers or something ;)
+[2013-01-07 15:52:21] stackedsax: :)
+[2013-01-07 15:52:26] stackedsax: speaking of, was toks around?
+[2013-01-07 15:52:31] stackedsax: :)
+[2013-01-07 15:52:45] lukeis: he was on earlier in the morning, but we didn't speak
+[2013-01-07 15:53:14] stackedsax: hope he hasn't fallen prey to the illnesses going around.  It's unusual for him not to be chattering away in here
+[2013-01-07 15:53:14] lukeis: :seen toks
+[2013-01-07 15:53:16] lukeis: :)
