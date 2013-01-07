@@ -12,3 +12,11 @@
 [2013-01-07 15:28:47] stackedsax: but, I rached out to Dominic Dary over the weekend
 [2013-01-07 15:29:15] stackedsax: about an 'AppiumAndroidDriver' or whatever we want to refer to it as
 [2013-01-07 15:29:39] stackedsax: I heard you, jcarr, are working on something similar?
+[2013-01-07 15:30:41] stackedsax: and lukeis has plans in his brain for something, too
+[2013-01-07 15:31:05] jcarr: well I haven't written any code yet
+[2013-01-07 15:31:05] stackedsax: it sounded like Dominic had some POC together already
+[2013-01-07 15:31:11] jcarr: hey, I'd like to see that
+[2013-01-07 15:31:21] stackedsax: yeah, you want me to forward you his email?
+[2013-01-07 15:31:35] jcarr: that would be great - jason at saucelabs dot com
+[2013-01-07 15:31:40] stackedsax: I don't think the POC is ready to be seen — I don't think he's put it up on github or anything
+[2013-01-07 15:31:49] stackedsax: sure — you too lukeis?
