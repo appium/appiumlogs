@@ -2,3 +2,4 @@
 [2013-01-07 08:31:09] lukeis, joining. (#appium)
 [2013-01-07 09:50:03] jcarr, joining. (#appium)
 [2013-01-07 10:33:58] toks, joining. (#appium)
+[2013-01-07 10:53:53] toks, leaving. (#appium)
