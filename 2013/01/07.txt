@@ -31,3 +31,10 @@
 [2013-01-07 15:37:19] lukeis: hiya jcarr have a good holiday?
 [2013-01-07 15:37:41] stackedsax: yep, sent already
 [2013-01-07 15:38:13] jcarr: yes very good, thanks
+[2013-01-07 15:41:21] stackedsax: it sounds promising: using JSON Wire protocol and he's implemented a bunch already
+[2013-01-07 15:42:11] stackedsax: I couldn't watch the demo, though
+[2013-01-07 15:42:16] stackedsax: plugin problems
+[2013-01-07 15:44:37] stackedsax: anyway, we're heading down now, I'll probably lise connection soon
+[2013-01-07 15:44:40] stackedsax: *lose
+[2013-01-07 15:44:41] lukeis: just watched it, it be fast ;)
+[2013-01-07 15:44:53] lukeis: have a safe trip :)
