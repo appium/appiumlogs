@@ -5,3 +5,10 @@
 [2013-01-07 10:53:53] toks, leaving. (#appium)
 [2013-01-07 12:42:47] lukeis, quitting. (Quit: Leaving.)
 [2013-01-07 12:56:42] lukeis, joining. (#appium)
+[2013-01-07 15:27:38] stackedsax, joining. (#appium)
+[2013-01-07 15:28:03] stackedsax: howdy all
+[2013-01-07 15:28:07] jcarr: hey hey
+[2013-01-07 15:28:33] stackedsax: not sure if I'll stay connected, since I'm around 10000' right now....
+[2013-01-07 15:28:47] stackedsax: but, I rached out to Dominic Dary over the weekend
+[2013-01-07 15:29:15] stackedsax: about an 'AppiumAndroidDriver' or whatever we want to refer to it as
+[2013-01-07 15:29:39] stackedsax: I heard you, jcarr, are working on something similar?
