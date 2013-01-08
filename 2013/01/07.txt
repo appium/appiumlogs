@@ -71,3 +71,4 @@
 [2013-01-07 16:03:50] lukeis, quitting. (Quit: Leaving.)
 [2013-01-07 17:54:41] jcarr1, joining. (#appium)
 [2013-01-07 17:54:41] jcarr1, leaving. (#appium)
+[2013-01-07 17:56:52] jcarr, quitting. (Ping timeout: 252 seconds)
