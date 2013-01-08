@@ -24,3 +24,11 @@
 [2013-01-08 10:17:58] jcarr: seen anything like that?
 [2013-01-08 10:18:28] lukeis: that's odd… and no :)
 [2013-01-08 10:19:53] jcarr: huh
+[2013-01-08 10:20:29] jcarr: so a silly question - Roman said you have a bunch of tests working against the latest appium - what's your integration environment look like there? 10.7? 10.8?
+[2013-01-08 10:20:42] jcarr: any idea what iOS version?
+[2013-01-08 10:20:45] lukeis: that's Roman's.. I don't know what it is
+[2013-01-08 10:20:57] *lukeis is not on the same team as him'
+[2013-01-08 10:21:09] lukeis: actually still quite disjointed from him ;)
+[2013-01-08 10:21:23] *lukeis works at a big company :-D'
+[2013-01-08 10:22:03] lukeis: i can IM him to ask
+[2013-01-08 10:23:00] jcarr: that would be great, actually
