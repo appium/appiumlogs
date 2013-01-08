@@ -116,3 +116,7 @@
 [2013-01-08 13:09:39] stackedsax, joining. (#appium)
 [2013-01-08 13:48:43] jcarr, quitting. (Read error: Connection reset by peer)
 [2013-01-08 13:48:59] jcarr, joining. (#appium)
+[2013-01-08 14:03:41] jcarr: so lukeis - the problem I was talking about is related to implicit_wait
+[2013-01-08 14:04:18] jcarr: appium sets it to 0 by default which makes UIAutomation unable to find some elements in certain circumstances - not at all well understood
+[2013-01-08 14:04:33] jcarr: but in my and santi's testing, it needs to be at least 1 sec to smooth out whatever is going on
+[2013-01-08 14:04:42] jcarr: any thoughts on making 1sec the default?
