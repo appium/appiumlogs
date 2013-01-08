@@ -83,3 +83,17 @@
 [2013-01-08 11:43:53] jcarr: ga
 [2013-01-08 11:43:54] jcarr: haha
 [2013-01-08 11:44:33] ddary: for me another important thing is, how many details i can control myself: with my current project i have all the sources and I can do what i need to do
+[2013-01-08 11:45:45] ddary: if you use another project, there is always the question what you can really control. that is e.g. on of the challenges i faces with calabash-driver, because there I depend on calabash android which depends on robotium
+[2013-01-08 11:46:41] ddary: with appium and the dependency to UIAutomation, do you have similar challenges ?
+[2013-01-08 11:47:29] lukeis: there is no appium for android (yet)
+[2013-01-08 11:47:39] jcarr: there's always the risk that UIAutomation just changes enough that the whole thing breaks.
+[2013-01-08 11:47:52] lukeis: ah
+[2013-01-08 11:48:00] *lukeis needs to read more closely'
+[2013-01-08 11:48:19] jcarr: but the core functionality relies on public methods in UIAutomation, so we'd like have some time and warning
+[2013-01-08 11:48:28] lukeis: i highly doubt there would be significant breakage in that way
+[2013-01-08 11:48:28] jcarr: but who knows, apple can be capricious when they want to
+[2013-01-08 11:48:48] lukeis: they certainly can be ;)
+[2013-01-08 11:48:50] jcarr: lukeis: totally agree, but it's a real risk, especially to a major company or big project looking to adopt
+[2013-01-08 11:49:14] jcarr: It's just a not-very-likely scenario
+[2013-01-08 11:49:46] jcarr: but wait, why am I saying this?
+[2013-01-08 11:49:48] jcarr: appium rulez
