@@ -154,3 +154,4 @@
 [2013-01-08 15:18:28] lukeis, quitting. (Quit: Leaving.)
 [2013-01-08 15:26:14] stackedsax, joining. (#appium)
 [2013-01-08 15:30:27] stackedsax, quitting. (Ping timeout: 245 seconds)
+[2013-01-08 15:47:43] stackedsax, joining. (#appium)
