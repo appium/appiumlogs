@@ -114,3 +114,5 @@
 [2013-01-08 12:58:18] freynaud, joining. (#appium)
 [2013-01-08 12:58:34] freynaud, quitting. (Client Quit)
 [2013-01-08 13:09:39] stackedsax, joining. (#appium)
+[2013-01-08 13:48:43] jcarr, quitting. (Read error: Connection reset by peer)
+[2013-01-08 13:48:59] jcarr, joining. (#appium)
