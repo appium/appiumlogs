@@ -138,3 +138,8 @@
 [2013-01-08 14:14:29] stackedsax: blar
 [2013-01-08 14:14:30] jcarr: you can do a pushTimeout or popTimeout to change that as we go
 [2013-01-08 14:14:57] jcarr: stackedsax: UIAutomation: http://developer.apple.com/library/ios/#documentation/DeveloperTools/Reference/UIAutomationRef/_index.html
+[2013-01-08 14:15:03] stackedsax: ep, gotit
+[2013-01-08 14:15:21] jcarr: UIAutomator: http://developer.android.com/tools/help/uiautomator/index.html
+[2013-01-08 14:15:34] stackedsax: so ddary is bypassing using UIAutomator and instrumenting things directly — for the moment, at least
+[2013-01-08 14:16:34] jcarr: lukeis: since it's a global state being kept by Instruments, I would rather set it to something that works and tell people why than set it to something broken and tell them they have to fix it in their code
+[2013-01-08 14:19:16] *lukeis debating it internally'
