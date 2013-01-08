@@ -101,3 +101,10 @@
 [2013-01-08 11:53:09] jcarr: the only thing that changed is that santi looked at it
 [2013-01-08 11:54:16] lukeis: heisenbug! ;)
 [2013-01-08 11:56:49] stackedsax, quitting. (Quit: Leaving.)
+[2013-01-08 12:00:40] ddary: go offline now,have a good day and talk to you soon!
+[2013-01-08 12:00:54] lukeis: g'night
+[2013-01-08 12:01:01] jcarr: ye
+[2013-01-08 12:01:03] jcarr: bye
+[2013-01-08 12:01:08] ddary: bye
+[2013-01-08 12:01:12] ddary, leaving. (#appium)
+[2013-01-08 12:03:40] freynaud, joining. (#appium)
