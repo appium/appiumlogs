@@ -35,3 +35,11 @@
 [2013-01-08 10:25:49] lukeis: requested the info, but he's 'away'
 [2013-01-08 10:26:52] jcarr: ok thanks
 [2013-01-08 10:27:14] jcarr: I'm having a dickens of a time getting this figured out. Can't tell if it's an appium bug, or (as I suspect) something in instruments
+[2013-01-08 11:20:16] ddary, joining. (#appium)
+[2013-01-08 11:21:44] lukeis: jcarr: says he's running 10.7.5 and uses ios6 sim
+[2013-01-08 11:22:01] lukeis: hi ddary
+[2013-01-08 11:22:02] lukeis: :)
+[2013-01-08 11:22:19] jcarr: thanks lukeis!
+[2013-01-08 11:22:31] ddary: hi lukeis
+[2013-01-08 11:22:44] jcarr: hey ddary!
+[2013-01-08 11:24:21] lukeis: ddary: to say i'm eager to start collaborating with you on your android work is an understatement :)
