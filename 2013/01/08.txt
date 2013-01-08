@@ -122,3 +122,19 @@
 [2013-01-08 14:04:42] jcarr: any thoughts on making 1sec the default?
 [2013-01-08 14:09:28] lukeis: default should be 0
 [2013-01-08 14:09:41] lukeis: heavily imply in docs to set it to 1 ;)
+[2013-01-08 14:10:41] stackedsax: I guess I missed ddary
+[2013-01-08 14:11:14] lukeis: yes, you didd
+[2013-01-08 14:11:31] lukeis: oh and françois was thinking about making an appearance :)
+[2013-01-08 14:11:43] stackedsax: nice
+[2013-01-08 14:11:48] jcarr: hm, default should be broken, then?
+[2013-01-08 14:12:05] lukeis: for some definition of 'broken' ;)
+[2013-01-08 14:12:59] jcarr: here's why I'm peeved by that - every command in appium is subject to that timeout setting (which is really horribly unreliable in UIAuto). In selenium, not every command is subject to the implicit wait you set - like, the one that was giving me trouble: find_element_by
+[2013-01-08 14:13:40] lukeis: is the implicit wait checked in server.py or in the js?
+[2013-01-08 14:13:44] lukeis: should be the js...
+[2013-01-08 14:14:03] jcarr: the js sets the default, UIAutomation has state that remembers what it is
+[2013-01-08 14:14:06] stackedsax: I don't totally understand the convo about UIAutomation vs. instrumentation.
+[2013-01-08 14:14:18] stackedsax: UIAutomation is the iOS thingie
+[2013-01-08 14:14:25] lukeis: stackedsax: UIAutomator*
+[2013-01-08 14:14:29] stackedsax: blar
+[2013-01-08 14:14:30] jcarr: you can do a pushTimeout or popTimeout to change that as we go
+[2013-01-08 14:14:57] jcarr: stackedsax: UIAutomation: http://developer.apple.com/library/ios/#documentation/DeveloperTools/Reference/UIAutomationRef/_index.html
