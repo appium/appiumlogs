@@ -32,3 +32,6 @@
 [2013-01-08 10:21:23] *lukeis works at a big company :-D'
 [2013-01-08 10:22:03] lukeis: i can IM him to ask
 [2013-01-08 10:23:00] jcarr: that would be great, actually
+[2013-01-08 10:25:49] lukeis: requested the info, but he's 'away'
+[2013-01-08 10:26:52] jcarr: ok thanks
+[2013-01-08 10:27:14] jcarr: I'm having a dickens of a time getting this figured out. Can't tell if it's an appium bug, or (as I suspect) something in instruments
