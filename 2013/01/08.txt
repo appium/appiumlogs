@@ -120,3 +120,5 @@
 [2013-01-08 14:04:18] jcarr: appium sets it to 0 by default which makes UIAutomation unable to find some elements in certain circumstances - not at all well understood
 [2013-01-08 14:04:33] jcarr: but in my and santi's testing, it needs to be at least 1 sec to smooth out whatever is going on
 [2013-01-08 14:04:42] jcarr: any thoughts on making 1sec the default?
+[2013-01-08 14:09:28] lukeis: default should be 0
+[2013-01-08 14:09:41] lukeis: heavily imply in docs to set it to 1 ;)
