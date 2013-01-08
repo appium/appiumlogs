@@ -53,3 +53,8 @@
 [2013-01-08 11:28:21] lukeis: nice
 [2013-01-08 11:29:39] ddary: no, currently i just use the instrumentation framework:
 [2013-01-08 11:29:45] lukeis: ahh, ok
+[2013-01-08 11:30:15] ddary: as far as i know the UIAutomator does not support select element by native id and also there is no support for webviews
+[2013-01-08 11:30:28] lukeis: yeah, i was wondering about that
+[2013-01-08 11:32:11] ddary: the goal from my side was to have a project that has in the beginning nearly no dependencies to other frameworks (such as robotium or selenium) because it should be easy to extend and understand the project
+[2013-01-08 11:34:04] ddary: The project is inspired by the native driver and the android web driver (from the selenium project) and is living in an android test project, which means that you don't have to modify your app (under test)
+[2013-01-08 11:34:31] lukeis: just have to install the test project?
