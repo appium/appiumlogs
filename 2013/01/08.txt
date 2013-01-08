@@ -68,3 +68,18 @@
 [2013-01-08 11:37:17] lukeis: yep, what i do now with native driver but without the bastardized api ;)
 [2013-01-08 11:38:03] jcarr: :D that's awesome ddary
 [2013-01-08 11:39:11] ddary: thanks
+[2013-01-08 11:40:53] jcarr: that's exactly the approach we've been talking about here for the last month
+[2013-01-08 11:40:57] jcarr: or nearly
+[2013-01-08 11:41:15] ddary: ok
+[2013-01-08 11:41:33] lukeis: UIAutomator is being hoped for as something that can be used (pieces of at least)
+[2013-01-08 11:41:57] lukeis: and hopefully will grow more robust in future android releases
+[2013-01-08 11:42:20] ddary: what i like about the UIAutomator that you can automate not only the app itself
+[2013-01-08 11:42:22] ddary: yeah
+[2013-01-08 11:42:29] jcarr: I'm being told that google has webviews working for that
+[2013-01-08 11:42:39] jcarr: so there's some promise
+[2013-01-08 11:43:02] ddary: good to know
+[2013-01-08 11:43:17] jcarr: but as with all things G, we get it when we get it
+[2013-01-08 11:43:47] lukeis: bitches ;) /me goes to complain to the googlers i know
+[2013-01-08 11:43:53] jcarr: ga
+[2013-01-08 11:43:54] jcarr: haha
+[2013-01-08 11:44:33] ddary: for me another important thing is, how many details i can control myself: with my current project i have all the sources and I can do what i need to do
