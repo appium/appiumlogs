@@ -43,3 +43,13 @@
 [2013-01-08 11:22:31] ddary: hi lukeis
 [2013-01-08 11:22:44] jcarr: hey ddary!
 [2013-01-08 11:24:21] lukeis: ddary: to say i'm eager to start collaborating with you on your android work is an understatement :)
+[2013-01-08 11:25:42] ddary: same here :-)
+[2013-01-08 11:25:57] jcarr: *dances around throwing confetti* woooo
+[2013-01-08 11:26:02] ddary: just worked today on clean up and restructuring the code
+[2013-01-08 11:26:16] lukeis: cool
+[2013-01-08 11:26:39] ddary: need to add some more unit tests and then hopefully soon i can make the work public availabe
+[2013-01-08 11:27:36] *lukeis limping around 'maintaining' a native driver suite, which hurts and i'll have to do it in the future (to test on old android versions) but I'm looking forward to using UIAutomator (which I assume you are doing?)'
+[2013-01-08 11:28:11] ddary: in the first version I used jetty as server but now i switch to webbit and with this I have a much better feeling: the code is cleaner and simpler
+[2013-01-08 11:28:21] lukeis: nice
+[2013-01-08 11:29:39] ddary: no, currently i just use the instrumentation framework:
+[2013-01-08 11:29:45] lukeis: ahh, ok
