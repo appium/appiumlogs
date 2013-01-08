@@ -67,3 +67,5 @@
 [2013-01-07 15:53:14] stackedsax: hope he hasn't fallen prey to the illnesses going around.  It's unusual for him not to be chattering away in here
 [2013-01-07 15:53:14] lukeis: :seen toks
 [2013-01-07 15:53:16] lukeis: :)
+[2013-01-07 16:02:00] stackedsax, quitting. (Remote host closed the connection)
+[2013-01-07 16:03:50] lukeis, quitting. (Quit: Leaving.)
