@@ -111,3 +111,5 @@
 [2013-01-08 12:38:02] freynaud, quitting. (Quit: freynaud)
 [2013-01-08 12:43:52] freynaud, joining. (#appium)
 [2013-01-08 12:44:03] freynaud, quitting. (Client Quit)
+[2013-01-08 12:58:18] freynaud, joining. (#appium)
+[2013-01-08 12:58:34] freynaud, quitting. (Client Quit)
