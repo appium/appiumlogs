@@ -16,3 +16,11 @@
 [2013-01-08 10:13:07] jcarr: haha
 [2013-01-08 10:13:43] lukeis: of course my particular frustration, i'm not certain how the other way will help too much
 [2013-01-08 10:14:39] lukeis: what i really want is to set a break point on the 'server' that's running on the device/emulator, to see what's happening with commands… currently i only get to print to a log :-/
+[2013-01-08 10:16:49] jcarr: so I was trying to update appium in sauce cloud and I ran into something VERY weird which I thought you might know something about
+[2013-01-08 10:17:19] jcarr: the basic test we have in python - find the fields, enter numbers, find the button, push it - fails in sauce cloud with the newest version of appium
+[2013-01-08 10:17:33] jcarr: because the find_elements_by_tag_name('button') returns an empty list
+[2013-01-08 10:17:49] jcarr: but, if I put a sleep in front of that call, it finds the button just fine
+[2013-01-08 10:17:55] lukeis: i haven't run the latest code (been focused on android the last ~3 weeks)
+[2013-01-08 10:17:58] jcarr: seen anything like that?
+[2013-01-08 10:18:28] lukeis: that's odd… and no :)
+[2013-01-08 10:19:53] jcarr: huh
