@@ -108,3 +108,4 @@
 [2013-01-08 12:01:08] ddary: bye
 [2013-01-08 12:01:12] ddary, leaving. (#appium)
 [2013-01-08 12:03:40] freynaud, joining. (#appium)
+[2013-01-08 12:38:02] freynaud, quitting. (Quit: freynaud)
