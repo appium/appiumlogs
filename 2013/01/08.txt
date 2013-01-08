@@ -10,3 +10,9 @@
 [2013-01-08 07:32:33] stackedsax, quitting. (Quit: Leaving.)
 [2013-01-08 08:13:55] stackedsax, joining. (#appium)
 [2013-01-08 10:04:10] jcarr, joining. (#appium)
+[2013-01-08 10:11:14] jcarr: morning lukeis.
+[2013-01-08 10:11:24] lukeis: mornin
+[2013-01-08 10:12:08] lukeis: i really want to switch to what dominik has now ;) native driver is horrible ;)
+[2013-01-08 10:13:07] jcarr: haha
+[2013-01-08 10:13:43] lukeis: of course my particular frustration, i'm not certain how the other way will help too much
+[2013-01-08 10:14:39] lukeis: what i really want is to set a break point on the 'server' that's running on the device/emulator, to see what's happening with commands… currently i only get to print to a log :-/
