@@ -148,3 +148,4 @@
 [2013-01-08 14:22:20] lukeis: s/all/allow/
 [2013-01-08 14:23:14] jcarr: that makes sense I guess. I'm going to put in a pull to change the default to something that works for most cases since 0 doesn't.
 [2013-01-08 14:23:20] jcarr: feel free to chime in there.
+[2013-01-08 15:06:05] stackedsax, quitting. (Quit: Leaving.)
