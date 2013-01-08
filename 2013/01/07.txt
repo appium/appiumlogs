@@ -69,3 +69,5 @@
 [2013-01-07 15:53:16] lukeis: :)
 [2013-01-07 16:02:00] stackedsax, quitting. (Remote host closed the connection)
 [2013-01-07 16:03:50] lukeis, quitting. (Quit: Leaving.)
+[2013-01-07 17:54:41] jcarr1, joining. (#appium)
+[2013-01-07 17:54:41] jcarr1, leaving. (#appium)
