@@ -54,3 +54,8 @@
 [2013-01-09 13:12:46] freynaud: I exec some command line for that in java. I'd like the same result in node, but maybe that's not the way
 [2013-01-09 13:13:18] admc: so the sort of "decided" way to do that, is to build a module to import that has a few layers of callbacks, and to actually do the whole thing async
 [2013-01-09 13:13:47] admc: so you have more module 'requires' at the top, and each thing is calling into a module and passing a callback function for what to do when its finished
+[2013-01-09 13:15:10] admc: we've done a lot of this type of stuff here: https://github.com/admc/wd
+[2013-01-09 13:16:41] admc: the async nature of everything kinda hurts the brain at first, but then it feels pretty nice/natural
+[2013-01-09 13:16:53] admc: spawn is probably the command your looking for
+[2013-01-09 13:16:58] admc: https://github.com/admc/jellyfish/blob/master/lib/browsers.js
+[2013-01-09 13:17:41] admc: http://nodejs.org/api/child_process.html#child_process_child_process_spawn_command_args_options
