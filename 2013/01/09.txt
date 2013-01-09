@@ -249,3 +249,5 @@
 [2013-01-09 14:56:52] freynaud: cb are fine
 [2013-01-09 14:57:03] jlipps: yeah
 [2013-01-09 14:57:21] jlipps: ideally as a project matures some crazy person makes a sync wrapper for it so people have their choice :-)
+[2013-01-09 15:02:09] jlipps: let me know if something in there doesn't make sense--i didn't make getter functions for the new properties but you get the idea
+[2013-01-09 15:02:52] freynaud: yes
