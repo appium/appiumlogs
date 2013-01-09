@@ -59,3 +59,16 @@
 [2013-01-09 13:16:53] admc: spawn is probably the command your looking for
 [2013-01-09 13:16:58] admc: https://github.com/admc/jellyfish/blob/master/lib/browsers.js
 [2013-01-09 13:17:41] admc: http://nodejs.org/api/child_process.html#child_process_child_process_spawn_command_args_options
+[2013-01-09 13:20:32] freynaud: I'm looking at https://github.com/admc/jellyfish/blob/master/lib/browsers.js#L78 for instance
+[2013-01-09 13:22:00] admc: thats pretty old code I wrote FWIW, but thats an example
+[2013-01-09 13:22:31] freynaud: i'll need something similar for Instruments
+[2013-01-09 13:22:47] freynaud: except that I need to wait for it to be dead and block
+[2013-01-09 13:23:00] freynaud: instruments only supports one instance running
+[2013-01-09 13:23:06] admc: right but how do you know that it's dead
+[2013-01-09 13:23:10] admc: your waiting for the process to end?
+[2013-01-09 13:23:16] freynaud: yes
+[2013-01-09 13:23:28] admc: so you would just add an event listener that would fire when the process dies
+[2013-01-09 13:23:38] admc: and then you would call the things thing, which would keep it async
+[2013-01-09 13:23:52] admc: haha "call the things thing"
+[2013-01-09 13:23:56] admc: you know what I mean
+[2013-01-09 13:24:42] admc: a lot of folks who really want to do something sync, use this sort of style: http://howtonode.org/promises
