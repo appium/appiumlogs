@@ -274,3 +274,10 @@
 [2013-01-09 15:13:06] jlipps: please don't be offended that i proposed that crazy hacking and best practices might not both be possible simultaneously; i was just trying to not come across as pedantic :-)
 [2013-01-09 15:15:24] freynaud: let me find an error message
 [2013-01-09 15:15:45] freynaud: we can play "guess the root cause"
+[2013-01-09 15:25:43] freynaud: Unexpected error in
+[2013-01-09 15:25:43] freynaud:  * -[UIAStaticText_0xdc363d0 scrollToVisible],
+[2013-01-09 15:25:43] freynaud:  * /SourceCache/UIAutomation_Sim/UIAutomation-271/Framework/UIAElement.m line
+[2013-01-09 15:25:44] freynaud:  * 1545, kAXErrorFailure
+[2013-01-09 15:26:06] jlipps: that's lovely
+[2013-01-09 15:27:01] freynaud: yes. And pleasant to debug.
+[2013-01-09 15:28:16] brainsik, joining. (#appium)
