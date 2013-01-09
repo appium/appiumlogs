@@ -160,3 +160,8 @@
 [2013-01-09 14:15:34] admc: sure, regardless of what the actual time suck is, if we take this out to the developer communities (at least the ones I spend lots of time interacting with), and you put a node codebase in front of them, js a java codebase, the actual contributors we attract will simply be higher and more motivated if its javascript
 [2013-01-09 14:15:57] admc: selenium has had a really hard time getting contributions for this reason
 [2013-01-09 14:16:10] admc: vs
+[2013-01-09 14:22:09] admc: does appium have a logo?
+[2013-01-09 14:23:30] freynaud: there is some JS to improve already
+[2013-01-09 14:23:37] freynaud: it's all in java files :)
+[2013-01-09 14:24:21] admc: I can imagine :)
+[2013-01-09 14:24:23] freynaud: https://github.com/freynaud/ios-driver/blob/master/server/src/main/java/org/uiautomation/ios/webInspector/DOM/RemoteWebElement.java#L243
