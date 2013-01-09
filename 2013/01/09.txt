@@ -190,3 +190,23 @@
 [2013-01-09 14:34:35] freynaud: hi jlipps
 [2013-01-09 14:34:45] jlipps: hi freynaud, i think we might have met at the mobile summit briefly. admc just shared a gist with me you guys were talking about
 [2013-01-09 14:34:58] freynaud: cool
+[2013-01-09 14:35:38] freynaud: SF too ?
+[2013-01-09 14:35:56] jlipps: so from my understanding, your intention is to get some processes going in the environment in when creating your HostInfo object
+[2013-01-09 14:36:00] jlipps: yep, SF!
+[2013-01-09 14:36:30] freynaud: correct.
+[2013-01-09 14:37:05] freynaud: collect all the info from the apple + Xcode envt, then based on that, do the next step
+[2013-01-09 14:37:20] freynaud: and same pattern later for each test
+[2013-01-09 14:37:31] jlipps: what are the command-line processes that you run to collect that info?
+[2013-01-09 14:37:53] freynaud: a little bit of everything
+[2013-01-09 14:38:08] freynaud: 50% of xcodebuid I think
+[2013-01-09 14:38:17] jlipps: i see. so you're basically trying to collect stdout/stderr output?
+[2013-01-09 14:38:24] freynaud: yes
+[2013-01-09 14:38:30] freynaud: there is no clean API
+[2013-01-09 14:38:44] freynaud: there is a lot of string parsing ...
+[2013-01-09 14:38:57] jlipps: i see.
+[2013-01-09 14:38:59] sourishkrout, joining. (#appium)
+[2013-01-09 14:39:07] freynaud: xcodebuild -showsdks
+[2013-01-09 14:39:26] freynaud: for instance gives you all the simulator installed. The last one is the default
+[2013-01-09 14:39:28] jlipps: so, in nodejs functions like child_process.exec will do what you need, but they are async functions
+[2013-01-09 14:39:44] freynaud: I'm looking at node-promise
+[2013-01-09 14:39:59] freynaud: I think this does what I have in java
