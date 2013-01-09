@@ -299,3 +299,19 @@
 [2013-01-09 15:44:13] freynaud: but wd.js is the client right ?
 [2013-01-09 15:44:36] jlipps: sure i'm just using it as an example of a project where callbacks end up getting nested like crazy
 [2013-01-09 15:44:43] jlipps: because each selenium command is async
+[2013-01-09 15:45:11] freynaud: my experience with selenium is that users like building frameworks on top of the clients that solve everything
+[2013-01-09 15:45:30] freynaud: but they don't work on the server that much
+[2013-01-09 15:45:44] freynaud: because it's a bit complex to start with
+[2013-01-09 15:46:10] jlipps: yeah that's a good point
+[2013-01-09 15:46:22] freynaud: ios-driver is no finished, it doesn't do adv interactions and web on devices
+[2013-01-09 15:46:22] jlipps: so you're saying that the overall contributor pool is going to be smaller
+[2013-01-09 15:46:41] freynaud: I'm saying I don't see a lot of patches for selenium itself
+[2013-01-09 15:46:56] freynaud: and it doesn't involve reverse engineer apple's stuff
+[2013-01-09 15:47:11] jlipps: :-)
+[2013-01-09 15:47:35] freynaud: today, if I had to guess
+[2013-01-09 15:47:54] freynaud: I'd say user would contribute on ios-driver only in 1 bit, instruments
+[2013-01-09 15:48:07] freynaud: https://github.com/freynaud/ios-driver/tree/master/server/src/main/resources/instruments-js
+[2013-01-09 15:48:11] freynaud: that's pure JS
+[2013-01-09 15:48:36] freynaud: that's where you can merge tuneup.js for instance
+[2013-01-09 15:48:48] freynaud: the plist parsing, nobody will volunteer
+[2013-01-09 15:49:42] jlipps: https://github.com/TooTallNate/node-plist
