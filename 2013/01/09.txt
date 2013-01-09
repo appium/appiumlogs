@@ -261,3 +261,14 @@
 [2013-01-09 15:09:30] freynaud: ok, working now
 [2013-01-09 15:09:38] jlipps: great
 [2013-01-09 15:10:00] freynaud: intelliJ being stupid :p
+[2013-01-09 15:10:23] freynaud: clicking on a test should run as test, not as regular script ..
+[2013-01-09 15:10:38] jlipps: noice. and you could of course follow the node convention of returning "err" as the first argument of a callback, that way you can bubble it up from the exec in case there are errors
+[2013-01-09 15:10:54] jlipps: so host_info.create(function(err, h) { /* check for errors and do stuff */ });
+[2013-01-09 15:11:03] freynaud: k
+[2013-01-09 15:11:17] jlipps: but that is in the realm of "best practices" not "hack this shit together" :-)
+[2013-01-09 15:11:29] freynaud: i don't think there is a choice
+[2013-01-09 15:11:40] freynaud: there is no error message in instruments
+[2013-01-09 15:11:50] freynaud: if it crashes, it crashes and that's all
+[2013-01-09 15:12:13] jlipps: makes it easy! in that case, perhaps exec would return something informative in its own "err" var and you could at least catch that
+[2013-01-09 15:12:14] freynaud: if we don't propagate exceptions properly, we won't save any time
+[2013-01-09 15:13:06] jlipps: please don't be offended that i proposed that crazy hacking and best practices might not both be possible simultaneously; i was just trying to not come across as pedantic :-)
