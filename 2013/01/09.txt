@@ -315,3 +315,22 @@
 [2013-01-09 15:48:36] freynaud: that's where you can merge tuneup.js for instance
 [2013-01-09 15:48:48] freynaud: the plist parsing, nobody will volunteer
 [2013-01-09 15:49:42] jlipps: https://github.com/TooTallNate/node-plist
+[2013-01-09 15:50:07] freynaud: that's not the fun parsing :)
+[2013-01-09 15:50:19] freynaud: that's the conversion from binary to human readble
+[2013-01-09 15:50:57] freynaud: after that step, you have to handle the obj-c regex, convert them to normal regex, and pray that it doesn't explode
+[2013-01-09 15:51:04] jlipps: ha
+[2013-01-09 15:51:23] freynaud: I test the eBay site
+[2013-01-09 15:51:30] freynaud: for EU, that's 5 languages
+[2013-01-09 15:51:44] freynaud: all that translation is shipped with the app
+[2013-01-09 15:52:07] freynaud: so opening the app, parsing it, you can extract the key / value for the content
+[2013-01-09 15:52:14] freynaud: and use that in your selector
+[2013-01-09 15:52:29] freynaud: it works, but the parsing is very paainful
+[2013-01-09 15:52:41] freynaud: + I hate regex, so that doesn't help
+[2013-01-09 15:52:47] jlipps: yeah it sounds like it!
+[2013-01-09 15:53:28] freynaud: the goal being to have that : https://github.com/freynaud/ios-driver/blob/master/server/src/test/java/org/uiautomation/ios/e2e/intl/ComplexCriteriaTest.java#L44
+[2013-01-09 15:53:47] freynaud: WebElement el = driver.findElement(By.xpath("//*[matches(@name,l10n('meterFormat'))]"));
+[2013-01-09 15:54:27] freynaud: meterFormat is the key in the content file, it's localized on the server before being forwarded to instrument
+[2013-01-09 15:54:37] jlipps: oh i see
+[2013-01-09 15:54:44] freynaud: that gives you 山 1 是8,848米高。它第一次攀登了在29 May 1953。
+[2013-01-09 15:54:47] jlipps: so you're regexing the xpath to figure out what to look for in the plist?
+[2013-01-09 15:54:58] freynaud: both ways
