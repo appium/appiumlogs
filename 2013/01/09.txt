@@ -75,3 +75,12 @@
 [2013-01-09 13:25:11] admc: but I suggest trying to break your brain into async, and just use spawn and the "exit" event
 [2013-01-09 13:38:35] freynaud: do you have a simple example showing that ?
 [2013-01-09 13:38:52] freynaud: a object with a variable set to the exit code of ls for instance
+[2013-01-09 13:41:12] admc: https://gist.github.com/4497219
+[2013-01-09 13:41:30] admc: is that what you are looking for?
+[2013-01-09 13:41:40] freynaud: no, that's what I have :)
+[2013-01-09 13:41:52] admc: ah not sure what you are asking for them
+[2013-01-09 13:42:28] freynaud: I have https://gist.github.com/4497228
+[2013-01-09 13:42:56] freynaud: this.installedSimulators =
+[2013-01-09 13:43:17] freynaud: that needs to take the result of a xcodebuild -showsdks somehow
+[2013-01-09 13:44:37] admc: let me just clone this repo, so you want to run a command line thing, and then sit it to the this.installedSimulator variable?
+[2013-01-09 13:44:53] freynaud: correct.
