@@ -95,3 +95,10 @@
 [2013-01-09 13:49:38] freynaud: the architecture is really simple
 [2013-01-09 13:49:53] freynaud: the hard part is finding how apple organise its stuff
 [2013-01-09 13:50:01] admc: alright, maybe you can just clue me in real fast
+[2013-01-09 13:50:44] freynaud: 1) client sends a json request in web driver format
+[2013-01-09 13:50:55] freynaud: 2) sever ( so currently java, to be converted to node) gets the request
+[2013-01-09 13:51:20] freynaud: 3) parse, and converts the web driver command into a JS snipet for Instruments
+[2013-01-09 13:51:41] freynaud: 4) server sends the sniper in the eval() loop in Instruments, and gets the response
+[2013-01-09 13:51:59] freynaud: 5) package it again into web driver format and forward to the client
+[2013-01-09 13:53:09] freynaud: the server has 2 pieces. 1 is all the init stuff, which I'm working on now. Find where instruments is, all the files, the apps etc.
+[2013-01-09 13:53:50] freynaud: then the other part, a "normal" web server forwards, sometimes opening the request and adding some decorators
