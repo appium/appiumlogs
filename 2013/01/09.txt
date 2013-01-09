@@ -165,3 +165,10 @@
 [2013-01-09 14:23:37] freynaud: it's all in java files :)
 [2013-01-09 14:24:21] admc: I can imagine :)
 [2013-01-09 14:24:23] freynaud: https://github.com/freynaud/ios-driver/blob/master/server/src/main/java/org/uiautomation/ios/webInspector/DOM/RemoteWebElement.java#L243
+[2013-01-09 14:25:42] freynaud: do you see how I should do my assign variable to the result of a spawn ?
+[2013-01-09 14:27:54] admc: im gonna do a promises example, I'm looking at the commands used here: https://github.com/hugs/appium/blob/master/appium/appium.py
+[2013-01-09 14:27:58] admc: installing the xcode dev tools now
+[2013-01-09 14:28:31] freynaud: you only need that
+[2013-01-09 14:28:45] freynaud: if you can xcodebuild -version, you have most of it
+[2013-01-09 14:28:47] jlipps, joining. (#appium)
+[2013-01-09 14:29:48] johndunham, joining. (#appium)
