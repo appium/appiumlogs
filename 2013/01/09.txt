@@ -44,3 +44,13 @@
 [2013-01-09 13:07:28] freynaud: i'm starting with node.js
 [2013-01-09 13:07:59] freynaud: is there a way to execute a process synchronously ?
 [2013-01-09 13:08:30] freynaud: to have a info.installedSDKs = exec("xcodebuild -showsdks");
+[2013-01-09 13:10:58] santiycr, joining. (#appium)
+[2013-01-09 13:11:03] santiycr: oh hai
+[2013-01-09 13:11:16] admc: there are a bunch of different ways in node to do things sync
+[2013-01-09 13:11:20] freynaud: hello
+[2013-01-09 13:11:22] admc: people like the promises style stuff
+[2013-01-09 13:11:45] freynaud: am I allowed to sync btw ?
+[2013-01-09 13:12:18] freynaud: I have a hostInfo class that gathers all the host info, installed sdk, simulators, Xcode etc
+[2013-01-09 13:12:46] freynaud: I exec some command line for that in java. I'd like the same result in node, but maybe that's not the way
+[2013-01-09 13:13:18] admc: so the sort of "decided" way to do that, is to build a module to import that has a few layers of callbacks, and to actually do the whole thing async
+[2013-01-09 13:13:47] admc: so you have more module 'requires' at the top, and each thing is calling into a module and passing a callback function for what to do when its finished
