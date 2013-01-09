@@ -33,3 +33,14 @@
 [2013-01-09 12:22:32] freynaud, joining. (#appium)
 [2013-01-09 12:39:57] freynaud, quitting. (Remote host closed the connection)
 [2013-01-09 12:40:18] freynaud, joining. (#appium)
+[2013-01-09 13:05:57] freynaud: where is the node.js expert ? :)
+[2013-01-09 13:06:13] jcarr: ah
+[2013-01-09 13:06:19] jcarr: not me :)
+[2013-01-09 13:06:35] jcarr: hold on though, I will grab someone
+[2013-01-09 13:07:00] admc, joining. (#appium)
+[2013-01-09 13:07:15] admc: greetings
+[2013-01-09 13:07:16] freynaud: Hi admc
+[2013-01-09 13:07:22] admc: whats up?
+[2013-01-09 13:07:28] freynaud: i'm starting with node.js
+[2013-01-09 13:07:59] freynaud: is there a way to execute a process synchronously ?
+[2013-01-09 13:08:30] freynaud: to have a info.installedSDKs = exec("xcodebuild -showsdks");
