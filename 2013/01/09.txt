@@ -110,3 +110,17 @@
 [2013-01-09 13:58:39] freynaud: the ClassicCommands class has all the Xcode related command I execute to see what the user install looks like
 [2013-01-09 13:59:23] freynaud: are you located in the US too ?
 [2013-01-09 13:59:51] admc: yeah san francisco!
+[2013-01-09 14:00:05] admc: you should just jump on a plan and come to the sauce office so we can hammer this out
+[2013-01-09 14:00:11] lukeis: heavy SF presence in this chat room ;)
+[2013-01-09 14:00:21] lukeis: hiya admc / santiycr  :)
+[2013-01-09 14:01:02] freynaud: the original plan was to avoid traveling in Q1
+[2013-01-09 14:01:28] freynaud: I've been back from vacation for 3 days, and I'm already negotiating 3 trips with the wife :)
+[2013-01-09 14:01:58] admc: hahaha
+[2013-01-09 14:02:20] admc: thats what happens when your doing all the important things
+[2013-01-09 14:02:33] admc: where are you located?
+[2013-01-09 14:02:43] freynaud: either that, or when there is no documentation explaining clearly what's done ^^
+[2013-01-09 14:02:47] freynaud: London
+[2013-01-09 14:04:14] admc: ah cool
+[2013-01-09 14:04:26] lukeis: so is the new node stuff going straight into https://github.com/hugs/appium ? or a new repo?
+[2013-01-09 14:04:43] lukeis: or another? :)
+[2013-01-09 14:04:53] freynaud: i would say appium
