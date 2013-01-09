@@ -84,3 +84,14 @@
 [2013-01-09 13:43:17] freynaud: that needs to take the result of a xcodebuild -showsdks somehow
 [2013-01-09 13:44:37] admc: let me just clone this repo, so you want to run a command line thing, and then sit it to the this.installedSimulator variable?
 [2013-01-09 13:44:53] freynaud: correct.
+[2013-01-09 13:45:13] freynaud: this is blocking. Until I know what the machine has on it, there is nothing I can do
+[2013-01-09 13:45:45] freynaud: ios-driver is very blocking. you have a single instruments, attached to a single simulator
+[2013-01-09 13:46:01] freynaud: doing things in the wrong order won't work
+[2013-01-09 13:46:31] freynaud: for the java imll, I have 1 single other thread spawned, and it's commented out atm
+[2013-01-09 13:48:14] admc: I think this would be easier to explain if I was a bit more clued into how this architecture works
+[2013-01-09 13:48:35] freynaud: ios-driver ?
+[2013-01-09 13:49:12] admc: yeah, im gonna chat with jcarr and hugs and get some context so that we can chat about the right way to do this in node
+[2013-01-09 13:49:25] admc: that way I can just put together some example code
+[2013-01-09 13:49:38] freynaud: the architecture is really simple
+[2013-01-09 13:49:53] freynaud: the hard part is finding how apple organise its stuff
+[2013-01-09 13:50:01] admc: alright, maybe you can just clue me in real fast
