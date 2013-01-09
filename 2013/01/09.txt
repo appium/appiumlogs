@@ -32,3 +32,4 @@
 [2013-01-09 11:54:21] jcarr1, changing nick to jcarr.
 [2013-01-09 12:22:32] freynaud, joining. (#appium)
 [2013-01-09 12:39:57] freynaud, quitting. (Remote host closed the connection)
+[2013-01-09 12:40:18] freynaud, joining. (#appium)
