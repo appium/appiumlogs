@@ -210,3 +210,15 @@
 [2013-01-09 14:39:28] jlipps: so, in nodejs functions like child_process.exec will do what you need, but they are async functions
 [2013-01-09 14:39:44] freynaud: I'm looking at node-promise
 [2013-01-09 14:39:59] freynaud: I think this does what I have in java
+[2013-01-09 14:41:40] jlipps: yes, promises are a way of wrapping asynchronous behavior so you don't have to use callbacks
+[2013-01-09 14:41:58] jlipps: this is a significant design choice, and there are certainly pros and cons
+[2013-01-09 14:42:04] freynaud: i don't mind using callbacks
+[2013-01-09 14:42:27] freynaud: I just want to make sure that when I return my object, all the variable have been set
+[2013-01-09 14:42:35] jlipps: i see.
+[2013-01-09 14:42:37] stackedsax, quitting. (Quit: Leaving.)
+[2013-01-09 14:42:43] jlipps: there's another way of going about it, though.
+[2013-01-09 14:42:52] freynaud: I'm listening
+[2013-01-09 14:43:48] jlipps: what i hear that you want is doing something like "var h = host_info.create(); // do stuff with h"
+[2013-01-09 14:44:04] freynaud: yes
+[2013-01-09 14:44:39] freynaud: h.getInstalledSDK(); will return the result of the xcodebuild + result parsed
+[2013-01-09 14:44:42] stackedsax, joining. (#appium)
