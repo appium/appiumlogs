@@ -143,3 +143,17 @@
 [2013-01-09 14:09:38] lukeis: ninja speed and automating iOS are two things that don't really happen right now ;)
 [2013-01-09 14:09:39] freynaud: it's under negotiation
 [2013-01-09 14:09:54] admc: hah, i've heard that.
+[2013-01-09 14:10:38] freynaud: the iOS  automation part progress ok here. When the web view on device will be done, the driver will be pretty complete
+[2013-01-09 14:11:10] freynaud: what do you have against java btw ?
+[2013-01-09 14:11:43] admc: i don't have anything against java
+[2013-01-09 14:11:47] freynaud: ( there is a bit of JS in ios-driver btw )
+[2013-01-09 14:12:07] admc: i have just seen the amazing uptake and excitement about building communities with github + node + travis
+[2013-01-09 14:12:38] freynaud: as a dev on appium
+[2013-01-09 14:12:48] freynaud: you'll not spend time on java or node
+[2013-01-09 14:12:57] freynaud: but in the internals of apple's stuff
+[2013-01-09 14:13:05] jcarr: apple's internals… *sigh*
+[2013-01-09 14:13:13] jcarr: undocumented and stupid
+[2013-01-09 14:13:18] freynaud: at least so far, that's where I've spent / wasted all my time
+[2013-01-09 14:13:50] freynaud: for instance, what's the plist you need to overwrite to prevent auto capitalisation when filling in form etc
+[2013-01-09 14:14:10] freynaud: it's always 1 hours of search for 1 line of code
+[2013-01-09 14:14:29] freynaud: and that's when I'm productive  :p
