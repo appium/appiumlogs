@@ -251,3 +251,13 @@
 [2013-01-09 14:57:21] jlipps: ideally as a project matures some crazy person makes a sync wrapper for it so people have their choice :-)
 [2013-01-09 15:02:09] jlipps: let me know if something in there doesn't make sense--i didn't make getter functions for the new properties but you get the idea
 [2013-01-09 15:02:52] freynaud: yes
+[2013-01-09 15:06:24] freynaud: did you exports enough ?
+[2013-01-09 15:07:02] freynaud: i see the expected result if I use it from inside the module, but my test fails
+[2013-01-09 15:07:23] jlipps: oh
+[2013-01-09 15:07:28] freynaud: looks like it doesn't execute function(h) at all
+[2013-01-09 15:07:55] jlipps: that's probably because it's not making it to cb(self) on line 37
+[2013-01-09 15:08:04] freynaud: https://gist.github.com/4497853
+[2013-01-09 15:09:29] jlipps: i haven't used exec() a lot myself, you could throw a console.log after line 33 and 35 to make sure it's getting through
+[2013-01-09 15:09:30] freynaud: ok, working now
+[2013-01-09 15:09:38] jlipps: great
+[2013-01-09 15:10:00] freynaud: intelliJ being stupid :p
