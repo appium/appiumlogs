@@ -172,3 +172,21 @@
 [2013-01-09 14:28:45] freynaud: if you can xcodebuild -version, you have most of it
 [2013-01-09 14:28:47] jlipps, joining. (#appium)
 [2013-01-09 14:29:48] johndunham, joining. (#appium)
+[2013-01-09 14:30:34] freynaud: how does node.js deployment works ?
+[2013-01-09 14:31:09] freynaud: if I install new modules with npm, is there a way for users to have those without having to install them 1 by 1 ?
+[2013-01-09 14:31:25] admc: yeah so you define a package.json file
+[2013-01-09 14:31:42] freynaud: ok
+[2013-01-09 14:31:46] admc: https://github.com/admc/wd/blob/master/package.json
+[2013-01-09 14:31:49] admc: and then in the directory
+[2013-01-09 14:31:54] admc: you just say 'npm install .'
+[2013-01-09 14:31:57] admc: and it will install all the deps
+[2013-01-09 14:32:02] freynaud: unit tests.
+[2013-01-09 14:32:22] freynaud: are you happy with mocka ?
+[2013-01-09 14:32:56] freynaud: sorry, nodeunit
+[2013-01-09 14:33:13] freynaud: is what runs my first tests
+[2013-01-09 14:33:48] admc: we have really been digging mocha in wd
+[2013-01-09 14:34:07] admc: hey freynaud want to intro you to jlipps who is a rockin nodejs dev
+[2013-01-09 14:34:18] admc: he's gonna help us get rockin and rolling here
+[2013-01-09 14:34:35] freynaud: hi jlipps
+[2013-01-09 14:34:45] jlipps: hi freynaud, i think we might have met at the mobile summit briefly. admc just shared a gist with me you guys were talking about
+[2013-01-09 14:34:58] freynaud: cool
