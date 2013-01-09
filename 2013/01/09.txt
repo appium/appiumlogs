@@ -288,3 +288,14 @@
 [2013-01-09 15:32:29] freynaud: of I won't be able to have the driver access all of them
 [2013-01-09 15:35:54] jlipps: that's true. at some point you'd want a convenience initialization function which returns all the async objects you want to work with
 [2013-01-09 15:38:39] jlipps: https://gist.github.com/4498052
+[2013-01-09 15:40:49] freynaud: i think I'll keep the java version for now until I can sit next the a node guy ^^
+[2013-01-09 15:41:40] jlipps: does seem like a good candidate for using some kind of sync wrapper instead
+[2013-01-09 15:42:08] freynaud: is that ok ?
+[2013-01-09 15:42:26] jlipps: sorry, is what ok exactly?
+[2013-01-09 15:42:37] freynaud: I mean if we switch from java to node, and make node do something it's not suppose to do
+[2013-01-09 15:42:56] freynaud: will we get some committers, or just annoy them
+[2013-01-09 15:43:29] jlipps: what's your opinion admc?
+[2013-01-09 15:43:51] jlipps: i know with wd.js we started out with vanilla js and then people went wild making all kinds of other flavors of it
+[2013-01-09 15:44:13] freynaud: but wd.js is the client right ?
+[2013-01-09 15:44:36] jlipps: sure i'm just using it as an example of a project where callbacks end up getting nested like crazy
+[2013-01-09 15:44:43] jlipps: because each selenium command is async
