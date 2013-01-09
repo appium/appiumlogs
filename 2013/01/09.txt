@@ -72,3 +72,4 @@
 [2013-01-09 13:23:52] admc: haha "call the things thing"
 [2013-01-09 13:23:56] admc: you know what I mean
 [2013-01-09 13:24:42] admc: a lot of folks who really want to do something sync, use this sort of style: http://howtonode.org/promises
+[2013-01-09 13:25:11] admc: but I suggest trying to break your brain into async, and just use spawn and the "exit" event
