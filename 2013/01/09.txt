@@ -18,3 +18,10 @@
 [2013-01-09 11:03:50] jcarr1, joining. (#appium)
 [2013-01-09 11:05:54] jcarr1, leaving. (#appium)
 [2013-01-09 11:06:11] jcarr, quitting. (Ping timeout: 252 seconds)
+[2013-01-09 11:15:44] freynaud, joining. (#appium)
+[2013-01-09 11:18:03] hugs: ohai, folks
+[2013-01-09 11:18:33] hugs: hmm... have i not said anything in this channel for >= 21 days?!
+[2013-01-09 11:18:36] lukeis: has it really been that long since you said something? :)
+[2013-01-09 11:18:44] hugs: :-)
+[2013-01-09 11:18:48] lukeis: bot issue? :)
+[2013-01-09 11:18:54] *lukeis blames jarib'
