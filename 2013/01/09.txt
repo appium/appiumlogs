@@ -272,3 +272,5 @@
 [2013-01-09 15:12:13] jlipps: makes it easy! in that case, perhaps exec would return something informative in its own "err" var and you could at least catch that
 [2013-01-09 15:12:14] freynaud: if we don't propagate exceptions properly, we won't save any time
 [2013-01-09 15:13:06] jlipps: please don't be offended that i proposed that crazy hacking and best practices might not both be possible simultaneously; i was just trying to not come across as pedantic :-)
+[2013-01-09 15:15:24] freynaud: let me find an error message
+[2013-01-09 15:15:45] freynaud: we can play "guess the root cause"
