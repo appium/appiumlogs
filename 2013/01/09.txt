@@ -281,3 +281,8 @@
 [2013-01-09 15:26:06] jlipps: that's lovely
 [2013-01-09 15:27:01] freynaud: yes. And pleasant to debug.
 [2013-01-09 15:28:16] brainsik, joining. (#appium)
+[2013-01-09 15:31:08] freynaud: i'm still not sure I see how it will all fit together
+[2013-01-09 15:31:17] freynaud: I'm still in a callback
+[2013-01-09 15:31:43] freynaud: if my server has 10 objects like host_info
+[2013-01-09 15:32:08] freynaud: I will either need to create a massive object called hostInfoAndTheRest
+[2013-01-09 15:32:29] freynaud: of I won't be able to have the driver access all of them
