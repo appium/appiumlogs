@@ -157,3 +157,6 @@
 [2013-01-09 14:13:50] freynaud: for instance, what's the plist you need to overwrite to prevent auto capitalisation when filling in form etc
 [2013-01-09 14:14:10] freynaud: it's always 1 hours of search for 1 line of code
 [2013-01-09 14:14:29] freynaud: and that's when I'm productive  :p
+[2013-01-09 14:15:34] admc: sure, regardless of what the actual time suck is, if we take this out to the developer communities (at least the ones I spend lots of time interacting with), and you put a node codebase in front of them, js a java codebase, the actual contributors we attract will simply be higher and more motivated if its javascript
+[2013-01-09 14:15:57] admc: selenium has had a really hard time getting contributions for this reason
+[2013-01-09 14:16:10] admc: vs
