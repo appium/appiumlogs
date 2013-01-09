@@ -73,3 +73,5 @@
 [2013-01-09 13:23:56] admc: you know what I mean
 [2013-01-09 13:24:42] admc: a lot of folks who really want to do something sync, use this sort of style: http://howtonode.org/promises
 [2013-01-09 13:25:11] admc: but I suggest trying to break your brain into async, and just use spawn and the "exit" event
+[2013-01-09 13:38:35] freynaud: do you have a simple example showing that ?
+[2013-01-09 13:38:52] freynaud: a object with a variable set to the exit code of ls for instance
