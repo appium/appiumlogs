@@ -241,3 +241,11 @@
 [2013-01-09 14:54:47] admc: lukeis: what is your github username
 [2013-01-09 14:54:53] lukeis: lukeis
 [2013-01-09 14:54:54] jlipps: freynaud: https://gist.github.com/4497724
+[2013-01-09 14:55:03] lukeis: :)
+[2013-01-09 14:55:49] jlipps: aesthetically, i agree that nested callbacks is not the most clear way to say "do this, then this, then this, then i'm ready"; so a lot of people are turning to promises to make these interfaces nicer
+[2013-01-09 14:56:00] jlipps: but i just wanted you to see how it could be done without it
+[2013-01-09 14:56:36] freynaud: I started with nodes 2 days ago.
+[2013-01-09 14:56:46] freynaud: I'd rather not add 50 modules just yet
+[2013-01-09 14:56:52] freynaud: cb are fine
+[2013-01-09 14:57:03] jlipps: yeah
+[2013-01-09 14:57:21] jlipps: ideally as a project matures some crazy person makes a sync wrapper for it so people have their choice :-)
