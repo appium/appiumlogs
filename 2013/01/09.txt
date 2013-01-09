@@ -124,3 +124,22 @@
 [2013-01-09 14:04:26] lukeis: so is the new node stuff going straight into https://github.com/hugs/appium ? or a new repo?
 [2013-01-09 14:04:43] lukeis: or another? :)
 [2013-01-09 14:04:53] freynaud: i would say appium
+[2013-01-09 14:05:08] freynaud: no point telling users to change every 2 months
+[2013-01-09 14:05:22] lukeis: certainly ;)
+[2013-01-09 14:05:45] freynaud: atm, I have very little. I'm still working on new features in the java implementation
+[2013-01-09 14:05:46] admc: we have created an organization on github called appium, but don't have a repo there
+[2013-01-09 14:06:01] admc: im wondering if we should just make a new branch on hugs repo
+[2013-01-09 14:06:05] admc: do the work there, then change it over
+[2013-01-09 14:06:09] admc: when its ready
+[2013-01-09 14:06:12] lukeis: admc: that's still a user ;)
+[2013-01-09 14:06:14] freynaud: I'm working on real device for web views tomorrow, that's one of the last piece
+[2013-01-09 14:06:48] freynaud: after that, I think the only problem remaining is setup and teardown on devices
+[2013-01-09 14:07:43] admc: I think our plan is to get 3 or 4 devs here up to speed on how this all works, and then just re-implement all the stuff you've done in java at as close to ninja speed as we can
+[2013-01-09 14:08:25] lukeis: flying saucers, attack! ;)
+[2013-01-09 14:08:31] freynaud: :p
+[2013-01-09 14:08:40] admc: as long as freynaud is down with that!
+[2013-01-09 14:09:14] admc: we also plan to fly freynaud here become a node ninja with us
+[2013-01-09 14:09:30] admc: :)
+[2013-01-09 14:09:38] lukeis: ninja speed and automating iOS are two things that don't really happen right now ;)
+[2013-01-09 14:09:39] freynaud: it's under negotiation
+[2013-01-09 14:09:54] admc: hah, i've heard that.
