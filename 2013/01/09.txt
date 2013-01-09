@@ -30,3 +30,4 @@
 [2013-01-09 11:40:58] freynaud, quitting. (Quit: freynaud)
 [2013-01-09 11:53:15] jcarr1, joining. (#appium)
 [2013-01-09 11:54:21] jcarr1, changing nick to jcarr.
+[2013-01-09 12:22:32] freynaud, joining. (#appium)
