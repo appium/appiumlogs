@@ -236,3 +236,8 @@
 [2013-01-09 14:48:43] freynaud: it's not a web server handling several things
 [2013-01-09 14:49:05] freynaud: it can only do 1 single thing
 [2013-01-09 14:49:21] freynaud: instruments cannot handle more than 1 command per second
+[2013-01-09 14:50:26] jlipps: i'm not sure it's a matter of easy vs difficult, i think it's more a matter of which style is familiar/accepted by those who will be contributing to the project… but i see your point. anyway, stand by....
+[2013-01-09 14:53:44] stackedsax, quitting. (Quit: Leaving.)
+[2013-01-09 14:54:47] admc: lukeis: what is your github username
+[2013-01-09 14:54:53] lukeis: lukeis
+[2013-01-09 14:54:54] jlipps: freynaud: https://gist.github.com/4497724
