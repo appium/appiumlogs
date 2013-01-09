@@ -286,3 +286,5 @@
 [2013-01-09 15:31:43] freynaud: if my server has 10 objects like host_info
 [2013-01-09 15:32:08] freynaud: I will either need to create a massive object called hostInfoAndTheRest
 [2013-01-09 15:32:29] freynaud: of I won't be able to have the driver access all of them
+[2013-01-09 15:35:54] jlipps: that's true. at some point you'd want a convenience initialization function which returns all the async objects you want to work with
+[2013-01-09 15:38:39] jlipps: https://gist.github.com/4498052
