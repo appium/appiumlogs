@@ -353,3 +353,12 @@
 [2013-01-09 15:59:33] freynaud: you can use Xpath
 [2013-01-09 15:59:53] freynaud: but the only 3 attributes of each element are name, value and label
 [2013-01-09 15:59:58] freynaud: and those 3 are localized
+[2013-01-09 16:00:56] freynaud: there is no id or things like that to make it easy
+[2013-01-09 16:01:18] freynaud: equality has also been broken for the last 2 -3 version
+[2013-01-09 16:01:54] freynaud: http://www.cozykozy.com/wtf-uiautomation-y-u-no-respect-object-equali
+[2013-01-09 16:02:07] freynaud: it makes it even more fun
+[2013-01-09 16:03:12] jlipps: wow that's insane. bbiab
+[2013-01-09 16:03:20] lukeis, quitting. (Quit: Leaving.)
+[2013-01-09 16:03:45] freynaud: yep, there is a lot of things to do to have a good driver
+[2013-01-09 16:03:58] freynaud: but that doesn't always result in a lot of code
+[2013-01-09 16:04:22] freynaud: it's more trying to figure out what crazy idea apple decide to come up with
