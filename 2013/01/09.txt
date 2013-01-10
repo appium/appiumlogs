@@ -387,3 +387,17 @@
 [2013-01-09 16:14:08] santiycr, quitting. (Quit: Leaving.)
 [2013-01-09 16:14:17] freynaud: what do you mean the next one ?
 [2013-01-09 16:14:51] admc: my understanding is that they are writing to a file and there is a loop in the file given to instruments which reads from the file and runs the command
+[2013-01-09 16:15:10] admc: you are using curl to get the next command, your able to wait for the eval to come back, then you curl the next thing to run?
+[2013-01-09 16:15:21] admc: from the JS loop?
+[2013-01-09 16:15:21] santiycr, joining. (#appium)
+[2013-01-09 16:15:26] freynaud: I use one curl for both
+[2013-01-09 16:15:27] freynaud: https://github.com/freynaud/ios-driver/blob/master/server/src/main/resources/instruments-js/UIAutomation.js#L86
+[2013-01-09 16:15:54] freynaud: curl post the response to the java server, and blocks until the server gives the next command
+[2013-01-09 16:15:59] freynaud: and loops on that
+[2013-01-09 16:16:45] admc: got it makes sense
+[2013-01-09 16:16:51] freynaud: on the server side, I check the request and response queue, and throw if someone sends request without waiting for the response
+[2013-01-09 16:17:09] freynaud: that's only for the native part
+[2013-01-09 16:17:26] freynaud: the native part doesn't work too well for node.js
+[2013-01-09 16:17:47] freynaud: the web part is completely async though, so that will be easy to plug in
+[2013-01-09 16:19:11] admc: i actually think there are some reasonably nice ways to do this
+[2013-01-09 16:20:01] freynaud: santiycr: iphonedriver should merge with appium at some point
