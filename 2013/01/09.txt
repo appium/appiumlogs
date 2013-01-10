@@ -401,3 +401,5 @@
 [2013-01-09 16:17:47] freynaud: the web part is completely async though, so that will be easy to plug in
 [2013-01-09 16:19:11] admc: i actually think there are some reasonably nice ways to do this
 [2013-01-09 16:20:01] freynaud: santiycr: iphonedriver should merge with appium at some point
+[2013-01-09 16:20:10] freynaud: safari is an app like any other
+[2013-01-09 16:23:12] freynaud, leaving. (#appium)
