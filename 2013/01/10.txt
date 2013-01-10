@@ -58,3 +58,6 @@
 [2013-01-10 13:20:48] sourishkrout, joining. (#appium)
 [2013-01-10 13:22:16] admc, joining. (#appium)
 [2013-01-10 13:24:10] johndunham, joining. (#appium)
+[2013-01-10 13:28:30] admc: how do I make myself a public member
+[2013-01-10 13:28:33] admc: I cant find the UI
+[2013-01-10 13:29:01] admc: nm
