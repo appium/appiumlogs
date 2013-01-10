@@ -404,3 +404,4 @@
 [2013-01-09 16:20:10] freynaud: safari is an app like any other
 [2013-01-09 16:23:12] freynaud, leaving. (#appium)
 [2013-01-09 16:31:54] admc, quitting. (Quit: Leaving.)
+[2013-01-09 16:43:40] admc, joining. (#appium)
