@@ -376,3 +376,14 @@
 [2013-01-09 16:09:36] admc: would love to here what those are, sounds like a non irc conversation though
 [2013-01-09 16:09:50] freynaud: i did some thing
 [2013-01-09 16:09:59] freynaud: not all of them are worth taking
+[2013-01-09 16:10:37] freynaud: anything implementing the HorribleHack interface is risky :p
+[2013-01-09 16:12:38] admc: hah, makes sense
+[2013-01-09 16:13:16] admc: how are you getting commands into instruments/getting output etc from the command
+[2013-01-09 16:13:32] freynaud: curl
+[2013-01-09 16:13:44] admc: to a server with a queue?
+[2013-01-09 16:13:55] freynaud: queue of 1
+[2013-01-09 16:13:57] admc: how do you know when its safe to call the next one
+[2013-01-09 16:14:03] admc: err to get the next one
+[2013-01-09 16:14:08] santiycr, quitting. (Quit: Leaving.)
+[2013-01-09 16:14:17] freynaud: what do you mean the next one ?
+[2013-01-09 16:14:51] admc: my understanding is that they are writing to a file and there is a loop in the file given to instruments which reads from the file and runs the command
