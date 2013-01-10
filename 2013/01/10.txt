@@ -7,3 +7,4 @@
 [2013-01-10 06:59:35] johndunham, quitting. (Client Quit)
 [2013-01-10 07:05:01] johndunham, joining. (#appium)
 [2013-01-10 07:18:19] stackedsax1, quitting. (Quit: Leaving.)
+[2013-01-10 07:32:16] stackedsax, joining. (#appium)
