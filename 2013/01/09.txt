@@ -420,3 +420,4 @@
 [2013-01-09 17:43:14] sourishkrout, quitting. (Ping timeout: 240 seconds)
 [2013-01-09 18:00:25] jlipps, quitting. (Quit: jlipps)
 [2013-01-09 18:01:51] jcarr1, quitting. (Quit: Leaving.)
+[2013-01-09 18:07:49] admc, quitting. (Quit: Leaving.)
