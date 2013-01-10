@@ -9,3 +9,6 @@
 [2013-01-10 07:18:19] stackedsax1, quitting. (Quit: Leaving.)
 [2013-01-10 07:32:16] stackedsax, joining. (#appium)
 [2013-01-10 08:16:43] lukeis, joining. (#appium)
+[2013-01-10 08:36:59] appiumbot, joining. (#appium)
+[2013-01-10 08:37:10] lukeis: :log
+[2013-01-10 08:37:50] lukeis: appium logs now in the appium org ;)
