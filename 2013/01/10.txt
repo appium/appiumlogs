@@ -54,3 +54,4 @@
 [2013-01-10 11:36:20] sourishkrout1, quitting. (Quit: Leaving.)
 [2013-01-10 11:56:15] admc, quitting. (Quit: Leaving.)
 [2013-01-10 12:18:20] stackedsax, joining. (#appium)
+[2013-01-10 12:21:40] stackedsax, quitting. (Client Quit)
