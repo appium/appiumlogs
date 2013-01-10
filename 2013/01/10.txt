@@ -29,3 +29,6 @@
 [2013-01-10 10:11:12] lukeis: well, you won't get that message again hugs, but i have no idea why it was holding on to it
 [2013-01-10 10:13:32] lukeis: btw hugs i 'publicized' yours and my membership https://github.com/appium?tab=members  (I didn't want to be the only public member and didn't feel comfortable doing it to anyone else)
 [2013-01-10 10:28:40] stackedsax, quitting. (Quit: Leaving.)
+[2013-01-10 10:35:41] sourishkrout1, joining. (#appium)
+[2013-01-10 10:37:28] johndunham, quitting. (Quit: Computer has gone to sleep.)
+[2013-01-10 10:39:08] sourishkrout, quitting. (Ping timeout: 252 seconds)
