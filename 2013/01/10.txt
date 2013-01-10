@@ -24,3 +24,4 @@
 [2013-01-10 10:02:19] stackedsax, joining. (#appium)
 [2013-01-10 10:02:59] hugs, joining. (#appium)
 [2013-01-10 10:04:12] hugs: ohai, appiumbot
+[2013-01-10 10:09:31] lukeis: hrmph
