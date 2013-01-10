@@ -25,3 +25,6 @@
 [2013-01-10 10:02:59] hugs, joining. (#appium)
 [2013-01-10 10:04:12] hugs: ohai, appiumbot
 [2013-01-10 10:09:31] lukeis: hrmph
+[2013-01-10 10:10:55] appiumbot, joining. (#appium)
+[2013-01-10 10:11:12] lukeis: well, you won't get that message again hugs, but i have no idea why it was holding on to it
+[2013-01-10 10:13:32] lukeis: btw hugs i 'publicized' yours and my membership https://github.com/appium?tab=members  (I didn't want to be the only public member and didn't feel comfortable doing it to anyone else)
