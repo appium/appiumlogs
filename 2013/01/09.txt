@@ -429,3 +429,4 @@
 [2013-01-09 19:59:24] sourishkrout, quitting. (Quit: Leaving.)
 [2013-01-09 21:00:55] jlipps, joining. (#appium)
 [2013-01-09 21:21:33] jlipps, quitting. (Quit: jlipps)
+[2013-01-09 22:43:27] santiycr, joining. (#appium)
