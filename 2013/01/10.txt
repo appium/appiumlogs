@@ -1,1 +1,2 @@
 [2013-01-10 00:51:55] admc, joining. (#appium)
+[2013-01-10 02:09:10] admc, quitting. (Quit: Leaving.)
