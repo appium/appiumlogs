@@ -14,3 +14,4 @@
 [2013-01-10 08:37:50] lukeis: appium logs now in the appium org ;)
 [2013-01-10 08:50:54] johndunham, quitting. (Quit: Computer has gone to sleep.)
 [2013-01-10 08:58:07] johndunham, joining. (#appium)
+[2013-01-10 09:37:37] admc, joining. (#appium)
