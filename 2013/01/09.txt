@@ -362,3 +362,17 @@
 [2013-01-09 16:03:45] freynaud: yep, there is a lot of things to do to have a good driver
 [2013-01-09 16:03:58] freynaud: but that doesn't always result in a lot of code
 [2013-01-09 16:04:22] freynaud: it's more trying to figure out what crazy idea apple decide to come up with
+[2013-01-09 16:05:56] freynaud: admc: https://github.com/appium/appium is wrong
+[2013-01-09 16:06:15] admc: yeah im just getting stuff setup here
+[2013-01-09 16:06:25] admc: gonna go through and fix it all soon
+[2013-01-09 16:06:25] freynaud: it's Selenium for Apps. anything that runs on an iOS device
+[2013-01-09 16:06:38] admc: I copied that stuff directly from the python version
+[2013-01-09 16:06:40] admc: feel free to fix it
+[2013-01-09 16:06:41] freynaud: works on safari, so you get a web driver too
+[2013-01-09 16:06:56] freynaud: I'm working on chrome support too
+[2013-01-09 16:06:56] admc: I think node is actually going to be fantastic for the architecture jcarr just explained to me
+[2013-01-09 16:07:33] freynaud: jcarr: what do you have in mind ?
+[2013-01-09 16:09:19] admc: he was explaining to me the way the python architecture works for appium, I'm assuming that you have improvements
+[2013-01-09 16:09:36] admc: would love to here what those are, sounds like a non irc conversation though
+[2013-01-09 16:09:50] freynaud: i did some thing
+[2013-01-09 16:09:59] freynaud: not all of them are worth taking
