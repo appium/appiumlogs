@@ -422,3 +422,4 @@
 [2013-01-09 18:01:51] jcarr1, quitting. (Quit: Leaving.)
 [2013-01-09 18:07:49] admc, quitting. (Quit: Leaving.)
 [2013-01-09 18:16:51] santiycr1, quitting. (Quit: Leaving.)
+[2013-01-09 18:39:00] sourishkrout, joining. (#appium)
