@@ -68,3 +68,6 @@
 [2013-01-10 15:04:19] admc: haha woops
 [2013-01-10 15:04:24] admc: im just trying to get some boiler plate over
 [2013-01-10 15:04:34] admc: looks like my wget went horribly wrong
+[2013-01-10 15:05:06] jcarr: yeah
+[2013-01-10 15:05:12] jcarr: oh well
+[2013-01-10 15:05:38] admc: should be fixored
