@@ -414,3 +414,4 @@
 [2013-01-09 17:04:33] santiycr, quitting. (Ping timeout: 248 seconds)
 [2013-01-09 17:15:13] stackedsax, joining. (#appium)
 [2013-01-09 17:27:31] johndunham, quitting. (Quit: Computer has gone to sleep.)
+[2013-01-09 17:34:26] sourishkrout, joining. (#appium)
