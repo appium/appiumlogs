@@ -18,3 +18,4 @@
 [2013-01-10 09:46:29] jlipps, joining. (#appium)
 [2013-01-10 09:52:26] johndunham, quitting. (Quit: Computer has gone to sleep.)
 [2013-01-10 09:53:20] johndunham, joining. (#appium)
+[2013-01-10 09:56:21] sourishkrout, joining. (#appium)
