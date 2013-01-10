@@ -430,3 +430,4 @@
 [2013-01-09 21:00:55] jlipps, joining. (#appium)
 [2013-01-09 21:21:33] jlipps, quitting. (Quit: jlipps)
 [2013-01-09 22:43:27] santiycr, joining. (#appium)
+[2013-01-09 22:45:30] santiycr, quitting. (Client Quit)
