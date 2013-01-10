@@ -36,3 +36,4 @@
 [2013-01-10 10:46:07] johndunham, joining. (#appium)
 [2013-01-10 10:51:46] johndunham, quitting. (Quit: Computer has gone to sleep.)
 [2013-01-10 10:53:51] stackedsax, quitting. (Quit: Leaving.)
+[2013-01-10 10:56:38] jcarr, joining. (#appium)
