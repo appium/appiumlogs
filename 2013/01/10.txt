@@ -64,3 +64,4 @@
 [2013-01-10 14:13:14] lukeis: admc: something is horribly wrong with this picture https://github.com/appium/appium/blob/master/uiauto/bootstrap.js  ;)
 [2013-01-10 14:25:43] johndunham, quitting. (Ping timeout: 240 seconds)
 [2013-01-10 14:27:29] jcarr: uhm
+[2013-01-10 14:34:46] jcarr: admc: what IS that commit?
