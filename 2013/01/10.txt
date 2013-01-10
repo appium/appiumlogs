@@ -3,3 +3,5 @@
 [2013-01-10 05:21:58] stackedsax, joining. (#appium)
 [2013-01-10 05:22:26] stackedsax, quitting. (Read error: Connection reset by peer)
 [2013-01-10 05:22:26] stackedsax1, joining. (#appium)
+[2013-01-10 06:57:50] johndunham, joining. (#appium)
+[2013-01-10 06:59:35] johndunham, quitting. (Client Quit)
