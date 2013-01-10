@@ -5,3 +5,4 @@
 [2013-01-10 05:22:26] stackedsax1, joining. (#appium)
 [2013-01-10 06:57:50] johndunham, joining. (#appium)
 [2013-01-10 06:59:35] johndunham, quitting. (Client Quit)
+[2013-01-10 07:05:01] johndunham, joining. (#appium)
