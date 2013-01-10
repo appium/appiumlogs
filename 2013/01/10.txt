@@ -47,3 +47,7 @@
 [2013-01-10 11:09:23] jcarr: ha
 [2013-01-10 11:09:28] jcarr: you people are crazy
 [2013-01-10 11:09:32] lukeis: jes
+[2013-01-10 11:10:28] lukeis: jcarr: solved the problem of getting pinged for every :log in the channel… moved the repo! ;)
+[2013-01-10 11:11:03] johndunham, joining. (#appium)
+[2013-01-10 11:11:19] johndunham, quitting. (Client Quit)
+[2013-01-10 11:13:15] jcarr: lol nice job!
