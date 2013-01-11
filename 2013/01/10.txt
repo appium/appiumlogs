@@ -87,3 +87,4 @@
 [2013-01-10 23:13:54] admc, joining. (#appium)
 [2013-01-10 23:23:58] freynaud: good progress yesterday on the webkit remote debug protocol over usb
 [2013-01-10 23:24:41] freynaud: most of the annoying parsing should be done now, and I'm plugging in the different layer together today
+[2013-01-10 23:36:49] freynaud, quitting. (Quit: freynaud)
