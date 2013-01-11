@@ -29,3 +29,4 @@
 [2013-01-11 12:14:14] sourishkrout, joining. (#appium)
 [2013-01-11 12:16:06] sourishkrout, quitting. (Quit: Leaving.)
 [2013-01-11 12:36:25] toks, joining. (#appium)
+[2013-01-11 12:43:49] toks, changing nick to toks-mixtgreens-.
