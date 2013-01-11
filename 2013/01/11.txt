@@ -21,3 +21,6 @@
 [2013-01-11 10:31:20] sourishkrout, quitting. (Ping timeout: 252 seconds)
 [2013-01-11 10:35:21] jcarr, joining. (#appium)
 [2013-01-11 10:50:59] stackedsax, joining. (#appium)
+[2013-01-11 11:12:17] jlipps_, joining. (#appium)
+[2013-01-11 11:14:34] jlipps, quitting. (Ping timeout: 265 seconds)
+[2013-01-11 11:14:35] jlipps_, changing nick to jlipps.
