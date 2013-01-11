@@ -39,3 +39,5 @@
 [2013-01-11 13:17:29] stackedsax: I was about to respond
 [2013-01-11 13:17:35] toks: :p
 [2013-01-11 15:14:49] jcarr, quitting. (Quit: Leaving.)
+[2013-01-11 15:28:20] jlipps: how do we find the path to the simulator app on our machines?
+[2013-01-11 15:30:00] jlipps: n/m found it, it's in Xcode.app
