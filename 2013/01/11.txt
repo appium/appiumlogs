@@ -10,3 +10,4 @@
 [2013-01-11 07:04:03] johndunham, quitting. (Quit: Computer has gone to sleep.)
 [2013-01-11 08:03:35] johndunham, joining. (#appium)
 [2013-01-11 08:16:51] johndunham, quitting. (Quit: Computer has gone to sleep.)
+[2013-01-11 08:33:54] lukeis, joining. (#appium)
