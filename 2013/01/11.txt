@@ -16,3 +16,5 @@
 [2013-01-11 10:03:33] santiycr, joining. (#appium)
 [2013-01-11 10:08:33] sourishkrout, joining. (#appium)
 [2013-01-11 10:17:01] admc, joining. (#appium)
+[2013-01-11 10:27:47] sourishkrout1, joining. (#appium)
+[2013-01-11 10:29:35] sourishkrout1, quitting. (Client Quit)
