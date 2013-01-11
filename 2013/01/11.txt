@@ -42,3 +42,5 @@
 [2013-01-11 15:28:20] jlipps: how do we find the path to the simulator app on our machines?
 [2013-01-11 15:30:00] jlipps: n/m found it, it's in Xcode.app
 [2013-01-11 15:36:05] jcarr, joining. (#appium)
+[2013-01-11 15:47:01] berni, quitting. (Read error: Connection reset by peer)
+[2013-01-11 15:47:13] berni, joining. (#appium)
