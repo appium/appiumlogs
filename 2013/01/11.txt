@@ -2,3 +2,4 @@
 [2013-01-11 00:18:07] freynaud, joining. (#appium)
 [2013-01-11 01:21:05] admc, quitting. (Quit: Leaving.)
 [2013-01-11 01:32:23] berni, joining. (#appium)
+[2013-01-11 04:32:22] freynaud, leaving. (#appium)
