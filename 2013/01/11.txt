@@ -1,1 +1,2 @@
 [2013-01-11 00:10:24] freynaud, quitting. (Quit: freynaud)
+[2013-01-11 00:18:07] freynaud, joining. (#appium)
