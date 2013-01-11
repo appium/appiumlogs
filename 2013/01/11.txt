@@ -24,3 +24,4 @@
 [2013-01-11 11:12:17] jlipps_, joining. (#appium)
 [2013-01-11 11:14:34] jlipps, quitting. (Ping timeout: 265 seconds)
 [2013-01-11 11:14:35] jlipps_, changing nick to jlipps.
+[2013-01-11 11:41:24] admc, quitting. (Quit: Leaving.)
