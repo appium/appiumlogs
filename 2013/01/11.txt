@@ -6,3 +6,4 @@
 [2013-01-11 06:11:16] johndunham, joining. (#appium)
 [2013-01-11 06:13:37] freynaud, joining. (#appium)
 [2013-01-11 06:14:55] freynaud, quitting. (Client Quit)
+[2013-01-11 06:23:00] freynaud, joining. (#appium)
