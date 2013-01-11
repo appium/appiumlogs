@@ -71,3 +71,4 @@
 [2013-01-10 15:05:06] jcarr: yeah
 [2013-01-10 15:05:12] jcarr: oh well
 [2013-01-10 15:05:38] admc: should be fixored
+[2013-01-10 16:04:27] lukeis, quitting. (Quit: Leaving.)
