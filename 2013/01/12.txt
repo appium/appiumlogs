@@ -17,3 +17,4 @@
 [2013-01-12 13:15:40] berni, joining. (#appium)
 [2013-01-12 13:20:21] sourishkrout, quitting. (Quit: Leaving.)
 [2013-01-12 13:57:37] jcarr, quitting. (Quit: Leaving.)
+[2013-01-12 14:22:02] admc, quitting. (Quit: Leaving.)
