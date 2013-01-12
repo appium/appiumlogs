@@ -11,3 +11,5 @@
 [2013-01-12 08:46:47] jcarr, joining. (#appium)
 [2013-01-12 09:05:04] johndunham, joining. (#appium)
 [2013-01-12 09:12:12] johndunham, quitting. (Ping timeout: 264 seconds)
+[2013-01-12 10:44:09] sourishkrout, joining. (#appium)
+[2013-01-12 10:44:55] admc, joining. (#appium)
