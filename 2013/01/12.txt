@@ -2,3 +2,6 @@
 [2013-01-12 02:05:47] stackedsax, quitting. (Quit: Leaving.)
 [2013-01-12 03:17:03] freynaud, joining. (#appium)
 [2013-01-12 05:21:08] freynaud, quitting. (Quit: freynaud)
+[2013-01-12 06:06:16] sahazel, quitting. (Quit: Planned maintenance, back soon)
+[2013-01-12 06:06:16] hugs, quitting. (Quit: Planned maintenance, back soon)
+[2013-01-12 06:06:18] brainsik, quitting. (Quit: Planned maintenance, back soon)
