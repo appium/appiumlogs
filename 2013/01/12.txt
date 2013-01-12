@@ -9,3 +9,4 @@
 [2013-01-12 06:59:57] sahazel, joining. (#appium)
 [2013-01-12 07:01:47] brainsik, joining. (#appium)
 [2013-01-12 08:46:47] jcarr, joining. (#appium)
+[2013-01-12 09:05:04] johndunham, joining. (#appium)
