@@ -5,3 +5,5 @@
 [2013-01-12 06:06:16] sahazel, quitting. (Quit: Planned maintenance, back soon)
 [2013-01-12 06:06:16] hugs, quitting. (Quit: Planned maintenance, back soon)
 [2013-01-12 06:06:18] brainsik, quitting. (Quit: Planned maintenance, back soon)
+[2013-01-12 06:59:56] hugs, joining. (#appium)
+[2013-01-12 06:59:57] sahazel, joining. (#appium)
