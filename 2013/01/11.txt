@@ -51,3 +51,4 @@
 [2013-01-11 18:20:36] toks, quitting. (Ping timeout: 264 seconds)
 [2013-01-11 19:12:06] admc, quitting. (Quit: Leaving.)
 [2013-01-11 19:14:17] sourishkrout, quitting. (Quit: Leaving.)
+[2013-01-11 20:19:49] jlipps, joining. (#appium)
