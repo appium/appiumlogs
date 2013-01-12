@@ -46,3 +46,4 @@
 [2013-01-11 15:47:13] berni, joining. (#appium)
 [2013-01-11 16:04:28] lukeis, quitting. (Quit: Leaving.)
 [2013-01-11 16:48:37] stackedsax, quitting. (Quit: Leaving.)
+[2013-01-11 17:23:50] jcarr, leaving. (#appium)
