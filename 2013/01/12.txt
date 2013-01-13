@@ -25,3 +25,4 @@
 [2013-01-12 20:28:35] santiycr, joining. (#appium)
 [2013-01-12 21:18:56] lukeis, joining. (#appium)
 [2013-01-12 21:23:33] santiycr, quitting. (Quit: Leaving.)
+[2013-01-12 21:59:42] sourishkrout, joining. (#appium)
