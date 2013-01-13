@@ -3,3 +3,4 @@
 [2013-01-13 10:17:40] berni, quitting. (Read error: Operation timed out)
 [2013-01-13 10:23:48] berni, joining. (#appium)
 [2013-01-13 13:41:29] freynaud, quitting. (Quit: freynaud)
+[2013-01-13 14:19:59] freynaud, joining. (#appium)
