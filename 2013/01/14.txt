@@ -21,3 +21,4 @@
 [2013-01-14 08:27:06] sourishkrout, quitting. (Ping timeout: 264 seconds)
 [2013-01-14 08:33:18] berni1, quitting. (Read error: Connection reset by peer)
 [2013-01-14 08:33:48] berni, joining. (#appium)
+[2013-01-14 08:55:34] sourishkrout, joining. (#appium)
