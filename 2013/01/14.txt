@@ -23,3 +23,4 @@
 [2013-01-14 08:33:48] berni, joining. (#appium)
 [2013-01-14 08:55:34] sourishkrout, joining. (#appium)
 [2013-01-14 09:02:53] lukeis, joining. (#appium)
+[2013-01-14 09:06:47] sourishkrout, quitting. (Quit: Leaving.)
