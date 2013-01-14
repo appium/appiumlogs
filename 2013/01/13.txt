@@ -8,3 +8,5 @@
 [2013-01-13 18:26:46] berni1, joining. (#appium)
 [2013-01-13 18:26:46] berni, quitting. (Read error: Connection reset by peer)
 [2013-01-13 20:25:08] admc, joining. (#appium)
+[2013-01-13 21:41:46] admc, quitting. (Quit: Leaving.)
+[2013-01-13 21:42:12] admc, joining. (#appium)
