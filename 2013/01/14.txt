@@ -73,3 +73,5 @@
 [2013-01-14 15:27:08] lukeis: i think you need to adjust the app's plist to specify it's max version and then launch
 [2013-01-14 15:28:50] *lukeis wildly guessing at that'
 [2013-01-14 15:30:47] jcarr: maybe
+[2013-01-14 15:42:03] santiycr, quitting. (Quit: Leaving.)
+[2013-01-14 15:42:25] santiycr, joining. (#appium)
