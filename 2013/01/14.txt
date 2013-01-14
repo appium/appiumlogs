@@ -1,3 +1,5 @@
 [2013-01-14 00:19:59] sourishkrout, joining. (#appium)
 [2013-01-14 00:24:33] sourishkrout, quitting. (Ping timeout: 276 seconds)
 [2013-01-14 01:00:00] freynaud, quitting. (Remote host closed the connection)
+[2013-01-14 01:00:18] freynaud, joining. (#appium)
+[2013-01-14 01:02:32] freynaud, quitting. (Client Quit)
