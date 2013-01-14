@@ -11,3 +11,4 @@
 [2013-01-14 03:25:20] sourishkrout, quitting. (Ping timeout: 252 seconds)
 [2013-01-14 04:21:21] sourishkrout, joining. (#appium)
 [2013-01-14 04:25:50] sourishkrout, quitting. (Ping timeout: 252 seconds)
+[2013-01-14 05:21:35] sourishkrout, joining. (#appium)
