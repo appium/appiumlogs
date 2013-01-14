@@ -1,1 +1,2 @@
 [2013-01-14 00:19:59] sourishkrout, joining. (#appium)
+[2013-01-14 00:24:33] sourishkrout, quitting. (Ping timeout: 276 seconds)
