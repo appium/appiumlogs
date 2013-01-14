@@ -75,3 +75,4 @@
 [2013-01-14 15:30:47] jcarr: maybe
 [2013-01-14 15:42:03] santiycr, quitting. (Quit: Leaving.)
 [2013-01-14 15:42:25] santiycr, joining. (#appium)
+[2013-01-14 15:49:42] lukeis: ok, i'm going submit a talk about the *yet to be implemented* MobileSafari.app driven by appium… I think i'm signing up all my free time for the next couple of months ;)  jcarr: any thoughts?
