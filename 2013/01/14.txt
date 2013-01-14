@@ -45,3 +45,8 @@
 [2013-01-14 13:49:16] admc: https://github.com/appium/appium
 [2013-01-14 13:49:20] admc: totally works, follow teh readme
 [2013-01-14 13:49:25] lukeis: awesome
+[2013-01-14 13:50:13] lukeis: i plan on making something to basically run MobileSafari  the way one would expect as straight WebDriver
+[2013-01-14 13:50:45] admc: sounds rockin
+[2013-01-14 13:51:45] admc: were hacking on it today, feel free to come hang out and hack at 3ish
+[2013-01-14 13:51:59] *lukeis working from home today'
+[2013-01-14 13:54:01] admc: ah lucky you :)
