@@ -28,3 +28,4 @@
 [2013-01-14 09:20:03] lukeis, joining. (#appium)
 [2013-01-14 09:59:47] sourishkrout, joining. (#appium)
 [2013-01-14 10:22:00] jcarr, joining. (#appium)
+[2013-01-14 10:29:41] sourishkrout, quitting. (Quit: Leaving.)
