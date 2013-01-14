@@ -55,3 +55,7 @@
 [2013-01-14 14:22:35] brainsik, leaving. (#appium)
 [2013-01-14 14:24:43] brainsik, joining. (#appium)
 [2013-01-14 14:27:38] jmathes_, joining. (#appium)
+[2013-01-14 14:45:13] jcarr: anyone have any idea how to make instruments use a specific version of ios for the simulator?
+[2013-01-14 14:45:57] lukeis: i think that's in our jenkins config somewhere or scripts… i can look
+[2013-01-14 14:46:02] lukeis: gimme a bit
+[2013-01-14 14:46:12] jcarr: thanks
