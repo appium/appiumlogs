@@ -14,3 +14,4 @@
 [2013-01-13 22:08:31] admc, quitting. (Quit: Leaving.)
 [2013-01-13 22:12:04] sourishkrout, quitting. (Quit: Leaving.)
 [2013-01-13 22:59:11] freynaud, joining. (#appium)
+[2013-01-13 23:15:21] sourishkrout, joining. (#appium)
