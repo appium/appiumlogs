@@ -64,3 +64,4 @@
 [2013-01-14 14:52:24] brainsik, quitting. (Client Quit)
 [2013-01-14 14:52:34] santiycr, quitting. (Quit: Leaving.)
 [2013-01-14 14:53:43] santiycr, joining. (#appium)
+[2013-01-14 14:55:09] brainsik, joining. (#appium)
