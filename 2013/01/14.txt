@@ -69,3 +69,6 @@
 [2013-01-14 15:24:43] lukeis: hrmph, i thought we did, but looks like not :-/
 [2013-01-14 15:24:52] jcarr: yeah I don't think it's possible
 [2013-01-14 15:25:00] lukeis: that's really odd
+[2013-01-14 15:25:14] jcarr: I can't even find anything on the interwebs about this
+[2013-01-14 15:27:08] lukeis: i think you need to adjust the app's plist to specify it's max version and then launch
+[2013-01-14 15:28:50] *lukeis wildly guessing at that'
