@@ -5,3 +5,4 @@
 [2013-01-14 01:02:32] freynaud, quitting. (Client Quit)
 [2013-01-14 01:20:21] sourishkrout, joining. (#appium)
 [2013-01-14 01:25:18] sourishkrout, quitting. (Ping timeout: 276 seconds)
+[2013-01-14 02:20:39] sourishkrout, joining. (#appium)
