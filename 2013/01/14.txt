@@ -72,3 +72,4 @@
 [2013-01-14 15:25:14] jcarr: I can't even find anything on the interwebs about this
 [2013-01-14 15:27:08] lukeis: i think you need to adjust the app's plist to specify it's max version and then launch
 [2013-01-14 15:28:50] *lukeis wildly guessing at that'
+[2013-01-14 15:30:47] jcarr: maybe
