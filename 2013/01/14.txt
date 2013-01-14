@@ -52,3 +52,5 @@
 [2013-01-14 13:54:01] admc: ah lucky you :)
 [2013-01-14 13:57:39] jcarr, quitting. (Quit: Leaving.)
 [2013-01-14 14:01:46] jcarr, joining. (#appium)
+[2013-01-14 14:22:35] brainsik, leaving. (#appium)
+[2013-01-14 14:24:43] brainsik, joining. (#appium)
