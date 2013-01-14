@@ -7,3 +7,4 @@
 [2013-01-13 14:23:57] freynaud, quitting. (Client Quit)
 [2013-01-13 18:26:46] berni1, joining. (#appium)
 [2013-01-13 18:26:46] berni, quitting. (Read error: Connection reset by peer)
+[2013-01-13 20:25:08] admc, joining. (#appium)
