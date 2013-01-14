@@ -54,3 +54,4 @@
 [2013-01-14 14:01:46] jcarr, joining. (#appium)
 [2013-01-14 14:22:35] brainsik, leaving. (#appium)
 [2013-01-14 14:24:43] brainsik, joining. (#appium)
+[2013-01-14 14:27:38] jmathes_, joining. (#appium)
