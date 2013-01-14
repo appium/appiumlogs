@@ -59,3 +59,8 @@
 [2013-01-14 14:45:57] lukeis: i think that's in our jenkins config somewhere or scripts… i can look
 [2013-01-14 14:46:02] lukeis: gimme a bit
 [2013-01-14 14:46:12] jcarr: thanks
+[2013-01-14 14:51:14] brainsik, quitting. (Quit: Leaving.)
+[2013-01-14 14:51:44] brainsik, joining. (#appium)
+[2013-01-14 14:52:24] brainsik, quitting. (Client Quit)
+[2013-01-14 14:52:34] santiycr, quitting. (Quit: Leaving.)
+[2013-01-14 14:53:43] santiycr, joining. (#appium)
