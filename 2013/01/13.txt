@@ -5,3 +5,5 @@
 [2013-01-13 13:41:29] freynaud, quitting. (Quit: freynaud)
 [2013-01-13 14:19:59] freynaud, joining. (#appium)
 [2013-01-13 14:23:57] freynaud, quitting. (Client Quit)
+[2013-01-13 18:26:46] berni1, joining. (#appium)
+[2013-01-13 18:26:46] berni, quitting. (Read error: Connection reset by peer)
