@@ -32,3 +32,4 @@
 [2013-01-14 10:30:49] toks, joining. (#appium)
 [2013-01-14 10:59:45] santiycr, joining. (#appium)
 [2013-01-14 11:15:11] stackedsax, joining. (#appium)
+[2013-01-14 12:42:48] santiycr, quitting. (Quit: Leaving.)
