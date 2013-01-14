@@ -37,3 +37,11 @@
 [2013-01-14 13:04:24] stackedsax1, joining. (#appium)
 [2013-01-14 13:06:21] stackedsax, quitting. (Ping timeout: 276 seconds)
 [2013-01-14 13:11:59] admc, joining. (#appium)
+[2013-01-14 13:46:03] lukeis: so, who's signed up to talk about appium at Selenium Conf? (hugs)
+[2013-01-14 13:47:58] admc: good question!
+[2013-01-14 13:48:38] lukeis: i'm thinking I may want to talk about something i plan to write… "iPhoneDriver powered by Appium"
+[2013-01-14 13:49:05] admc: lukeis: have you run the new node code?
+[2013-01-14 13:49:15] lukeis: not yet :) plan to soon
+[2013-01-14 13:49:16] admc: https://github.com/appium/appium
+[2013-01-14 13:49:20] admc: totally works, follow teh readme
+[2013-01-14 13:49:25] lukeis: awesome
