@@ -125,3 +125,4 @@
 [2013-01-14 17:57:31] admc1, joining. (#appium)
 [2013-01-14 18:01:08] admc, quitting. (Ping timeout: 248 seconds)
 [2013-01-14 18:09:08] jcarr, quitting. (Quit: Leaving.)
+[2013-01-14 18:49:18] santiycr, quitting. (Quit: Leaving.)
