@@ -49,3 +49,5 @@
 [2013-01-15 13:52:27] brainsik, joining. (#appium)
 [2013-01-15 14:05:37] stackedsax, quitting. (Quit: Leaving.)
 [2013-01-15 14:06:37] stackedsax, joining. (#appium)
+[2013-01-15 14:35:16] admc, joining. (#appium)
+[2013-01-15 14:35:45] sourishkrout, joining. (#appium)
