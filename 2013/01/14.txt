@@ -97,3 +97,13 @@
 [2013-01-14 15:58:26] toks: that looks like quite a task
 [2013-01-14 15:58:31] lukeis: but a lot of it will be 'easy' by piggy-backing on all the work everyone else is doing :) (thx saucers)
 [2013-01-14 15:58:51] toks: will that make appium a bit faster? :p
+[2013-01-14 16:01:07] lukeis: it will get faster when this https://github.com/appium/appium/blob/master/app/uiauto/bootstrap.js  makes one command instead of two
+[2013-01-14 16:01:14] lukeis: admc: ^ ;)
+[2013-01-14 16:01:25] lukeis: one curl command
+[2013-01-14 16:01:27] lukeis: that is
+[2013-01-14 16:01:46] toks: ^_^
+[2013-01-14 16:02:15] lukeis: write response/read next command… is that possible with how the node code is structured?
+[2013-01-14 16:02:26] *lukeis needs to read more up on the current state of things'
+[2013-01-14 16:02:48] toks: heh
+[2013-01-14 16:02:50] toks: reading your code has informed me of the exist of the bottle framework for python, nice & fast :) ....sometimes using django is a bit... complicated.
+[2013-01-14 16:03:02] toks: (don't know how well bottle scales under load though)
