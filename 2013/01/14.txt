@@ -113,3 +113,5 @@
 [2013-01-14 16:38:36] santiycr, quitting. (Quit: Leaving.)
 [2013-01-14 16:41:44] berni, quitting. (Read error: Connection reset by peer)
 [2013-01-14 16:41:54] berni, joining. (#appium)
+[2013-01-14 16:45:40] santiycr, joining. (#appium)
+[2013-01-14 16:47:04] santiycr: faster appium means faster coding cycle
