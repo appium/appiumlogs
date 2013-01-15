@@ -38,3 +38,4 @@
 [2013-01-15 12:26:37] sourishkrout, joining. (#appium)
 [2013-01-15 12:29:06] sourishkrout, quitting. (Client Quit)
 [2013-01-15 12:29:29] sourishkrout, joining. (#appium)
+[2013-01-15 12:30:58] brainsik, quitting. (Quit: Leaving.)
