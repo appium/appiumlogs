@@ -51,3 +51,13 @@
 [2013-01-15 14:06:37] stackedsax, joining. (#appium)
 [2013-01-15 14:35:16] admc, joining. (#appium)
 [2013-01-15 14:35:45] sourishkrout, joining. (#appium)
+[2013-01-15 14:57:05] *toks looks for stackedsax '
+[2013-01-15 14:57:11] toks:  /names
+[2013-01-15 14:57:14] toks: ...
+[2013-01-15 14:57:33] lukeis: don't you guys work together? :)
+[2013-01-15 14:57:48] toks: :p
+[2013-01-15 14:57:57] toks: I wanna send him a URL
+[2013-01-15 14:58:10] lukeis: "/msg stackedsax ….."
+[2013-01-15 14:58:23] toks: I could do that... but...
+[2013-01-15 14:58:46] toks: this is a music vid that you all might enjoy, so I only wanna send it when stackedsax is here
+[2013-01-15 14:59:47] lukeis: tell me it's him playing a sax ;)
