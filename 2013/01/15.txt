@@ -1,2 +1,5 @@
 [2013-01-15 00:56:49] lukeis, quitting. (Quit: Leaving.)
 [2013-01-15 06:10:13] berni, quitting. (Read error: Operation timed out)
+[2013-01-15 07:07:20] jmathes_, quitting. (Ping timeout: 256 seconds)
+[2013-01-15 07:07:54] sahazel, quitting. (Ping timeout: 256 seconds)
+[2013-01-15 07:08:13] sahazel, joining. (#appium)
