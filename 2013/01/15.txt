@@ -8,3 +8,4 @@
 [2013-01-15 09:07:18] jmathes_, joining. (#appium)
 [2013-01-15 09:34:55] jcarr, joining. (#appium)
 [2013-01-15 09:38:45] jcarr, quitting. (Read error: Connection reset by peer)
+[2013-01-15 09:47:53] santiycr, joining. (#appium)
