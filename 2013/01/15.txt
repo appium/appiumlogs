@@ -1,1 +1,2 @@
 [2013-01-15 00:56:49] lukeis, quitting. (Quit: Leaving.)
+[2013-01-15 06:10:13] berni, quitting. (Read error: Operation timed out)
