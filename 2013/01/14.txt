@@ -120,3 +120,4 @@
 [2013-01-14 17:13:34] santiycr, joining. (#appium)
 [2013-01-14 17:30:21] santiycr, quitting. (Quit: Leaving.)
 [2013-01-14 17:30:46] santiycr, joining. (#appium)
+[2013-01-14 17:38:39] brainsik, joining. (#appium)
