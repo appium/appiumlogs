@@ -130,3 +130,4 @@
 [2013-01-14 19:01:40] toks, quitting. (Ping timeout: 248 seconds)
 [2013-01-14 20:03:00] brainsik, leaving. (#appium)
 [2013-01-14 20:59:34] admc, joining. (#appium)
+[2013-01-14 22:42:17] admc, quitting. (Quit: Leaving.)
