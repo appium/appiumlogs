@@ -75,3 +75,13 @@
 [2013-01-15 15:11:28] *toks listens'
 [2013-01-15 15:12:15] toks: hmm... yeah I guess not; guitar, base, violin
 [2013-01-15 15:13:33] toks: let me get another soulful tune that is, as Homer simpson puts it, "Saxamaphone"
+[2013-01-15 15:20:06] toks: whew... that took awhile to find... http://www.myspace.com/music/player?sid=283776&ac=now
+[2013-01-15 15:20:40] toks: if this doesn't move you, you have no heart ...no soul.... and you just might be a robot
+[2013-01-15 15:21:22] sourishkrout: lukeis: changed my picture to save you from confusing admc and myself
+[2013-01-15 15:21:24] sourishkrout: https://github.com/santiycr/appium/commits/master
+[2013-01-15 15:21:39] sourishkrout: oops, https://github.com/appium/appium/commits/master
+[2013-01-15 15:21:58] toks: Do you really have a mohawk?
+[2013-01-15 15:22:15] sourishkrout: totally
+[2013-01-15 15:22:32] toks: heh, rad \m/
+[2013-01-15 15:23:22] lukeis: nice :) subtle enough change to make it more distinguishable
+[2013-01-15 15:23:46] sourishkrout: :)
