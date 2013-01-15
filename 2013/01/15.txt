@@ -17,3 +17,9 @@
 [2013-01-15 10:30:28] toks, changing nick to toks-meeting.
 [2013-01-15 10:44:13] brainsik, joining. (#appium)
 [2013-01-15 10:53:13] santiycr, joining. (#appium)
+[2013-01-15 11:55:55] lukeis: saucers you guys are rocking it. just took a look at the latest changes!
+[2013-01-15 11:58:32] toks-meeting: o.o
+[2013-01-15 11:58:36] toks-meeting, changing nick to toks.
+[2013-01-15 11:58:53] santiycr: lukeis:  thanks :)
+[2013-01-15 11:58:57] santiycr: today is appium day
+[2013-01-15 11:59:45] lukeis: happium day ;)
