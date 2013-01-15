@@ -24,3 +24,13 @@
 [2013-01-15 11:58:57] santiycr: today is appium day
 [2013-01-15 11:59:45] lukeis: happium day ;)
 [2013-01-15 12:05:37] jcarr: happium day indeed!
+[2013-01-15 12:13:35] santiycr: lukeis:  I guess we're skipping lunch, huh?
+[2013-01-15 12:13:36] santiycr: :)
+[2013-01-15 12:13:49] santiycr: just realized
+[2013-01-15 12:13:54] lukeis: ah, i forgot too
+[2013-01-15 12:14:01] santiycr: lol
+[2013-01-15 12:14:07] santiycr: glad you did
+[2013-01-15 12:14:07] lukeis: i think i was too wrapped up in git stuff the last day+
+[2013-01-15 12:14:25] santiycr: yeah, next time we'll make a cal invite happen
+[2013-01-15 12:14:30] santiycr: that's how my life happens
+[2013-01-15 12:14:31] lukeis: :-D
