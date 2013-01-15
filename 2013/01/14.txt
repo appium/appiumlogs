@@ -111,3 +111,5 @@
 [2013-01-14 16:23:02] santiycr, joining. (#appium)
 [2013-01-14 16:23:38] lukeis, quitting. (Quit: Leaving.)
 [2013-01-14 16:38:36] santiycr, quitting. (Quit: Leaving.)
+[2013-01-14 16:41:44] berni, quitting. (Read error: Connection reset by peer)
+[2013-01-14 16:41:54] berni, joining. (#appium)
