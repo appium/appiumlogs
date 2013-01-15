@@ -39,3 +39,4 @@
 [2013-01-15 12:29:06] sourishkrout, quitting. (Client Quit)
 [2013-01-15 12:29:29] sourishkrout, joining. (#appium)
 [2013-01-15 12:30:58] brainsik, quitting. (Quit: Leaving.)
+[2013-01-15 12:58:06] lukeis: from a distance admc and sourishkrout's github avatars look the same ;) especially when looking at the changes https://github.com/appium/appium/commits/master and they are next to each other
