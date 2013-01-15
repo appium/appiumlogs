@@ -89,3 +89,11 @@
 [2013-01-14 15:53:35] jcarr: lukeis: you do it :D
 [2013-01-14 15:53:40] lukeis: ha ;)
 [2013-01-14 15:53:41] lukeis: ok
+[2013-01-14 15:55:27] *santiycr also waiting on him open hit code up'
+[2013-01-14 15:55:51] lukeis: jcarr: how's this for a potential abstract -  https://gist.github.com/8658751f68cd060c9eee
+[2013-01-14 15:56:16] jcarr: yay
+[2013-01-14 15:56:40] *lukeis realizing how much i'm signing myself up to do'
+[2013-01-14 15:58:18] toks: O_o
+[2013-01-14 15:58:26] toks: that looks like quite a task
+[2013-01-14 15:58:31] lukeis: but a lot of it will be 'easy' by piggy-backing on all the work everyone else is doing :) (thx saucers)
+[2013-01-14 15:58:51] toks: will that make appium a bit faster? :p
