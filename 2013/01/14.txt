@@ -122,3 +122,4 @@
 [2013-01-14 17:30:46] santiycr, joining. (#appium)
 [2013-01-14 17:38:39] brainsik, joining. (#appium)
 [2013-01-14 17:48:45] stackedsax1, quitting. (Quit: Leaving.)
+[2013-01-14 17:57:31] admc1, joining. (#appium)
