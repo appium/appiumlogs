@@ -12,3 +12,4 @@
 [2013-01-15 10:06:40] santiycr, quitting. (Quit: Leaving.)
 [2013-01-15 10:11:57] admc, joining. (#appium)
 [2013-01-15 10:18:23] jcarr, joining. (#appium)
+[2013-01-15 10:23:04] stackedsax, joining. (#appium)
