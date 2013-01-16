@@ -22,3 +22,4 @@
 [2013-01-16 11:03:53] lukeis: er, latest activity
 [2013-01-16 11:04:24] lukeis: and there's always the :log to look at if you so choose
 [2013-01-16 11:04:41] lukeis: not much for today :)
+[2013-01-16 11:05:50] llaskin, joining. (#appium)
