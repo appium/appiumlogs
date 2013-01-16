@@ -95,3 +95,4 @@
 [2013-01-15 20:28:14] brainsik, quitting. (Quit: Leaving.)
 [2013-01-15 22:23:30] berni, quitting. (Read error: Connection reset by peer)
 [2013-01-15 22:23:41] berni, joining. (#appium)
+[2013-01-15 23:53:10] freynaud, joining. (#appium)
