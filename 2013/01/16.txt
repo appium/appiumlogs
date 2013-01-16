@@ -1,0 +1,2 @@
+[2013-01-16 00:03:10] admc, joining. (#appium)
+[2013-01-16 00:04:11] freynaud, quitting. (Quit: freynaud)
