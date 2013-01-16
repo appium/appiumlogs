@@ -8,3 +8,4 @@
 [2013-01-16 07:12:55] freynaud, joining. (#appium)
 [2013-01-16 07:15:39] freynaud, quitting. (Read error: Connection reset by peer)
 [2013-01-16 08:27:24] lukeis, joining. (#appium)
+[2013-01-16 09:03:58] admc, joining. (#appium)
