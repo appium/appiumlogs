@@ -36,3 +36,4 @@
 [2013-01-16 14:45:51] toks: ha
 [2013-01-16 14:45:58] toks: argg... split window irssi
 [2013-01-16 14:46:47] sourishkrout, joining. (#appium)
+[2013-01-16 14:59:25] jlipps, joining. (#appium)
