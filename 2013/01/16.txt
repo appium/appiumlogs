@@ -2,3 +2,5 @@
 [2013-01-16 00:04:11] freynaud, quitting. (Quit: freynaud)
 [2013-01-16 00:21:54] admc, quitting. (Quit: Leaving.)
 [2013-01-16 00:26:52] freynaud, joining. (#appium)
+[2013-01-16 01:32:07] freynaud, quitting. (Quit: freynaud)
+[2013-01-16 01:33:21] freynaud, joining. (#appium)
