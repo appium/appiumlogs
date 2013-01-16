@@ -30,3 +30,6 @@
 [2013-01-16 12:08:36] brainsik, joining. (#appium)
 [2013-01-16 12:27:49] santiycr: yup
 [2013-01-16 12:30:41] simonstewart, leaving. (#appium)
+[2013-01-16 14:42:24] santiycr, quitting. (Quit: Leaving.)
+[2013-01-16 14:42:46] santiycr, joining. (#appium)
+[2013-01-16 14:42:50] toks: o.o
