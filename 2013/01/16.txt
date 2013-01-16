@@ -11,3 +11,4 @@
 [2013-01-16 09:03:58] admc, joining. (#appium)
 [2013-01-16 09:35:07] berni, quitting. (Read error: Connection reset by peer)
 [2013-01-16 09:35:21] berni, joining. (#appium)
+[2013-01-16 10:38:55] toks, joining. (#appium)
