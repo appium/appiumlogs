@@ -88,3 +88,4 @@
 [2013-01-15 16:05:41] lukeis, quitting. (Quit: Leaving.)
 [2013-01-15 17:48:05] santiycr, leaving. (#appium)
 [2013-01-15 18:15:16] stackedsax, quitting. (Quit: Leaving.)
+[2013-01-15 18:28:39] jcarr, quitting. (Quit: Leaving.)
