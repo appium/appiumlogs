@@ -14,3 +14,11 @@
 [2013-01-16 10:38:55] toks, joining. (#appium)
 [2013-01-16 10:48:51] sourishkrout, joining. (#appium)
 [2013-01-16 10:53:23] sourishkrout, quitting. (Ping timeout: 252 seconds)
+[2013-01-16 11:01:30] simonstewart, joining. (#appium)
+[2013-01-16 11:02:16] smccarthy, joining. (#appium)
+[2013-01-16 11:02:23] lukeis: hiya simonstewart
+[2013-01-16 11:02:32] simonstewart: greets
+[2013-01-16 11:03:45] lukeis: here's the latest stuff, in case you weren't aware https://github.com/appium/appium
+[2013-01-16 11:03:53] lukeis: er, latest activity
+[2013-01-16 11:04:24] lukeis: and there's always the :log to look at if you so choose
+[2013-01-16 11:04:41] lukeis: not much for today :)
