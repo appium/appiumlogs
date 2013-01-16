@@ -28,3 +28,4 @@
 [2013-01-16 11:42:32] stackedsax, joining. (#appium)
 [2013-01-16 11:53:36] admc, quitting. (Quit: Leaving.)
 [2013-01-16 12:08:36] brainsik, joining. (#appium)
+[2013-01-16 12:27:49] santiycr: yup
