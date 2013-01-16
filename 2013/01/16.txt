@@ -33,3 +33,6 @@
 [2013-01-16 14:42:24] santiycr, quitting. (Quit: Leaving.)
 [2013-01-16 14:42:46] santiycr, joining. (#appium)
 [2013-01-16 14:42:50] toks: o.o
+[2013-01-16 14:45:51] toks: ha
+[2013-01-16 14:45:58] toks: argg... split window irssi
+[2013-01-16 14:46:47] sourishkrout, joining. (#appium)
