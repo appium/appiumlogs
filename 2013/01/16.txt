@@ -26,3 +26,4 @@
 [2013-01-16 11:37:21] santiycr, joining. (#appium)
 [2013-01-16 11:37:45] lukeis: so, i take it you guys are using pull requests as a code-review mechanism?
 [2013-01-16 11:42:32] stackedsax, joining. (#appium)
+[2013-01-16 11:53:36] admc, quitting. (Quit: Leaving.)
