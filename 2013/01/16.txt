@@ -57,3 +57,4 @@
 [2013-01-16 18:16:26] admc: jcarr is probably the right guy to ping about the python appium questions
 [2013-01-16 18:33:33] toks: ah
 [2013-01-16 18:33:36] toks: gracias :)
+[2013-01-16 18:47:22] toks, quitting. (Ping timeout: 252 seconds)
