@@ -54,3 +54,4 @@
 [2013-01-16 17:39:16] toks: A popup saying "The operation could not be completed. No other information is available about the problem"
 [2013-01-16 17:39:53] toks: Note: The popup I use to get was "Something wants Instrumentation permission - please give username & pass" ....or something like that
 [2013-01-16 18:10:22] toks: figured it out; the server.py <app_path> was not correct :p
+[2013-01-16 18:16:26] admc: jcarr is probably the right guy to ping about the python appium questions
