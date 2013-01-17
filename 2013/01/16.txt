@@ -65,3 +65,4 @@
 [2013-01-16 19:37:54] jlipps, quitting. (Quit: jlipps)
 [2013-01-16 19:48:27] santiycr, leaving. (#appium)
 [2013-01-16 19:51:52] llaskin, quitting. (Quit: Leaving.)
+[2013-01-16 20:37:20] jlipps, joining. (#appium)
