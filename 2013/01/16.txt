@@ -47,3 +47,9 @@
 [2013-01-16 16:00:53] lukeis: i'll ping you guys more tomorrow, but i attempted to run MobileSafari and was shot down… I'll try with the latest tonight
 [2013-01-16 16:04:46] lukeis, quitting. (Quit: Leaving.)
 [2013-01-16 17:21:05] stackedsax, quitting. (Quit: Leaving.)
+[2013-01-16 17:36:28] brainsik, quitting. (Quit: Leaving.)
+[2013-01-16 17:37:59] toks: so....
+[2013-01-16 17:38:20] toks: anyone here? Just tried connecting to appium
+[2013-01-16 17:38:51] toks: driver = webdriver.Remote("http://10.20.73.82:4723/wb/hub",{})
+[2013-01-16 17:39:16] toks: A popup saying "The operation could not be completed. No other information is available about the problem"
+[2013-01-16 17:39:53] toks: Note: The popup I use to get was "Something wants Instrumentation permission - please give username & pass" ....or something like that
