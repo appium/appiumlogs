@@ -66,3 +66,4 @@
 [2013-01-16 19:48:27] santiycr, leaving. (#appium)
 [2013-01-16 19:51:52] llaskin, quitting. (Quit: Leaving.)
 [2013-01-16 20:37:20] jlipps, joining. (#appium)
+[2013-01-16 20:43:59] jlipps, quitting. (Remote host closed the connection)
