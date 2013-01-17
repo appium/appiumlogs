@@ -109,3 +109,7 @@
 [2013-01-17 14:25:51] jcarr: no
 [2013-01-17 14:25:58] jcarr: there's a 'put app in background' command though
 [2013-01-17 14:26:12] jcarr: UIAutomation doesn't support controlling the home screen so they don't implement home button function
+[2013-01-17 14:34:35] santiycr, quitting. (Quit: Leaving.)
+[2013-01-17 14:34:43] berni, quitting. (Read error: Connection reset by peer)
+[2013-01-17 14:34:45] toks: o.o
+[2013-01-17 14:34:53] toks: ah
