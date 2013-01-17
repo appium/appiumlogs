@@ -73,3 +73,4 @@
 [2013-01-16 22:30:26] berni, joining. (#appium)
 [2013-01-16 22:47:11] freynaud, joining. (#appium)
 [2013-01-16 23:40:49] brainsik, joining. (#appium)
+[2013-01-16 23:48:26] brainsik, quitting. (Quit: Leaving.)
