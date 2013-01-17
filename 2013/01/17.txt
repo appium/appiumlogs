@@ -106,3 +106,6 @@
 [2013-01-17 14:21:33] jcarr: yeah there's no back button on an iphone :)
 [2013-01-17 14:21:51] jcarr: there are apps which implement back buttons in the UI but then you would just tell appium to click that UI element
 [2013-01-17 14:21:57] toks: how about this then.... is there an appium call for that circle button that's on most iOS devices? I think it's considered the "Home" button
+[2013-01-17 14:25:51] jcarr: no
+[2013-01-17 14:25:58] jcarr: there's a 'put app in background' command though
+[2013-01-17 14:26:12] jcarr: UIAutomation doesn't support controlling the home screen so they don't implement home button function
