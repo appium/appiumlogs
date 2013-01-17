@@ -60,3 +60,11 @@
 [2013-01-17 11:25:34] freynaud, quitting. (Quit: freynaud)
 [2013-01-17 11:29:20] jcarr, joining. (#appium)
 [2013-01-17 11:29:36] admc, joining. (#appium)
+[2013-01-17 11:32:09] *lukeis just added a shortcut to launch safari ;)'
+[2013-01-17 11:32:33] santiycr: saw that, nice
+[2013-01-17 11:32:35] lukeis: muhahaha, step one of my evil plan
+[2013-01-17 11:33:20] santiycr: lukeis:  we can have github do announcements for us
+[2013-01-17 11:33:36] lukeis: we can? we should then
+[2013-01-17 11:33:57] *lukeis looks at the github settings'
+[2013-01-17 11:33:58] santiycr: setting that up
+[2013-01-17 11:34:52] jlipps, joining. (#appium)
