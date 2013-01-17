@@ -71,3 +71,4 @@
 [2013-01-16 21:38:09] admc, quitting. (Quit: Leaving.)
 [2013-01-16 22:30:20] berni, quitting. (Read error: Connection reset by peer)
 [2013-01-16 22:30:26] berni, joining. (#appium)
+[2013-01-16 22:47:11] freynaud, joining. (#appium)
