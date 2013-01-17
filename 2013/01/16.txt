@@ -42,3 +42,7 @@
 [2013-01-16 15:37:36] santiycr, quitting. (Quit: Leaving.)
 [2013-01-16 15:45:03] santiycr, joining. (#appium)
 [2013-01-16 15:59:46] admc: lukeis:  that is correct sir!
+[2013-01-16 16:00:02] *lukeis <3's delayed repsonses '
+[2013-01-16 16:00:31] admc: sorry about that, were going crazy over here
+[2013-01-16 16:00:53] lukeis: i'll ping you guys more tomorrow, but i attempted to run MobileSafari and was shot down… I'll try with the latest tonight
+[2013-01-16 16:04:46] lukeis, quitting. (Quit: Leaving.)
