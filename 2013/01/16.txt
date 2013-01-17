@@ -69,3 +69,5 @@
 [2013-01-16 20:43:59] jlipps, quitting. (Remote host closed the connection)
 [2013-01-16 20:58:19] admc, joining. (#appium)
 [2013-01-16 21:38:09] admc, quitting. (Quit: Leaving.)
+[2013-01-16 22:30:20] berni, quitting. (Read error: Connection reset by peer)
+[2013-01-16 22:30:26] berni, joining. (#appium)
