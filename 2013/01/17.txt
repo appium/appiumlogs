@@ -14,3 +14,5 @@
 [2013-01-17 09:00:41] admc, joining. (#appium)
 [2013-01-17 09:01:00] lukeis: :note toks you should do this "To avoid a security dialog that can appear when launching your iOS app, you need to modify your /etc/authorization file. You can do this by settings the element following <allow-root> under <key>system.privilege.taskport</key> to <true/> or by running the supplied python script (at your own risk)"
 [2013-01-17 09:01:30] lukeis: admc: ^ that was his problem yesterday… we should add that to the README :) /me will do it if no one else gets around to it
+[2013-01-17 09:13:52] admc: that would be great if you could get it in there
+[2013-01-17 09:14:35] lukeis: will do in the near future… balancing work and some selenium tasks to prep for 2.29
