@@ -41,3 +41,13 @@
 [2013-01-17 11:02:53] lukeis: which will make appium run 'faster' but will also make your system go into the future!
 [2013-01-17 11:03:23] lukeis: i'd say that's a fair assessment of the current state
 [2013-01-17 11:03:58] stackedsax: I had noticed some convos mentioning iOS's accessibility api only allowing messages at a certain rate, or something… but I only glanced at what the issue was
+[2013-01-17 11:05:23] stackedsax: so the time hack will speed up the iOS system so it allows commands to be run sooner?  Something like, 'if iOS only allows 1 message per second, we'll speed up how fast the seconds go by...'?
+[2013-01-17 11:05:48] lukeis: yes
+[2013-01-17 11:06:18] stackedsax: awesome.
+[2013-01-17 11:06:24] lukeis: so after a test with 30 commands, you'll be 30 seconds in the future
+[2013-01-17 11:06:34] lukeis: after a few suite runs, maybe a day ;)
+[2013-01-17 11:09:07] stackedsax: and it's just not possible to override the rate at which commands are allowed?
+[2013-01-17 11:09:24] stackedsax: the time thing is neat, I just wanted to ask the obvious question
+[2013-01-17 11:09:39] lukeis: nope… it's an apple instruments thing
+[2013-01-17 11:09:44] lukeis: they's be bitches
+[2013-01-17 11:10:00] lukeis: :)
