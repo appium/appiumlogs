@@ -80,3 +80,5 @@
 [2013-01-17 11:48:56] lukeis: ok, going to lunch at mozilla (santiycr stephend invited you too), back later
 [2013-01-17 11:49:25] *toks wasn't invited too? RAGE'
 [2013-01-17 11:59:03] freynaud, joining. (#appium)
+[2013-01-17 12:00:26] freynaud, quitting. (Client Quit)
+[2013-01-17 12:03:49] admc, quitting. (Quit: Leaving.)
