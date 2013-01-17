@@ -29,3 +29,15 @@
 [2013-01-17 10:51:43] berni1, quitting. (Read error: Operation timed out)
 [2013-01-17 10:54:35] admc, quitting. (Quit: Leaving.)
 [2013-01-17 10:59:19] stackedsax: lukeis: I've heard toks muttering about appium being much slower than AppDriver — is that what you find as well?
+[2013-01-17 11:00:36] lukeis: hugs/appium certainly is… appium/appium is faster than hugs ;)   but i can imagine it still being slower than AppDriver
+[2013-01-17 11:01:03] lukeis: appdriver makes you recompile your app though with an embedded http server
+[2013-01-17 11:01:10] lukeis: appium does not ;)
+[2013-01-17 11:01:34] *lukeis doesn't use appdriver for iOS'
+[2013-01-17 11:01:38] stackedsax: hmm, I thought we're using appium/appium.
+[2013-01-17 11:01:53] lukeis: looked like he just started last night?
+[2013-01-17 11:01:57] stackedsax: we don't use appdriver for iOS either…. hoping to use appium
+[2013-01-17 11:02:27] *lukeis looks forward to the time hack hitting appium ;)'
+[2013-01-17 11:02:45] stackedsax: we were just noticing appdriver on android being rather snappy and appium on iOS not so much.
+[2013-01-17 11:02:53] lukeis: which will make appium run 'faster' but will also make your system go into the future!
+[2013-01-17 11:03:23] lukeis: i'd say that's a fair assessment of the current state
+[2013-01-17 11:03:58] stackedsax: I had noticed some convos mentioning iOS's accessibility api only allowing messages at a certain rate, or something… but I only glanced at what the issue was
