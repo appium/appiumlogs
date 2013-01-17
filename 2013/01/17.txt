@@ -17,3 +17,5 @@
 [2013-01-17 09:13:52] admc: that would be great if you could get it in there
 [2013-01-17 09:14:35] lukeis: will do in the near future… balancing work and some selenium tasks to prep for 2.29
 [2013-01-17 09:49:12] sourishkrout, joining. (#appium)
+[2013-01-17 10:07:29] llaskin, quitting. (Changing host)
+[2013-01-17 10:07:29] llaskin, joining. (#appium)
