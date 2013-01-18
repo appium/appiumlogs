@@ -162,3 +162,8 @@
 [2013-01-17 18:20:36] github-appium: appium/master 94d5c3c Sebastian Tiedtke: Removed trailing whitespaces.
 [2013-01-17 18:20:36] github-appium: appium/master b413a15 Jonathan Lipps: Merge pull request #18 from sourishkrout/master...
 [2013-01-17 18:20:36] github-appium, leaving. (#appium)
+[2013-01-17 18:25:52] santiycr, quitting. (Quit: Leaving.)
+[2013-01-17 18:26:02] github-appium, joining. (#appium)
+[2013-01-17 18:26:02] github-appium: [appium] jlipps opened pull request #19: findElementFromElement methods, and grunt running uicatalog tests side-by-side (master...master)  http://git.io/fqF9QQ
+[2013-01-17 18:26:02] github-appium, leaving. (#appium)
+[2013-01-17 18:26:41] jcarr, quitting. (Quit: Leaving.)
