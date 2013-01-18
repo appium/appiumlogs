@@ -128,3 +128,17 @@
 [2013-01-17 16:14:04] github-appium, joining. (#appium)
 [2013-01-17 16:14:05] github-appium: [appium] sourishkrout opened pull request #16: One more unit test to verify the inner Appium machinery is working properly.  (master...master)  http://git.io/xGJcXw
 [2013-01-17 16:14:05] github-appium, leaving. (#appium)
+[2013-01-17 16:15:07] admc, joining. (#appium)
+[2013-01-17 16:18:27] github-appium, joining. (#appium)
+[2013-01-17 16:18:27] github-appium: [appium] jlipps pushed 5 new commits to master: http://git.io/9Oe1vg
+[2013-01-17 16:18:27] github-appium: appium/master 961e632 Joe Mathes: already moved
+[2013-01-17 16:18:27] github-appium: appium/master 2008b84 Joe Mathes: this is done also too also
+[2013-01-17 16:18:27] github-appium: appium/master 7a5cbc1 Joe Mathes: claim'd
+[2013-01-17 16:18:27] github-appium, leaving. (#appium)
+[2013-01-17 16:19:18] sourishkrout, joining. (#appium)
+[2013-01-17 16:19:47] github-appium, joining. (#appium)
+[2013-01-17 16:19:47] github-appium: [appium] jlipps pushed 4 new commits to master: http://git.io/saebvw
+[2013-01-17 16:19:47] github-appium: appium/master 75b1575 Sebastian Tiedtke: Make appium mocking easier.
+[2013-01-17 16:19:47] github-appium: appium/master 1f3299b Sebastian Tiedtke: Added unit test for appium http request queue.
+[2013-01-17 16:19:47] github-appium: appium/master f06b8af Sebastian Tiedtke: Fixed linter issues.
+[2013-01-17 16:19:47] github-appium, leaving. (#appium)
