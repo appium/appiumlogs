@@ -4,3 +4,4 @@
 [2013-01-18 01:29:08] berni, quitting. (Ping timeout: 255 seconds)
 [2013-01-18 01:57:32] stackedsax, quitting. (Quit: Leaving.)
 [2013-01-18 07:40:51] stackedsax, joining. (#appium)
+[2013-01-18 07:45:20] stackedsax, quitting. (Ping timeout: 244 seconds)
