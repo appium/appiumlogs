@@ -187,3 +187,7 @@
 [2013-01-17 18:48:33] brainsik, quitting. (Quit: Leaving.)
 [2013-01-17 18:49:25] admc, quitting. (Quit: Leaving.)
 [2013-01-17 19:14:21] admc, joining. (#appium)
+[2013-01-17 19:22:16] santiycr, joining. (#appium)
+[2013-01-17 19:23:23] sourishkrout, quitting. (Quit: Leaving.)
+[2013-01-17 19:24:10] santiycr, quitting. (Client Quit)
+[2013-01-17 19:24:53] jcarr, quitting. (Quit: Leaving.)
