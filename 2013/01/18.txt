@@ -11,3 +11,11 @@
 [2013-01-18 09:11:26] admc, joining. (#appium)
 [2013-01-18 10:03:10] freynaud: admc: have you looked at the Inspector at all ?
 [2013-01-18 10:10:58] sourishkrout, joining. (#appium)
+[2013-01-18 10:21:17] admc: yeah we got a great demo from hugs
+[2013-01-18 10:21:23] admc: really cool stuff
+[2013-01-18 10:22:08] *lukeis wonders what hugs is already tinkering on next ;)'
+[2013-01-18 10:22:44] freynaud: not the front end, how it's built
+[2013-01-18 10:22:53] freynaud: if you haven't, don't bother, it's horrible
+[2013-01-18 10:23:02] freynaud: like each time I have to do front end
+[2013-01-18 10:23:22] freynaud: the key here is driver.logElementTree();
+[2013-01-18 10:23:37] freynaud: if you call that, you get all the content back
