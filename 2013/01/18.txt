@@ -45,3 +45,4 @@
 [2013-01-18 12:33:11] jcarr, joining. (#appium)
 [2013-01-18 13:00:34] brainsik, quitting. (Quit: Leaving.)
 [2013-01-18 13:23:58] sourishkrout, joining. (#appium)
+[2013-01-18 13:28:07] toks: if you got a macosx, check this out... http://www.macgasm.net/2013/01/18/good-morning-your-mac-keeps-a-log-of-all-your-downloads/
