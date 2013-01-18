@@ -51,3 +51,16 @@
 [2013-01-18 13:31:27] toks: (HackerNews comments @ http://news.ycombinator.com/item?id=5080350)
 [2013-01-18 13:32:20] brainsik, joining. (#appium)
 [2013-01-18 13:55:57] admc, joining. (#appium)
+[2013-01-18 15:05:48] github-appium, joining. (#appium)
+[2013-01-18 15:05:48] github-appium: [appium] jlipps opened pull request #21: Use node instead of python for "authorize.py" (master...master)  http://git.io/I8WJTg
+[2013-01-18 15:05:48] github-appium, leaving. (#appium)
+[2013-01-18 15:06:27] github-appium, joining. (#appium)
+[2013-01-18 15:06:27] github-appium: [appium] sourishkrout pushed 1 new commit to master: http://git.io/owjp2w
+[2013-01-18 15:06:27] github-appium: appium/master 9c986f5 Sebastian Tiedtke: Fixed spacing.
+[2013-01-18 15:06:27] github-appium, leaving. (#appium)
+[2013-01-18 15:08:41] github-appium, joining. (#appium)
+[2013-01-18 15:08:41] github-appium: [appium] sourishkrout pushed 2 new commits to master: http://git.io/M6aBIg
+[2013-01-18 15:08:41] github-appium: appium/master 589bec2 Jonathan Lipps: nodeify the authorization script and update readme
+[2013-01-18 15:08:41] github-appium: appium/master b4443b2 Sebastian Tiedtke: Merge pull request #21 from jlipps/master...
+[2013-01-18 15:08:41] github-appium, leaving. (#appium)
+[2013-01-18 15:09:10] lukeis: jlipps: no worries :) I was not up to nodeifying that ;)
