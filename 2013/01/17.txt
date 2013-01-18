@@ -167,3 +167,9 @@
 [2013-01-17 18:26:02] github-appium: [appium] jlipps opened pull request #19: findElementFromElement methods, and grunt running uicatalog tests side-by-side (master...master)  http://git.io/fqF9QQ
 [2013-01-17 18:26:02] github-appium, leaving. (#appium)
 [2013-01-17 18:26:41] jcarr, quitting. (Quit: Leaving.)
+[2013-01-17 18:31:12] github-appium, joining. (#appium)
+[2013-01-17 18:31:12] github-appium: [appium] jlipps pushed 9 new commits to master: http://git.io/2WWySg
+[2013-01-17 18:31:12] github-appium: appium/master cfa940d Jonathan Lipps: keep docs freshy
+[2013-01-17 18:31:12] github-appium: appium/master 3e9ca08 Jonathan Lipps: add element/:id/element(s) methods
+[2013-01-17 18:31:12] github-appium: appium/master 5467709 Jonathan Lipps: convert findElement.js to shoulds
+[2013-01-17 18:31:12] github-appium, leaving. (#appium)
