@@ -43,3 +43,4 @@
 [2013-01-18 12:24:47] brainsik, joining. (#appium)
 [2013-01-18 12:25:01] sourishkrout, quitting. (Quit: Leaving.)
 [2013-01-18 12:33:11] jcarr, joining. (#appium)
+[2013-01-18 13:00:34] brainsik, quitting. (Quit: Leaving.)
