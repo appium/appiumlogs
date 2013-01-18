@@ -142,3 +142,4 @@
 [2013-01-17 16:19:47] github-appium: appium/master 1f3299b Sebastian Tiedtke: Added unit test for appium http request queue.
 [2013-01-17 16:19:47] github-appium: appium/master f06b8af Sebastian Tiedtke: Fixed linter issues.
 [2013-01-17 16:19:47] github-appium, leaving. (#appium)
+[2013-01-17 16:30:44] llaskin, leaving. (#appium)
