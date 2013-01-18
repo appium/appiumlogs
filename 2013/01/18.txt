@@ -38,3 +38,4 @@
 [2013-01-18 11:36:53] lukeis: the bot does it
 [2013-01-18 11:36:57] lukeis: it's not an irc feature
 [2013-01-18 11:37:00] toks: oh
+[2013-01-18 12:08:08] freynaud, leaving. (#appium)
