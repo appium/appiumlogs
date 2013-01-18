@@ -8,3 +8,4 @@
 [2013-01-18 08:29:58] lukeis, joining. (#appium)
 [2013-01-18 08:46:45] freynaud, quitting. (Remote host closed the connection)
 [2013-01-18 08:47:06] freynaud, joining. (#appium)
+[2013-01-18 09:11:26] admc, joining. (#appium)
