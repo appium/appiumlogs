@@ -64,3 +64,10 @@
 [2013-01-18 15:08:41] github-appium: appium/master b4443b2 Sebastian Tiedtke: Merge pull request #21 from jlipps/master...
 [2013-01-18 15:08:41] github-appium, leaving. (#appium)
 [2013-01-18 15:09:10] lukeis: jlipps: no worries :) I was not up to nodeifying that ;)
+[2013-01-18 15:10:48] lukeis: oh and btw that wasn't mine… that was dan q's from hugs/appium … i shamelessly copied it over
+[2013-01-18 15:11:57] lukeis: so the code comment of attribution of authorization.py should go to penguinho :)
+[2013-01-18 15:12:08] github-appium, joining. (#appium)
+[2013-01-18 15:12:08] github-appium: [appium] sourishkrout pushed 1 new commit to master: http://git.io/JkjV2w
+[2013-01-18 15:12:08] github-appium: appium/master bb1ba0f Sebastian Tiedtke: Fixed udid parser arg.
+[2013-01-18 15:12:08] github-appium, leaving. (#appium)
+[2013-01-18 15:12:19] jlipps: i see i'll make that change lukeis, thanks!
