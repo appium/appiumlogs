@@ -10,3 +10,4 @@
 [2013-01-18 08:47:06] freynaud, joining. (#appium)
 [2013-01-18 09:11:26] admc, joining. (#appium)
 [2013-01-18 10:03:10] freynaud: admc: have you looked at the Inspector at all ?
+[2013-01-18 10:10:58] sourishkrout, joining. (#appium)
