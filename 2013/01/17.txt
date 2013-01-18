@@ -193,3 +193,5 @@
 [2013-01-17 19:24:53] jcarr, quitting. (Quit: Leaving.)
 [2013-01-17 19:37:15] brainsik, joining. (#appium)
 [2013-01-17 19:38:58] brainsik, quitting. (Client Quit)
+[2013-01-17 19:56:18] admc, quitting. (Quit: Leaving.)
+[2013-01-17 19:58:54] stackedsax, joining. (#appium)
