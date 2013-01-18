@@ -41,3 +41,4 @@
 [2013-01-18 12:08:08] freynaud, leaving. (#appium)
 [2013-01-18 12:23:12] admc, quitting. (Quit: Leaving.)
 [2013-01-18 12:24:47] brainsik, joining. (#appium)
+[2013-01-18 12:25:01] sourishkrout, quitting. (Quit: Leaving.)
