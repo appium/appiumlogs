@@ -148,3 +148,9 @@
 [2013-01-17 16:50:31] github-appium, leaving. (#appium)
 [2013-01-17 17:12:29] santiycr, quitting. (Quit: Leaving.)
 [2013-01-17 17:28:50] santiycr, joining. (#appium)
+[2013-01-17 18:11:31] stackedsax, quitting. (Quit: Leaving.)
+[2013-01-17 18:13:44] github-appium, joining. (#appium)
+[2013-01-17 18:13:44] github-appium: [appium] sourishkrout pushed 2 new commits to master: http://git.io/68jLkw
+[2013-01-17 18:13:44] github-appium: appium/master dc6f624 Adam Christian: Adding flick without a test :(
+[2013-01-17 18:13:44] github-appium: appium/master d5589bd Sebastian Tiedtke: Merge pull request #17 from admc/master...
+[2013-01-17 18:13:44] github-appium, leaving. (#appium)
