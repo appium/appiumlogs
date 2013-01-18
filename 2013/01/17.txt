@@ -154,3 +154,6 @@
 [2013-01-17 18:13:44] github-appium: appium/master dc6f624 Adam Christian: Adding flick without a test :(
 [2013-01-17 18:13:44] github-appium: appium/master d5589bd Sebastian Tiedtke: Merge pull request #17 from admc/master...
 [2013-01-17 18:13:44] github-appium, leaving. (#appium)
+[2013-01-17 18:18:09] github-appium, joining. (#appium)
+[2013-01-17 18:18:09] github-appium: [appium] sourishkrout opened pull request #18: Rmvd trailing white space (master...master)  http://git.io/I4E0zw
+[2013-01-17 18:18:09] github-appium, leaving. (#appium)
