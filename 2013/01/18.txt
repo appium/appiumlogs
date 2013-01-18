@@ -23,3 +23,5 @@
 [2013-01-18 10:26:50] freynaud: I'm thinking about a grid of real device with that robotic hand doing the gestures : http://pbmo.files.wordpress.com/2010/12/shadow-hand.png?w=300&h=514
 [2013-01-18 10:27:11] lukeis: hmm, appiumbot doesn't like to delete the old notes
 [2013-01-18 10:28:56] appiumbot, joining. (#appium)
+[2013-01-18 10:32:23] lukeis: freynaud: i would be afraid of your server room with robotic hands
+[2013-01-18 10:34:44] freynaud: I'm pretty sure they can make coffeee too :)
