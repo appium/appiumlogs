@@ -33,3 +33,8 @@
 [2013-01-18 11:17:00] sourishkrout, joining. (#appium)
 [2013-01-18 11:17:09] stackedsax, joining. (#appium)
 [2013-01-18 11:18:16] jlipps, joining. (#appium)
+[2013-01-18 11:36:41] toks: you can leave notes on irc? o.o
+[2013-01-18 11:36:45] toks: I did not know that
+[2013-01-18 11:36:53] lukeis: the bot does it
+[2013-01-18 11:36:57] lukeis: it's not an irc feature
+[2013-01-18 11:37:00] toks: oh
