@@ -75,3 +75,5 @@
 [2013-01-18 15:34:03] github-appium: [appium] sourishkrout opened pull request #22: Getting flick to do its work. (master...master)  http://git.io/Dvdmag
 [2013-01-18 15:34:03] github-appium, leaving. (#appium)
 [2013-01-18 15:50:01] sourishkrout1, joining. (#appium)
+[2013-01-18 15:50:07] sourishkrout1, quitting. (Client Quit)
+[2013-01-18 15:52:35] sourishkrout, quitting. (Ping timeout: 248 seconds)
