@@ -99,3 +99,9 @@
 [2013-01-18 16:17:10] github-appium, joining. (#appium)
 [2013-01-18 16:17:10] github-appium: [appium] jmathes opened pull request #24: code cleanup (master...master)  http://git.io/8ouBxg
 [2013-01-18 16:17:10] github-appium, leaving. (#appium)
+[2013-01-18 16:20:46] github-appium, joining. (#appium)
+[2013-01-18 16:20:46] github-appium: [appium] sourishkrout pushed 3 new commits to master: http://git.io/2eToAw
+[2013-01-18 16:20:46] github-appium: appium/master b406a02 Joe Mathes: sweep up some unnecessary codez
+[2013-01-18 16:20:46] github-appium: appium/master 227e782 Joe Mathes: don't need 3 trailing lines
+[2013-01-18 16:20:46] github-appium: appium/master 1cfc5d9 Sebastian Tiedtke: Merge pull request #24 from jmathes/master...
+[2013-01-18 16:20:46] github-appium, leaving. (#appium)
