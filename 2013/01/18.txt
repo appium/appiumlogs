@@ -117,3 +117,5 @@
 [2013-01-18 16:28:11] github-appium, leaving. (#appium)
 [2013-01-18 16:56:11] lukeis, quitting. (Quit: Leaving.)
 [2013-01-18 17:06:37] sourishkrout, quitting. (Quit: Leaving.)
+[2013-01-18 17:11:35] stackedsax, quitting. (Quit: Leaving.)
+[2013-01-18 17:12:48] stackedsax, joining. (#appium)
