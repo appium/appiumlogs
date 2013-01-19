@@ -77,3 +77,8 @@
 [2013-01-18 15:50:01] sourishkrout1, joining. (#appium)
 [2013-01-18 15:50:07] sourishkrout1, quitting. (Client Quit)
 [2013-01-18 15:52:35] sourishkrout, quitting. (Ping timeout: 248 seconds)
+[2013-01-18 15:59:26] github-appium, joining. (#appium)
+[2013-01-18 15:59:26] github-appium: [appium] jlipps pushed 2 new commits to master: http://git.io/GhgJuw
+[2013-01-18 15:59:26] github-appium: appium/master cb3297d Sebastian Tiedtke: Getting flick straight.
+[2013-01-18 15:59:26] github-appium: appium/master 63d53f4 Jonathan Lipps: Merge pull request #22 from sourishkrout/master...
+[2013-01-18 15:59:26] github-appium, leaving. (#appium)
