@@ -122,3 +122,4 @@
 [2013-01-18 17:25:57] jcarr, quitting. (Quit: Leaving.)
 [2013-01-18 17:26:01] stackedsax, quitting. (Quit: Leaving.)
 [2013-01-18 18:07:21] stackedsax, joining. (#appium)
+[2013-01-18 18:20:43] brainsik, quitting. (Quit: Leaving.)
