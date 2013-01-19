@@ -125,3 +125,4 @@
 [2013-01-18 18:20:43] brainsik, quitting. (Quit: Leaving.)
 [2013-01-18 18:43:35] toks, quitting. (Ping timeout: 255 seconds)
 [2013-01-18 18:49:51] admc, quitting. (Quit: Leaving.)
+[2013-01-18 18:59:50] stackedsax, quitting. (Quit: Leaving.)
