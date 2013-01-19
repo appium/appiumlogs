@@ -82,3 +82,14 @@
 [2013-01-18 15:59:26] github-appium: appium/master cb3297d Sebastian Tiedtke: Getting flick straight.
 [2013-01-18 15:59:26] github-appium: appium/master 63d53f4 Jonathan Lipps: Merge pull request #22 from sourishkrout/master...
 [2013-01-18 15:59:26] github-appium, leaving. (#appium)
+[2013-01-18 16:02:24] github-appium, joining. (#appium)
+[2013-01-18 16:02:24] github-appium: [appium] jlipps opened pull request #23: minor correction (master...master)  http://git.io/9Ybvwg
+[2013-01-18 16:02:24] github-appium, leaving. (#appium)
+[2013-01-18 16:03:06] github-appium, joining. (#appium)
+[2013-01-18 16:03:06] github-appium: [appium] lukeis pushed 2 new commits to master: http://git.io/QklCgg
+[2013-01-18 16:03:06] github-appium: appium/master 92ac442 Jonathan Lipps: correct attribution
+[2013-01-18 16:03:06] github-appium: appium/master cc3a55f Luke Inman-Semerau: Merge pull request #23 from jlipps/master...
+[2013-01-18 16:03:06] github-appium, leaving. (#appium)
+[2013-01-18 16:03:24] jlipps: :-)
+[2013-01-18 16:03:32] sourishkrout, joining. (#appium)
+[2013-01-18 16:04:02] berni, joining. (#appium)
