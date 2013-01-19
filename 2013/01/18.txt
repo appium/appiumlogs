@@ -96,3 +96,6 @@
 [2013-01-18 16:12:04] lukeis, quitting. (Read error: Connection reset by peer)
 [2013-01-18 16:12:38] berni, quitting. (Read error: Connection reset by peer)
 [2013-01-18 16:13:20] lukeis, joining. (#appium)
+[2013-01-18 16:17:10] github-appium, joining. (#appium)
+[2013-01-18 16:17:10] github-appium: [appium] jmathes opened pull request #24: code cleanup (master...master)  http://git.io/8ouBxg
+[2013-01-18 16:17:10] github-appium, leaving. (#appium)
