@@ -115,3 +115,4 @@
 [2013-01-18 16:28:11] github-appium: appium/master ac95a33 Jonathan Lipps: update list of completed methods
 [2013-01-18 16:28:11] github-appium: appium/master e7a3b50 Jonathan Lipps: updated readme with more instructions for different kinds of people
 [2013-01-18 16:28:11] github-appium, leaving. (#appium)
+[2013-01-18 16:56:11] lukeis, quitting. (Quit: Leaving.)
