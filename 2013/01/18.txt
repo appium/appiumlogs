@@ -93,3 +93,6 @@
 [2013-01-18 16:03:24] jlipps: :-)
 [2013-01-18 16:03:32] sourishkrout, joining. (#appium)
 [2013-01-18 16:04:02] berni, joining. (#appium)
+[2013-01-18 16:12:04] lukeis, quitting. (Read error: Connection reset by peer)
+[2013-01-18 16:12:38] berni, quitting. (Read error: Connection reset by peer)
+[2013-01-18 16:13:20] lukeis, joining. (#appium)
