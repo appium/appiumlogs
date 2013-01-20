@@ -9,3 +9,4 @@
 [2013-01-19 17:13:20] admc, joining. (#appium)
 [2013-01-19 17:25:48] sourishkrout, joining. (#appium)
 [2013-01-19 17:39:17] admc, quitting. (Quit: Leaving.)
+[2013-01-19 17:55:45] admc, joining. (#appium)
