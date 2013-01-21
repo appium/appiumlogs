@@ -1,2 +1,4 @@
 [2013-01-21 08:13:34] lukeis, joining. (#appium)
 [2013-01-21 09:11:10] sourishkrout, joining. (#appium)
+[2013-01-21 09:48:49] lukeis, quitting. (Quit: Leaving.)
+[2013-01-21 09:49:14] lukeis, joining. (#appium)
