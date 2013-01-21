@@ -9,3 +9,5 @@
 [2013-01-21 11:17:35] sourishkrout1, quitting. (Quit: Leaving.)
 [2013-01-21 12:06:56] stackedsax, quitting. (Read error: Connection reset by peer)
 [2013-01-21 12:07:05] stackedsax, joining. (#appium)
+[2013-01-21 12:12:20] admc, joining. (#appium)
+[2013-01-21 12:13:17] sourishkrout, joining. (#appium)
