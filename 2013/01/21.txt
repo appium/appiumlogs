@@ -7,3 +7,5 @@
 [2013-01-21 10:32:58] sourishkrout, quitting. (Ping timeout: 252 seconds)
 [2013-01-21 11:10:37] jcarr, joining. (#appium)
 [2013-01-21 11:17:35] sourishkrout1, quitting. (Quit: Leaving.)
+[2013-01-21 12:06:56] stackedsax, quitting. (Read error: Connection reset by peer)
+[2013-01-21 12:07:05] stackedsax, joining. (#appium)
