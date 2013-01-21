@@ -11,3 +11,5 @@
 [2013-01-21 12:07:05] stackedsax, joining. (#appium)
 [2013-01-21 12:12:20] admc, joining. (#appium)
 [2013-01-21 12:13:17] sourishkrout, joining. (#appium)
+[2013-01-21 12:23:24] sourishkrout, quitting. (Quit: Leaving.)
+[2013-01-21 12:24:44] sourishkrout, joining. (#appium)
