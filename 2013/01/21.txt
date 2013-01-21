@@ -13,3 +13,6 @@
 [2013-01-21 12:13:17] sourishkrout, joining. (#appium)
 [2013-01-21 12:23:24] sourishkrout, quitting. (Quit: Leaving.)
 [2013-01-21 12:24:44] sourishkrout, joining. (#appium)
+[2013-01-21 14:39:28] github-appium, joining. (#appium)
+[2013-01-21 14:39:28] github-appium: [appium] sourishkrout opened pull request #26: Basis for improved error handling. (master...master)  http://git.io/sJ3xVA
+[2013-01-21 14:39:28] github-appium, leaving. (#appium)
