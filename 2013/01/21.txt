@@ -21,3 +21,7 @@
 [2013-01-21 14:44:57] github-appium: appium/master bc73d45 Sebastian Tiedtke: First stab at improved error handling.
 [2013-01-21 14:44:57] github-appium: appium/master 826b736 admc: Merge pull request #26 from sourishkrout/master...
 [2013-01-21 14:44:57] github-appium, leaving. (#appium)
+[2013-01-21 15:14:31] github-appium, joining. (#appium)
+[2013-01-21 15:14:31] github-appium: [appium] admc pushed 1 new commit to gh-pages: http://git.io/c1uAwg
+[2013-01-21 15:14:31] github-appium: appium/gh-pages bc2da78 admc: Create gh-pages branch via GitHub
+[2013-01-21 15:14:31] github-appium, leaving. (#appium)
