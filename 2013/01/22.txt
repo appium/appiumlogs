@@ -9,3 +9,6 @@
 [2013-01-22 09:38:25] admc, joining. (#appium)
 [2013-01-22 09:42:03] sourishkrout, joining. (#appium)
 [2013-01-22 09:43:56] sourishkrout, quitting. (Client Quit)
+[2013-01-22 09:45:43] sourishkrout, joining. (#appium)
+[2013-01-22 09:49:20] lukeis, leaving. (#appium)
+[2013-01-22 09:49:25] lukeis, joining. (#appium)
