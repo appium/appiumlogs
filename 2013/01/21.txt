@@ -50,3 +50,5 @@
 [2013-01-21 19:01:23] toks, quitting. (Ping timeout: 245 seconds)
 [2013-01-21 20:00:29] sourishkrout, quitting. (Quit: Leaving.)
 [2013-01-21 22:05:51] stackedsax, joining. (#appium)
+[2013-01-21 22:10:22] stackedsax1, joining. (#appium)
+[2013-01-21 22:10:23] stackedsax, quitting. (Read error: Connection reset by peer)
