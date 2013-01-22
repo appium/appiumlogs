@@ -14,3 +14,6 @@
 [2013-01-22 09:49:25] lukeis, joining. (#appium)
 [2013-01-22 10:14:15] santiycr, joining. (#appium)
 [2013-01-22 10:25:21] toks, joining. (#appium)
+[2013-01-22 10:37:42] github-appium, joining. (#appium)
+[2013-01-22 10:37:42] github-appium: [appium] bernii opened pull request #30: Python Unit Test (master...master)  http://git.io/-CZl8g
+[2013-01-22 10:37:42] github-appium, leaving. (#appium)
