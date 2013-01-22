@@ -6,3 +6,4 @@
 [2013-01-22 09:26:38] stackedsax, joining. (#appium)
 [2013-01-22 09:26:53] stackedsax, quitting. (Read error: Connection reset by peer)
 [2013-01-22 09:27:09] stackedsax, joining. (#appium)
+[2013-01-22 09:38:25] admc, joining. (#appium)
