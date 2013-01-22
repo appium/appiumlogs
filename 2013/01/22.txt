@@ -50,3 +50,4 @@
 [2013-01-22 14:24:04] github-appium, joining. (#appium)
 [2013-01-22 14:24:04] github-appium: [appium] admc deleted gh-pages at 46b3c1b: http://git.io/R69z3Q
 [2013-01-22 14:24:04] github-appium, leaving. (#appium)
+[2013-01-22 14:38:14] admc1, joining. (#appium)
