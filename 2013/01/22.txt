@@ -13,3 +13,4 @@
 [2013-01-22 09:49:20] lukeis, leaving. (#appium)
 [2013-01-22 09:49:25] lukeis, joining. (#appium)
 [2013-01-22 10:14:15] santiycr, joining. (#appium)
+[2013-01-22 10:25:21] toks, joining. (#appium)
