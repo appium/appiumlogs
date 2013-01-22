@@ -38,3 +38,9 @@
 [2013-01-21 16:17:28] github-appium, joining. (#appium)
 [2013-01-21 16:17:28] github-appium: [appium] admc opened pull request #27: Getting the shell working and system binary (master...master)  http://git.io/q2mevg
 [2013-01-21 16:17:28] github-appium, leaving. (#appium)
+[2013-01-21 16:24:28] github-appium, joining. (#appium)
+[2013-01-21 16:24:29] github-appium: [appium] sourishkrout pushed 3 new commits to master: http://git.io/RDguxA
+[2013-01-21 16:24:29] github-appium: appium/master 6087b22 Adam Christian: Binary + shell + prep for publish to npm
+[2013-01-21 16:24:29] github-appium: appium/master 985d047 Adam Christian: LINTING MY BIN CI!
+[2013-01-21 16:24:29] github-appium: appium/master 1020462 Sebastian Tiedtke: Merge pull request #27 from admc/master...
+[2013-01-21 16:24:29] github-appium, leaving. (#appium)
