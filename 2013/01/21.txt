@@ -45,3 +45,4 @@
 [2013-01-21 16:24:29] github-appium: appium/master 1020462 Sebastian Tiedtke: Merge pull request #27 from admc/master...
 [2013-01-21 16:24:29] github-appium, leaving. (#appium)
 [2013-01-21 17:10:53] admc, quitting. (Quit: Leaving.)
+[2013-01-21 17:55:49] jcarr, quitting. (Quit: Leaving.)
