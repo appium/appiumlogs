@@ -35,3 +35,6 @@
 [2013-01-21 15:17:16] github-appium, leaving. (#appium)
 [2013-01-21 15:24:29] appiumbot, joining. (#appium)
 [2013-01-21 16:04:00] lukeis, quitting. (Quit: Leaving.)
+[2013-01-21 16:17:28] github-appium, joining. (#appium)
+[2013-01-21 16:17:28] github-appium: [appium] admc opened pull request #27: Getting the shell working and system binary (master...master)  http://git.io/q2mevg
+[2013-01-21 16:17:28] github-appium, leaving. (#appium)
