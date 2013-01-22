@@ -3,3 +3,6 @@
 [2013-01-22 05:25:35] Jayakumar, joining. (#appium)
 [2013-01-22 05:27:27] Jayakumar, leaving. (#appium)
 [2013-01-22 08:58:36] lukeis, joining. (#appium)
+[2013-01-22 09:26:38] stackedsax, joining. (#appium)
+[2013-01-22 09:26:53] stackedsax, quitting. (Read error: Connection reset by peer)
+[2013-01-22 09:27:09] stackedsax, joining. (#appium)
