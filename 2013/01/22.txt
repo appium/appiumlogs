@@ -32,3 +32,18 @@
 [2013-01-22 14:05:07] github-appium, joining. (#appium)
 [2013-01-22 14:05:07] github-appium: [appium] admc created appium.io at 985d047 (+0 new commits): http://git.io/nLNOKQ
 [2013-01-22 14:05:07] github-appium, leaving. (#appium)
+[2013-01-22 14:13:27] github-appium, joining. (#appium)
+[2013-01-22 14:13:27] github-appium: [appium] sourishkrout opened pull request #31: Cleaner interfaces for error handling (master...master)  http://git.io/jPvLTg
+[2013-01-22 14:13:27] github-appium, leaving. (#appium)
+[2013-01-22 14:13:55] github-appium, joining. (#appium)
+[2013-01-22 14:13:55] github-appium: [appium] admc pushed 3 new commits to master: http://git.io/gvsfUw
+[2013-01-22 14:13:55] github-appium: appium/master 0e5ec6c berni: python unit test example using appium
+[2013-01-22 14:13:55] github-appium: appium/master be25162 berni: use the latest selenium version notice
+[2013-01-22 14:13:55] github-appium: appium/master 849d9a8 admc: Merge pull request #30 from bernii/master...
+[2013-01-22 14:13:55] github-appium, leaving. (#appium)
+[2013-01-22 14:14:23] github-appium, joining. (#appium)
+[2013-01-22 14:14:24] github-appium: [appium] admc pushed 3 new commits to master: http://git.io/-ZQ_Gg
+[2013-01-22 14:14:24] github-appium: appium/master b7fcfd0 Sebastian Tiedtke: Refactoring for more error handling.
+[2013-01-22 14:14:24] github-appium: appium/master 59980e8 Sebastian Tiedtke: Error codes live in app/status.js now.
+[2013-01-22 14:14:24] github-appium: appium/master 51cae12 admc: Merge pull request #31 from sourishkrout/master...
+[2013-01-22 14:14:24] github-appium, leaving. (#appium)
