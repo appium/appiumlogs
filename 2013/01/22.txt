@@ -17,3 +17,8 @@
 [2013-01-22 10:37:42] github-appium, joining. (#appium)
 [2013-01-22 10:37:42] github-appium: [appium] bernii opened pull request #30: Python Unit Test (master...master)  http://git.io/-CZl8g
 [2013-01-22 10:37:42] github-appium, leaving. (#appium)
+[2013-01-22 11:21:29] github-appium, joining. (#appium)
+[2013-01-22 11:21:29] github-appium: [appium] admc pushed 1 new commit to gh-pages: http://git.io/1B5enA
+[2013-01-22 11:21:29] github-appium: appium/gh-pages 46b3c1b admc: Create gh-pages branch via GitHub
+[2013-01-22 11:21:29] github-appium, leaving. (#appium)
+[2013-01-22 11:24:20] lukeis: w00t hugs… i honestly was just thinking about a bundle/executable yesterday :) good to see others are too
