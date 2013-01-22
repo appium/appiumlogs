@@ -34,3 +34,4 @@
 [2013-01-21 15:17:16] github-appium: appium/gh-pages a25ff62 admc: One more
 [2013-01-21 15:17:16] github-appium, leaving. (#appium)
 [2013-01-21 15:24:29] appiumbot, joining. (#appium)
+[2013-01-21 16:04:00] lukeis, quitting. (Quit: Leaving.)
