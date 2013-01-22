@@ -52,3 +52,9 @@
 [2013-01-22 14:24:04] github-appium, leaving. (#appium)
 [2013-01-22 14:38:14] admc1, joining. (#appium)
 [2013-01-22 14:41:27] admc, quitting. (Ping timeout: 256 seconds)
+[2013-01-22 14:45:02] sourishkrout1, joining. (#appium)
+[2013-01-22 14:45:02] sourishkrout1, quitting. (Client Quit)
+[2013-01-22 14:48:33] sourishkrout, quitting. (Ping timeout: 248 seconds)
+[2013-01-22 14:49:02] *santiycr doing a major rewrite in controller.js, ios.js and appiumutils.js'
+[2013-01-22 14:49:07] santiycr: beware
+[2013-01-22 14:49:16] *lukeis afraid'
