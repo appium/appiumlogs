@@ -29,3 +29,6 @@
 [2013-01-22 13:32:08] sourishkrout, joining. (#appium)
 [2013-01-22 13:35:24] santiycr, quitting. (Quit: Leaving.)
 [2013-01-22 13:59:39] santiycr, joining. (#appium)
+[2013-01-22 14:05:07] github-appium, joining. (#appium)
+[2013-01-22 14:05:07] github-appium: [appium] admc created appium.io at 985d047 (+0 new commits): http://git.io/nLNOKQ
+[2013-01-22 14:05:07] github-appium, leaving. (#appium)
