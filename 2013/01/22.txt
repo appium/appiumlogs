@@ -47,3 +47,6 @@
 [2013-01-22 14:14:24] github-appium: appium/master 59980e8 Sebastian Tiedtke: Error codes live in app/status.js now.
 [2013-01-22 14:14:24] github-appium: appium/master 51cae12 admc: Merge pull request #31 from sourishkrout/master...
 [2013-01-22 14:14:24] github-appium, leaving. (#appium)
+[2013-01-22 14:24:04] github-appium, joining. (#appium)
+[2013-01-22 14:24:04] github-appium: [appium] admc deleted gh-pages at 46b3c1b: http://git.io/R69z3Q
+[2013-01-22 14:24:04] github-appium, leaving. (#appium)
