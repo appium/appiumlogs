@@ -47,3 +47,4 @@
 [2013-01-21 17:10:53] admc, quitting. (Quit: Leaving.)
 [2013-01-21 17:55:49] jcarr, quitting. (Quit: Leaving.)
 [2013-01-21 18:39:14] stackedsax, quitting. (Quit: Leaving.)
+[2013-01-21 19:01:23] toks, quitting. (Ping timeout: 245 seconds)
