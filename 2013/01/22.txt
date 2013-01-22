@@ -28,3 +28,4 @@
 [2013-01-22 13:31:12] admc, joining. (#appium)
 [2013-01-22 13:32:08] sourishkrout, joining. (#appium)
 [2013-01-22 13:35:24] santiycr, quitting. (Quit: Leaving.)
+[2013-01-22 13:59:39] santiycr, joining. (#appium)
