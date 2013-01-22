@@ -58,3 +58,6 @@
 [2013-01-22 14:49:02] *santiycr doing a major rewrite in controller.js, ios.js and appiumutils.js'
 [2013-01-22 14:49:07] santiycr: beware
 [2013-01-22 14:49:16] *lukeis afraid'
+[2013-01-22 15:02:36] toks: o.o
+[2013-01-22 15:02:58] toks: Don't break it, I need appium :p
+[2013-01-22 15:03:23] lukeis, quitting. (Quit: Leaving.)
