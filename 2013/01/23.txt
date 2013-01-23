@@ -8,3 +8,5 @@
 [2013-01-23 05:46:02] github-appium: [appium] bernii opened pull request #32: Updated appium to make python example work (master...master)  http://git.io/GofCqQ
 [2013-01-23 05:46:02] github-appium, leaving. (#appium)
 [2013-01-23 08:40:00] lukeis, joining. (#appium)
+[2013-01-23 08:55:54] smccarthy, joining. (#appium)
+[2013-01-23 08:59:39] sourishkrout, joining. (#appium)
