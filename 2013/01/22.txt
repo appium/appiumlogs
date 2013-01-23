@@ -64,3 +64,7 @@
 [2013-01-22 15:18:14] sourishkrout, joining. (#appium)
 [2013-01-22 16:07:25] *santiycr not breaking it much'
 [2013-01-22 16:07:28] santiycr: just a bit
+[2013-01-22 16:20:26] admc, joining. (#appium)
+[2013-01-22 16:20:56] santiycr1, joining. (#appium)
+[2013-01-22 16:23:52] admc1, quitting. (Ping timeout: 244 seconds)
+[2013-01-22 16:24:14] santiycr, quitting. (Ping timeout: 256 seconds)
