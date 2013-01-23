@@ -73,3 +73,13 @@
 [2013-01-23 14:17:39] admc, quitting. (Quit: Leaving.)
 [2013-01-23 14:17:59] admc, joining. (#appium)
 [2013-01-23 14:19:13] smccarthy, quitting. (Remote host closed the connection)
+[2013-01-23 14:28:07] lukeis: once my 'other' side project is done (scheduled to only go till first week or so of Feb) I plan to do a lot more here… well, more than this sort of tiny thing ;)
+[2013-01-23 14:28:16] github-appium, joining. (#appium)
+[2013-01-23 14:28:16] github-appium: [appium] lukeis opened pull request #38: ignoreing intellij files (master...master)  http://git.io/sqN3hw
+[2013-01-23 14:28:16] github-appium, leaving. (#appium)
+[2013-01-23 14:28:31] *lukeis needs to learn to spell'
+[2013-01-23 14:28:46] github-appium, joining. (#appium)
+[2013-01-23 14:28:46] github-appium: [appium] sourishkrout pushed 2 new commits to master: http://git.io/l_jg4A
+[2013-01-23 14:28:46] github-appium: appium/master 3b654d4 Luke Inman-Semerau: ignoring intellij files
+[2013-01-23 14:28:46] github-appium: appium/master b0fbdb6 Sebastian Tiedtke: Merge pull request #38 from lukeis/master...
+[2013-01-23 14:28:46] github-appium, leaving. (#appium)
