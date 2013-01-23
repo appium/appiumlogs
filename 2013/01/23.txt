@@ -2,3 +2,4 @@
 [2013-01-23 00:07:22] smccarthy, joining. (#appium)
 [2013-01-23 01:25:33] smccarthy, quitting. (Remote host closed the connection)
 [2013-01-23 04:00:13] smccarthy, joining. (#appium)
+[2013-01-23 04:34:09] knorrium, joining. (#appium)
