@@ -64,3 +64,12 @@
 [2013-01-23 14:12:41] github-appium, joining. (#appium)
 [2013-01-23 14:12:42] github-appium: [appium] santiycr opened pull request #37: Improved error handling (master...master)  http://git.io/BNkvww
 [2013-01-23 14:12:42] github-appium, leaving. (#appium)
+[2013-01-23 14:16:22] github-appium, joining. (#appium)
+[2013-01-23 14:16:22] github-appium: [appium] sourishkrout pushed 8 new commits to master: http://git.io/YZE0Pg
+[2013-01-23 14:16:22] github-appium: appium/master 0eba77a Santiago Suarez Ordoñez: Improving error handling:...
+[2013-01-23 14:16:22] github-appium: appium/master f64204b Santiago Suarez Ordoñez: fixing unit test
+[2013-01-23 14:16:22] github-appium: appium/master 0490775 Santiago Suarez Ordoñez: fixing sessions test to comply to JSONWP
+[2013-01-23 14:16:22] github-appium, leaving. (#appium)
+[2013-01-23 14:17:39] admc, quitting. (Quit: Leaving.)
+[2013-01-23 14:17:59] admc, joining. (#appium)
+[2013-01-23 14:19:13] smccarthy, quitting. (Remote host closed the connection)
