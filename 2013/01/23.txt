@@ -57,3 +57,4 @@
 [2013-01-23 13:22:37] github-appium: appium/master 48d8c78 berni: cleanup
 [2013-01-23 13:22:37] github-appium, leaving. (#appium)
 [2013-01-23 13:34:33] jcarr1, joining. (#appium)
+[2013-01-23 13:37:05] jcarr, quitting. (Ping timeout: 248 seconds)
