@@ -15,3 +15,9 @@
 [2013-01-23 09:00:35] github-appium, leaving. (#appium)
 [2013-01-23 09:00:42] jlipps, joining. (#appium)
 [2013-01-23 09:02:41] sourishkrout, quitting. (Client Quit)
+[2013-01-23 09:06:55] github-appium, joining. (#appium)
+[2013-01-23 09:06:56] github-appium: [appium] sourishkrout pushed 2 new commits to master: http://git.io/ragb4g
+[2013-01-23 09:06:56] github-appium: appium/master d6304e2 Jonathan Lipps: add self to authors, fix spelling
+[2013-01-23 09:06:56] github-appium: appium/master 9ab145c Sebastian Tiedtke: Merge pull request #34 from jlipps/master...
+[2013-01-23 09:06:56] github-appium, leaving. (#appium)
+[2013-01-23 09:06:59] admc, joining. (#appium)
