@@ -56,3 +56,4 @@
 [2013-01-23 13:22:37] github-appium: appium/master c5c26ca berni: example python tests update
 [2013-01-23 13:22:37] github-appium: appium/master 48d8c78 berni: cleanup
 [2013-01-23 13:22:37] github-appium, leaving. (#appium)
+[2013-01-23 13:34:33] jcarr1, joining. (#appium)
