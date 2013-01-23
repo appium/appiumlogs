@@ -93,3 +93,4 @@
 [2013-01-23 14:46:24] github-appium: [appium] bernii opened pull request #39: Flick implementation and typo fix (master...master)  http://git.io/zYEi5g
 [2013-01-23 14:46:24] github-appium, leaving. (#appium)
 [2013-01-23 14:46:30] lukeis: yes, they wrapped try/Thread.Sleep/catch in a 'GeneralUtility' :)
+[2013-01-23 14:54:19] toks: o.o
