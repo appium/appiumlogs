@@ -61,3 +61,6 @@
 [2013-01-23 14:03:40] admc, joining. (#appium)
 [2013-01-23 14:07:45] admc, quitting. (Client Quit)
 [2013-01-23 14:07:54] admc, joining. (#appium)
+[2013-01-23 14:12:41] github-appium, joining. (#appium)
+[2013-01-23 14:12:42] github-appium: [appium] santiycr opened pull request #37: Improved error handling (master...master)  http://git.io/BNkvww
+[2013-01-23 14:12:42] github-appium, leaving. (#appium)
