@@ -41,3 +41,4 @@
 [2013-01-23 12:28:33] github-appium, joining. (#appium)
 [2013-01-23 12:28:34] github-appium: [appium] jlipps opened pull request #36: Add php example test with various fixes (master...master)  http://git.io/7SpRkw
 [2013-01-23 12:28:34] github-appium, leaving. (#appium)
+[2013-01-23 12:43:42] santiycr, quitting. (Quit: Leaving.)
