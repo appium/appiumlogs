@@ -10,3 +10,8 @@
 [2013-01-23 08:40:00] lukeis, joining. (#appium)
 [2013-01-23 08:55:54] smccarthy, joining. (#appium)
 [2013-01-23 08:59:39] sourishkrout, joining. (#appium)
+[2013-01-23 09:00:35] github-appium, joining. (#appium)
+[2013-01-23 09:00:35] github-appium: [appium] jlipps opened pull request #34: update authors (master...master)  http://git.io/zrVCQQ
+[2013-01-23 09:00:35] github-appium, leaving. (#appium)
+[2013-01-23 09:00:42] jlipps, joining. (#appium)
+[2013-01-23 09:02:41] sourishkrout, quitting. (Client Quit)
