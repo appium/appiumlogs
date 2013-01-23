@@ -82,3 +82,4 @@
 [2013-01-22 19:23:53] santiycr1, quitting. (Quit: Leaving.)
 [2013-01-22 19:28:45] santiycr, joining. (#appium)
 [2013-01-22 19:29:06] santiycr, quitting. (Client Quit)
+[2013-01-22 19:44:32] admc, joining. (#appium)
