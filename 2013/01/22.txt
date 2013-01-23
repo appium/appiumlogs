@@ -62,3 +62,5 @@
 [2013-01-22 15:02:58] toks: Don't break it, I need appium :p
 [2013-01-22 15:03:23] lukeis, quitting. (Quit: Leaving.)
 [2013-01-22 15:18:14] sourishkrout, joining. (#appium)
+[2013-01-22 16:07:25] *santiycr not breaking it much'
+[2013-01-22 16:07:28] santiycr: just a bit
