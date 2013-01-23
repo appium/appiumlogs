@@ -73,3 +73,4 @@
 [2013-01-22 16:40:05] github-appium: appium/master 85abc18 admc: Differentiate dev instructions from users
 [2013-01-22 16:40:05] github-appium, leaving. (#appium)
 [2013-01-22 17:37:20] brainsik, quitting. (Read error: Connection reset by peer)
+[2013-01-22 17:46:53] brainsik, joining. (#appium)
