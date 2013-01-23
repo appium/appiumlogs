@@ -84,3 +84,5 @@
 [2013-01-22 19:29:06] santiycr, quitting. (Client Quit)
 [2013-01-22 19:44:32] admc, joining. (#appium)
 [2013-01-22 20:19:23] smccarthy, quitting. (Remote host closed the connection)
+[2013-01-22 21:06:09] smccarthy, joining. (#appium)
+[2013-01-22 21:07:03] admc, quitting. (Quit: Leaving.)
