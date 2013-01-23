@@ -33,3 +33,5 @@
 [2013-01-23 10:54:28] github-appium: appium/master 20a01e7 admc: Merge pull request #35 from sourishkrout/master...
 [2013-01-23 10:54:28] github-appium, leaving. (#appium)
 [2013-01-23 11:27:44] jcarr, joining. (#appium)
+[2013-01-23 11:38:12] admc, quitting. (Quit: Leaving.)
+[2013-01-23 11:38:14] *toks observes the absence of stackedsax'
