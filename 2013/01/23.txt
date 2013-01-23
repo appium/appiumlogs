@@ -24,3 +24,11 @@
 [2013-01-23 09:50:34] sourishkrout, joining. (#appium)
 [2013-01-23 10:27:49] toks, joining. (#appium)
 [2013-01-23 10:37:36] santiycr, joining. (#appium)
+[2013-01-23 10:53:41] github-appium, joining. (#appium)
+[2013-01-23 10:53:41] github-appium: [appium] sourishkrout opened pull request #35: Cleaning up after myself (master...master)  http://git.io/v-LcVg
+[2013-01-23 10:53:41] github-appium, leaving. (#appium)
+[2013-01-23 10:54:28] github-appium, joining. (#appium)
+[2013-01-23 10:54:28] github-appium: [appium] admc pushed 2 new commits to master: http://git.io/oMK8Cw
+[2013-01-23 10:54:28] github-appium: appium/master 23fe191 Sebastian Tiedtke: Didn't realize I broke these tests. Here's a fix! Sorry!
+[2013-01-23 10:54:28] github-appium: appium/master 20a01e7 admc: Merge pull request #35 from sourishkrout/master...
+[2013-01-23 10:54:28] github-appium, leaving. (#appium)
