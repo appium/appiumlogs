@@ -75,3 +75,4 @@
 [2013-01-22 17:37:20] brainsik, quitting. (Read error: Connection reset by peer)
 [2013-01-22 17:46:53] brainsik, joining. (#appium)
 [2013-01-22 18:02:48] sourishkrout, quitting. (Quit: Leaving.)
+[2013-01-22 18:15:51] smccarthy, joining. (#appium)
