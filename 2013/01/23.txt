@@ -83,3 +83,5 @@
 [2013-01-23 14:28:46] github-appium: appium/master 3b654d4 Luke Inman-Semerau: ignoring intellij files
 [2013-01-23 14:28:46] github-appium: appium/master b0fbdb6 Sebastian Tiedtke: Merge pull request #38 from lukeis/master...
 [2013-01-23 14:28:46] github-appium, leaving. (#appium)
+[2013-01-23 14:33:07] *toks looks around...'
+[2013-01-23 14:34:24] toks: http://forums.thedailywtf.com/forums/t/26561.aspx
