@@ -74,3 +74,4 @@
 [2013-01-22 16:40:05] github-appium, leaving. (#appium)
 [2013-01-22 17:37:20] brainsik, quitting. (Read error: Connection reset by peer)
 [2013-01-22 17:46:53] brainsik, joining. (#appium)
+[2013-01-22 18:02:48] sourishkrout, quitting. (Quit: Leaving.)
