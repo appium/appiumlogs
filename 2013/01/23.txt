@@ -87,3 +87,9 @@
 [2013-01-23 14:34:24] toks: http://forums.thedailywtf.com/forums/t/26561.aspx
 [2013-01-23 14:42:42] santiycr, quitting. (Quit: Leaving.)
 [2013-01-23 14:44:48] jlipps: lol
+[2013-01-23 14:45:50] *lukeis head hurts because my android team solves things (and was just suggested to solve another issue) with GeneralUtilities.Sleep(1000);'
+[2013-01-23 14:46:01] santiycr, joining. (#appium)
+[2013-01-23 14:46:24] github-appium, joining. (#appium)
+[2013-01-23 14:46:24] github-appium: [appium] bernii opened pull request #39: Flick implementation and typo fix (master...master)  http://git.io/zYEi5g
+[2013-01-23 14:46:24] github-appium, leaving. (#appium)
+[2013-01-23 14:46:30] lukeis: yes, they wrapped try/Thread.Sleep/catch in a 'GeneralUtility' :)
