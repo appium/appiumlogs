@@ -44,3 +44,9 @@
 [2013-01-23 12:43:42] santiycr, quitting. (Quit: Leaving.)
 [2013-01-23 12:50:38] brainsik, joining. (#appium)
 [2013-01-23 13:04:21] santiycr, joining. (#appium)
+[2013-01-23 13:14:55] github-appium, joining. (#appium)
+[2013-01-23 13:14:55] github-appium: appium/master 704cbc4 Jonathan Lipps: add sausage for php example
+[2013-01-23 13:14:55] github-appium: [appium] sourishkrout pushed 6 new commits to master: http://git.io/UTVbjA
+[2013-01-23 13:14:55] github-appium: appium/master 0cb650f Jonathan Lipps: add simple php test example
+[2013-01-23 13:14:55] github-appium: appium/master caae26b Jonathan Lipps: stub out POST url method so some libraries e.g. phpunit work
+[2013-01-23 13:14:55] github-appium, leaving. (#appium)
