@@ -32,3 +32,4 @@
 [2013-01-23 10:54:28] github-appium: appium/master 23fe191 Sebastian Tiedtke: Didn't realize I broke these tests. Here's a fix! Sorry!
 [2013-01-23 10:54:28] github-appium: appium/master 20a01e7 admc: Merge pull request #35 from sourishkrout/master...
 [2013-01-23 10:54:28] github-appium, leaving. (#appium)
+[2013-01-23 11:27:44] jcarr, joining. (#appium)
