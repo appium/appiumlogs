@@ -72,3 +72,4 @@
 [2013-01-22 16:40:05] github-appium: [appium] admc pushed 1 new commit to master: http://git.io/uafsMQ
 [2013-01-22 16:40:05] github-appium: appium/master 85abc18 admc: Differentiate dev instructions from users
 [2013-01-22 16:40:05] github-appium, leaving. (#appium)
+[2013-01-22 17:37:20] brainsik, quitting. (Read error: Connection reset by peer)
