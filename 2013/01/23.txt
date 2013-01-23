@@ -85,3 +85,5 @@
 [2013-01-23 14:28:46] github-appium, leaving. (#appium)
 [2013-01-23 14:33:07] *toks looks around...'
 [2013-01-23 14:34:24] toks: http://forums.thedailywtf.com/forums/t/26561.aspx
+[2013-01-23 14:42:42] santiycr, quitting. (Quit: Leaving.)
+[2013-01-23 14:44:48] jlipps: lol
