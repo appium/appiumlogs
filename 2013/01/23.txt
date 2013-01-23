@@ -4,3 +4,6 @@
 [2013-01-23 04:00:13] smccarthy, joining. (#appium)
 [2013-01-23 04:34:09] knorrium, joining. (#appium)
 [2013-01-23 04:39:40] smccarthy, quitting. (Remote host closed the connection)
+[2013-01-23 05:46:02] github-appium, joining. (#appium)
+[2013-01-23 05:46:02] github-appium: [appium] bernii opened pull request #32: Updated appium to make python example work (master...master)  http://git.io/GofCqQ
+[2013-01-23 05:46:02] github-appium, leaving. (#appium)
