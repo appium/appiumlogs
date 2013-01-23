@@ -21,3 +21,4 @@
 [2013-01-23 09:06:56] github-appium: appium/master 9ab145c Sebastian Tiedtke: Merge pull request #34 from jlipps/master...
 [2013-01-23 09:06:56] github-appium, leaving. (#appium)
 [2013-01-23 09:06:59] admc, joining. (#appium)
+[2013-01-23 09:50:34] sourishkrout, joining. (#appium)
