@@ -58,3 +58,4 @@
 [2013-01-23 13:22:37] github-appium, leaving. (#appium)
 [2013-01-23 13:34:33] jcarr1, joining. (#appium)
 [2013-01-23 13:37:05] jcarr, quitting. (Ping timeout: 248 seconds)
+[2013-01-23 14:03:40] admc, joining. (#appium)
