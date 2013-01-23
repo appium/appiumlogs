@@ -68,3 +68,7 @@
 [2013-01-22 16:20:56] santiycr1, joining. (#appium)
 [2013-01-22 16:23:52] admc1, quitting. (Ping timeout: 244 seconds)
 [2013-01-22 16:24:14] santiycr, quitting. (Ping timeout: 256 seconds)
+[2013-01-22 16:40:05] github-appium, joining. (#appium)
+[2013-01-22 16:40:05] github-appium: [appium] admc pushed 1 new commit to master: http://git.io/uafsMQ
+[2013-01-22 16:40:05] github-appium: appium/master 85abc18 admc: Differentiate dev instructions from users
+[2013-01-22 16:40:05] github-appium, leaving. (#appium)
