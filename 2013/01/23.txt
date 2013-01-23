@@ -35,3 +35,4 @@
 [2013-01-23 11:27:44] jcarr, joining. (#appium)
 [2013-01-23 11:38:12] admc, quitting. (Quit: Leaving.)
 [2013-01-23 11:38:14] *toks observes the absence of stackedsax'
+[2013-01-23 11:51:28] stackedsax, joining. (#appium)
