@@ -9,3 +9,12 @@
 [2013-01-24 07:46:19] github-appium: appium/master 96a3dc5 berni: flick element - work with sliders etc.
 [2013-01-24 07:46:19] github-appium: appium/master e150c55 Jonathan Lipps: Merge pull request #41 from bernii/master...
 [2013-01-24 07:46:19] github-appium, leaving. (#appium)
+[2013-01-24 08:06:53] github-appium, joining. (#appium)
+[2013-01-24 08:06:53] github-appium: [appium] jlipps opened pull request #42: grunt update (master...master)  http://git.io/a-BO0g
+[2013-01-24 08:06:53] github-appium, leaving. (#appium)
+[2013-01-24 08:07:38] github-appium, joining. (#appium)
+[2013-01-24 08:07:38] github-appium: [appium] bernii pushed 2 new commits to master: http://git.io/x8-x4w
+[2013-01-24 08:07:38] github-appium: appium/master 1a45842 Jonathan Lipps: make sure all uicatalog tests get run
+[2013-01-24 08:07:38] github-appium: appium/master 1734ff4 Bernard Kobos: Merge pull request #42 from jlipps/master...
+[2013-01-24 08:07:38] github-appium, leaving. (#appium)
+[2013-01-24 08:09:45] smccarthy, joining. (#appium)
