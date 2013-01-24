@@ -106,3 +106,6 @@
 [2013-01-24 14:58:06] jcarr: heh, probably should have left him that note in #selenium but oh well
 [2013-01-24 15:34:35] smccarthy, quitting. (Remote host closed the connection)
 [2013-01-24 15:39:25] jcarr, quitting. (Quit: Leaving.)
+[2013-01-24 15:45:41] github-appium, joining. (#appium)
+[2013-01-24 15:45:42] github-appium: [appium] sourishkrout opened pull request #48: Let's catch up with communication protocol changes. (master...master)  http://git.io/DcngGw
+[2013-01-24 15:45:42] github-appium, leaving. (#appium)
