@@ -114,3 +114,5 @@
 [2013-01-23 17:05:59] github-appium: appium/master 8ee5698 Jonathan Lipps: downgrade instruments stderr output so it doesn't clutter test output
 [2013-01-23 17:05:59] github-appium, leaving. (#appium)
 [2013-01-23 17:05:59] github-appium: appium/master 8e568fe Jonathan Lipps: fixing merge conflicts
+[2013-01-23 17:27:17] admc1, joining. (#appium)
+[2013-01-23 17:28:24] jcarr, quitting. (Quit: Leaving.)
