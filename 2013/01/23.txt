@@ -123,3 +123,4 @@
 [2013-01-23 18:50:10] jlipps, quitting. (Quit: jlipps)
 [2013-01-23 19:06:12] stackedsax, joining. (#appium)
 [2013-01-23 19:08:25] santiycr, quitting. (Quit: Leaving.)
+[2013-01-23 19:10:25] stackedsax, quitting. (Ping timeout: 248 seconds)
