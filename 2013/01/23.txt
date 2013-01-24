@@ -99,3 +99,4 @@
 [2013-01-23 15:17:08] smccarthy, joining. (#appium)
 [2013-01-23 15:45:58] lukeis, quitting. (Quit: Leaving.)
 [2013-01-23 15:52:21] jcarr1, changing nick to jcarr.
+[2013-01-23 16:17:57] berni, joining. (#appium)
