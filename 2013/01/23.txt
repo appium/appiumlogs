@@ -138,3 +138,4 @@
 [2013-01-23 21:37:15] jlipps, quitting. (Ping timeout: 276 seconds)
 [2013-01-23 21:44:26] admc1, quitting. (Quit: Leaving.)
 [2013-01-23 21:51:37] sourishkrout, quitting. (Quit: Leaving.)
+[2013-01-23 21:59:53] jcarr, joining. (#appium)
