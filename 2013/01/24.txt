@@ -93,3 +93,14 @@
 [2013-01-24 14:40:22] github-appium, leaving. (#appium)
 [2013-01-24 14:41:48] admc, joining. (#appium)
 [2013-01-24 14:54:56] jcarr, joining. (#appium)
+[2013-01-24 14:55:02] github-appium, joining. (#appium)
+[2013-01-24 14:55:03] github-appium: [appium] sourishkrout pushed 2 new commits to master: http://git.io/ibTKgQ
+[2013-01-24 14:55:03] github-appium: appium/master e43b91e Jonathan Lipps: update page source tests to reflect new schema
+[2013-01-24 14:55:03] github-appium: appium/master 18a9fe0 Sebastian Tiedtke: Merge pull request #47 from jlipps/master...
+[2013-01-24 14:55:03] github-appium, leaving. (#appium)
+[2013-01-24 14:55:16] jcarr: :seen lukeis
+[2013-01-24 14:55:29] jcarr: how do you leave a note for someone?
+[2013-01-24 14:55:30] jcarr: I forget.
+[2013-01-24 14:55:34] jcarr: hmm
+[2013-01-24 14:57:48] jcarr: :note lukeis I have some changes for iwebdriver I'd like to talk to you about; looks like the storyboards don't support orientation changing very well.
+[2013-01-24 14:58:06] jcarr: heh, probably should have left him that note in #selenium but oh well
