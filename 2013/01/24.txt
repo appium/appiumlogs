@@ -36,3 +36,4 @@
 [2013-01-24 08:31:35] github-appium: appium/master 3db0b01 Jonathan Lipps: get node binary from path more flexibly
 [2013-01-24 08:31:35] github-appium: appium/master 08da09a Jonathan Lipps: Merge pull request #43 from jlipps/master...
 [2013-01-24 08:31:35] github-appium, leaving. (#appium)
+[2013-01-24 08:44:27] smccarthy, quitting. (Remote host closed the connection)
