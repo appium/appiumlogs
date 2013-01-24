@@ -88,3 +88,7 @@
 [2013-01-24 14:13:25] github-appium: appium/master 0d1d3e3 Jonathan Lipps: update appiumutils with getTree and better pageSource
 [2013-01-24 14:13:25] github-appium: appium/master 6cb2b29 Sebastian Tiedtke: Merge pull request #46 from jlipps/master...
 [2013-01-24 14:13:25] github-appium, leaving. (#appium)
+[2013-01-24 14:40:21] github-appium, joining. (#appium)
+[2013-01-24 14:40:22] github-appium: [appium] jlipps opened pull request #47: update page source schema/tests (master...master)  http://git.io/lYtB2w
+[2013-01-24 14:40:22] github-appium, leaving. (#appium)
+[2013-01-24 14:41:48] admc, joining. (#appium)
