@@ -116,3 +116,4 @@
 [2013-01-23 17:05:59] github-appium: appium/master 8e568fe Jonathan Lipps: fixing merge conflicts
 [2013-01-23 17:27:17] admc1, joining. (#appium)
 [2013-01-23 17:28:24] jcarr, quitting. (Quit: Leaving.)
+[2013-01-23 17:30:12] admc, quitting. (Ping timeout: 252 seconds)
