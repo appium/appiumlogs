@@ -54,3 +54,6 @@
 [2013-01-24 10:22:26] github-appium, joining. (#appium)
 [2013-01-24 10:22:26] github-appium: [appium] jlipps opened pull request #45: replace deactivateApp and takeScreenshot with mechanic (master...master)  http://git.io/EH3pMw
 [2013-01-24 10:22:26] github-appium, leaving. (#appium)
+[2013-01-24 10:26:15] toks, joining. (#appium)
+[2013-01-24 10:28:18] smccarthy, quitting. (Remote host closed the connection)
+[2013-01-24 10:28:50] smccarthy, joining. (#appium)
