@@ -129,3 +129,4 @@
 [2013-01-23 19:26:21] santiycr, quitting. (Quit: Leaving.)
 [2013-01-23 19:30:54] santiycr, joining. (#appium)
 [2013-01-23 19:36:12] smccarthy, joining. (#appium)
+[2013-01-23 20:00:12] smccarthy, quitting. (Remote host closed the connection)
