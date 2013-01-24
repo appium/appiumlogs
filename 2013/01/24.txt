@@ -30,3 +30,9 @@
 [2013-01-24 08:25:20] jlipps: k
 [2013-01-24 08:29:00] knorrium: jlipps: it works, thanks a bunch :D
 [2013-01-24 08:29:13] knorrium: bbl
+[2013-01-24 08:30:36] jlipps: great!
+[2013-01-24 08:31:35] github-appium, joining. (#appium)
+[2013-01-24 08:31:35] github-appium: [appium] jlipps pushed 2 new commits to master: http://git.io/IPx18Q
+[2013-01-24 08:31:35] github-appium: appium/master 3db0b01 Jonathan Lipps: get node binary from path more flexibly
+[2013-01-24 08:31:35] github-appium: appium/master 08da09a Jonathan Lipps: Merge pull request #43 from jlipps/master...
+[2013-01-24 08:31:35] github-appium, leaving. (#appium)
