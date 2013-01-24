@@ -141,3 +141,4 @@
 [2013-01-23 21:59:53] jcarr, joining. (#appium)
 [2013-01-23 22:02:14] jcarr, leaving. (#appium)
 [2013-01-23 22:59:20] berni, quitting. (Read error: Operation timed out)
+[2013-01-23 23:02:52] santiycr, joining. (#appium)
