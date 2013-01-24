@@ -104,3 +104,4 @@
 [2013-01-24 14:55:34] jcarr: hmm
 [2013-01-24 14:57:48] jcarr: :note lukeis I have some changes for iwebdriver I'd like to talk to you about; looks like the storyboards don't support orientation changing very well.
 [2013-01-24 14:58:06] jcarr: heh, probably should have left him that note in #selenium but oh well
+[2013-01-24 15:34:35] smccarthy, quitting. (Remote host closed the connection)
