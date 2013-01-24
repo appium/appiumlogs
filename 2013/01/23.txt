@@ -103,3 +103,14 @@
 [2013-01-23 16:28:34] github-appium, joining. (#appium)
 [2013-01-23 16:28:34] github-appium: [appium] jlipps opened pull request #40: make appium+instruments connection more robust (master...master)  http://git.io/ZEBMYA
 [2013-01-23 16:28:34] github-appium, leaving. (#appium)
+[2013-01-23 17:05:48] github-appium, joining. (#appium)
+[2013-01-23 17:05:48] github-appium: [appium] admc pushed 2 new commits to master: http://git.io/T1KN1w
+[2013-01-23 17:05:48] github-appium: appium/master 7d40e16 berni: flick test (using UICatalog app), fix: use camelcase in flick
+[2013-01-23 17:05:48] github-appium: appium/master d384e50 admc: Merge pull request #39 from bernii/master...
+[2013-01-23 17:05:48] github-appium, leaving. (#appium)
+[2013-01-23 17:05:59] github-appium, joining. (#appium)
+[2013-01-23 17:05:59] github-appium: [appium] admc pushed 6 new commits to master: http://git.io/Rmvm_g
+[2013-01-23 17:05:59] github-appium: appium/master 1e9fc04 Jonathan Lipps: allow appium to recover from surprise instruments exits, and tests
+[2013-01-23 17:05:59] github-appium: appium/master 8ee5698 Jonathan Lipps: downgrade instruments stderr output so it doesn't clutter test output
+[2013-01-23 17:05:59] github-appium, leaving. (#appium)
+[2013-01-23 17:05:59] github-appium: appium/master 8e568fe Jonathan Lipps: fixing merge conflicts
