@@ -64,3 +64,4 @@
 [2013-01-24 10:54:06] stackedsax, joining. (#appium)
 [2013-01-24 11:03:26] sourishkrout, joining. (#appium)
 [2013-01-24 11:09:58] smccarthy, joining. (#appium)
+[2013-01-24 11:26:36] smccarthy, quitting. (Remote host closed the connection)
