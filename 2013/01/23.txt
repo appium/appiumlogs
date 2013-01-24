@@ -131,3 +131,4 @@
 [2013-01-23 19:36:12] smccarthy, joining. (#appium)
 [2013-01-23 20:00:12] smccarthy, quitting. (Remote host closed the connection)
 [2013-01-23 20:11:40] brainsik, leaving. (#appium)
+[2013-01-23 20:33:45] jlipps, joining. (#appium)
