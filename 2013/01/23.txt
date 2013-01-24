@@ -121,3 +121,5 @@
 [2013-01-23 18:32:25] smccarthy, quitting. (Remote host closed the connection)
 [2013-01-23 18:42:42] toks, quitting. (Ping timeout: 264 seconds)
 [2013-01-23 18:50:10] jlipps, quitting. (Quit: jlipps)
+[2013-01-23 19:06:12] stackedsax, joining. (#appium)
+[2013-01-23 19:08:25] santiycr, quitting. (Quit: Leaving.)
