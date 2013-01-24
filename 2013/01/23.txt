@@ -124,3 +124,5 @@
 [2013-01-23 19:06:12] stackedsax, joining. (#appium)
 [2013-01-23 19:08:25] santiycr, quitting. (Quit: Leaving.)
 [2013-01-23 19:10:25] stackedsax, quitting. (Ping timeout: 248 seconds)
+[2013-01-23 19:15:26] santiycr, joining. (#appium)
+[2013-01-23 19:19:11] stackedsax, joining. (#appium)
