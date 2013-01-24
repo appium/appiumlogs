@@ -25,3 +25,8 @@
 [2013-01-24 08:23:38] jlipps: oh a github bot. #33
 [2013-01-24 08:23:48] knorrium: jlipps: awesome, let me try here :)
 [2013-01-24 08:24:15] jlipps: i can go ahead and merge it if you don't want to pull my branch
+[2013-01-24 08:25:03] knorrium: nah, it's okay
+[2013-01-24 08:25:16] knorrium: just give me a sec
+[2013-01-24 08:25:20] jlipps: k
+[2013-01-24 08:29:00] knorrium: jlipps: it works, thanks a bunch :D
+[2013-01-24 08:29:13] knorrium: bbl
