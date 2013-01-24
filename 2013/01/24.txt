@@ -18,3 +18,10 @@
 [2013-01-24 08:07:38] github-appium: appium/master 1734ff4 Bernard Kobos: Merge pull request #42 from jlipps/master...
 [2013-01-24 08:07:38] github-appium, leaving. (#appium)
 [2013-01-24 08:09:45] smccarthy, joining. (#appium)
+[2013-01-24 08:23:03] github-appium, joining. (#appium)
+[2013-01-24 08:23:03] github-appium: [appium] jlipps opened pull request #43: don't hardcode node binary path (master...master)  http://git.io/g81zkA
+[2013-01-24 08:23:03] github-appium, leaving. (#appium)
+[2013-01-24 08:23:15] jlipps: knorrium: have a look at #43 there, i believe it fixes your issue
+[2013-01-24 08:23:38] jlipps: oh a github bot. #33
+[2013-01-24 08:23:48] knorrium: jlipps: awesome, let me try here :)
+[2013-01-24 08:24:15] jlipps: i can go ahead and merge it if you don't want to pull my branch
