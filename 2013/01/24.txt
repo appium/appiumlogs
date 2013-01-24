@@ -42,3 +42,7 @@
 [2013-01-24 10:02:09] github-appium, joining. (#appium)
 [2013-01-24 10:02:09] github-appium: [appium] jlipps opened pull request #44: set stage for rearchitecture of appiumutils.js (master...master)  http://git.io/qkxKtg
 [2013-01-24 10:02:09] github-appium, leaving. (#appium)
+[2013-01-24 10:16:11] smccarthy, quitting. (Remote host closed the connection)
+[2013-01-24 10:16:48] smccarthy, joining. (#appium)
+[2013-01-24 10:18:22] smccarthy, quitting. (Remote host closed the connection)
+[2013-01-24 10:19:03] smccarthy, joining. (#appium)
