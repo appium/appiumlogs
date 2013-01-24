@@ -82,3 +82,9 @@
 [2013-01-24 13:30:21] smccarthy, joining. (#appium)
 [2013-01-24 14:00:41] santiycr, quitting. (Quit: Leaving.)
 [2013-01-24 14:01:42] santiycr, joining. (#appium)
+[2013-01-24 14:13:25] github-appium, joining. (#appium)
+[2013-01-24 14:13:25] github-appium: [appium] sourishkrout pushed 3 new commits to master: http://git.io/3RR2XA
+[2013-01-24 14:13:25] github-appium: appium/master f06ffd6 Jonathan Lipps: allow instruments to handle data transmissions larger than buffer size
+[2013-01-24 14:13:25] github-appium: appium/master 0d1d3e3 Jonathan Lipps: update appiumutils with getTree and better pageSource
+[2013-01-24 14:13:25] github-appium: appium/master 6cb2b29 Sebastian Tiedtke: Merge pull request #46 from jlipps/master...
+[2013-01-24 14:13:25] github-appium, leaving. (#appium)
