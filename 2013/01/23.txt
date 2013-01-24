@@ -100,3 +100,6 @@
 [2013-01-23 15:45:58] lukeis, quitting. (Quit: Leaving.)
 [2013-01-23 15:52:21] jcarr1, changing nick to jcarr.
 [2013-01-23 16:17:57] berni, joining. (#appium)
+[2013-01-23 16:28:34] github-appium, joining. (#appium)
+[2013-01-23 16:28:34] github-appium: [appium] jlipps opened pull request #40: make appium+instruments connection more robust (master...master)  http://git.io/ZEBMYA
+[2013-01-23 16:28:34] github-appium, leaving. (#appium)
