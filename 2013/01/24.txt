@@ -57,3 +57,4 @@
 [2013-01-24 10:26:15] toks, joining. (#appium)
 [2013-01-24 10:28:18] smccarthy, quitting. (Remote host closed the connection)
 [2013-01-24 10:28:50] smccarthy, joining. (#appium)
+[2013-01-24 10:33:24] smccarthy, quitting. (Ping timeout: 252 seconds)
