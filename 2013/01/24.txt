@@ -73,3 +73,4 @@
 [2013-01-24 11:38:33] github-appium: appium/master 979db6b Jonathan Lipps: reorganize screen orientation appiumutils commands
 [2013-01-24 11:38:33] github-appium, leaving. (#appium)
 [2013-01-24 11:51:47] santiycr, joining. (#appium)
+[2013-01-24 12:09:53] smccarthy2, quitting. (Remote host closed the connection)
