@@ -72,3 +72,4 @@
 [2013-01-24 11:38:33] github-appium: appium/master 435798e Jonathan Lipps: Merge branch 'master' of github.com:appium/appium
 [2013-01-24 11:38:33] github-appium: appium/master 979db6b Jonathan Lipps: reorganize screen orientation appiumutils commands
 [2013-01-24 11:38:33] github-appium, leaving. (#appium)
+[2013-01-24 11:51:47] santiycr, joining. (#appium)
