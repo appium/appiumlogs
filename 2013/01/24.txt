@@ -63,3 +63,4 @@
 [2013-01-24 10:53:50] stackedsax, quitting. (Quit: Leaving.)
 [2013-01-24 10:54:06] stackedsax, joining. (#appium)
 [2013-01-24 11:03:26] sourishkrout, joining. (#appium)
+[2013-01-24 11:09:58] smccarthy, joining. (#appium)
