@@ -46,3 +46,11 @@
 [2013-01-24 10:16:48] smccarthy, joining. (#appium)
 [2013-01-24 10:18:22] smccarthy, quitting. (Remote host closed the connection)
 [2013-01-24 10:19:03] smccarthy, joining. (#appium)
+[2013-01-24 10:20:15] github-appium, joining. (#appium)
+[2013-01-24 10:20:15] github-appium: [appium] admc pushed 2 new commits to master: http://git.io/rdUQsg
+[2013-01-24 10:20:16] github-appium: appium/master 46267ca Jonathan Lipps: beginning reorganization of appiumutils, and starting tests
+[2013-01-24 10:20:16] github-appium: appium/master b5cebb4 admc: Merge pull request #44 from jlipps/master...
+[2013-01-24 10:20:16] github-appium, leaving. (#appium)
+[2013-01-24 10:22:26] github-appium, joining. (#appium)
+[2013-01-24 10:22:26] github-appium: [appium] jlipps opened pull request #45: replace deactivateApp and takeScreenshot with mechanic (master...master)  http://git.io/EH3pMw
+[2013-01-24 10:22:26] github-appium, leaving. (#appium)
