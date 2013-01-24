@@ -76,3 +76,6 @@
 [2013-01-24 12:09:53] smccarthy2, quitting. (Remote host closed the connection)
 [2013-01-24 12:11:49] admc, joining. (#appium)
 [2013-01-24 12:46:24] admc, quitting. (Quit: Leaving.)
+[2013-01-24 12:50:20] github-appium, joining. (#appium)
+[2013-01-24 12:50:20] github-appium: [appium] jlipps opened pull request #46: better instruments, more appiumutils refactoring (master...master)  http://git.io/m0AZhQ
+[2013-01-24 12:50:20] github-appium, leaving. (#appium)
