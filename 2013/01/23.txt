@@ -140,3 +140,4 @@
 [2013-01-23 21:51:37] sourishkrout, quitting. (Quit: Leaving.)
 [2013-01-23 21:59:53] jcarr, joining. (#appium)
 [2013-01-23 22:02:14] jcarr, leaving. (#appium)
+[2013-01-23 22:59:20] berni, quitting. (Read error: Operation timed out)
