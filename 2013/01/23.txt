@@ -134,3 +134,5 @@
 [2013-01-23 20:33:45] jlipps, joining. (#appium)
 [2013-01-23 20:42:27] jlipps, quitting. (Quit: jlipps)
 [2013-01-23 20:58:15] jlipps, joining. (#appium)
+[2013-01-23 21:35:53] santiycr, quitting. (Quit: Leaving.)
+[2013-01-23 21:37:15] jlipps, quitting. (Ping timeout: 276 seconds)
