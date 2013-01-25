@@ -28,3 +28,6 @@
 [2013-01-25 10:32:25] toks, joining. (#appium)
 [2013-01-25 10:57:38] lukeis, quitting. (Quit: Leaving.)
 [2013-01-25 10:57:47] lukeis, joining. (#appium)
+[2013-01-25 11:29:24] github-appium, joining. (#appium)
+[2013-01-25 11:29:25] github-appium: [appium] jlipps opened pull request #51: docs and examples update (master...master)  http://git.io/zFyRGQ
+[2013-01-25 11:29:25] github-appium, leaving. (#appium)
