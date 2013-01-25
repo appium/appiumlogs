@@ -54,3 +54,8 @@
 [2013-01-25 14:55:43] github-appium, joining. (#appium)
 [2013-01-25 14:55:44] github-appium: [appium] jlipps opened pull request #52: Adding some downloadable assets (master...master)  http://git.io/Vk_6vA
 [2013-01-25 14:55:44] github-appium, leaving. (#appium)
+[2013-01-25 15:00:47] github-appium, joining. (#appium)
+[2013-01-25 15:00:47] github-appium: [appium] sourishkrout pushed 2 new commits to master: http://git.io/aj-hAw
+[2013-01-25 15:00:47] github-appium: appium/master d57c57f Jonathan Lipps: add app zip files for use in tests
+[2013-01-25 15:00:47] github-appium: appium/master cc591c4 Sebastian Tiedtke: Merge pull request #52 from jlipps/master...
+[2013-01-25 15:00:47] github-appium, leaving. (#appium)
