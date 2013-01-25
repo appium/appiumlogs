@@ -110,3 +110,11 @@
 [2013-01-24 15:45:42] github-appium: [appium] sourishkrout opened pull request #48: Let's catch up with communication protocol changes. (master...master)  http://git.io/DcngGw
 [2013-01-24 15:45:42] github-appium, leaving. (#appium)
 [2013-01-24 16:24:21] santiycr, quitting. (Quit: Leaving.)
+[2013-01-24 16:36:16] github-appium, joining. (#appium)
+[2013-01-24 16:36:16] github-appium: [appium] bernii opened pull request #49: beautiful curly braces for Sebastian (master...master)  http://git.io/ljimFw
+[2013-01-24 16:36:16] github-appium, leaving. (#appium)
+[2013-01-24 16:37:39] github-appium, joining. (#appium)
+[2013-01-24 16:37:40] github-appium: [appium] sourishkrout pushed 2 new commits to master: http://git.io/_FNQNQ
+[2013-01-24 16:37:40] github-appium: appium/master 603a0d1 berni: beautiful curly braces for Sebastian
+[2013-01-24 16:37:40] github-appium: appium/master 9ae3b0c Sebastian Tiedtke: Merge pull request #49 from bernii/master...
+[2013-01-24 16:37:40] github-appium, leaving. (#appium)
