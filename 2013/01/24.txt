@@ -119,3 +119,4 @@
 [2013-01-24 16:37:40] github-appium: appium/master 9ae3b0c Sebastian Tiedtke: Merge pull request #49 from bernii/master...
 [2013-01-24 16:37:40] github-appium, leaving. (#appium)
 [2013-01-24 17:29:28] jlipps, quitting. (Quit: jlipps)
+[2013-01-24 17:38:55] admc1, joining. (#appium)
