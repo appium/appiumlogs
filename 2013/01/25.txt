@@ -42,3 +42,5 @@
 [2013-01-25 11:39:33] github-appium: appium/master f683fc7 Sebastian Tiedtke: Better debugging: Output the contents of the object instead of the type.
 [2013-01-25 11:39:33] github-appium: appium/master 79f9716 berni: beautiful curly braces for Sebastian
 [2013-01-25 11:39:33] github-appium, leaving. (#appium)
+[2013-01-25 11:53:07] santiycr, quitting. (Quit: Leaving.)
+[2013-01-25 11:54:30] santiycr, joining. (#appium)
