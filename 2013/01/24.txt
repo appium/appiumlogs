@@ -109,3 +109,4 @@
 [2013-01-24 15:45:41] github-appium, joining. (#appium)
 [2013-01-24 15:45:42] github-appium: [appium] sourishkrout opened pull request #48: Let's catch up with communication protocol changes. (master...master)  http://git.io/DcngGw
 [2013-01-24 15:45:42] github-appium, leaving. (#appium)
+[2013-01-24 16:24:21] santiycr, quitting. (Quit: Leaving.)
