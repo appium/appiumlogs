@@ -72,3 +72,4 @@
 [2013-01-25 15:41:28] github-appium, joining. (#appium)
 [2013-01-25 15:41:29] github-appium: [appium] jlipps opened pull request #54: small fixes (master...master)  http://git.io/3mN6gA
 [2013-01-25 15:41:29] github-appium, leaving. (#appium)
+[2013-01-25 15:47:05] jlipps, quitting. (Quit: jlipps)
