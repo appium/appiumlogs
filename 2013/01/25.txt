@@ -17,3 +17,4 @@
 [2013-01-25 09:44:50] github-appium, joining. (#appium)
 [2013-01-25 09:44:50] github-appium: [appium] jlipps opened pull request #50: No longer require --app to start appium; support desiredCaps method (master...master)  http://git.io/-JRfqQ
 [2013-01-25 09:44:51] github-appium, leaving. (#appium)
+[2013-01-25 09:55:34] stackedsax, joining. (#appium)
