@@ -69,3 +69,6 @@
 [2013-01-25 15:31:28] github-appium, leaving. (#appium)
 [2013-01-25 15:37:33] smccarthy, quitting. (Remote host closed the connection)
 [2013-01-25 15:39:40] jcarr, quitting. (Quit: Leaving.)
+[2013-01-25 15:41:28] github-appium, joining. (#appium)
+[2013-01-25 15:41:29] github-appium: [appium] jlipps opened pull request #54: small fixes (master...master)  http://git.io/3mN6gA
+[2013-01-25 15:41:29] github-appium, leaving. (#appium)
