@@ -73,3 +73,8 @@
 [2013-01-25 15:41:29] github-appium: [appium] jlipps opened pull request #54: small fixes (master...master)  http://git.io/3mN6gA
 [2013-01-25 15:41:29] github-appium, leaving. (#appium)
 [2013-01-25 15:47:05] jlipps, quitting. (Quit: jlipps)
+[2013-01-25 15:53:55] github-appium, joining. (#appium)
+[2013-01-25 15:53:55] github-appium: [appium] admc pushed 2 new commits to master: http://git.io/m4SHFg
+[2013-01-25 15:53:55] github-appium: appium/master abb7f98 Jonathan Lipps: some small fixes
+[2013-01-25 15:53:55] github-appium: appium/master 30c2f47 admc: Merge pull request #54 from jlipps/master...
+[2013-01-25 15:53:55] github-appium, leaving. (#appium)
