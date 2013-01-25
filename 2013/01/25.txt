@@ -6,3 +6,4 @@
 [2013-01-25 02:31:41] sourishkrout, quitting. (Ping timeout: 245 seconds)
 [2013-01-25 03:27:54] sourishkrout, joining. (#appium)
 [2013-01-25 03:32:04] sourishkrout, quitting. (Ping timeout: 248 seconds)
+[2013-01-25 05:28:38] sourishkrout, joining. (#appium)
