@@ -25,3 +25,4 @@
 [2013-01-25 10:24:33] github-appium: appium/master 1814f0d Jonathan Lipps: test url unzipping and make sure we don't cache app accidentally
 [2013-01-25 10:24:33] github-appium: appium/master 624a117 Jonathan Lipps: don't run tests by starting server with app anymore, let's do it all from desired caps
 [2013-01-25 10:24:33] github-appium, leaving. (#appium)
+[2013-01-25 10:32:25] toks, joining. (#appium)
