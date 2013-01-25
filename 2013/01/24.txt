@@ -122,3 +122,4 @@
 [2013-01-24 17:38:55] admc1, joining. (#appium)
 [2013-01-24 17:42:07] admc, quitting. (Ping timeout: 246 seconds)
 [2013-01-24 18:00:29] stackedsax, quitting. (Quit: Leaving.)
+[2013-01-24 18:20:27] stackedsax, joining. (#appium)
