@@ -62,3 +62,8 @@
 [2013-01-25 15:27:37] github-appium, joining. (#appium)
 [2013-01-25 15:27:37] github-appium: [appium] jlipps opened pull request #53: use github to serve static test zip (master...master)  http://git.io/I-ZHzg
 [2013-01-25 15:27:37] github-appium, leaving. (#appium)
+[2013-01-25 15:31:28] github-appium, joining. (#appium)
+[2013-01-25 15:31:28] github-appium: [appium] sourishkrout pushed 2 new commits to master: http://git.io/thf0LA
+[2013-01-25 15:31:28] github-appium: appium/master 4a5af40 Jonathan Lipps: download test zipped apps from repo instead of jlipps site, cleanup
+[2013-01-25 15:31:28] github-appium: appium/master 16f58c0 Sebastian Tiedtke: Merge pull request #53 from jlipps/master...
+[2013-01-25 15:31:28] github-appium, leaving. (#appium)
