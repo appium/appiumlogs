@@ -12,3 +12,5 @@
 [2013-01-25 06:33:52] sourishkrout, quitting. (Ping timeout: 256 seconds)
 [2013-01-25 07:28:07] jlipps, joining. (#appium)
 [2013-01-25 07:44:17] smccarthy, joining. (#appium)
+[2013-01-25 09:36:18] santiycr, joining. (#appium)
+[2013-01-25 09:39:04] lukeis, joining. (#appium)
