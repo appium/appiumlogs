@@ -59,3 +59,6 @@
 [2013-01-25 15:00:47] github-appium: appium/master d57c57f Jonathan Lipps: add app zip files for use in tests
 [2013-01-25 15:00:47] github-appium: appium/master cc591c4 Sebastian Tiedtke: Merge pull request #52 from jlipps/master...
 [2013-01-25 15:00:47] github-appium, leaving. (#appium)
+[2013-01-25 15:27:37] github-appium, joining. (#appium)
+[2013-01-25 15:27:37] github-appium: [appium] jlipps opened pull request #53: use github to serve static test zip (master...master)  http://git.io/I-ZHzg
+[2013-01-25 15:27:37] github-appium, leaving. (#appium)
