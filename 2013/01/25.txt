@@ -36,3 +36,9 @@
 [2013-01-25 11:34:02] github-appium: appium/master d6a33d0 Jonathan Lipps: update readme and example tests to use new way of starting app
 [2013-01-25 11:34:02] github-appium: appium/master 25d6576 Sebastian Tiedtke: Merge pull request #51 from jlipps/master...
 [2013-01-25 11:34:02] github-appium, leaving. (#appium)
+[2013-01-25 11:39:32] github-appium, joining. (#appium)
+[2013-01-25 11:39:33] github-appium: [appium] jlipps pushed 13 new commits to master: http://git.io/ZDJ9rA
+[2013-01-25 11:39:33] github-appium: appium/master b7390f4 Sebastian Tiedtke: Minor improvement.
+[2013-01-25 11:39:33] github-appium: appium/master f683fc7 Sebastian Tiedtke: Better debugging: Output the contents of the object instead of the type.
+[2013-01-25 11:39:33] github-appium: appium/master 79f9716 berni: beautiful curly braces for Sebastian
+[2013-01-25 11:39:33] github-appium, leaving. (#appium)
