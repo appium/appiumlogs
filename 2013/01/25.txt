@@ -19,3 +19,9 @@
 [2013-01-25 09:44:51] github-appium, leaving. (#appium)
 [2013-01-25 09:55:34] stackedsax, joining. (#appium)
 [2013-01-25 10:02:36] sourishkrout, joining. (#appium)
+[2013-01-25 10:24:32] github-appium, joining. (#appium)
+[2013-01-25 10:24:33] github-appium: [appium] sourishkrout pushed 8 new commits to master: http://git.io/PEKEuA
+[2013-01-25 10:24:33] github-appium: appium/master 54145f4 Jonathan Lipps: allow loading of app by path or url from desired capabilities...
+[2013-01-25 10:24:33] github-appium: appium/master 1814f0d Jonathan Lipps: test url unzipping and make sure we don't cache app accidentally
+[2013-01-25 10:24:33] github-appium: appium/master 624a117 Jonathan Lipps: don't run tests by starting server with app anymore, let's do it all from desired caps
+[2013-01-25 10:24:33] github-appium, leaving. (#appium)
