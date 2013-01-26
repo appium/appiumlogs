@@ -11,3 +11,4 @@
 [2013-01-26 11:52:16] smccarthy, joining. (#appium)
 [2013-01-26 12:40:53] smccarthy, quitting. (Remote host closed the connection)
 [2013-01-26 12:47:45] smccarthy, joining. (#appium)
+[2013-01-26 13:05:48] smccarthy, quitting. (Remote host closed the connection)
