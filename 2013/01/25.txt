@@ -80,3 +80,4 @@
 [2013-01-25 15:53:55] github-appium, leaving. (#appium)
 [2013-01-25 16:00:06] lukeis, quitting. (Quit: Leaving.)
 [2013-01-25 16:13:46] stackedsax, quitting. (Quit: Leaving.)
+[2013-01-25 16:18:01] jcarr, joining. (#appium)
