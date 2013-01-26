@@ -88,3 +88,4 @@
 [2013-01-25 18:42:41] toks, quitting. (Ping timeout: 255 seconds)
 [2013-01-25 19:03:36] santiycr, quitting. (Quit: Leaving.)
 [2013-01-25 20:10:37] sourishkrout, quitting. (Quit: Leaving.)
+[2013-01-25 20:15:39] stackedsax, quitting. (Quit: Leaving.)
