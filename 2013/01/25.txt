@@ -92,3 +92,4 @@
 [2013-01-25 21:08:44] sourishkrout, joining. (#appium)
 [2013-01-25 21:31:49] stackedsax, joining. (#appium)
 [2013-01-25 23:19:05] sourishkrout, quitting. (Quit: Leaving.)
+[2013-01-25 23:24:25] sourishkrout, joining. (#appium)
