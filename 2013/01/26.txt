@@ -3,3 +3,4 @@
 [2013-01-26 01:10:29] santiycr, joining. (#appium)
 [2013-01-26 01:22:14] santiycr, quitting. (Quit: Leaving.)
 [2013-01-26 01:48:41] stackedsax, quitting. (Quit: Leaving.)
+[2013-01-26 06:30:31] stackedsax, joining. (#appium)
