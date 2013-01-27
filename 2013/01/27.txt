@@ -2,3 +2,6 @@
 [2013-01-27 07:12:07] smccarthy, joining. (#appium)
 [2013-01-27 07:16:08] toks, joining. (#appium)
 [2013-01-27 10:14:43] smccarthy, quitting. (Remote host closed the connection)
+[2013-01-27 11:26:03] stackedsax, joining. (#appium)
+[2013-01-27 11:26:44] stackedsax, quitting. (Client Quit)
+[2013-01-27 11:27:00] stackedsax, joining. (#appium)
