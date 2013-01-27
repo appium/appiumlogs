@@ -8,3 +8,6 @@
 [2013-01-27 12:57:24] stackedsax, quitting. (Quit: Leaving.)
 [2013-01-27 13:38:42] smccarthy, joining. (#appium)
 [2013-01-27 15:09:33] smccarthy, quitting. (Remote host closed the connection)
+[2013-01-27 15:42:47] github-appium, joining. (#appium)
+[2013-01-27 15:42:47] github-appium: [appium] sourishkrout opened pull request #55: Major refactoring and made element lookup by name available (master...master)  http://git.io/Qz3U7w
+[2013-01-27 15:42:47] github-appium, leaving. (#appium)
