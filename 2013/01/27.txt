@@ -7,3 +7,4 @@
 [2013-01-27 11:27:00] stackedsax, joining. (#appium)
 [2013-01-27 12:57:24] stackedsax, quitting. (Quit: Leaving.)
 [2013-01-27 13:38:42] smccarthy, joining. (#appium)
+[2013-01-27 15:09:33] smccarthy, quitting. (Remote host closed the connection)
