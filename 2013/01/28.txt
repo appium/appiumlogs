@@ -62,3 +62,10 @@
 [2013-01-28 14:40:56] github-appium, joining. (#appium)
 [2013-01-28 14:40:56] github-appium: [appium] sourishkrout opened pull request #58: Fix for the one remaining functional UICatalog test (master...master)  http://git.io/Wl2icQ
 [2013-01-28 14:40:56] github-appium, leaving. (#appium)
+[2013-01-28 14:50:06] github-appium, joining. (#appium)
+[2013-01-28 14:50:07] github-appium: [appium] jlipps pushed 2 new commits to master: http://git.io/k6k-kQ
+[2013-01-28 14:50:07] github-appium: appium/master 8d4ca93 Sebastian Tiedtke: Changed test to emphasis contextual lookup testing.
+[2013-01-28 14:50:07] github-appium: appium/master b3e6357 Jonathan Lipps: Merge pull request #58 from sourishkrout/master...
+[2013-01-28 14:50:07] github-appium, leaving. (#appium)
+[2013-01-28 14:52:35] jlipps: what's new in 4.6?
+[2013-01-28 14:54:52] sourishkrout: 4.6?
