@@ -27,3 +27,4 @@
 [2013-01-28 11:52:01] github-appium: appium/master d95b462 Sebastian Tiedtke: Fixes for context based look up.
 [2013-01-28 11:52:01] github-appium: appium/master 07bcc7c Jonathan Lipps: Merge pull request #56 from sourishkrout/master...
 [2013-01-28 11:52:01] github-appium, leaving. (#appium)
+[2013-01-28 12:27:36] smccarthy, quitting. (Remote host closed the connection)
