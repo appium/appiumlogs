@@ -6,3 +6,6 @@
 [2013-01-28 08:31:14] lukeis, joining. (#appium)
 [2013-01-28 08:39:29] stackedsax, quitting. (Quit: Leaving.)
 [2013-01-28 09:12:33] sourishkrout, joining. (#appium)
+[2013-01-28 09:41:55] sourishkrout1, joining. (#appium)
+[2013-01-28 09:42:03] sourishkrout1, quitting. (Client Quit)
+[2013-01-28 09:43:26] sourishkrout, quitting. (Ping timeout: 252 seconds)
