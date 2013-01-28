@@ -54,3 +54,4 @@
 [2013-01-28 14:05:22] santiycr1, joining. (#appium)
 [2013-01-28 14:05:54] toks: XCODE 4.6... DEPRECATE ALL THE THINGS!
 [2013-01-28 14:08:11] santiycr, quitting. (Ping timeout: 255 seconds)
+[2013-01-28 14:18:10] stackedsax1, quitting. (Quit: Leaving.)
