@@ -12,3 +12,5 @@
 [2013-01-27 15:42:47] github-appium: [appium] sourishkrout opened pull request #55: Major refactoring and made element lookup by name available (master...master)  http://git.io/Qz3U7w
 [2013-01-27 15:42:47] github-appium, leaving. (#appium)
 [2013-01-27 15:48:20] smccarthy, joining. (#appium)
+[2013-01-27 16:00:16] sourishkrout, joining. (#appium)
+[2013-01-27 16:03:17] smccarthy, quitting. (Remote host closed the connection)
