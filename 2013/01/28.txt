@@ -81,3 +81,4 @@
 [2013-01-28 15:03:24] toks: wow
 [2013-01-28 15:03:54] toks: good times :)
 [2013-01-28 15:05:01] lukeis: s/releases/was released/ ;)
+[2013-01-28 15:06:24] smccarthy, quitting. (Remote host closed the connection)
