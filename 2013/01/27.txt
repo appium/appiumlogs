@@ -14,3 +14,9 @@
 [2013-01-27 15:48:20] smccarthy, joining. (#appium)
 [2013-01-27 16:00:16] sourishkrout, joining. (#appium)
 [2013-01-27 16:03:17] smccarthy, quitting. (Remote host closed the connection)
+[2013-01-27 16:59:13] github-appium, joining. (#appium)
+[2013-01-27 16:59:13] github-appium: [appium] admc pushed 14 new commits to master: http://git.io/yzvIMw
+[2013-01-27 16:59:13] github-appium: appium/master 41b65df Sebastian Tiedtke: Made elementByName available (more refactoring/migration to be done soon).
+[2013-01-27 16:59:13] github-appium: appium/master a534635 Sebastian Tiedtke: Added accessibility labels to be able to test look up by name.
+[2013-01-27 16:59:13] github-appium: appium/master e2c240b Sebastian Tiedtke: Added lookup cache.
+[2013-01-27 16:59:13] github-appium, leaving. (#appium)
