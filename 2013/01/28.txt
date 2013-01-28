@@ -1,2 +1,3 @@
 [2013-01-28 03:11:46] stackedsax, quitting. (Quit: Leaving.)
 [2013-01-28 07:40:49] stackedsax, joining. (#appium)
+[2013-01-28 07:45:14] stackedsax, quitting. (Ping timeout: 255 seconds)
