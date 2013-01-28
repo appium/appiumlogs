@@ -19,3 +19,6 @@
 [2013-01-28 11:21:10] github-appium: [appium] sourishkrout opened pull request #56: Fixes for context sensitive lookup; doesn't fix the UICatalog tests yet (master...master)  http://git.io/4ExKWw
 [2013-01-28 11:21:10] github-appium, leaving. (#appium)
 [2013-01-28 11:30:07] lukeis, joining. (#appium)
+[2013-01-28 11:49:40] github-appium, joining. (#appium)
+[2013-01-28 11:49:40] github-appium: [appium] jlipps opened pull request #57: fail gracefully on bad http requests (master...master)  http://git.io/wjocaA
+[2013-01-28 11:49:40] github-appium, leaving. (#appium)
