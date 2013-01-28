@@ -69,3 +69,11 @@
 [2013-01-28 14:50:07] github-appium, leaving. (#appium)
 [2013-01-28 14:52:35] jlipps: what's new in 4.6?
 [2013-01-28 14:54:52] sourishkrout: 4.6?
+[2013-01-28 14:55:27] smccarthy, quitting. (Remote host closed the connection)
+[2013-01-28 14:55:29] lukeis: https://developer.apple.com/library/ios/#documentation/DeveloperTools/Conceptual/WhatsNewXcode/00-Introduction/Introduction.html
+[2013-01-28 14:56:06] smccarthy, joining. (#appium)
+[2013-01-28 14:56:21] lukeis: basically 'support for iOS 6.1'
+[2013-01-28 14:56:55] lukeis: not that you didn't / couldn't have that in the beta version… but if you weren't running beta, then, there ya go ;)
+[2013-01-28 14:59:28] toks: developing on beta sdks? :O
+[2013-01-28 14:59:45] toks: ....actually, I guess that's okay... :p
+[2013-01-28 14:59:50] toks: nvm
