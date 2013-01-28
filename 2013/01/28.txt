@@ -50,3 +50,7 @@
 [2013-01-28 13:55:32] jcarr: don't even...
 [2013-01-28 13:56:30] lukeis: i'm gonna wait till tomorrow… at home today, will definitely need the fat pipe at work to download it
 [2013-01-28 13:57:53] jcarr: yeah, any major changes?
+[2013-01-28 14:05:16] jcarr, leaving. (#appium)
+[2013-01-28 14:05:22] santiycr1, joining. (#appium)
+[2013-01-28 14:05:54] toks: XCODE 4.6... DEPRECATE ALL THE THINGS!
+[2013-01-28 14:08:11] santiycr, quitting. (Ping timeout: 255 seconds)
