@@ -32,3 +32,15 @@
 [2013-01-28 12:59:55] stackedsax1, joining. (#appium)
 [2013-01-28 13:00:41] stackedsax, quitting. (Read error: Connection reset by peer)
 [2013-01-28 13:06:26] jcarr, joining. (#appium)
+[2013-01-28 13:41:37] github-appium, joining. (#appium)
+[2013-01-28 13:41:37] github-appium: [appium] sourishkrout pushed 3 new commits to master: http://git.io/cxBLcw
+[2013-01-28 13:41:37] github-appium: appium/master 80c0a32 Jonathan Lipps: move delay() from its own file into helpers
+[2013-01-28 13:41:37] github-appium: appium/master 50af1ab Jonathan Lipps: fail gracefully if someone sends in a bad http request
+[2013-01-28 13:41:37] github-appium: appium/master 193cc06 Sebastian Tiedtke: Merge pull request #57 from jlipps/master...
+[2013-01-28 13:41:37] github-appium, leaving. (#appium)
+[2013-01-28 13:41:40] santiycr, quitting. (Quit: Leaving.)
+[2013-01-28 13:43:36] github-appium, joining. (#appium)
+[2013-01-28 13:43:37] github-appium: [appium] sourishkrout pushed 1 new commit to master: http://git.io/V8odfw
+[2013-01-28 13:43:37] github-appium: appium/master 72b9f75 Sebastian Tiedtke: Made sure all tests execute.
+[2013-01-28 13:43:37] github-appium, leaving. (#appium)
+[2013-01-28 13:44:19] santiycr, joining. (#appium)
