@@ -4,3 +4,4 @@
 [2013-01-28 07:59:41] smccarthy, joining. (#appium)
 [2013-01-28 08:25:10] stackedsax, joining. (#appium)
 [2013-01-28 08:31:14] lukeis, joining. (#appium)
+[2013-01-28 08:39:29] stackedsax, quitting. (Quit: Leaving.)
