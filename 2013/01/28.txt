@@ -46,3 +46,7 @@
 [2013-01-28 13:44:19] santiycr, joining. (#appium)
 [2013-01-28 13:45:51] lukeis: xcode 4.6 is out… everybody update ;0
 [2013-01-28 13:45:55] lukeis: ;)
+[2013-01-28 13:55:28] jcarr: ugh
+[2013-01-28 13:55:32] jcarr: don't even...
+[2013-01-28 13:56:30] lukeis: i'm gonna wait till tomorrow… at home today, will definitely need the fat pipe at work to download it
+[2013-01-28 13:57:53] jcarr: yeah, any major changes?
