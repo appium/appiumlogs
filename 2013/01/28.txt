@@ -58,3 +58,7 @@
 [2013-01-28 14:24:16] sourishkrout, joining. (#appium)
 [2013-01-28 14:30:14] stackedsax, joining. (#appium)
 [2013-01-28 14:30:32] stackedsax, quitting. (Client Quit)
+[2013-01-28 14:40:39] stackedsax, joining. (#appium)
+[2013-01-28 14:40:56] github-appium, joining. (#appium)
+[2013-01-28 14:40:56] github-appium: [appium] sourishkrout opened pull request #58: Fix for the one remaining functional UICatalog test (master...master)  http://git.io/Wl2icQ
+[2013-01-28 14:40:56] github-appium, leaving. (#appium)
