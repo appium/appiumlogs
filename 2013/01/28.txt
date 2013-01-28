@@ -31,3 +31,4 @@
 [2013-01-28 12:33:54] smccarthy, joining. (#appium)
 [2013-01-28 12:59:55] stackedsax1, joining. (#appium)
 [2013-01-28 13:00:41] stackedsax, quitting. (Read error: Connection reset by peer)
+[2013-01-28 13:06:26] jcarr, joining. (#appium)
