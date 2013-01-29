@@ -221,3 +221,6 @@
 [2013-01-29 15:23:26] alexglow, quitting. (Ping timeout: 255 seconds)
 [2013-01-29 15:23:42] *toks will continue making tests with his ghetto-patch until a more graceful solution shows up '
 [2013-01-29 15:24:15] sourishkrout: cool :)
+[2013-01-29 15:25:44] toks: i got deadlines =/
+[2013-01-29 15:26:04] toks: at least my tests shouldn't break when it's fixed properly :p
+[2013-01-29 15:27:06] toks: I don't know if it's a placebo effect happening here, but it seems nodejs-appium is faster than the python/ObjC/js one
