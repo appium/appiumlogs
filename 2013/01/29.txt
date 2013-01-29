@@ -187,3 +187,4 @@
 [2013-01-29 14:29:16] ownedbyshiba, joining. (#appium)
 [2013-01-29 14:36:14] alexglow, joining. (#appium)
 [2013-01-29 14:44:52] stackedsax, joining. (#appium)
+[2013-01-29 14:53:26] toks: whoa! my silly patch worked
