@@ -95,3 +95,5 @@
 [2013-01-29 11:48:46] sourishkrout: appium <3 feedback
 [2013-01-29 11:50:17] toks: \o/
 [2013-01-29 11:54:12] sourishkrout: toks: i just realize you aren't using wd.js. you're on python, right?
+[2013-01-29 11:59:11] toks: o.o
+[2013-01-29 11:59:17] toks: oh yeah, I am =/
