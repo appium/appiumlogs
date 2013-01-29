@@ -127,3 +127,16 @@
 [2013-01-29 12:13:25] toks: o.o
 [2013-01-29 12:27:39] sourishkrout1, joining. (#appium)
 [2013-01-29 12:29:40] sourishkrout, quitting. (Ping timeout: 248 seconds)
+[2013-01-29 12:41:44] github-appium, joining. (#appium)
+[2013-01-29 12:41:44] github-appium: [appium] jlipps opened pull request #68: Standardization/defensive coding for JSONWP compatibility (master...master)  http://git.io/L9vhhQ
+[2013-01-29 12:41:44] github-appium, leaving. (#appium)
+[2013-01-29 12:42:18] github-appium, joining. (#appium)
+[2013-01-29 12:42:18] github-appium: [appium] hugs pushed 1 new commit to master: http://git.io/y1gOtA
+[2013-01-29 12:42:18] github-appium: appium/master 4d0bf9e Jason Huggins: Cleaner copy.
+[2013-01-29 12:42:18] github-appium, leaving. (#appium)
+[2013-01-29 12:42:20] jlipps: hey guys
+[2013-01-29 12:42:44] jlipps: sourishkrout: can you merge that pr plz
+[2013-01-29 12:43:34] github-appium, joining. (#appium)
+[2013-01-29 12:43:34] github-appium: [appium] hugs pushed 1 new commit to master: http://git.io/qaVCyw
+[2013-01-29 12:43:34] github-appium: appium/master fdf4786 Jason Huggins: Cleaner copy, part 2.
+[2013-01-29 12:43:34] github-appium, leaving. (#appium)
