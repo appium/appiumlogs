@@ -159,3 +159,4 @@
 [2013-01-29 13:06:44] lukeis: whoa, hugs is commiting / pushing stuff? ;)
 [2013-01-29 13:16:22] ownedbyshiba, quitting. (Quit: Leaving.)
 [2013-01-29 13:17:54] toks: o.o
+[2013-01-29 13:24:10] *toks does git pull'
