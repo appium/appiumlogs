@@ -188,3 +188,5 @@
 [2013-01-29 14:36:14] alexglow, joining. (#appium)
 [2013-01-29 14:44:52] stackedsax, joining. (#appium)
 [2013-01-29 14:53:26] toks: whoa! my silly patch worked
+[2013-01-29 14:55:58] toks: https://gist.github.com/4668768
+[2013-01-29 14:56:03] toks: what do you guys think?
