@@ -57,3 +57,5 @@
 [2013-01-29 10:48:55] github-appium: appium/master 0491037 Sebastian Tiedtke: Turns out we need internal identifiers in some cases.
 [2013-01-29 10:48:55] github-appium: appium/master 2cc7bc4 Jonathan Lipps: Merge pull request #65 from sourishkrout/master...
 [2013-01-29 10:48:55] github-appium, leaving. (#appium)
+[2013-01-29 10:52:03] jcarr, joining. (#appium)
+[2013-01-29 10:52:07] johndunham, joining. (#appium)
