@@ -59,3 +59,4 @@
 [2013-01-29 10:48:55] github-appium, leaving. (#appium)
 [2013-01-29 10:52:03] jcarr, joining. (#appium)
 [2013-01-29 10:52:07] johndunham, joining. (#appium)
+[2013-01-29 11:05:28] ownedbyshiba, joining. (#appium)
