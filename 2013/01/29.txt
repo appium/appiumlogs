@@ -18,3 +18,10 @@
 [2013-01-29 09:16:19] github-appium, joining. (#appium)
 [2013-01-29 09:16:19] github-appium: [appium] penguinho opened pull request #62: Moving Over Robot Calibration App, first part of Robot Code Port (master...master)  http://git.io/uBV9Og
 [2013-01-29 09:16:19] github-appium, leaving. (#appium)
+[2013-01-29 09:21:10] stackedsax, quitting. (Quit: Leaving.)
+[2013-01-29 09:23:36] github-appium, joining. (#appium)
+[2013-01-29 09:23:36] github-appium: [appium] sourishkrout pushed 3 new commits to master: http://git.io/Eq-62w
+[2013-01-29 09:23:36] github-appium: appium/master 19f9506 Dan Cuellar: Copying over Robot Calibration Code
+[2013-01-29 09:23:36] github-appium: appium/master a0ac944 Dan Cuellar: Moving Robot Calibration App to better location
+[2013-01-29 09:23:36] github-appium: appium/master eb6473a Sebastian Tiedtke: Merge pull request #62 from penguinho/master...
+[2013-01-29 09:23:36] github-appium, leaving. (#appium)
