@@ -39,3 +39,4 @@
 [2013-01-29 10:16:01] github-appium: appium/master 86acd2d Jonathan Lipps: starting on on some jsonwp compatibility fixes and tests
 [2013-01-29 10:16:01] github-appium: appium/master d518882 Jonathan Lipps: follow JSONWP in allowing not implemented methods and responding with 501
 [2013-01-29 10:16:01] github-appium, leaving. (#appium)
+[2013-01-29 10:24:28] rodericj, joining. (#appium)
