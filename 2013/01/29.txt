@@ -15,3 +15,6 @@
 [2013-01-29 08:51:14] lukeis, joining. (#appium)
 [2013-01-29 08:57:43] rodericj, quitting. (Quit: Leaving.)
 [2013-01-29 09:07:48] berni, quitting. (Quit: Leaving.)
+[2013-01-29 09:16:19] github-appium, joining. (#appium)
+[2013-01-29 09:16:19] github-appium: [appium] penguinho opened pull request #62: Moving Over Robot Calibration App, first part of Robot Code Port (master...master)  http://git.io/uBV9Og
+[2013-01-29 09:16:19] github-appium, leaving. (#appium)
