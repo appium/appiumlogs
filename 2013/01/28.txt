@@ -164,3 +164,4 @@
 [2013-01-28 17:21:03] admc, quitting. (Quit: Leaving.)
 [2013-01-28 17:21:10] toks: ....
 [2013-01-28 17:21:29] toks: well, tar.gz it is then
+[2013-01-28 17:51:31] sourishkrout, joining. (#appium)
