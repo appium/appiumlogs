@@ -66,3 +66,9 @@
 [2013-01-29 11:34:03] toks: ya know what would help me out immensely?
 [2013-01-29 11:34:25] toks: I see the json in the server.js log
 [2013-01-29 11:34:34] toks: I would *LOVE* to get that back directly somehow
+[2013-01-29 11:35:02] toks: I wouldn't have to call object.text on everything
+[2013-01-29 11:36:10] github-appium, joining. (#appium)
+[2013-01-29 11:36:10] github-appium: [appium] sourishkrout opened pull request #67: Stash it all in cache for subsequent use. + Test (master...master)  http://git.io/wDI1jA
+[2013-01-29 11:36:10] github-appium, leaving. (#appium)
+[2013-01-29 11:36:35] sourishkrout: jlipps: please merge ^^
+[2013-01-29 11:37:02] sourishkrout: toks: are you using webdriver to run tests against appium?
