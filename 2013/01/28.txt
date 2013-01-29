@@ -209,3 +209,11 @@
 [2013-01-28 19:38:21] github-appium: appium/master 797d42b Santiago Suarez Ordoñez: sending location through Location header, like http says
 [2013-01-28 19:38:21] github-appium: appium/master 4698c06 Jonathan Lipps: Merge pull request #60 from santiycr/master...
 [2013-01-28 19:38:21] github-appium, leaving. (#appium)
+[2013-01-28 20:12:50] github-appium, joining. (#appium)
+[2013-01-28 20:12:51] github-appium: [appium] jlipps opened pull request #61: up socket client timeout (master...master)  http://git.io/UjoeLQ
+[2013-01-28 20:12:51] github-appium, leaving. (#appium)
+[2013-01-28 20:13:16] github-appium, joining. (#appium)
+[2013-01-28 20:13:16] github-appium: [appium] santiycr pushed 2 new commits to master: http://git.io/TO81mw
+[2013-01-28 20:13:16] github-appium: appium/master 81fb712 Jonathan Lipps: up socket client timeout
+[2013-01-28 20:13:16] github-appium: appium/master 2629722 Santiago Suarez Ordoñez: Merge pull request #61 from jlipps/master...
+[2013-01-28 20:13:16] github-appium, leaving. (#appium)
