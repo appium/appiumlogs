@@ -200,3 +200,12 @@
 [2013-01-29 15:05:26] toks: IMHO, I think appium should be made to fit all the other webdrivers out there
 [2013-01-29 15:05:48] toks: just my 2 cents... feel free to > /dev/null
 [2013-01-29 15:06:05] toks: I'm in python land, so I just appium to work there
+[2013-01-29 15:15:15] smccarthy, quitting. (Remote host closed the connection)
+[2013-01-29 15:15:36] lukeis: i believe this to be a bug in both selenium webdriver clients (python, java, ruby, c#) and appium. The spec says ( https://dvcs.w3.org/hg/webdriver/raw-file/tip/webdriver-spec.html#elements  section 9) that "The IDs used to refer to different underlying DOM Elements must be unique within the session over the entire duration of the session"  <- thus the bug in appium… but webdriver says the ID should be a DOMString ( http://www.w3.
+[2013-01-29 15:16:03] toks: o.o
+[2013-01-29 15:16:36] *lukeis likes that I can refer to the 'spec' for webdriver now ;)'
+[2013-01-29 15:17:31] sourishkrout: i just discussed this with santiycr and we'll change appium to dish out generated id and take care of the mapping
+[2013-01-29 15:17:44] lukeis: sounds good :)
+[2013-01-29 15:17:48] sourishkrout: that should get appium closer to what lukeis just said
+[2013-01-29 15:18:05] sourishkrout: and we'll see how that goes
+[2013-01-29 15:19:18] toks: :o
