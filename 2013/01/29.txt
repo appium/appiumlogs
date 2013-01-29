@@ -209,3 +209,15 @@
 [2013-01-29 15:17:48] sourishkrout: that should get appium closer to what lukeis just said
 [2013-01-29 15:18:05] sourishkrout: and we'll see how that goes
 [2013-01-29 15:19:18] toks: :o
+[2013-01-29 15:20:58] alexglow_, joining. (#appium)
+[2013-01-29 15:20:59] toks: can't argue with specs :p
+[2013-01-29 15:21:09] admc, quitting. (Quit: Leaving.)
+[2013-01-29 15:21:43] toks: that's actually not true ....
+[2013-01-29 15:21:46] toks: nvm
+[2013-01-29 15:22:58] admc, joining. (#appium)
+[2013-01-29 15:23:21] github-appium, joining. (#appium)
+[2013-01-29 15:23:21] github-appium: [appium] jlipps opened pull request #69: more robust logging options (master...master)  http://git.io/tLVr7g
+[2013-01-29 15:23:21] github-appium, leaving. (#appium)
+[2013-01-29 15:23:26] alexglow, quitting. (Ping timeout: 255 seconds)
+[2013-01-29 15:23:42] *toks will continue making tests with his ghetto-patch until a more graceful solution shows up '
+[2013-01-29 15:24:15] sourishkrout: cool :)
