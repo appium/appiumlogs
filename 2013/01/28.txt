@@ -100,3 +100,13 @@
 [2013-01-28 16:03:16] toks:  ..
 [2013-01-28 16:03:53] toks: I don't see selenium support mentioned anywhere now.
 [2013-01-28 16:04:45] *toks re-re-re-learns appium'
+[2013-01-28 16:05:21] lukeis: once you figure out the start line, it's the same as before from the end-client
+[2013-01-28 16:06:02] toks: oooohhhhh
+[2013-01-28 16:06:08] toks: whew! you scared me!
+[2013-01-28 16:06:08] lukeis: grunt appium:/path/to/your/app
+[2013-01-28 16:07:47] toks: What prompted all this change? :)
+[2013-01-28 16:08:04] admc, joining. (#appium)
+[2013-01-28 16:08:09] toks: and... is this change that I can believe in?
+[2013-01-28 16:08:11] toks: ^_^
+[2013-01-28 16:08:42] lukeis: toks: https://groups.google.com/d/topic/appium-discuss/oMUrOtToBAY/discussion
+[2013-01-28 16:09:23] *toks reads'
