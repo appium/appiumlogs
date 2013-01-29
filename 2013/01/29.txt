@@ -251,3 +251,5 @@
 [2013-01-29 15:41:59] lukeis: from what i heard / read, apple had some synchronization issue that was solved by 'thread.sleep(1)'
 [2013-01-29 15:42:55] lukeis: my iOS team (some former apple guys) say the instruments team is extremely small for apple (like 2 guys)
 [2013-01-29 15:46:31] jlipps: it certainly seems that way :-)
+[2013-01-29 15:50:53] jlipps: well i hope they feel flattered by all our efforts
+[2013-01-29 15:52:05] lukeis: hopefully they notice :) but usually if you tag apple's name out there in the interwebs someone there will read about it… they do care about their branding ;)
