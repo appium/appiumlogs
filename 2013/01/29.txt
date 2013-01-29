@@ -104,3 +104,14 @@
 [2013-01-29 12:04:30] toks: from python
 [2013-01-29 12:04:43] toks: I'll have to go back and check to see what it uses for an ID in this case
 [2013-01-29 12:05:01] admc, quitting. (Quit: Leaving.)
+[2013-01-29 12:05:17] *toks gets the appium-old...'
+[2013-01-29 12:06:24] sourishkrout: well, appium-old doesn't support look up by name
+[2013-01-29 12:06:43] admc, joining. (#appium)
+[2013-01-29 12:06:44] toks: o.o
+[2013-01-29 12:06:59] lukeis: the old appium generated an id for the element and kept a map of it to the real element IIRC
+[2013-01-29 12:06:59] sourishkrout: if you set the accessibility label on the UI element in question you'll get proper ids
+[2013-01-29 12:07:21] toks: ah
+[2013-01-29 12:07:31] sourishkrout: that's true but that creates a huge problem once you want to look up an id but it's real app internal name/id
+[2013-01-29 12:08:03] sourishkrout: i'm going to send a summary about this to the mailing list later today
+[2013-01-29 12:08:41] sourishkrout: that'll hopefully clear things up for you and we can discuss this further
+[2013-01-29 12:10:01] admc1, joining. (#appium)
