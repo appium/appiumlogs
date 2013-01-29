@@ -186,3 +186,4 @@
 [2013-01-28 18:31:34] sourishkrout: cool. i'll have a look at it then. thanks!
 [2013-01-28 18:31:39] toks: ^_^
 [2013-01-28 18:31:53] alexglow, quitting. (Ping timeout: 255 seconds)
+[2013-01-28 18:36:16] toks, quitting. (Ping timeout: 245 seconds)
