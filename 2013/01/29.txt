@@ -190,3 +190,10 @@
 [2013-01-29 14:53:26] toks: whoa! my silly patch worked
 [2013-01-29 14:55:58] toks: https://gist.github.com/4668768
 [2013-01-29 14:56:03] toks: what do you guys think?
+[2013-01-29 15:01:59] sourishkrout: well, it's a workaround but not a fix
+[2013-01-29 15:02:28] toks: :p
+[2013-01-29 15:02:31] sourishkrout: in fact i went ahead and fixed it in the wd.js client bindings: https://github.com/admc/wd/pull/84/files
+[2013-01-29 15:02:37] toks: oh
+[2013-01-29 15:03:03] toks: hmm
+[2013-01-29 15:03:18] toks: will that work for me... using python's selenium?
+[2013-01-29 15:03:46] toks: that looks a patch specific to webdriver.js
