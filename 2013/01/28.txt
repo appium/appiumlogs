@@ -147,3 +147,15 @@
 [2013-01-28 17:14:05] toks: if you install nodejs with that pkg that they give you on the site
 [2013-01-28 17:14:12] toks: you can't do the other instructions
 [2013-01-28 17:14:34] toks: the npm install doesn't work
+[2013-01-28 17:15:28] toks: the -g mocha, and -g grunt work
+[2013-01-28 17:15:39] toks: but the "npm install", fails with ...
+[2013-01-28 17:15:57] toks: install Couldn't read dependencies
+[2013-01-28 17:16:18] toks: Error: ENOENT, open '/Users/toks/rackspace/Desktop/toks_stuff/package.json'
+[2013-01-28 17:16:49] toks: but if I get the tar.gz file, make && make install myself...
+[2013-01-28 17:16:51] toks: then it works
+[2013-01-28 17:17:00] toks: at least, I can do the steps
+[2013-01-28 17:17:08] toks: I haven't automated anything yet
+[2013-01-28 17:17:41] toks: Doesn't work = http://nodejs.org/dist/v0.8.18/node-v0.8.18.pkg
+[2013-01-28 17:17:54] toks: Does work(probably) = http://nodejs.org/dist/v0.8.18/node-v0.8.18.tar.gz
+[2013-01-28 17:19:32] santiycr, joining. (#appium)
+[2013-01-28 17:19:50] toks: I feel like I should be using the pkg one for the mac
