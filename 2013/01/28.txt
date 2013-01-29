@@ -195,3 +195,4 @@
 [2013-01-28 18:57:43] github-appium: appium/master 81b0cdf Jonathan Lipps: updates to correspond to JSONWP
 [2013-01-28 18:57:43] github-appium: appium/master d83da9e admc: Merge pull request #59 from jlipps/master...
 [2013-01-28 18:57:43] github-appium, leaving. (#appium)
+[2013-01-28 19:03:40] sourishkrout, quitting. (Quit: Leaving.)
