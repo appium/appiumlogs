@@ -117,3 +117,7 @@
 [2013-01-28 16:12:56] lukeis, quitting. (Quit: Leaving.)
 [2013-01-28 16:13:40] toks: well, I've wanted an excuse to learn node.js so I'll dive in.... but I'm glad to know the old appium is still around for Plan#b
 [2013-01-28 16:15:19] sourishkrout, quitting. (Quit: Leaving.)
+[2013-01-28 16:44:21] toks: ...
+[2013-01-28 16:44:23] toks: Hmm
+[2013-01-28 16:44:32] toks: info: Appium REST http interface listener started on 127.0.0.1:4723
+[2013-01-28 16:44:55] toks: If my humble linux knowledge translates to osx
