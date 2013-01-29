@@ -125,3 +125,5 @@
 [2013-01-29 12:12:29] toks: 'k
 [2013-01-29 12:13:05] sourishkrout: i think once you see the big picture it'll help understand and we can also get everyone from the appium community involved
 [2013-01-29 12:13:25] toks: o.o
+[2013-01-29 12:27:39] sourishkrout1, joining. (#appium)
+[2013-01-29 12:29:40] sourishkrout, quitting. (Ping timeout: 248 seconds)
