@@ -230,3 +230,6 @@
 [2013-01-28 21:24:53] smccarthy, joining. (#appium)
 [2013-01-28 21:28:11] santiycr, joining. (#appium)
 [2013-01-28 21:28:58] stackedsax, quitting. (Quit: Leaving.)
+[2013-01-28 21:31:17] santiycr, quitting. (Remote host closed the connection)
+[2013-01-28 21:31:31] santiycr, joining. (#appium)
+[2013-01-28 21:33:25] brainsik, quitting. (Quit: Leaving.)
