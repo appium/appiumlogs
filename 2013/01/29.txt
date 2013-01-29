@@ -30,3 +30,6 @@
 [2013-01-29 09:44:36] santiycr, joining. (#appium)
 [2013-01-29 09:52:54] admc, joining. (#appium)
 [2013-01-29 09:54:49] stackedsax, joining. (#appium)
+[2013-01-29 10:04:46] github-appium, joining. (#appium)
+[2013-01-29 10:04:46] github-appium: [appium] jlipps opened pull request #63: conform better to JSONWP spec (master...master)  http://git.io/GXMeJg
+[2013-01-29 10:04:46] github-appium, leaving. (#appium)
