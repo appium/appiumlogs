@@ -74,3 +74,22 @@
 [2013-01-29 11:37:02] sourishkrout: toks: are you using webdriver to run tests against appium?
 [2013-01-29 11:40:28] toks: yes
 [2013-01-29 11:44:56] toks: okay...
+[2013-01-29 11:45:15] toks: so... another issue, is that server.js is using the text of a TableCell as an ID
+[2013-01-29 11:45:35] toks: so what ends up happening from webdriver for a click
+[2013-01-29 11:45:40] toks: is an invalid URL
+[2013-01-29 11:45:46] toks: Using wireshark... I see...
+[2013-01-29 11:46:37] toks: POST /wd/hub/session/cde12b1e-4879-b291-3c4bed8c16d7/element/Rackspace Cloud(US), auth.api.rackspace.com/click HTTP/1.1
+[2013-01-29 11:46:44] toks: That URL can't work
+[2013-01-29 11:47:00] sourishkrout: right, this is a wd.js issue
+[2013-01-29 11:47:16] toks: o.o
+[2013-01-29 11:47:16] sourishkrout: i'll had a similar problem
+[2013-01-29 11:47:22] sourishkrout: with "???"
+[2013-01-29 11:47:29] sourishkrout: it should encode this properly
+[2013-01-29 11:47:30] toks: ah
+[2013-01-29 11:47:45] sourishkrout: i'm also working on the issue you created
+[2013-01-29 11:47:50] johndunham, quitting. (Quit: Computer has gone to sleep.)
+[2013-01-29 11:47:51] toks: :)
+[2013-01-29 11:48:01] sourishkrout: i'll have to think this issue through but will get back to you soonish
+[2013-01-29 11:48:16] sourishkrout: calling the text method on the button should def not make the server crash :)
+[2013-01-29 11:48:27] sourishkrout: thanks for raising this as an issue
+[2013-01-29 11:48:46] sourishkrout: appium <3 feedback
