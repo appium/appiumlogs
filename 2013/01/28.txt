@@ -218,3 +218,6 @@
 [2013-01-28 20:13:16] github-appium: appium/master 2629722 Santiago Suarez Ordoñez: Merge pull request #61 from jlipps/master...
 [2013-01-28 20:13:16] github-appium, leaving. (#appium)
 [2013-01-28 20:15:33] smccarthy, quitting. (Remote host closed the connection)
+[2013-01-28 20:45:52] sourishkrout, joining. (#appium)
+[2013-01-28 20:47:16] sourishkrout, quitting. (Client Quit)
+[2013-01-28 20:47:24] jlipps, quitting. (Quit: jlipps)
