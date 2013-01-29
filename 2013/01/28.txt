@@ -241,3 +241,4 @@
 [2013-01-28 22:26:23] stackedsax, joining. (#appium)
 [2013-01-28 22:51:05] santiycr, joining. (#appium)
 [2013-01-28 22:51:16] santiycr, quitting. (Client Quit)
+[2013-01-28 23:28:58] smccarthy, quitting. (Remote host closed the connection)
