@@ -167,3 +167,8 @@
 [2013-01-28 17:51:31] sourishkrout, joining. (#appium)
 [2013-01-28 17:55:09] admc, joining. (#appium)
 [2013-01-28 18:08:28] stackedsax, quitting. (Quit: Leaving.)
+[2013-01-28 18:23:40] toks: Hmm...
+[2013-01-28 18:23:48] toks: so... just so you guys know ...
+[2013-01-28 18:24:08] toks: if you do driver.find_elements_by_tag_name("UIAButton")[1].text
+[2013-01-28 18:24:18] toks: it crashes appium
+[2013-01-28 18:24:50] toks: "Script threw an uncaught JavaScript erro: 'null' is not an object (evaluating 'result.status') on line 29 of bootstrap.js
