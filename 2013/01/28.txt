@@ -94,3 +94,9 @@
 [2013-01-28 15:58:01] toks: o_O
 [2013-01-28 15:58:31] toks: okay then...
 [2013-01-28 15:58:35] *toks re-learns appium'
+[2013-01-28 16:02:17] alexglow, joining. (#appium)
+[2013-01-28 16:02:42] toks: wait....
+[2013-01-28 16:03:06] toks: ~/msg
+[2013-01-28 16:03:16] toks:  ..
+[2013-01-28 16:03:53] toks: I don't see selenium support mentioned anywhere now.
+[2013-01-28 16:04:45] *toks re-re-re-learns appium'
