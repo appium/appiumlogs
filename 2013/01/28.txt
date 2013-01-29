@@ -238,3 +238,4 @@
 [2013-01-28 22:06:16] stackedsax, quitting. (Client Quit)
 [2013-01-28 22:13:28] stackedsax, joining. (#appium)
 [2013-01-28 22:22:38] stackedsax, quitting. (Quit: Leaving.)
+[2013-01-28 22:26:23] stackedsax, joining. (#appium)
