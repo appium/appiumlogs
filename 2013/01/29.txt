@@ -1,1 +1,2 @@
 [2013-01-29 00:02:05] stackedsax, quitting. (Quit: Leaving.)
+[2013-01-29 00:08:39] stackedsax, joining. (#appium)
