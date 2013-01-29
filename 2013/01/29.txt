@@ -60,3 +60,6 @@
 [2013-01-29 10:52:03] jcarr, joining. (#appium)
 [2013-01-29 10:52:07] johndunham, joining. (#appium)
 [2013-01-29 11:05:28] ownedbyshiba, joining. (#appium)
+[2013-01-29 11:11:05] jcarr, quitting. (Quit: Leaving.)
+[2013-01-29 11:11:21] ownedbyshiba_, joining. (#appium)
+[2013-01-29 11:11:35] ownedbyshiba_, quitting. (Client Quit)
