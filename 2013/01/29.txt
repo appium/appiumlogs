@@ -176,3 +176,9 @@
 [2013-01-29 14:08:30] toks: in the selenium client driver code? ....or just ensure that server.js doesn't send non-encoded ids to clients?
 [2013-01-29 14:09:36] toks: for the sole excuse of wanting to dive into nodejs, I'm going to change it in appium's response not to encode all ids before sending them back to client :p
 [2013-01-29 14:09:51] toks: just for my special-needs :p
+[2013-01-29 14:22:45] sourishkrout: you can try that. however, the name of the button is returned in the post's body
+[2013-01-29 14:23:02] sourishkrout: the problem is that on its way back to the server the client sticks it in the get's URL
+[2013-01-29 14:23:05] sourishkrout: which makes it invalid
+[2013-01-29 14:23:11] sourishkrout: (without urlencode)
+[2013-01-29 14:23:35] toks: o_O
+[2013-01-29 14:24:18] toks: oh...
