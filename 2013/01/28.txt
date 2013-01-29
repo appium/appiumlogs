@@ -82,3 +82,15 @@
 [2013-01-28 15:03:54] toks: good times :)
 [2013-01-28 15:05:01] lukeis: s/releases/was released/ ;)
 [2013-01-28 15:06:24] smccarthy, quitting. (Remote host closed the connection)
+[2013-01-28 15:55:16] toks: ....
+[2013-01-28 15:55:31] toks: hey... what happended to appium repo? Where my server.py? :O
+[2013-01-28 15:56:14] toks: I just did... git clone git://github.com/appium/appium.git
+[2013-01-28 15:56:20] toks: cd appium
+[2013-01-28 15:56:27] toks: find . -name '*py'
+[2013-01-28 15:56:51] toks: only./sample-code/examples/python/simple.py
+[2013-01-28 15:56:51] toks: ./sample-code/examples/python/uicatalog.py
+[2013-01-28 15:57:34] toks: oh
+[2013-01-28 15:57:55] toks: README.md , you've overhauled this thing
+[2013-01-28 15:58:01] toks: o_O
+[2013-01-28 15:58:31] toks: okay then...
+[2013-01-28 15:58:35] *toks re-learns appium'
