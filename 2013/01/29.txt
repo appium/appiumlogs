@@ -115,3 +115,13 @@
 [2013-01-29 12:08:03] sourishkrout: i'm going to send a summary about this to the mailing list later today
 [2013-01-29 12:08:41] sourishkrout: that'll hopefully clear things up for you and we can discuss this further
 [2013-01-29 12:10:01] admc1, joining. (#appium)
+[2013-01-29 12:10:52] toks: hmm
+[2013-01-29 12:11:00] admc, quitting. (Ping timeout: 252 seconds)
+[2013-01-29 12:11:02] toks: also, it's possible to have 2 things with the same text
+[2013-01-29 12:11:34] toks: so you'd end up with 2 things with the same ID
+[2013-01-29 12:11:55] sourishkrout: the same text yes but in this case you can always put two distinct accessibility IDs on them
+[2013-01-29 12:12:23] sourishkrout: let me summarize this and post it to the mailing list
+[2013-01-29 12:12:24] toks: hmm
+[2013-01-29 12:12:29] toks: 'k
+[2013-01-29 12:13:05] sourishkrout: i think once you see the big picture it'll help understand and we can also get everyone from the appium community involved
+[2013-01-29 12:13:25] toks: o.o
