@@ -180,3 +180,9 @@
 [2013-01-28 18:27:21] toks: ^_^
 [2013-01-28 18:27:46] toks: (probably shouldn't assume all of you are even in America, not to talk of California)
 [2013-01-28 18:28:26] *toks runs away...'
+[2013-01-28 18:31:01] sourishkrout: toks: thanks for the feedback! do you mind creating an issue at https://github.com/appium/appium/issues ?
+[2013-01-28 18:31:15] toks: o.o
+[2013-01-28 18:31:25] toks: ah, okay... will do that first thing, tomorrow :D
+[2013-01-28 18:31:34] sourishkrout: cool. i'll have a look at it then. thanks!
+[2013-01-28 18:31:39] toks: ^_^
+[2013-01-28 18:31:53] alexglow, quitting. (Ping timeout: 255 seconds)
