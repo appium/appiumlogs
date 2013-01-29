@@ -116,3 +116,4 @@
 [2013-01-28 16:11:31] admc: yessir, this is the change you can believe in
 [2013-01-28 16:12:56] lukeis, quitting. (Quit: Leaving.)
 [2013-01-28 16:13:40] toks: well, I've wanted an excuse to learn node.js so I'll dive in.... but I'm glad to know the old appium is still around for Plan#b
+[2013-01-28 16:15:19] sourishkrout, quitting. (Quit: Leaving.)
