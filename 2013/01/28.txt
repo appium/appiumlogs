@@ -198,3 +198,14 @@
 [2013-01-28 19:03:40] sourishkrout, quitting. (Quit: Leaving.)
 [2013-01-28 19:07:13] stackedsax, joining. (#appium)
 [2013-01-28 19:07:33] admc, quitting. (Quit: Leaving.)
+[2013-01-28 19:37:11] jlipps: oooo looky a pull request!
+[2013-01-28 19:37:14] jlipps: vv
+[2013-01-28 19:37:24] github-appium, joining. (#appium)
+[2013-01-28 19:37:24] github-appium: [appium] santiycr opened pull request #60: Location header thingie (master...master)  http://git.io/buyr3g
+[2013-01-28 19:37:24] github-appium, leaving. (#appium)
+[2013-01-28 19:37:33] brainsik, joining. (#appium)
+[2013-01-28 19:38:21] github-appium, joining. (#appium)
+[2013-01-28 19:38:21] github-appium: [appium] jlipps pushed 2 new commits to master: http://git.io/5wZKdQ
+[2013-01-28 19:38:21] github-appium: appium/master 797d42b Santiago Suarez Ordoñez: sending location through Location header, like http says
+[2013-01-28 19:38:21] github-appium: appium/master 4698c06 Jonathan Lipps: Merge pull request #60 from santiycr/master...
+[2013-01-28 19:38:21] github-appium, leaving. (#appium)
