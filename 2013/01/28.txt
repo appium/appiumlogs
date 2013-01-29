@@ -221,3 +221,5 @@
 [2013-01-28 20:45:52] sourishkrout, joining. (#appium)
 [2013-01-28 20:47:16] sourishkrout, quitting. (Client Quit)
 [2013-01-28 20:47:24] jlipps, quitting. (Quit: jlipps)
+[2013-01-28 20:56:21] toks, joining. (#appium)
+[2013-01-28 20:58:26] smccarthy, joining. (#appium)
