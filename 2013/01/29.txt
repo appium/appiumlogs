@@ -33,3 +33,9 @@
 [2013-01-29 10:04:46] github-appium, joining. (#appium)
 [2013-01-29 10:04:46] github-appium: [appium] jlipps opened pull request #63: conform better to JSONWP spec (master...master)  http://git.io/GXMeJg
 [2013-01-29 10:04:46] github-appium, leaving. (#appium)
+[2013-01-29 10:16:01] github-appium, joining. (#appium)
+[2013-01-29 10:16:01] github-appium: [appium] sourishkrout pushed 12 new commits to master: http://git.io/RSV7gQ
+[2013-01-29 10:16:01] github-appium: appium/master ba1a092 Jonathan Lipps: move appiumutils tests into tests/functional/appium/
+[2013-01-29 10:16:01] github-appium: appium/master 86acd2d Jonathan Lipps: starting on on some jsonwp compatibility fixes and tests
+[2013-01-29 10:16:01] github-appium: appium/master d518882 Jonathan Lipps: follow JSONWP in allowing not implemented methods and responding with 501
+[2013-01-29 10:16:01] github-appium, leaving. (#appium)
