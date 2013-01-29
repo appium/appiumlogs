@@ -121,3 +121,19 @@
 [2013-01-28 16:44:23] toks: Hmm
 [2013-01-28 16:44:32] toks: info: Appium REST http interface listener started on 127.0.0.1:4723
 [2013-01-28 16:44:55] toks: If my humble linux knowledge translates to osx
+[2013-01-28 16:45:01] toks: this tells me I can't reach the machine remotely
+[2013-01-28 16:45:21] toks: I'm ssh'ed into this machine right now, so I know it's online
+[2013-01-28 16:45:44] toks: why appium choose bind to internal? :o
+[2013-01-28 16:46:28] admc: ah, I think you can specify a host
+[2013-01-28 16:46:51] toks: o.o
+[2013-01-28 16:47:25] admc: you can pass -a or —address to server.js
+[2013-01-28 16:47:27] admc: when you bring it up
+[2013-01-28 16:47:33] admc: to give it the address you want to bind to
+[2013-01-28 16:47:36] toks: oooohhhh
+[2013-01-28 16:47:38] admc: https://github.com/appium/appium/blob/master/app/parser.js
+[2013-01-28 16:47:40] toks: good times, gracias :)
+[2013-01-28 16:48:04] toks: puurrrrrfect
+[2013-01-28 16:48:10] *toks licks his paw'
+[2013-01-28 16:48:28] admc: node server.js --app /absolute/path/to/app -V 1 -a 192.159123,123.1128123
+[2013-01-28 16:48:30] admc: :)
+[2013-01-28 16:49:01] toks: ^_^
