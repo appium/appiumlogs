@@ -143,3 +143,7 @@
 [2013-01-28 16:58:54] *toks tests on localmac'
 [2013-01-28 17:00:25] santiycr1, quitting. (Quit: Leaving.)
 [2013-01-28 17:06:57] smccarthy, joining. (#appium)
+[2013-01-28 17:13:50] toks: hmm...
+[2013-01-28 17:14:05] toks: if you install nodejs with that pkg that they give you on the site
+[2013-01-28 17:14:12] toks: you can't do the other instructions
+[2013-01-28 17:14:34] toks: the npm install doesn't work
