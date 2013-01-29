@@ -166,3 +166,4 @@
 [2013-01-28 17:21:29] toks: well, tar.gz it is then
 [2013-01-28 17:51:31] sourishkrout, joining. (#appium)
 [2013-01-28 17:55:09] admc, joining. (#appium)
+[2013-01-28 18:08:28] stackedsax, quitting. (Quit: Leaving.)
