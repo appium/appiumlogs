@@ -166,3 +166,5 @@
 [2013-01-29 13:30:55] toks: oh, but not for my "id" issue
 [2013-01-29 13:42:31] admc, joining. (#appium)
 [2013-01-29 13:47:03] ownedbyshiba, joining. (#appium)
+[2013-01-29 13:52:46] jlipps: yeah sorry toks, waiting on sourishkrout for that one
+[2013-01-29 13:54:58] toks: I'm going to attempt fixing it pretty soon :p
