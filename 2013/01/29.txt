@@ -51,3 +51,9 @@
 [2013-01-29 10:44:24] github-appium, joining. (#appium)
 [2013-01-29 10:44:25] github-appium: [appium] sourishkrout opened pull request #65: Some elements just don't have names. Need to generate internal identifiers for them. (master...master)  http://git.io/jbr4tQ
 [2013-01-29 10:44:25] github-appium, leaving. (#appium)
+[2013-01-29 10:45:11] sourishkrout, joining. (#appium)
+[2013-01-29 10:48:55] github-appium, joining. (#appium)
+[2013-01-29 10:48:55] github-appium: [appium] jlipps pushed 2 new commits to master: http://git.io/bpkzvw
+[2013-01-29 10:48:55] github-appium: appium/master 0491037 Sebastian Tiedtke: Turns out we need internal identifiers in some cases.
+[2013-01-29 10:48:55] github-appium: appium/master 2cc7bc4 Jonathan Lipps: Merge pull request #65 from sourishkrout/master...
+[2013-01-29 10:48:55] github-appium, leaving. (#appium)
