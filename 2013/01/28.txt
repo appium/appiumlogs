@@ -172,3 +172,11 @@
 [2013-01-28 18:24:08] toks: if you do driver.find_elements_by_tag_name("UIAButton")[1].text
 [2013-01-28 18:24:18] toks: it crashes appium
 [2013-01-28 18:24:50] toks: "Script threw an uncaught JavaScript erro: 'null' is not an object (evaluating 'result.status') on line 29 of bootstrap.js
+[2013-01-28 18:25:19] toks: and there really is text
+[2013-01-28 18:25:34] toks: the json I see in the log is
+[2013-01-28 18:26:19] toks: {"status":0,"value":[{"ELEMENT":"Edit"},{"ELEMENT":"Add"},{"ELEMENT":"Settings"},.... etc
+[2013-01-28 18:26:30] toks: the text I'm expecting to see, is "Add"
+[2013-01-28 18:27:20] toks: and with that, I'll talk to you bayarea techies later
+[2013-01-28 18:27:21] toks: ^_^
+[2013-01-28 18:27:46] toks: (probably shouldn't assume all of you are even in America, not to talk of California)
+[2013-01-28 18:28:26] *toks runs away...'
