@@ -40,3 +40,11 @@
 [2013-01-29 10:16:01] github-appium: appium/master d518882 Jonathan Lipps: follow JSONWP in allowing not implemented methods and responding with 501
 [2013-01-29 10:16:01] github-appium, leaving. (#appium)
 [2013-01-29 10:24:28] rodericj, joining. (#appium)
+[2013-01-29 10:30:23] github-appium, joining. (#appium)
+[2013-01-29 10:30:23] github-appium: [appium] jlipps opened pull request #64: pre-launch mode (master...master)  http://git.io/VnkBnA
+[2013-01-29 10:30:23] github-appium, leaving. (#appium)
+[2013-01-29 10:32:39] github-appium, joining. (#appium)
+[2013-01-29 10:32:40] github-appium: [appium] sourishkrout pushed 2 new commits to master: http://git.io/ru9Plw
+[2013-01-29 10:32:40] github-appium: appium/master 2734b7f Jonathan Lipps: add a pre-launch mode that doesn't listen until sim is running
+[2013-01-29 10:32:40] github-appium: appium/master 60bf555 Sebastian Tiedtke: Merge pull request #64 from jlipps/master...
+[2013-01-29 10:32:40] github-appium, leaving. (#appium)
