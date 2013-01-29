@@ -63,3 +63,6 @@
 [2013-01-29 11:11:05] jcarr, quitting. (Quit: Leaving.)
 [2013-01-29 11:11:21] ownedbyshiba_, joining. (#appium)
 [2013-01-29 11:11:35] ownedbyshiba_, quitting. (Client Quit)
+[2013-01-29 11:34:03] toks: ya know what would help me out immensely?
+[2013-01-29 11:34:25] toks: I see the json in the server.js log
+[2013-01-29 11:34:34] toks: I would *LOVE* to get that back directly somehow
