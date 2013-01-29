@@ -242,3 +242,11 @@
 [2013-01-29 15:34:40] github-appium: appium/master 7494ea3 Jonathan Lipps: allow winston to log to file by starting server with --log...
 [2013-01-29 15:34:40] github-appium: appium/master 81d4945 Jonathan Lipps: Merge branch 'master' of github.com:appium/appium
 [2013-01-29 15:34:40] github-appium, leaving. (#appium)
+[2013-01-29 15:40:49] lukeis: jlipps: yeah… update the system date to 1 second in the future, to trick instruments out of the 1 second sleep they have
+[2013-01-29 15:41:11] jlipps: is this something that instruments does on its own or something devs have to respect "or else"
+[2013-01-29 15:41:23] jlipps: i'm asking because i've heard of this limitation but haven't run into any need to be aware of it
+[2013-01-29 15:41:26] lukeis: instruments does it on it's own
+[2013-01-29 15:41:32] jlipps: but perhaps it's just limiting our speed
+[2013-01-29 15:41:57] jlipps: i see
+[2013-01-29 15:41:59] lukeis: from what i heard / read, apple had some synchronization issue that was solved by 'thread.sleep(1)'
+[2013-01-29 15:42:55] lukeis: my iOS team (some former apple guys) say the instruments team is extremely small for apple (like 2 guys)
