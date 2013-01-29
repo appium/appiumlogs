@@ -140,3 +140,19 @@
 [2013-01-29 12:43:34] github-appium: [appium] hugs pushed 1 new commit to master: http://git.io/qaVCyw
 [2013-01-29 12:43:34] github-appium: appium/master fdf4786 Jason Huggins: Cleaner copy, part 2.
 [2013-01-29 12:43:34] github-appium, leaving. (#appium)
+[2013-01-29 12:45:04] sourishkrout1: jlipps: there's an older one open on my end. please merge first
+[2013-01-29 12:45:17] admc1, quitting. (Quit: Leaving.)
+[2013-01-29 12:45:29] github-appium, joining. (#appium)
+[2013-01-29 12:45:29] github-appium: [appium] jlipps pushed 2 new commits to master: http://git.io/J7mkDg
+[2013-01-29 12:45:29] github-appium: appium/master 42f9ba8 Sebastian Tiedtke: Add test for internally generated identifiers.
+[2013-01-29 12:45:30] github-appium: appium/master 62ce63d Jonathan Lipps: Merge pull request #67 from sourishkrout/master...
+[2013-01-29 12:45:30] github-appium, leaving. (#appium)
+[2013-01-29 12:45:36] jlipps: k
+[2013-01-29 12:46:08] sourishkrout1: done
+[2013-01-29 12:46:14] github-appium, joining. (#appium)
+[2013-01-29 12:46:14] github-appium: [appium] sourishkrout pushed 4 new commits to master: http://git.io/f5EcEA
+[2013-01-29 12:46:14] github-appium: appium/master 79239c8 Jonathan Lipps: create middleware file to make things clean
+[2013-01-29 12:46:14] github-appium: appium/master 83f8bf4 Jonathan Lipps: standardize ways of generating appium responses to conform to jsonwp
+[2013-01-29 12:46:14] github-appium: appium/master 4089db9 Jonathan Lipps: also handle case where an Error object is passed into handler
+[2013-01-29 12:46:14] github-appium, leaving. (#appium)
+[2013-01-29 12:46:17] sourishkrout1, quitting. (Quit: Leaving.)
