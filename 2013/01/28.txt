@@ -159,3 +159,8 @@
 [2013-01-28 17:17:54] toks: Does work(probably) = http://nodejs.org/dist/v0.8.18/node-v0.8.18.tar.gz
 [2013-01-28 17:19:32] santiycr, joining. (#appium)
 [2013-01-28 17:19:50] toks: I feel like I should be using the pkg one for the mac
+[2013-01-28 17:20:09] toks: and using the tar.gz(which is meant for linux???) might produce problems for me down the road?
+[2013-01-28 17:20:14] toks: opinions?
+[2013-01-28 17:21:03] admc, quitting. (Quit: Leaving.)
+[2013-01-28 17:21:10] toks: ....
+[2013-01-28 17:21:29] toks: well, tar.gz it is then
