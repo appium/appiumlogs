@@ -171,3 +171,8 @@
 [2013-01-29 13:55:38] toks: I suspect whatever is sending the ids to the client, just needs to do encode on them first
 [2013-01-29 13:56:12] ownedbyshiba, quitting. (Ping timeout: 252 seconds)
 [2013-01-29 13:58:56] sourishkrout, joining. (#appium)
+[2013-01-29 14:05:51] sourishkrout: toks: that's right. you'd want to fix this in the selenium client bindings
+[2013-01-29 14:07:59] toks: hmm
+[2013-01-29 14:08:30] toks: in the selenium client driver code? ....or just ensure that server.js doesn't send non-encoded ids to clients?
+[2013-01-29 14:09:36] toks: for the sole excuse of wanting to dive into nodejs, I'm going to change it in appium's response not to encode all ids before sending them back to client :p
+[2013-01-29 14:09:51] toks: just for my special-needs :p
