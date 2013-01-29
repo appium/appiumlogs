@@ -2,3 +2,4 @@
 [2013-01-29 00:08:39] stackedsax, joining. (#appium)
 [2013-01-29 00:15:33] stackedsax, quitting. (Quit: Leaving.)
 [2013-01-29 00:55:35] admc, joining. (#appium)
+[2013-01-29 01:25:55] stackedsax, joining. (#appium)
