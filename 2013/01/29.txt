@@ -48,3 +48,6 @@
 [2013-01-29 10:32:40] github-appium: appium/master 2734b7f Jonathan Lipps: add a pre-launch mode that doesn't listen until sim is running
 [2013-01-29 10:32:40] github-appium: appium/master 60bf555 Sebastian Tiedtke: Merge pull request #64 from jlipps/master...
 [2013-01-29 10:32:40] github-appium, leaving. (#appium)
+[2013-01-29 10:44:24] github-appium, joining. (#appium)
+[2013-01-29 10:44:25] github-appium: [appium] sourishkrout opened pull request #65: Some elements just don't have names. Need to generate internal identifiers for them. (master...master)  http://git.io/jbr4tQ
+[2013-01-29 10:44:25] github-appium, leaving. (#appium)
