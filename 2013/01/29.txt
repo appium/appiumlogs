@@ -197,3 +197,6 @@
 [2013-01-29 15:03:03] toks: hmm
 [2013-01-29 15:03:18] toks: will that work for me... using python's selenium?
 [2013-01-29 15:03:46] toks: that looks a patch specific to webdriver.js
+[2013-01-29 15:05:26] toks: IMHO, I think appium should be made to fit all the other webdrivers out there
+[2013-01-29 15:05:48] toks: just my 2 cents... feel free to > /dev/null
+[2013-01-29 15:06:05] toks: I'm in python land, so I just appium to work there
