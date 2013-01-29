@@ -196,3 +196,5 @@
 [2013-01-28 18:57:43] github-appium: appium/master d83da9e admc: Merge pull request #59 from jlipps/master...
 [2013-01-28 18:57:43] github-appium, leaving. (#appium)
 [2013-01-28 19:03:40] sourishkrout, quitting. (Quit: Leaving.)
+[2013-01-28 19:07:13] stackedsax, joining. (#appium)
+[2013-01-28 19:07:33] admc, quitting. (Quit: Leaving.)
