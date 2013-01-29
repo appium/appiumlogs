@@ -97,3 +97,10 @@
 [2013-01-29 11:54:12] sourishkrout: toks: i just realize you aren't using wd.js. you're on python, right?
 [2013-01-29 11:59:11] toks: o.o
 [2013-01-29 11:59:17] toks: oh yeah, I am =/
+[2013-01-29 12:03:26] toks: personally, I think appium shouldn't use the text as the id of the object
+[2013-01-29 12:04:03] sourishkrout: UIAutomation is the problem here
+[2013-01-29 12:04:11] toks: :O
+[2013-01-29 12:04:21] toks: This worked in the old appim
+[2013-01-29 12:04:30] toks: from python
+[2013-01-29 12:04:43] toks: I'll have to go back and check to see what it uses for an ID in this case
+[2013-01-29 12:05:01] admc, quitting. (Quit: Leaving.)
