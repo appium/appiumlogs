@@ -164,3 +164,4 @@
 [2013-01-29 13:27:24] toks: oh, I got some changes!
 [2013-01-29 13:27:27] toks: Time to test!
 [2013-01-29 13:30:55] toks: oh, but not for my "id" issue
+[2013-01-29 13:42:31] admc, joining. (#appium)
