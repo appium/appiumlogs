@@ -93,3 +93,5 @@
 [2013-01-29 11:48:16] sourishkrout: calling the text method on the button should def not make the server crash :)
 [2013-01-29 11:48:27] sourishkrout: thanks for raising this as an issue
 [2013-01-29 11:48:46] sourishkrout: appium <3 feedback
+[2013-01-29 11:50:17] toks: \o/
+[2013-01-29 11:54:12] sourishkrout: toks: i just realize you aren't using wd.js. you're on python, right?
