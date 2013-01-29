@@ -157,3 +157,5 @@
 [2013-01-29 12:46:14] github-appium, leaving. (#appium)
 [2013-01-29 12:46:17] sourishkrout1, quitting. (Quit: Leaving.)
 [2013-01-29 13:06:44] lukeis: whoa, hugs is commiting / pushing stuff? ;)
+[2013-01-29 13:16:22] ownedbyshiba, quitting. (Quit: Leaving.)
+[2013-01-29 13:17:54] toks: o.o
