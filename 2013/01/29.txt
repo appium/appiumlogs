@@ -72,3 +72,5 @@
 [2013-01-29 11:36:10] github-appium, leaving. (#appium)
 [2013-01-29 11:36:35] sourishkrout: jlipps: please merge ^^
 [2013-01-29 11:37:02] sourishkrout: toks: are you using webdriver to run tests against appium?
+[2013-01-29 11:40:28] toks: yes
+[2013-01-29 11:44:56] toks: okay...
