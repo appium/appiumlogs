@@ -168,3 +168,6 @@
 [2013-01-29 13:47:03] ownedbyshiba, joining. (#appium)
 [2013-01-29 13:52:46] jlipps: yeah sorry toks, waiting on sourishkrout for that one
 [2013-01-29 13:54:58] toks: I'm going to attempt fixing it pretty soon :p
+[2013-01-29 13:55:38] toks: I suspect whatever is sending the ids to the client, just needs to do encode on them first
+[2013-01-29 13:56:12] ownedbyshiba, quitting. (Ping timeout: 252 seconds)
+[2013-01-29 13:58:56] sourishkrout, joining. (#appium)
