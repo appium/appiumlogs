@@ -187,3 +187,11 @@
 [2013-01-28 18:31:39] toks: ^_^
 [2013-01-28 18:31:53] alexglow, quitting. (Ping timeout: 255 seconds)
 [2013-01-28 18:36:16] toks, quitting. (Ping timeout: 245 seconds)
+[2013-01-28 18:56:25] github-appium, joining. (#appium)
+[2013-01-28 18:56:25] github-appium: [appium] jlipps opened pull request #59: JSONWP compatibility fixes (master...master)  http://git.io/5YCOgQ
+[2013-01-28 18:56:26] github-appium, leaving. (#appium)
+[2013-01-28 18:57:43] github-appium, joining. (#appium)
+[2013-01-28 18:57:43] github-appium: [appium] admc pushed 2 new commits to master: http://git.io/cc-KIQ
+[2013-01-28 18:57:43] github-appium: appium/master 81b0cdf Jonathan Lipps: updates to correspond to JSONWP
+[2013-01-28 18:57:43] github-appium: appium/master d83da9e admc: Merge pull request #59 from jlipps/master...
+[2013-01-28 18:57:43] github-appium, leaving. (#appium)
