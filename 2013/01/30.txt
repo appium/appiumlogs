@@ -62,3 +62,5 @@
 [2013-01-30 08:45:05] rodericj, joining. (#appium)
 [2013-01-30 09:57:02] stackedsax1, quitting. (Quit: Leaving.)
 [2013-01-30 09:57:45] rodericj, quitting. (Quit: Leaving.)
+[2013-01-30 10:03:14] sourishkrout1, joining. (#appium)
+[2013-01-30 10:03:42] sourishkrout1, quitting. (Client Quit)
