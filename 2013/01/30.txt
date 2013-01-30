@@ -91,3 +91,4 @@
 [2013-01-30 11:23:30] toks: o.o
 [2013-01-30 11:46:24] toks: hmm http://news.ycombinator.com/item?id=5140130
 [2013-01-30 11:46:31] toks: Rubygem exploited?
+[2013-01-30 11:50:33] sourishkrout, quitting. (Quit: Leaving.)
