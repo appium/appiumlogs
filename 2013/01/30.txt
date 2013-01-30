@@ -75,3 +75,8 @@
 [2013-01-30 10:36:31] toks, joining. (#appium)
 [2013-01-30 10:51:16] jlipps, joining. (#appium)
 [2013-01-30 10:55:31] stackedsax, joining. (#appium)
+[2013-01-30 11:16:17] toks: So last we left off.... I'm trying to figure out how to make appium click on XY coords instead of any particular button
+[2013-01-30 11:16:59] toks: more specifically, I'd like to dismiss the master view in a UISpitView
+[2013-01-30 11:18:03] admc, joining. (#appium)
+[2013-01-30 11:19:37] toks: Our iOS-dev guy just saw that if we tell the iOS simulator to rotate left, then rotate right... it'll dismiss the window
+[2013-01-30 11:19:59] toks: so another thing that'd help me, is can I have appium tell iOS to rotate
