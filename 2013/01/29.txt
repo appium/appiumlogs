@@ -256,3 +256,5 @@
 [2013-01-29 16:02:02] github-appium, joining. (#appium)
 [2013-01-29 16:02:03] github-appium: [appium] admc opened pull request #70: bump version (master...master)  http://git.io/KkEy7Q
 [2013-01-29 16:02:03] github-appium, leaving. (#appium)
+[2013-01-29 16:06:52] toks: 15:44 < lukeis> from what i heard / read, apple had some synchronization issue that was solved by 'thread.sleep(1)'
+[2013-01-29 16:07:07] toks: I feel like I've read some dailywtf articles on things like that ;)
