@@ -410,3 +410,5 @@
 [2013-01-29 21:30:31] github-appium, leaving. (#appium)
 [2013-01-29 21:40:13] alexglow, joining. (#appium)
 [2013-01-29 22:29:01] ownedbyshiba, joining. (#appium)
+[2013-01-29 22:30:39] alexglow, quitting. (Ping timeout: 256 seconds)
+[2013-01-29 22:33:11] ownedbyshiba, quitting. (Ping timeout: 240 seconds)
