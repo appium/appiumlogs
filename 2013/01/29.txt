@@ -423,3 +423,4 @@
 [2013-01-29 22:42:58] github-appium: appium/master 8da64a6 Jonathan Lipps: result might be null sometimes, but we don't want to pass that on
 [2013-01-29 22:42:58] github-appium: appium/master b20d9dc Jonathan Lipps: be smarter about what cases might occur here
 [2013-01-29 22:42:58] github-appium, leaving. (#appium)
+[2013-01-29 22:46:45] alexglow, joining. (#appium)
