@@ -109,3 +109,12 @@
 [2013-01-30 13:25:27] smccarthy, quitting. (Remote host closed the connection)
 [2013-01-30 13:26:29] smccarthy, joining. (#appium)
 [2013-01-30 13:33:04] ownedbyshiba, joining. (#appium)
+[2013-01-30 13:40:19] jcarr, joining. (#appium)
+[2013-01-30 13:40:28] jcarr: :log
+[2013-01-30 13:40:41] jcarr: lukeis: thanks for making that bot work. been a lifesaver.
+[2013-01-30 13:41:41] jcarr: jlipps: can you explain 'doesn't have a visual effect on the simulator'?
+[2013-01-30 13:41:51] jcarr: if it doesn't rotate it visually, does it actually work?
+[2013-01-30 13:44:25] jlipps: jcarr, no i guess it doesn't even work. calling getOrientation on it still returns what it was. i guess i'm saying that setOrientation doesn't overtly fail
+[2013-01-30 13:44:28] lukeis: jcarr: it's been a lifesaver?
+[2013-01-30 13:44:38] jcarr: lukeis: not literally.
+[2013-01-30 13:44:46] jcarr: jlipps: aha thanks
