@@ -208,3 +208,4 @@
 [2013-01-30 14:52:24] github-appium, joining. (#appium)
 [2013-01-30 14:52:24] github-appium: [appium] rubarb opened pull request #78: pushed README.md (master...master)  http://git.io/AqYGPw
 [2013-01-30 14:52:24] github-appium, leaving. (#appium)
+[2013-01-30 15:09:37] sourishkrout, quitting. (Ping timeout: 246 seconds)
