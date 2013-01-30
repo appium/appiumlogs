@@ -271,3 +271,9 @@
 [2013-01-29 16:48:28] github-appium, leaving. (#appium)
 [2013-01-29 16:48:28] github-appium: appium/master 6b6f709 Santiago Suarez Ordoñez: Merge pull request #71 from jlipps/master...
 [2013-01-29 17:12:21] smccarthy, joining. (#appium)
+[2013-01-29 17:44:18] stackedsax, quitting. (Quit: Leaving.)
+[2013-01-29 17:44:25] github-appium, joining. (#appium)
+[2013-01-29 17:44:26] github-appium: [appium] sourishkrout pushed 2 new commits to master: http://git.io/4i-gTQ
+[2013-01-29 17:44:26] github-appium: appium/master 4f5ab47 Adam Christian: Bumping version to push current code to npm
+[2013-01-29 17:44:26] github-appium: appium/master 7dcc031 Sebastian Tiedtke: Merge pull request #70 from admc/master...
+[2013-01-29 17:44:26] github-appium, leaving. (#appium)
