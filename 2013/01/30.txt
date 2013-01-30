@@ -123,3 +123,4 @@
 [2013-01-30 13:46:16] jlipps: the command doesn't fail, just does nothing
 [2013-01-30 13:46:33] jcarr: aha
 [2013-01-30 13:46:41] jcarr: what is the command, out of curiosity?
+[2013-01-30 13:58:04] lukeis, leaving. (#appium)
