@@ -429,3 +429,13 @@
 [2013-01-29 23:17:58] sourishkrout, quitting. (Ping timeout: 246 seconds)
 [2013-01-29 23:18:55] sourishkrout, joining. (#appium)
 [2013-01-29 23:21:06] admc, joining. (#appium)
+[2013-01-29 23:27:09] github-appium, joining. (#appium)
+[2013-01-29 23:27:09] github-appium: [appium] jlipps opened pull request #76: moar examples, this time a sauce integration one (master...master)  http://git.io/Z4-edw
+[2013-01-29 23:27:09] github-appium, leaving. (#appium)
+[2013-01-29 23:28:16] rodericj, quitting. (Ping timeout: 256 seconds)
+[2013-01-29 23:28:37] github-appium, joining. (#appium)
+[2013-01-29 23:28:37] github-appium: [appium] sourishkrout pushed 2 new commits to master: http://git.io/dscjog
+[2013-01-29 23:28:37] github-appium: appium/master c61b799 Jonathan Lipps: add sauce driverblock and example test
+[2013-01-29 23:28:37] github-appium: appium/master a052cec Sebastian Tiedtke: Merge pull request #76 from jlipps/master...
+[2013-01-29 23:28:37] github-appium, leaving. (#appium)
+[2013-01-29 23:29:27] ownedbyshiba, joining. (#appium)
