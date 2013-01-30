@@ -382,3 +382,5 @@
 [2013-01-29 19:58:47] admc: Totally
 [2013-01-29 19:58:56] admc: I'm almost a professional iphone developer
 [2013-01-29 19:59:44] jlipps, joining. (#appium)
+[2013-01-29 20:06:19] admc, quitting. (Quit: Leaving.)
+[2013-01-29 20:06:54] alexglow_, quitting. (Ping timeout: 252 seconds)
