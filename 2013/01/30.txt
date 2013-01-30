@@ -92,3 +92,6 @@
 [2013-01-30 11:46:24] toks: hmm http://news.ycombinator.com/item?id=5140130
 [2013-01-30 11:46:31] toks: Rubygem exploited?
 [2013-01-30 11:50:33] sourishkrout, quitting. (Quit: Leaving.)
+[2013-01-30 11:59:25] jlipps: i believe execute_script works
+[2013-01-30 11:59:32] jlipps: it just executes js in the instruments context
+[2013-01-30 11:59:57] jlipps: also, toks: get and set orientation works but it doesn't have a visual effect on the simulator.
