@@ -205,3 +205,6 @@
 [2013-01-30 14:41:07] toks: it says it installed 2.29.0... but when I run the command again, it *again* says it found 2.25.0 and reinstalls 2.29.0
 [2013-01-30 14:41:24] toks: I kinda expect the upgrade at... some point... to say "Already up to date"
 [2013-01-30 14:45:43] jcarr: hm
+[2013-01-30 14:52:24] github-appium, joining. (#appium)
+[2013-01-30 14:52:24] github-appium: [appium] rubarb opened pull request #78: pushed README.md (master...master)  http://git.io/AqYGPw
+[2013-01-30 14:52:24] github-appium, leaving. (#appium)
