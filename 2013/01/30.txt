@@ -150,3 +150,38 @@
 [2013-01-30 14:24:30] toks:  (╯°□°）╯︵ ┻━┻
 [2013-01-30 14:24:55] jlipps: we'll be getting to it soon though.
 [2013-01-30 14:25:00] toks: ^_^
+[2013-01-30 14:25:04] toks: okay, how about rotate?
+[2013-01-30 14:25:31] toks: or rather, is there a place where I can see what is implemented :)
+[2013-01-30 14:25:39] toks: so I can see if I can get the effect I need.
+[2013-01-30 14:25:41] jlipps: toks, you can check out routing.js
+[2013-01-30 14:25:45] toks: ah
+[2013-01-30 14:25:47] jlipps: orientation is implemented
+[2013-01-30 14:25:52] toks: \o/
+[2013-01-30 14:25:53] jlipps: but it doesn't seem to work in the simulator
+[2013-01-30 14:25:59] toks:  (╯°□°）╯︵ ┻━┻
+[2013-01-30 14:26:01] sourishkrout, leaving. (#appium)
+[2013-01-30 14:26:03] jlipps: 0_o.^||_
+[2013-01-30 14:26:14] sourishkrout, joining. (#appium)
+[2013-01-30 14:26:16] toks: hmm
+[2013-01-30 14:26:29] toks: lemme take a gander at routing.js
+[2013-01-30 14:26:45] sourishkrout: toks: did you see what santiycr posted yesterday?
+[2013-01-30 14:26:46] sourishkrout: [2013-01-29 18:24:32] santiycr: toks:  it is quite hidden
+[2013-01-30 14:26:46] sourishkrout: [2013-01-29 18:24:34] santiycr: let me show you
+[2013-01-30 14:26:46] sourishkrout: [2013-01-29 18:24:40] toks: ....uh oh
+[2013-01-30 14:26:46] sourishkrout: [2013-01-29 18:24:55] santiycr:     def test_touch_commands_in_appium(self):
+[2013-01-30 14:26:46] sourishkrout: [2013-01-29 18:24:55] santiycr:         touch = TouchActions(self.driver)
+[2013-01-30 14:26:46] sourishkrout: [2013-01-29 18:24:55] santiycr:         touch.flick(10, 10)
+[2013-01-30 14:26:47] sourishkrout: [2013-01-29 18:24:55] santiycr:         touch.perform()
+[2013-01-30 14:26:47] sourishkrout: [2013-01-29 18:25:03] santiycr: from selenium.webdriver.common.touch_actions import TouchActions
+[2013-01-30 14:26:48] sourishkrout: [2013-01-29 18:25:08] santiycr: kind of weird implementation
+[2013-01-30 14:27:05] jlipps: yeah, it's possible orientation support just means compiling the app in a certain way, but it doesn't work for my test app
+[2013-01-30 14:27:51] jcarr: toks: I definitely wrote touch actions for python. I dunno why you don't have them if you're pip installing the latest
+[2013-01-30 14:28:13] sourishkrout: they are in the common's
+[2013-01-30 14:28:26] sourishkrout: maybe that's a separate module to pull from pip
+[2013-01-30 14:28:31] sourishkrout: not familiar with that though
+[2013-01-30 14:28:54] jcarr: no, it's not separate
+[2013-01-30 14:29:11] toks: o.o
+[2013-01-30 14:29:13] toks: oh yeah
+[2013-01-30 14:29:21] toks: ..er
+[2013-01-30 14:29:34] toks: okay, so I saw that... and I have no touch_actions.
+[2013-01-30 14:29:54] toks: lemme do apt-get update, apt-get upgrade, pip install selenium --upgrade
