@@ -375,3 +375,4 @@
 [2013-01-29 18:31:53] toks: I don't have touch
 [2013-01-29 18:32:11] toks: (or those docs are missing it for some reason)
 [2013-01-29 18:32:42] toks: hmm... action chains looks promising
+[2013-01-29 18:52:36] toks, quitting. (Ping timeout: 276 seconds)
