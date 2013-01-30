@@ -239,3 +239,4 @@
 [2013-01-30 15:28:24] toks: touchFlickFromSpeed(,)
 [2013-01-30 15:28:31] toks: yeah, that doesn't look like valid js
 [2013-01-30 15:28:58] toks: I guess the numbers didn't actually make it into the string
+[2013-01-30 15:42:06] jcarr: huh that is weird.
