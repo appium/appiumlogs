@@ -98,3 +98,5 @@
 [2013-01-30 12:00:40] jlipps: i think there's something in how the app itself is built? so maybe yours would work
 [2013-01-30 12:00:46] *jlipps works on timing hack'
 [2013-01-30 12:05:17] santiycr, joining. (#appium)
+[2013-01-30 12:12:13] smccarthy, quitting. (Remote host closed the connection)
+[2013-01-30 12:13:09] smccarthy, joining. (#appium)
