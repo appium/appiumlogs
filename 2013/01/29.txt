@@ -439,3 +439,5 @@
 [2013-01-29 23:28:37] github-appium: appium/master a052cec Sebastian Tiedtke: Merge pull request #76 from jlipps/master...
 [2013-01-29 23:28:37] github-appium, leaving. (#appium)
 [2013-01-29 23:29:27] ownedbyshiba, joining. (#appium)
+[2013-01-29 23:33:18] jlipps, quitting. (Quit: jlipps)
+[2013-01-29 23:33:54] ownedbyshiba, quitting. (Ping timeout: 244 seconds)
