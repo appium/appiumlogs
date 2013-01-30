@@ -89,3 +89,5 @@
 [2013-01-30 11:23:08] lukeis: have they coded up driver.execute_script yet?
 [2013-01-30 11:23:19] *lukeis hasn't looked into it '
 [2013-01-30 11:23:30] toks: o.o
+[2013-01-30 11:46:24] toks: hmm http://news.ycombinator.com/item?id=5140130
+[2013-01-30 11:46:31] toks: Rubygem exploited?
