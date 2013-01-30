@@ -32,3 +32,5 @@
 [2013-01-30 05:36:45] ownedbyshiba, quitting. (Ping timeout: 276 seconds)
 [2013-01-30 05:39:42] rodericj, quitting. (Ping timeout: 264 seconds)
 [2013-01-30 05:46:42] knorrium_, joining. (#appium)
+[2013-01-30 05:50:28] knorrium, quitting. (Ping timeout: 256 seconds)
+[2013-01-30 05:50:29] knorrium_, changing nick to knorrium.
