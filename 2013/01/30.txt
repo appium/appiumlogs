@@ -125,3 +125,6 @@
 [2013-01-30 13:46:41] jcarr: what is the command, out of curiosity?
 [2013-01-30 13:58:04] lukeis, leaving. (#appium)
 [2013-01-30 14:04:55] toks: return!
+[2013-01-30 14:16:01] toks: So, based on what I've been hearing in the channel... there might be a selenium call to appium I can make, but the default selenium installed for python on linux(pip install selenium), doesn't have the methods
+[2013-01-30 14:17:03] toks: I'm okay with that if I can see where all the supported appium methods are so I can emulate the request myself in python.
+[2013-01-30 14:18:59] sourishkrout: toks: you talking about executeScript?
