@@ -390,3 +390,10 @@
 [2013-01-29 21:03:02] github-appium: [appium] jlipps opened pull request #73: make getPageSource return nice JSON (master...master)  http://git.io/aNUNIw
 [2013-01-29 21:03:02] github-appium, leaving. (#appium)
 [2013-01-29 21:03:09] jlipps: whee
+[2013-01-29 21:07:03] github-appium, joining. (#appium)
+[2013-01-29 21:07:04] github-appium: [appium] santiycr pushed 3 new commits to master: http://git.io/f5dqqg
+[2013-01-29 21:07:04] github-appium: appium/master b23b137 Jonathan Lipps: removing console.log file that snuck in
+[2013-01-29 21:07:04] github-appium: appium/master 9ca181b Jonathan Lipps: return nice json for getPageSource rather than non-standard format
+[2013-01-29 21:07:04] github-appium: appium/master ba1caf7 Santiago Suarez Ordoñez: Merge pull request #73 from jlipps/master...
+[2013-01-29 21:07:04] github-appium, leaving. (#appium)
+[2013-01-29 21:07:09] santiycr: \o/
