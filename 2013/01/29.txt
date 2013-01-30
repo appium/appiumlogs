@@ -258,3 +258,7 @@
 [2013-01-29 16:02:03] github-appium, leaving. (#appium)
 [2013-01-29 16:06:52] toks: 15:44 < lukeis> from what i heard / read, apple had some synchronization issue that was solved by 'thread.sleep(1)'
 [2013-01-29 16:07:07] toks: I feel like I've read some dailywtf articles on things like that ;)
+[2013-01-29 16:23:19] admc1, joining. (#appium)
+[2013-01-29 16:23:39] github-appium, joining. (#appium)
+[2013-01-29 16:23:40] github-appium: [appium] jlipps opened pull request #71: fix some logging issues (master...master)  http://git.io/ukwDjQ
+[2013-01-29 16:23:40] github-appium, leaving. (#appium)
