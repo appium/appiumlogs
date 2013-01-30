@@ -80,3 +80,12 @@
 [2013-01-30 11:18:03] admc, joining. (#appium)
 [2013-01-30 11:19:37] toks: Our iOS-dev guy just saw that if we tell the iOS simulator to rotate left, then rotate right... it'll dismiss the window
 [2013-01-30 11:19:59] toks: so another thing that'd help me, is can I have appium tell iOS to rotate
+[2013-01-30 11:20:06] skatterbean, joining. (#appium)
+[2013-01-30 11:21:28] skatterbean: toks: looks like target.tap({x:<x_coord>, y:<y_coord>}) is your guy
+[2013-01-30 11:21:48] toks: target.tap... hmm
+[2013-01-30 11:21:52] skatterbean: toks: target being a UIATarget.localTarget()
+[2013-01-30 11:22:16] skatterbean: x_coord and y_coord's are strings
+[2013-01-30 11:22:28] toks: hmm, okay. Lemme see if I can get a hold of a target object in my appium/python world
+[2013-01-30 11:23:08] lukeis: have they coded up driver.execute_script yet?
+[2013-01-30 11:23:19] *lukeis hasn't looked into it '
+[2013-01-30 11:23:30] toks: o.o
