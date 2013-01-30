@@ -264,3 +264,9 @@
 [2013-01-29 16:23:40] github-appium, leaving. (#appium)
 [2013-01-29 16:25:09] admc, quitting. (Ping timeout: 256 seconds)
 [2013-01-29 16:32:04] lukeis, quitting. (Quit: Leaving.)
+[2013-01-29 16:47:56] jlipps, quitting. (Quit: jlipps)
+[2013-01-29 16:48:28] github-appium, joining. (#appium)
+[2013-01-29 16:48:28] github-appium: [appium] santiycr pushed 2 new commits to master: http://git.io/eP2p4g
+[2013-01-29 16:48:28] github-appium: appium/master 06a6dca Jonathan Lipps: make instruments use same logger as appium
+[2013-01-29 16:48:28] github-appium, leaving. (#appium)
+[2013-01-29 16:48:28] github-appium: appium/master 6b6f709 Santiago Suarez Ordoñez: Merge pull request #71 from jlipps/master...
