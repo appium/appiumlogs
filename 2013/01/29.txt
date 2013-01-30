@@ -424,3 +424,5 @@
 [2013-01-29 22:42:58] github-appium: appium/master b20d9dc Jonathan Lipps: be smarter about what cases might occur here
 [2013-01-29 22:42:58] github-appium, leaving. (#appium)
 [2013-01-29 22:46:45] alexglow, joining. (#appium)
+[2013-01-29 23:12:01] rodericj, joining. (#appium)
+[2013-01-29 23:13:42] sourishkrout, joining. (#appium)
