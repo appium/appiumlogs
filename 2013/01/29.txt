@@ -358,3 +358,11 @@
 [2013-01-29 18:24:55] santiycr:         touch = TouchActions(self.driver)
 [2013-01-29 18:24:55] santiycr:         touch.flick(10, 10)
 [2013-01-29 18:24:55] santiycr:         touch.perform()
+[2013-01-29 18:25:03] santiycr: from selenium.webdriver.common.touch_actions import TouchActions
+[2013-01-29 18:25:08] santiycr: kind of weird implementation
+[2013-01-29 18:25:08] toks: oh god
+[2013-01-29 18:25:25] toks: :O
+[2013-01-29 18:25:55] toks: I'm not even sure I've ever used webdriver.common for anything
+[2013-01-29 18:25:58] toks: o_O
+[2013-01-29 18:26:02] toks: I need to read some docs
+[2013-01-29 18:26:45] *toks goes to google for webdriver.common docs'
