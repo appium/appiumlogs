@@ -442,3 +442,4 @@
 [2013-01-29 23:33:18] jlipps, quitting. (Quit: jlipps)
 [2013-01-29 23:33:54] ownedbyshiba, quitting. (Ping timeout: 244 seconds)
 [2013-01-29 23:36:29] stackedsax, joining. (#appium)
+[2013-01-29 23:55:04] rodericj, joining. (#appium)
