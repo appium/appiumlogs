@@ -412,3 +412,14 @@
 [2013-01-29 22:29:01] ownedbyshiba, joining. (#appium)
 [2013-01-29 22:30:39] alexglow, quitting. (Ping timeout: 256 seconds)
 [2013-01-29 22:33:11] ownedbyshiba, quitting. (Ping timeout: 240 seconds)
+[2013-01-29 22:41:42] rodericj, quitting. (Quit: Leaving.)
+[2013-01-29 22:41:43] github-appium, joining. (#appium)
+[2013-01-29 22:41:44] github-appium: [appium] jlipps opened pull request #75: various test and bug fixes (master...master)  http://git.io/TGe6oQ
+[2013-01-29 22:41:44] github-appium, leaving. (#appium)
+[2013-01-29 22:42:27] *jlipps doesn't see anyone around'
+[2013-01-29 22:42:58] github-appium, joining. (#appium)
+[2013-01-29 22:42:58] github-appium: [appium] jlipps pushed 6 new commits to master: http://git.io/zXHuxg
+[2013-01-29 22:42:58] github-appium: appium/master 7b5a73e Jonathan Lipps: fixing this test, doesn't work with new pre-launch behavior
+[2013-01-29 22:42:58] github-appium: appium/master 8da64a6 Jonathan Lipps: result might be null sometimes, but we don't want to pass that on
+[2013-01-29 22:42:58] github-appium: appium/master b20d9dc Jonathan Lipps: be smarter about what cases might occur here
+[2013-01-29 22:42:58] github-appium, leaving. (#appium)
