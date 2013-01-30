@@ -334,3 +334,27 @@
 [2013-01-29 18:19:45] toks: ...yeah, no.. not there
 [2013-01-29 18:19:51] toks: hmm
 [2013-01-29 18:19:57] toks: what can I do here...
+[2013-01-29 18:20:10] admc: if you get it working, santiycr can help you get it into the client driver
+[2013-01-29 18:20:16] admc: into the repo
+[2013-01-29 18:20:31] toks: o.o
+[2013-01-29 18:20:37] admc: or you could write your test in node.js  and use wd
+[2013-01-29 18:20:55] admc: which has all the flicks
+[2013-01-29 18:20:55] admc: https://github.com/admc/wd
+[2013-01-29 18:21:08] toks: hmm
+[2013-01-29 18:21:20] santiycr: python selenium does have flick
+[2013-01-29 18:21:42] toks: where?
+[2013-01-29 18:22:00] toks: what object has that method?
+[2013-01-29 18:22:04] *toks goes to google'
+[2013-01-29 18:22:44] toks: http://selenium-python.readthedocs.org/en/latest/api.html#module-selenium.webdriver.remote.webelement
+[2013-01-29 18:22:57] toks: if it does have it... it's well hidden :p
+[2013-01-29 18:22:59] toks: I can't find it
+[2013-01-29 18:23:35] toks: in my code, I'm doing: from selenium import webdriver
+[2013-01-29 18:23:52] toks: driver = webdriver.Remote("ip/wd/hub",{})
+[2013-01-29 18:24:20] toks: and nothing I do to that driver object yields me a handle to a "flick" method
+[2013-01-29 18:24:32] santiycr: toks:  it is quite hidden
+[2013-01-29 18:24:34] santiycr: let me show you
+[2013-01-29 18:24:40] toks: ....uh oh
+[2013-01-29 18:24:55] santiycr:     def test_touch_commands_in_appium(self):
+[2013-01-29 18:24:55] santiycr:         touch = TouchActions(self.driver)
+[2013-01-29 18:24:55] santiycr:         touch.flick(10, 10)
+[2013-01-29 18:24:55] santiycr:         touch.perform()
