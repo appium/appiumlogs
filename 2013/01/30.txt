@@ -200,3 +200,7 @@
 [2013-01-30 14:32:08] sourishkrout: Downloading/unpacking selenium from http://pypi.python.org/packages/source/s/selenium/selenium-2.29.0.tar.gz#md5=4ac110cdba134344eccbe16e25a2055c
 [2013-01-30 14:32:08] sourishkrout, quitting. (Excess Flood)
 [2013-01-30 14:32:19] sourishkrout, joining. (#appium)
+[2013-01-30 14:40:35] toks: hmm... interesting
+[2013-01-30 14:40:38] toks: so I did that command
+[2013-01-30 14:41:07] toks: it says it installed 2.29.0... but when I run the command again, it *again* says it found 2.25.0 and reinstalls 2.29.0
+[2013-01-30 14:41:24] toks: I kinda expect the upgrade at... some point... to say "Already up to date"
