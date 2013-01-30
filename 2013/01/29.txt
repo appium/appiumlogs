@@ -386,3 +386,7 @@
 [2013-01-29 20:06:54] alexglow_, quitting. (Ping timeout: 252 seconds)
 [2013-01-29 20:49:44] rodericj, joining. (#appium)
 [2013-01-29 20:55:37] ownedbyshiba, joining. (#appium)
+[2013-01-29 21:03:02] github-appium, joining. (#appium)
+[2013-01-29 21:03:02] github-appium: [appium] jlipps opened pull request #73: make getPageSource return nice JSON (master...master)  http://git.io/aNUNIw
+[2013-01-29 21:03:02] github-appium, leaving. (#appium)
+[2013-01-29 21:03:09] jlipps: whee
