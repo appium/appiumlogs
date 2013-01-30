@@ -37,3 +37,4 @@
 [2013-01-30 06:06:00] rodericj, joining. (#appium)
 [2013-01-30 06:23:37] rodericj, quitting. (Ping timeout: 244 seconds)
 [2013-01-30 06:32:36] ownedbyshiba, joining. (#appium)
+[2013-01-30 06:37:06] ownedbyshiba, quitting. (Ping timeout: 245 seconds)
