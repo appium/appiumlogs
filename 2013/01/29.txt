@@ -408,3 +408,4 @@
 [2013-01-29 21:30:31] github-appium: appium/master 422ce74 Jonathan Lipps: make grunt appium:XXX pre-launch
 [2013-01-29 21:30:31] github-appium: appium/master f064f5b jeremy avnet / @brainsik: Merge pull request #74 from jlipps/master...
 [2013-01-29 21:30:31] github-appium, leaving. (#appium)
+[2013-01-29 21:40:13] alexglow, joining. (#appium)
