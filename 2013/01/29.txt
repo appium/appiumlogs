@@ -317,3 +317,20 @@
 [2013-01-29 18:13:20] admc1: if im understanding your UI correctly
 [2013-01-29 18:13:21] admc1, changing nick to admc.
 [2013-01-29 18:13:57] toks: that's cool, but I don't have those methods in python-selenium
+[2013-01-29 18:15:31] admc: python selenium doesn't have flick?
+[2013-01-29 18:15:49] toks: I don't think so, but lemme double-check
+[2013-01-29 18:16:35] admc: you should submit a pull request
+[2013-01-29 18:16:38] admc: shouldn't be all that hard ;)
+[2013-01-29 18:16:55] toks: hmm
+[2013-01-29 18:17:13] toks: To who? should selenium be expected to support an Apple iOS event?
+[2013-01-29 18:17:41] admc: well the client drivers should support the JSON wire protocol to it's completeness
+[2013-01-29 18:18:07] toks: hmm, interesting
+[2013-01-29 18:18:18] toks: checking for a flick method on elements
+[2013-01-29 18:18:20] toks: .....
+[2013-01-29 18:19:06] ownedbyshiba, quitting. (Quit: Leaving.)
+[2013-01-29 18:19:08] toks: yeah, I dunno
+[2013-01-29 18:19:12] toks: not there
+[2013-01-29 18:19:16] toks: oh wait
+[2013-01-29 18:19:45] toks: ...yeah, no.. not there
+[2013-01-29 18:19:51] toks: hmm
+[2013-01-29 18:19:57] toks: what can I do here...
