@@ -397,3 +397,6 @@
 [2013-01-29 21:07:04] github-appium: appium/master ba1caf7 Santiago Suarez Ordoñez: Merge pull request #73 from jlipps/master...
 [2013-01-29 21:07:04] github-appium, leaving. (#appium)
 [2013-01-29 21:07:09] santiycr: \o/
+[2013-01-29 21:18:58] github-appium, joining. (#appium)
+[2013-01-29 21:18:59] github-appium: [appium] jlipps opened pull request #74: make pre-launching handle the first session (master...master)  http://git.io/JaONvQ
+[2013-01-29 21:18:59] github-appium, leaving. (#appium)
