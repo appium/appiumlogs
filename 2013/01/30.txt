@@ -216,3 +216,11 @@
 [2013-01-30 15:18:14] toks: now, when I try it
 [2013-01-30 15:18:28] toks: it crashes appium
 [2013-01-30 15:18:39] toks: er.. lemme double check my arguments are right
+[2013-01-30 15:20:50] github-appium, joining. (#appium)
+[2013-01-30 15:20:51] github-appium: [appium] bernii opened pull request #79: Adding getPageIndex to make UIAPageIndicator work (master...master)  http://git.io/VcvVDQ
+[2013-01-30 15:20:51] github-appium, leaving. (#appium)
+[2013-01-30 15:23:19] toks: http://code.google.com/p/selenium/wiki/JsonWireProtocol#session/:sessionId/touch/flick
+[2013-01-30 15:23:41] toks: 2 flick methods
+[2013-01-30 15:23:52] toks: I did flick(100,100)
+[2013-01-30 15:24:21] toks: I got: uncaught JS error: Unexpected token ',' on line 24 of bootstrap.js
+[2013-01-30 15:24:33] *toks goes to take a look at that line'
