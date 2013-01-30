@@ -277,3 +277,7 @@
 [2013-01-29 17:44:26] github-appium: appium/master 4f5ab47 Adam Christian: Bumping version to push current code to npm
 [2013-01-29 17:44:26] github-appium: appium/master 7dcc031 Sebastian Tiedtke: Merge pull request #70 from admc/master...
 [2013-01-29 17:44:26] github-appium, leaving. (#appium)
+[2013-01-29 17:49:44] github-appium, joining. (#appium)
+[2013-01-29 17:49:44] github-appium: [appium] sourishkrout opened pull request #72: Rewrite to allow transparent ID generation. (master...master)  http://git.io/nRHfHg
+[2013-01-29 17:49:44] github-appium, leaving. (#appium)
+[2013-01-29 17:49:56] sourishkrout: admc please merge ^^
