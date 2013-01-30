@@ -100,3 +100,5 @@
 [2013-01-30 12:05:17] santiycr, joining. (#appium)
 [2013-01-30 12:12:13] smccarthy, quitting. (Remote host closed the connection)
 [2013-01-30 12:13:09] smccarthy, joining. (#appium)
+[2013-01-30 12:15:09] ownedbyshiba, quitting. (Quit: Leaving.)
+[2013-01-30 12:16:47] admc, quitting. (Quit: Leaving.)
