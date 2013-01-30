@@ -270,3 +270,4 @@
 [2013-01-29 16:48:28] github-appium: appium/master 06a6dca Jonathan Lipps: make instruments use same logger as appium
 [2013-01-29 16:48:28] github-appium, leaving. (#appium)
 [2013-01-29 16:48:28] github-appium: appium/master 6b6f709 Santiago Suarez Ordoñez: Merge pull request #71 from jlipps/master...
+[2013-01-29 17:12:21] smccarthy, joining. (#appium)
