@@ -50,3 +50,9 @@
 [2013-01-30 07:51:21] stackedsax1, joining. (#appium)
 [2013-01-30 07:57:06] rodericj, quitting. (Ping timeout: 264 seconds)
 [2013-01-30 08:02:57] smccarthy, joining. (#appium)
+[2013-01-30 08:20:56] github-appium, joining. (#appium)
+[2013-01-30 08:20:56] github-appium: [appium] hugs pushed 1 new commit to master: http://git.io/a7hQtw
+[2013-01-30 08:20:56] github-appium: appium/master 2c56dfc Jason Huggins: Shout out for Android.
+[2013-01-30 08:20:56] github-appium, leaving. (#appium)
+[2013-01-30 08:22:32] lukeis, joining. (#appium)
+[2013-01-30 08:23:04] rodericj, joining. (#appium)
