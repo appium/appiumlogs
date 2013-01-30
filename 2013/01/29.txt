@@ -263,3 +263,4 @@
 [2013-01-29 16:23:40] github-appium: [appium] jlipps opened pull request #71: fix some logging issues (master...master)  http://git.io/ukwDjQ
 [2013-01-29 16:23:40] github-appium, leaving. (#appium)
 [2013-01-29 16:25:09] admc, quitting. (Ping timeout: 256 seconds)
+[2013-01-29 16:32:04] lukeis, quitting. (Quit: Leaving.)
