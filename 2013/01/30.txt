@@ -210,3 +210,9 @@
 [2013-01-30 14:52:24] github-appium, leaving. (#appium)
 [2013-01-30 15:09:37] sourishkrout, quitting. (Ping timeout: 246 seconds)
 [2013-01-30 15:14:14] smccarthy, quitting. (Remote host closed the connection)
+[2013-01-30 15:16:03] stackedsax, quitting. (Quit: Leaving.)
+[2013-01-30 15:17:47] toks: ok
+[2013-01-30 15:17:59] toks: so, jcarr pointed me to webdriver.TouchActions :)
+[2013-01-30 15:18:14] toks: now, when I try it
+[2013-01-30 15:18:28] toks: it crashes appium
+[2013-01-30 15:18:39] toks: er.. lemme double check my arguments are right
