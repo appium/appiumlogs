@@ -106,3 +106,5 @@
 [2013-01-30 12:54:27] ownedbyshiba, quitting. (Ping timeout: 248 seconds)
 [2013-01-30 13:19:38] admc, joining. (#appium)
 [2013-01-30 13:21:13] sourishkrout, joining. (#appium)
+[2013-01-30 13:25:27] smccarthy, quitting. (Remote host closed the connection)
+[2013-01-30 13:26:29] smccarthy, joining. (#appium)
