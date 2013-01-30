@@ -307,3 +307,13 @@
 [2013-01-29 18:09:39] admc1: toks looks like you use moveto
 [2013-01-29 18:09:45] admc1: then click without passing anything through
 [2013-01-29 18:09:50] admc1: should click that the last coords of the moveto
+[2013-01-29 18:10:05] toks: hmm
+[2013-01-29 18:10:14] toks: what are you using that you have a "move_to" method?
+[2013-01-29 18:10:42] admc1: im just saying, thats how it should probably work based on the JSON wire spec
+[2013-01-29 18:11:12] toks: hmm
+[2013-01-29 18:12:42] admc1: toks it looks like flickElement
+[2013-01-29 18:12:55] admc1: can take a element ID and offsets to flick
+[2013-01-29 18:13:15] admc1: you could give it your thingy in focus, plus x,y and have it flick next to it so that it looses focus
+[2013-01-29 18:13:20] admc1: if im understanding your UI correctly
+[2013-01-29 18:13:21] admc1, changing nick to admc.
+[2013-01-29 18:13:57] toks: that's cool, but I don't have those methods in python-selenium
