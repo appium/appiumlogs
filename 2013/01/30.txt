@@ -128,3 +128,25 @@
 [2013-01-30 14:16:01] toks: So, based on what I've been hearing in the channel... there might be a selenium call to appium I can make, but the default selenium installed for python on linux(pip install selenium), doesn't have the methods
 [2013-01-30 14:17:03] toks: I'm okay with that if I can see where all the supported appium methods are so I can emulate the request myself in python.
 [2013-01-30 14:18:59] sourishkrout: toks: you talking about executeScript?
+[2013-01-30 14:20:21] toks: o.o
+[2013-01-30 14:20:53] toks: should I be talking about that? :) ....my end goal is to be able to click on any XY point on the screen for iOS simulator, from python's selenium bindings
+[2013-01-30 14:21:28] sourishkrout: sorry, maybe i join the conversation too late. didn't want to distract you
+[2013-01-30 14:21:45] sourishkrout: touch stuff isn't available in the python selenium bindings?
+[2013-01-30 14:21:47] jlipps: jcarr: target.setDeviceOrientation(orientation)
+[2013-01-30 14:22:00] toks: sourishkrout: not that I can tell
+[2013-01-30 14:22:05] *toks gets url'
+[2013-01-30 14:22:13] toks: http://selenium.googlecode.com/svn/trunk/docs/api/py/api.html
+[2013-01-30 14:22:20] toks: I see no touch_action there
+[2013-01-30 14:22:36] toks: and action chains doesn't appear to have what I'm looking for
+[2013-01-30 14:22:58] jlipps: toks: http://code.google.com/p/selenium/wiki/JsonWireProtocol#/session/:sessionId/touch/down
+[2013-01-30 14:23:09] jlipps: it's available for selenium, though it's possible python bindings haven't been updated to use touch actions
+[2013-01-30 14:23:15] jlipps: though i thought jcarr contributed some of them
+[2013-01-30 14:23:22] toks: o.o
+[2013-01-30 14:23:30] jlipps: i'm not sure whether we've implemented that on the appium side yet either
+[2013-01-30 14:23:40] toks: O_o
+[2013-01-30 14:23:52] jlipps: ….nope doesn't look like it
+[2013-01-30 14:24:01] toks: oh, oh... okay! So... if I can construct an HTTP POST to fit that doc, appium will do it?
+[2013-01-30 14:24:18] jlipps: toks, that's right! except… we haven't implemented it in appium yet :-(
+[2013-01-30 14:24:30] toks:  (╯°□°）╯︵ ┻━┻
+[2013-01-30 14:24:55] jlipps: we'll be getting to it soon though.
+[2013-01-30 14:25:00] toks: ^_^
