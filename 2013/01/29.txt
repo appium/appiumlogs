@@ -253,3 +253,6 @@
 [2013-01-29 15:46:31] jlipps: it certainly seems that way :-)
 [2013-01-29 15:50:53] jlipps: well i hope they feel flattered by all our efforts
 [2013-01-29 15:52:05] lukeis: hopefully they notice :) but usually if you tag apple's name out there in the interwebs someone there will read about it… they do care about their branding ;)
+[2013-01-29 16:02:02] github-appium, joining. (#appium)
+[2013-01-29 16:02:03] github-appium: [appium] admc opened pull request #70: bump version (master...master)  http://git.io/KkEy7Q
+[2013-01-29 16:02:03] github-appium, leaving. (#appium)
