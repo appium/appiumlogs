@@ -67,3 +67,5 @@
 [2013-01-30 10:05:05] stackedsax, joining. (#appium)
 [2013-01-30 10:06:37] stackedsax, quitting. (Client Quit)
 [2013-01-30 10:07:02] alexglow, joining. (#appium)
+[2013-01-30 10:17:09] sourishkrout, joining. (#appium)
+[2013-01-30 10:19:25] ownedbyshiba, joining. (#appium)
