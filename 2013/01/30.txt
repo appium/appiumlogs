@@ -45,3 +45,6 @@
 [2013-01-30 07:36:39] rodericj, joining. (#appium)
 [2013-01-30 07:36:51] sourishkrout, quitting. (Ping timeout: 260 seconds)
 [2013-01-30 07:37:26] ownedbyshiba, quitting. (Ping timeout: 256 seconds)
+[2013-01-30 07:50:58] stackedsax1, joining. (#appium)
+[2013-01-30 07:51:07] stackedsax1, quitting. (Client Quit)
+[2013-01-30 07:51:21] stackedsax1, joining. (#appium)
