@@ -402,3 +402,9 @@
 [2013-01-29 21:18:59] github-appium, leaving. (#appium)
 [2013-01-29 21:26:30] santiycr, quitting. (Read error: Connection reset by peer)
 [2013-01-29 21:28:13] ownedbyshiba, quitting. (Quit: Leaving.)
+[2013-01-29 21:30:30] github-appium, joining. (#appium)
+[2013-01-29 21:30:30] github-appium: [appium] brainsik pushed 3 new commits to master: http://git.io/Z6RPIw
+[2013-01-29 21:30:30] github-appium: appium/master 019ecb7 Jonathan Lipps: allow pre-launched app to be the first session
+[2013-01-29 21:30:31] github-appium: appium/master 422ce74 Jonathan Lipps: make grunt appium:XXX pre-launch
+[2013-01-29 21:30:31] github-appium: appium/master f064f5b jeremy avnet / @brainsik: Merge pull request #74 from jlipps/master...
+[2013-01-29 21:30:31] github-appium, leaving. (#appium)
