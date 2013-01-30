@@ -298,3 +298,12 @@
 [2013-01-29 18:03:03] toks: clicking on the text/buttons that are outside of the UIAPopup without dismissing it first, results in a crash
 [2013-01-29 18:04:03] toks: it kinda make sense, since those buttons aren't really available until focus is away from the UIAPopup and brought back to the main window
 [2013-01-29 18:04:19] toks: but how do I click on "nothing"
+[2013-01-29 18:05:23] admc1: maybe flick the screen?
+[2013-01-29 18:05:36] sourishkrout: maybe that's something which could be achieved by clicking on a coordinate
+[2013-01-29 18:05:41] toks: can I do that from python webdriver?
+[2013-01-29 18:05:41] admc1: yeah or that
+[2013-01-29 18:06:09] *toks checks methods on webdriver object'
+[2013-01-29 18:08:25] toks: hmm... I don't see anything like that
+[2013-01-29 18:09:39] admc1: toks looks like you use moveto
+[2013-01-29 18:09:45] admc1: then click without passing anything through
+[2013-01-29 18:09:50] admc1: should click that the last coords of the moveto
