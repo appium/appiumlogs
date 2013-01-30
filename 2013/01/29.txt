@@ -290,3 +290,11 @@
 [2013-01-29 17:51:15] sourishkrout: toks: latest appium should make your python bindings happy
 [2013-01-29 17:51:23] sourishkrout: and also comply with the wire protocol
 [2013-01-29 17:59:03] toks: o.o
+[2013-01-29 18:00:15] ownedbyshiba, quitting. (Quit: Leaving.)
+[2013-01-29 18:00:26] toks: testing...
+[2013-01-29 18:01:10] toks: good times!
+[2013-01-29 18:01:41] ownedbyshiba, joining. (#appium)
+[2013-01-29 18:02:32] toks: now my next issue, is that there is a UIAPopup in our app that is dismissed by clicking on any random area outside of it.... but I have nothing to click on
+[2013-01-29 18:03:03] toks: clicking on the text/buttons that are outside of the UIAPopup without dismissing it first, results in a crash
+[2013-01-29 18:04:03] toks: it kinda make sense, since those buttons aren't really available until focus is away from the UIAPopup and brought back to the main window
+[2013-01-29 18:04:19] toks: but how do I click on "nothing"
