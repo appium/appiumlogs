@@ -97,3 +97,4 @@
 [2013-01-30 11:59:57] jlipps: also, toks: get and set orientation works but it doesn't have a visual effect on the simulator.
 [2013-01-30 12:00:40] jlipps: i think there's something in how the app itself is built? so maybe yours would work
 [2013-01-30 12:00:46] *jlipps works on timing hack'
+[2013-01-30 12:05:17] santiycr, joining. (#appium)
