@@ -366,3 +366,12 @@
 [2013-01-29 18:25:58] toks: o_O
 [2013-01-29 18:26:02] toks: I need to read some docs
 [2013-01-29 18:26:45] *toks goes to google for webdriver.common docs'
+[2013-01-29 18:31:04] toks: ....
+[2013-01-29 18:31:11] toks: I don't think that works
+[2013-01-29 18:31:25] toks: that import fails on my machine
+[2013-01-29 18:31:31] toks: http://selenium.googlecode.com/svn/trunk/docs/api/py/webdriver/selenium.webdriver.common.action_chains.html
+[2013-01-29 18:31:50] toks: mahttp://selenium.googlecode.com/svn/trunk/docs/api/py/api.html
+[2013-01-29 18:31:51] toks: yeah
+[2013-01-29 18:31:53] toks: I don't have touch
+[2013-01-29 18:32:11] toks: (or those docs are missing it for some reason)
+[2013-01-29 18:32:42] toks: hmm... action chains looks promising
