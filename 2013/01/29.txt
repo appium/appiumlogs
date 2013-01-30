@@ -281,3 +281,11 @@
 [2013-01-29 17:49:44] github-appium: [appium] sourishkrout opened pull request #72: Rewrite to allow transparent ID generation. (master...master)  http://git.io/nRHfHg
 [2013-01-29 17:49:44] github-appium, leaving. (#appium)
 [2013-01-29 17:49:56] sourishkrout: admc please merge ^^
+[2013-01-29 17:50:31] github-appium, joining. (#appium)
+[2013-01-29 17:50:31] github-appium: [appium] admc pushed 3 new commits to master: http://git.io/RUH6BQ
+[2013-01-29 17:50:31] github-appium: appium/master db644bb Sebastian Tiedtke: Create ids on the fly rewrite.
+[2013-01-29 17:50:31] github-appium: appium/master a409b60 Sebastian Tiedtke: Made contextual lookup work again.
+[2013-01-29 17:50:31] github-appium: appium/master 3450a7c Adam Christian: Merge pull request #72 from sourishkrout/master...
+[2013-01-29 17:50:31] github-appium, leaving. (#appium)
+[2013-01-29 17:51:15] sourishkrout: toks: latest appium should make your python bindings happy
+[2013-01-29 17:51:23] sourishkrout: and also comply with the wire protocol
