@@ -377,3 +377,8 @@
 [2013-01-29 18:32:42] toks: hmm... action chains looks promising
 [2013-01-29 18:52:36] toks, quitting. (Ping timeout: 276 seconds)
 [2013-01-29 19:11:16] rodericj, quitting. (Quit: Leaving.)
+[2013-01-29 19:56:24] sourishkrout, quitting. (Quit: Leaving.)
+[2013-01-29 19:58:21] smccarthy, quitting. (Remote host closed the connection)
+[2013-01-29 19:58:47] admc: Totally
+[2013-01-29 19:58:56] admc: I'm almost a professional iphone developer
+[2013-01-29 19:59:44] jlipps, joining. (#appium)
