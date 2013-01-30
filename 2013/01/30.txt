@@ -224,3 +224,18 @@
 [2013-01-30 15:23:52] toks: I did flick(100,100)
 [2013-01-30 15:24:21] toks: I got: uncaught JS error: Unexpected token ',' on line 24 of bootstrap.js
 [2013-01-30 15:24:33] *toks goes to take a look at that line'
+[2013-01-30 15:25:06] toks: oh... eval(cmd)
+[2013-01-30 15:25:26] jcarr: I think that the , in between the 100s is getting sent as part of the command
+[2013-01-30 15:25:36] jcarr: try putting a space in there, or making it flick('100', '100')
+[2013-01-30 15:25:45] toks: o.o
+[2013-01-30 15:25:48] toks: okay... trying
+[2013-01-30 15:26:43] toks: tried flick('100', '100')
+[2013-01-30 15:26:45] toks: still crash
+[2013-01-30 15:26:58] jcarr: same thing?
+[2013-01-30 15:27:15] toks: yup. unexpect token ',' line 24 bootstrap.js
+[2013-01-30 15:27:24] toks: lemme add console.log(cmd) right before the eval
+[2013-01-30 15:28:02] toks: oh wait.. there already is one
+[2013-01-30 15:28:17] toks: okay... the command is
+[2013-01-30 15:28:24] toks: touchFlickFromSpeed(,)
+[2013-01-30 15:28:31] toks: yeah, that doesn't look like valid js
+[2013-01-30 15:28:58] toks: I guess the numbers didn't actually make it into the string
