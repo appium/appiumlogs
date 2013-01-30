@@ -289,3 +289,4 @@
 [2013-01-29 17:50:31] github-appium, leaving. (#appium)
 [2013-01-29 17:51:15] sourishkrout: toks: latest appium should make your python bindings happy
 [2013-01-29 17:51:23] sourishkrout: and also comply with the wire protocol
+[2013-01-29 17:59:03] toks: o.o
