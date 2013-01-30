@@ -73,3 +73,4 @@
 [2013-01-30 10:26:30] rodericj, joining. (#appium)
 [2013-01-30 10:29:14] ownedbyshiba, joining. (#appium)
 [2013-01-30 10:36:31] toks, joining. (#appium)
+[2013-01-30 10:51:16] jlipps, joining. (#appium)
