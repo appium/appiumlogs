@@ -185,3 +185,18 @@
 [2013-01-30 14:29:21] toks: ..er
 [2013-01-30 14:29:34] toks: okay, so I saw that... and I have no touch_actions.
 [2013-01-30 14:29:54] toks: lemme do apt-get update, apt-get upgrade, pip install selenium --upgrade
+[2013-01-30 14:30:19] jcarr: when I pip install selenium I get 2.29.0
+[2013-01-30 14:31:01] sourishkrout: jcarr: do you know anything about the touch actions in the py bindings?
+[2013-01-30 14:31:06] jcarr: and I have webdriver.TouchActions
+[2013-01-30 14:31:10] jcarr: sourishkrout: yes, I wrote them
+[2013-01-30 14:31:41] sourishkrout: can you help toks out please?
+[2013-01-30 14:31:50] jcarr: ^ that's what I'm up to :D
+[2013-01-30 14:32:03] sourishkrout: cool
+[2013-01-30 14:32:04] sourishkrout: toks:
+[2013-01-30 14:32:08] sourishkrout: (appium)☁  ~  pip install selenium
+[2013-01-30 14:32:08] sourishkrout: Requirement already satisfied (use --upgrade to upgrade): selenium in ./.virtualenvs/appium/lib/python2.7/site-packages
+[2013-01-30 14:32:08] sourishkrout: Cleaning up...
+[2013-01-30 14:32:08] sourishkrout: (appium)☁  ~  pip install --upgrade selenium
+[2013-01-30 14:32:08] sourishkrout: Downloading/unpacking selenium from http://pypi.python.org/packages/source/s/selenium/selenium-2.29.0.tar.gz#md5=4ac110cdba134344eccbe16e25a2055c
+[2013-01-30 14:32:08] sourishkrout, quitting. (Excess Flood)
+[2013-01-30 14:32:19] sourishkrout, joining. (#appium)
