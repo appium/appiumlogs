@@ -118,3 +118,8 @@
 [2013-01-30 13:44:28] lukeis: jcarr: it's been a lifesaver?
 [2013-01-30 13:44:38] jcarr: lukeis: not literally.
 [2013-01-30 13:44:46] jcarr: jlipps: aha thanks
+[2013-01-30 13:45:49] jcarr: jlipps: if you call the instruments command explicitly does it still fail?
+[2013-01-30 13:46:04] jlipps: yes, that's what i tested with
+[2013-01-30 13:46:16] jlipps: the command doesn't fail, just does nothing
+[2013-01-30 13:46:33] jcarr: aha
+[2013-01-30 13:46:41] jcarr: what is the command, out of curiosity?
