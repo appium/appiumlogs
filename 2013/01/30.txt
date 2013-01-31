@@ -380,3 +380,4 @@
 [2013-01-30 17:26:38] github-appium: appium/master a2b9049 Jonathan Lipps: be more accepting in cases we take for flick
 [2013-01-30 17:26:38] github-appium: appium/master 477257f Sebastian Tiedtke: Merge pull request #83 from jlipps/master...
 [2013-01-30 17:26:38] github-appium, leaving. (#appium)
+[2013-01-30 17:35:54] toks-meeting, changing nick to toks.
