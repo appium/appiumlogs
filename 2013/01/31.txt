@@ -33,3 +33,7 @@
 [2013-01-31 10:23:10] knorrium_, changing nick to knorrium.
 [2013-01-31 10:27:25] toks, joining. (#appium)
 [2013-01-31 10:32:58] santiycr, joining. (#appium)
+[2013-01-31 10:46:31] santiycr, quitting. (Quit: Leaving.)
+[2013-01-31 10:48:30] sourishkrout, quitting. (Quit: Leaving.)
+[2013-01-31 10:49:01] santiycr, joining. (#appium)
+[2013-01-31 10:49:16] sourishkrout, joining. (#appium)
