@@ -406,3 +406,14 @@
 [2013-01-30 18:04:43] jcarr: haha yeah that's two different commands in the python
 [2013-01-30 18:04:55] jcarr: I don't think I knew enough to do it any other way when I wrote it
 [2013-01-30 18:05:41] toks: :p
+[2013-01-30 18:10:23] github-appium, joining. (#appium)
+[2013-01-30 18:10:23] github-appium: [appium] sourishkrout opened pull request #84: Logging for element look up matching (master...master)  http://git.io/x5sE3Q
+[2013-01-30 18:10:23] github-appium, leaving. (#appium)
+[2013-01-30 18:10:46] sourishkrout: jlipps:  merge please ^^
+[2013-01-30 18:11:54] stackedsax, joining. (#appium)
+[2013-01-30 18:12:54] ownedbyshiba, quitting. (Quit: Leaving.)
+[2013-01-30 18:13:09] github-appium, joining. (#appium)
+[2013-01-30 18:13:09] github-appium: [appium] admc pushed 2 new commits to master: http://git.io/w7rbUA
+[2013-01-30 18:13:09] github-appium: appium/master 2e2a4fc Sebastian Tiedtke: More logging will proof to be helpful here.
+[2013-01-30 18:13:09] github-appium: appium/master a46ae86 Adam Christian: Merge pull request #84 from sourishkrout/master...
+[2013-01-30 18:13:09] github-appium, leaving. (#appium)
