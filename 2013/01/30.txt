@@ -371,3 +371,12 @@
 [2013-01-30 16:59:45] toks: now, I'll try to use flick() to solve my particular issue :p
 [2013-01-30 17:00:50] toks, changing nick to toks-meeting.
 [2013-01-30 17:01:45] jlipps: sweet!
+[2013-01-30 17:25:36] github-appium, joining. (#appium)
+[2013-01-30 17:25:36] github-appium: [appium] jlipps opened pull request #83: misc screenshot/flick fixes (master...master)  http://git.io/-mFx1Q
+[2013-01-30 17:25:36] github-appium, leaving. (#appium)
+[2013-01-30 17:26:38] github-appium, joining. (#appium)
+[2013-01-30 17:26:38] github-appium: [appium] sourishkrout pushed 3 new commits to master: http://git.io/oyL7bA
+[2013-01-30 17:26:38] github-appium: appium/master f4b1170 Jonathan Lipps: fix screenshot reading behavior
+[2013-01-30 17:26:38] github-appium: appium/master a2b9049 Jonathan Lipps: be more accepting in cases we take for flick
+[2013-01-30 17:26:38] github-appium: appium/master 477257f Sebastian Tiedtke: Merge pull request #83 from jlipps/master...
+[2013-01-30 17:26:38] github-appium, leaving. (#appium)
