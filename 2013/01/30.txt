@@ -352,3 +352,14 @@
 [2013-01-30 16:42:56] jlipps: ok toks that should do it for you
 [2013-01-30 16:43:28] jlipps: well, when it gets merged
 [2013-01-30 16:48:52] toks: o.o
+[2013-01-30 16:51:50] jcarr: jlipps: ah, I remember when that bit me in the butt. The selenium docs were wrong for a while, and they got fixed when I wrote the python bindings
+[2013-01-30 16:52:13] toks: argh, the selenium-docs can be wrong? :(
+[2013-01-30 16:52:21] jlipps: yeah. then we wrote our code wrong. then we changed the node bindings to reflect the wrong thing. so i changed our code back and had to re-fix the node bindings. lol.
+[2013-01-30 16:52:39] toks: :p
+[2013-01-30 16:52:56] berni1, joining. (#appium)
+[2013-01-30 16:53:27] github-appium, joining. (#appium)
+[2013-01-30 16:53:27] github-appium: [appium] bernii pushed 3 new commits to master: http://git.io/Aw1XOQ
+[2013-01-30 16:53:27] github-appium: appium/master cf1e2b7 Jonathan Lipps: fix flick parameter issues and institute standard missing param response
+[2013-01-30 16:53:27] github-appium: appium/master 2a4751c Jonathan Lipps: oops i lied, let's make sure this isn't always on
+[2013-01-30 16:53:27] github-appium: appium/master c601001 Bernard Kobos: Merge pull request #82 from jlipps/master...
+[2013-01-30 16:53:27] github-appium, leaving. (#appium)
