@@ -294,3 +294,36 @@
 [2013-01-30 16:04:29] toks: whatever warp number you give, that's the 1/X seconds speed it increase
 [2013-01-30 16:04:53] toks: so warp10 means , 10 seconds goes by on osx...when one second goes by in the real world
 [2013-01-30 16:04:59] toks: and you have to put --engage
+[2013-01-30 16:05:16] toks: and --make-it-so-number-one
+[2013-01-30 16:05:20] jlipps: :-) good point. well i suggest you try it out at least to see the kinds of logging associated with the warp feature :-)
+[2013-01-30 16:06:01] toks: I'm totally expecting a kernel-panic, btw :p
+[2013-01-30 16:06:33] toks: there must be something very important in osx depending on a normal clock
+[2013-01-30 16:06:43] github-appium, joining. (#appium)
+[2013-01-30 16:06:44] github-appium: [appium] jlipps opened pull request #81: fix flick/flickElement decision tree (master...master)  http://git.io/YCzstw
+[2013-01-30 16:06:44] github-appium, leaving. (#appium)
+[2013-01-30 16:06:46] toks: but I'll try it :)
+[2013-01-30 16:06:52] jlipps: i just ran the entire appium test suite at warp factor of 21 with no problems
+[2013-01-30 16:06:58] toks: O_o;;;;;
+[2013-01-30 16:06:59] jlipps: but i assume there will be problems for sure :-)
+[2013-01-30 16:07:12] jlipps: and toks there's your fix ^^
+[2013-01-30 16:07:16] toks: yay!
+[2013-01-30 16:07:19] toks: warp 21?
+[2013-01-30 16:07:25] toks: you shouldn't be able to go over 11
+[2013-01-30 16:07:39] toks: :p
+[2013-01-30 16:08:05] toks: maxspeed should be --eventhorizon
+[2013-01-30 16:08:13] jlipps: :-)
+[2013-01-30 16:08:23] toks: and you're required to get an external cooling-system for your mac
+[2013-01-30 16:08:25] toks: :p
+[2013-01-30 16:08:34] toks: ok, enough TNG jokes :p
+[2013-01-30 16:09:03] github-appium, joining. (#appium)
+[2013-01-30 16:09:03] github-appium: [appium] bernii pushed 2 new commits to master: http://git.io/Ujr99g
+[2013-01-30 16:09:03] github-appium: appium/master b424447 Jonathan Lipps: fix to allow flickElement to be called via same url as flick
+[2013-01-30 16:09:03] github-appium: appium/master 24f5d74 Bernard Kobos: Merge pull request #81 from jlipps/master...
+[2013-01-30 16:09:03] github-appium, leaving. (#appium)
+[2013-01-30 16:09:12] github-appium, joining. (#appium)
+[2013-01-30 16:09:13] github-appium: [appium] jlipps pushed 2 new commits to master: http://git.io/z3oVng
+[2013-01-30 16:09:13] github-appium: appium/master f7cc5b0 berni: adding getPageIndex to make UIAPageIndicator work
+[2013-01-30 16:09:13] github-appium: appium/master f4521f8 Jonathan Lipps: Merge pull request #79 from bernii/master...
+[2013-01-30 16:09:13] github-appium, leaving. (#appium)
+[2013-01-30 16:09:24] toks: uh oh
+[2013-01-30 16:09:46] toks: Sending command to instruments: au.getElement('').touchFlick(,,)
