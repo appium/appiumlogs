@@ -5,3 +5,5 @@
 [2013-01-31 02:31:16] stackedsax, quitting. (Quit: Leaving.)
 [2013-01-31 03:52:12] knorrium_, quitting. (Read error: Connection reset by peer)
 [2013-01-31 03:52:17] knorrium, joining. (#appium)
+[2013-01-31 05:46:39] jmathes_, quitting. (Ping timeout: 240 seconds)
+[2013-01-31 05:47:02] jmathes_, joining. (#appium)
