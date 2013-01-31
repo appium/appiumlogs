@@ -327,3 +327,13 @@
 [2013-01-30 16:09:13] github-appium, leaving. (#appium)
 [2013-01-30 16:09:24] toks: uh oh
 [2013-01-30 16:09:46] toks: Sending command to instruments: au.getElement('').touchFlick(,,)
+[2013-01-30 16:10:04] toks: which generates the same error on eval(cmd) of that string
+[2013-01-30 16:10:07] jlipps: that sounds like a problem
+[2013-01-30 16:10:24] jlipps: can you see what python is sending over?
+[2013-01-30 16:10:55] *toks starts up wireshark'
+[2013-01-30 16:12:45] jlipps: btw, are you on 10.8? i haven't figured out how to get wireshark to work
+[2013-01-30 16:12:58] toks: 10.8 of what?
+[2013-01-30 16:13:33] toks: also... "Real Men"(TM) use ngrep
+[2013-01-30 16:13:38] toks: ;)
+[2013-01-30 16:13:59] toks: I just wireshark when I'm lazy
+[2013-01-30 16:14:00] toks: http://sebsauvage.net/paste/?9929b7c6c4956d04#1NLIr1GslLQqjCp58wA+0qXL2cu3rg492OlPkfmBhGA=
