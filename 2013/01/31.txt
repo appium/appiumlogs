@@ -51,3 +51,4 @@
 [2013-01-31 12:21:47] ownedbyshiba, joining. (#appium)
 [2013-01-31 12:22:19] smccarthy, quitting. (Remote host closed the connection)
 [2013-01-31 12:24:21] smccarthy, joining. (#appium)
+[2013-01-31 12:26:08] ownedbyshiba, quitting. (Ping timeout: 240 seconds)
