@@ -243,3 +243,20 @@
 [2013-01-30 15:51:44] jcarr: I'm not sure what's going on there. jlipps: any ideas?
 [2013-01-30 15:52:29] jlipps: toks, where are you doing this from?
 [2013-01-30 15:53:04] jlipps: python bindings? can you give me the code you're using to trigger this command?
+[2013-01-30 15:56:26] toks: yup
+[2013-01-30 15:56:29] toks: okay
+[2013-01-30 15:56:51] toks: so... regular driver = webdriver.Remote(.....blah...)
+[2013-01-30 15:57:10] toks: tc = webdriver.TouchActions(driver)
+[2013-01-30 15:57:22] toks: tc.flick(100,100).perform()
+[2013-01-30 15:58:13] toks: I have no idea what the dimensions of my iOSSimulator are, but I can bet that 100,100 is within a valid point somewhere :)
+[2013-01-30 15:58:13] github-appium, joining. (#appium)
+[2013-01-30 15:58:13] github-appium: [appium] jlipps opened pull request #80: Make tests run faster with system clock hack (master...master)  http://git.io/UvY0Ew
+[2013-01-30 15:58:13] github-appium, leaving. (#appium)
+[2013-01-30 15:58:37] toks: er
+[2013-01-30 15:58:53] toks: the osx I'll be running this on will get messed up from that clock hack :p
+[2013-01-30 15:58:59] jlipps: what jsonwp endpoint does that hit?
+[2013-01-30 15:59:05] jlipps: toks: it's an optional server argument
+[2013-01-30 15:59:13] toks: ah
+[2013-01-30 15:59:17] toks: http://code.google.com/p/selenium/wiki/JsonWireProtocol#session/:sessionId/touch/flick
+[2013-01-30 15:59:23] toks: there are 2 flicks()
+[2013-01-30 15:59:31] toks: I'm aiming for the one that only needs x,y
