@@ -260,3 +260,37 @@
 [2013-01-30 15:59:17] toks: http://code.google.com/p/selenium/wiki/JsonWireProtocol#session/:sessionId/touch/flick
 [2013-01-30 15:59:23] toks: there are 2 flicks()
 [2013-01-30 15:59:31] toks: I'm aiming for the one that only needs x,y
+[2013-01-30 16:00:30] jlipps: i think i see what's going on
+[2013-01-30 16:00:38] toks: ^_^
+[2013-01-30 16:00:41] jlipps: i guess the server is supposed to figure out which method to call based on the parameters
+[2013-01-30 16:00:48] toks: indeed :)
+[2013-01-30 16:00:49] jlipps: currently we're not doing that check, so the method you want is never called. i'll fix it
+[2013-01-30 16:00:52] stackedsax, joining. (#appium)
+[2013-01-30 16:00:59] toks: yay
+[2013-01-30 16:01:12] toks: but, when you do fix it... don't merge that clockhack
+[2013-01-30 16:01:16] toks: I don't want it!
+[2013-01-30 16:01:17] toks: :p
+[2013-01-30 16:01:34] toks: The osx that'll be running our test also has jenkins on it
+[2013-01-30 16:01:38] toks: and other stuff
+[2013-01-30 16:01:54] toks: (we'll be moving the jenkins somewhere else at some point)
+[2013-01-30 16:02:05] toks: but for now, I don't want faster-than-real-life clock :p
+[2013-01-30 16:02:25] toks: (as if my wants somehow impact appium)
+[2013-01-30 16:03:07] jcarr: :D haha the clock hack will definitely be an optional thing
+[2013-01-30 16:03:10] jlipps: toks, i'm keeping it sandboxed out
+[2013-01-30 16:03:14] jlipps: it is not even on by default
+[2013-01-30 16:03:19] github-appium, joining. (#appium)
+[2013-01-30 16:03:19] github-appium: [appium] santiycr pushed 2 new commits to master: http://git.io/gfr4Rg
+[2013-01-30 16:03:19] github-appium: appium/master f479d3b Jonathan Lipps: ability to warp time and visit the future
+[2013-01-30 16:03:19] github-appium, leaving. (#appium)
+[2013-01-30 16:03:19] github-appium: appium/master b1c760c Santiago Suarez Ordoñez: Merge pull request #80 from jlipps/master...
+[2013-01-30 16:03:19] toks: yay!
+[2013-01-30 16:03:23] jlipps: you have to explicitly request it by passing in --warp to the server
+[2013-01-30 16:03:25] jlipps: so you can just ignore it
+[2013-01-30 16:03:52] toks: ah
+[2013-01-30 16:03:53] toks: nice
+[2013-01-30 16:03:55] jcarr: —warp10 plz
+[2013-01-30 16:04:02] toks: that's what I was gonna say
+[2013-01-30 16:04:05] jcarr: warp isn't fast enough
+[2013-01-30 16:04:29] toks: whatever warp number you give, that's the 1/X seconds speed it increase
+[2013-01-30 16:04:53] toks: so warp10 means , 10 seconds goes by on osx...when one second goes by in the real world
+[2013-01-30 16:04:59] toks: and you have to put --engage
