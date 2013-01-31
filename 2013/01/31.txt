@@ -70,3 +70,5 @@
 [2013-01-31 15:05:02] toks: hmm...
 [2013-01-31 15:18:10] ownedbyshiba, quitting. (Quit: Leaving.)
 [2013-01-31 15:25:00] smccarthy, quitting. (Remote host closed the connection)
+[2013-01-31 15:38:51] admc, quitting. (Remote host closed the connection)
+[2013-01-31 15:38:51] admc, joining. (#appium)
