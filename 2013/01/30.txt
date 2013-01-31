@@ -363,3 +363,9 @@
 [2013-01-30 16:53:27] github-appium: appium/master 2a4751c Jonathan Lipps: oops i lied, let's make sure this isn't always on
 [2013-01-30 16:53:27] github-appium: appium/master c601001 Bernard Kobos: Merge pull request #82 from jlipps/master...
 [2013-01-30 16:53:27] github-appium, leaving. (#appium)
+[2013-01-30 16:55:19] jcarr: wow that is… wow
+[2013-01-30 16:55:39] sourishkrout, joining. (#appium)
+[2013-01-30 16:56:36] toks: okay... git pull time
+[2013-01-30 16:58:59] toks: okay, flick is working
+[2013-01-30 16:59:22] berni1: confirming ;-) thx jlipps
+[2013-01-30 16:59:45] toks: now, I'll try to use flick() to solve my particular issue :p
