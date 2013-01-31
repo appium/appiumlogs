@@ -340,3 +340,8 @@
 [2013-01-30 16:18:32] jlipps: ah. we are looking for xspeed/yspeed, not xSpeed/ySpeed
 [2013-01-30 16:18:33] jlipps: fix inc
 [2013-01-30 16:19:45] toks: :)
+[2013-01-30 16:20:02] toks: sounds like a job for "tolower()" or something
+[2013-01-30 16:20:42] jlipps: no, the spec says it _should_ be xSpeed, and we're looking for xspeed. ah well.
+[2013-01-30 16:20:53] jlipps: the wd.js bindings are also sending xspeed, which i think is why we did it that way
+[2013-01-30 16:20:58] *jlipps fixes all the things'
+[2013-01-30 16:21:00] toks: case-sensitive params.... =/
