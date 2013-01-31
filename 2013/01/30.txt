@@ -346,3 +346,8 @@
 [2013-01-30 16:20:58] *jlipps fixes all the things'
 [2013-01-30 16:21:00] toks: case-sensitive params.... =/
 [2013-01-30 16:34:13] ownedbyshiba, quitting. (Quit: Leaving.)
+[2013-01-30 16:42:52] github-appium, joining. (#appium)
+[2013-01-30 16:42:52] github-appium: [appium] jlipps opened pull request #82: fix issues with flick() (master...master)  http://git.io/RRR-WA
+[2013-01-30 16:42:52] github-appium, leaving. (#appium)
+[2013-01-30 16:42:56] jlipps: ok toks that should do it for you
+[2013-01-30 16:43:28] jlipps: well, when it gets merged
