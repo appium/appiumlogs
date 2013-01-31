@@ -417,3 +417,5 @@
 [2013-01-30 18:13:09] github-appium: appium/master 2e2a4fc Sebastian Tiedtke: More logging will proof to be helpful here.
 [2013-01-30 18:13:09] github-appium: appium/master a46ae86 Adam Christian: Merge pull request #84 from sourishkrout/master...
 [2013-01-30 18:13:09] github-appium, leaving. (#appium)
+[2013-01-30 18:17:35] alexglow, quitting. (Ping timeout: 260 seconds)
+[2013-01-30 18:18:14] stackedsax, quitting. (Quit: Leaving.)
