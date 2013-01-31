@@ -7,3 +7,4 @@
 [2013-01-31 03:52:17] knorrium, joining. (#appium)
 [2013-01-31 05:46:39] jmathes_, quitting. (Ping timeout: 240 seconds)
 [2013-01-31 05:47:02] jmathes_, joining. (#appium)
+[2013-01-31 06:09:33] smccarthy, joining. (#appium)
