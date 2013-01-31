@@ -436,3 +436,6 @@
 [2013-01-30 19:08:55] stackedsax, joining. (#appium)
 [2013-01-30 19:10:24] santiycr, quitting. (Quit: Leaving.)
 [2013-01-30 19:44:54] ownedbyshiba, joining. (#appium)
+[2013-01-30 20:05:08] jlipps, quitting. (Quit: jlipps)
+[2013-01-30 20:07:51] rodericj1, joining. (#appium)
+[2013-01-30 20:07:51] rodericj, quitting. (Read error: Connection reset by peer)
