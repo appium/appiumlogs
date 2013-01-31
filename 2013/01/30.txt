@@ -383,3 +383,5 @@
 [2013-01-30 17:35:54] toks-meeting, changing nick to toks.
 [2013-01-30 17:47:37] toks: ~
 [2013-01-30 17:48:37] ownedbyshiba, joining. (#appium)
+[2013-01-30 17:51:48] stackedsax1, joining. (#appium)
+[2013-01-30 17:51:54] stackedsax, quitting. (Read error: Connection reset by peer)
