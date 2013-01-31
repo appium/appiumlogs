@@ -1,1 +1,2 @@
 [2013-01-31 00:14:34] alexglow, joining. (#appium)
+[2013-01-31 00:57:35] alexglow, quitting. (Ping timeout: 256 seconds)
