@@ -441,3 +441,5 @@
 [2013-01-30 20:07:51] rodericj, quitting. (Read error: Connection reset by peer)
 [2013-01-30 20:24:23] ownedbyshiba, quitting. (Quit: Leaving.)
 [2013-01-30 21:02:53] rodericj1, quitting. (Quit: Leaving.)
+[2013-01-30 21:11:41] sourishkrout, quitting. (Quit: Leaving.)
+[2013-01-30 21:11:53] admc, quitting. (Quit: Leaving.)
