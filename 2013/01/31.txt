@@ -43,3 +43,6 @@
 [2013-01-31 11:21:08] ownedbyshiba, quitting. (Quit: Leaving.)
 [2013-01-31 11:25:22] toks: o.o
 [2013-01-31 11:35:56] toks, changing nick to toks-meeting.
+[2013-01-31 11:47:34] stackedsax, quitting. (Quit: Leaving.)
+[2013-01-31 11:48:16] toks-meeting, changing nick to toks.
+[2013-01-31 11:49:13] stackedsax, joining. (#appium)
