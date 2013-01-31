@@ -72,3 +72,11 @@
 [2013-01-31 15:25:00] smccarthy, quitting. (Remote host closed the connection)
 [2013-01-31 15:38:51] admc, quitting. (Remote host closed the connection)
 [2013-01-31 15:38:51] admc, joining. (#appium)
+[2013-01-31 15:46:04] toks: ...
+[2013-01-31 15:46:28] toks: so ios-driver... binds 0.0.0.0
+[2013-01-31 15:47:24] toks: =/
+[2013-01-31 15:47:44] toks: with apparently no option to change that... so...
+[2013-01-31 15:47:48] admc1, joining. (#appium)
+[2013-01-31 15:47:53] *toks googles socat for osx'
+[2013-01-31 15:49:26] admc1: whats a socat
+[2013-01-31 15:49:49] toks: let's me redirect ports 'n stuff
