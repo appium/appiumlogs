@@ -385,3 +385,17 @@
 [2013-01-30 17:48:37] ownedbyshiba, joining. (#appium)
 [2013-01-30 17:51:48] stackedsax1, joining. (#appium)
 [2013-01-30 17:51:54] stackedsax, quitting. (Read error: Connection reset by peer)
+[2013-01-30 17:56:25] toks: oh cool, hmm
+[2013-01-30 17:56:40] toks: okay, so .text property no longer crashes
+[2013-01-30 17:56:54] toks: for flick, how do I reach the 4-param flick?
+[2013-01-30 17:57:01] toks: http://code.google.com/p/selenium/wiki/JsonWireProtocol#session/:sessionId/touch/flick
+[2013-01-30 17:57:19] toks: the one that needs element,x,y,speed
+[2013-01-30 17:57:29] toks: if I try it, I get an error
+[2013-01-30 17:57:32] toks: oh wait
+[2013-01-30 17:57:41] toks: maybe my python bindings is what's missing it
+[2013-01-30 17:57:57] toks: cuz python, flick(73,100,100,5)
+[2013-01-30 17:58:26] toks: TypeError: flick() takes exactly 3 arguments (5 given)
+[2013-01-30 17:59:08] toks: oh man
+[2013-01-30 17:59:45] toks: http://stackoverflow.com/questions/733264/function-overloading-in-python-missing
+[2013-01-30 17:59:48] toks: ;_;
+[2013-01-30 17:59:56] toks: epic lulz
