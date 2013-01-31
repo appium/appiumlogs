@@ -337,3 +337,6 @@
 [2013-01-30 16:13:38] toks: ;)
 [2013-01-30 16:13:59] toks: I just wireshark when I'm lazy
 [2013-01-30 16:14:00] toks: http://sebsauvage.net/paste/?9929b7c6c4956d04#1NLIr1GslLQqjCp58wA+0qXL2cu3rg492OlPkfmBhGA=
+[2013-01-30 16:18:32] jlipps: ah. we are looking for xspeed/yspeed, not xSpeed/ySpeed
+[2013-01-30 16:18:33] jlipps: fix inc
+[2013-01-30 16:19:45] toks: :)
