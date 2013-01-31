@@ -48,3 +48,6 @@
 [2013-01-31 11:49:13] stackedsax, joining. (#appium)
 [2013-01-31 12:08:44] sourishkrout, quitting. (Quit: Leaving.)
 [2013-01-31 12:11:02] admc, quitting. (Quit: Leaving.)
+[2013-01-31 12:21:47] ownedbyshiba, joining. (#appium)
+[2013-01-31 12:22:19] smccarthy, quitting. (Remote host closed the connection)
+[2013-01-31 12:24:21] smccarthy, joining. (#appium)
