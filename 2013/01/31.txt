@@ -80,3 +80,26 @@
 [2013-01-31 15:47:53] *toks googles socat for osx'
 [2013-01-31 15:49:26] admc1: whats a socat
 [2013-01-31 15:49:49] toks: let's me redirect ports 'n stuff
+[2013-01-31 15:50:10] toks: like an iptables almost... sorta... but not really
+[2013-01-31 15:50:32] toks: ios-driver binds 0.0.0.0
+[2013-01-31 15:50:38] toks: so I can't reach it remotely
+[2013-01-31 15:50:47] admc, quitting. (Quit: Leaving.)
+[2013-01-31 15:50:49] toks: the way I handle this kinda issue on linux, is to use socat
+[2013-01-31 15:51:22] lukeis1: you can't reach it remotely? sounds weird…
+[2013-01-31 15:51:31] toks: they bind 0.0.0.0
+[2013-01-31 15:51:39] toks: appium has -a
+[2013-01-31 15:51:39] lukeis1: yeah.
+[2013-01-31 15:51:39] admc1: you probably just have to pass in a different address when you run it
+[2013-01-31 15:51:53] admc1, changing nick to admc.
+[2013-01-31 15:51:59] *toks checks ios-driver options again'
+[2013-01-31 15:52:02] lukeis1: i thought 0.0.0.0 was the equivalent of listen to all interfaces
+[2013-01-31 15:52:18] toks: oh wait
+[2013-01-31 15:52:20] toks: o_O
+[2013-01-31 15:52:21] toks: hmm
+[2013-01-31 15:52:25] *toks tests that'
+[2013-01-31 15:53:17] toks: ....
+[2013-01-31 15:53:29] toks: um... disregard everything I've said in the last few minutes
+[2013-01-31 15:53:43] *lukeis1 disregards everything ;)'
+[2013-01-31 15:53:53] toks: my laptop's IP isn't the same as yesterday :p
+[2013-01-31 15:54:00] lukeis1: haha
+[2013-01-31 15:54:43] lukeis1, quitting. (Quit: Leaving.)
