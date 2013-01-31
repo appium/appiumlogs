@@ -419,3 +419,12 @@
 [2013-01-30 18:13:09] github-appium, leaving. (#appium)
 [2013-01-30 18:17:35] alexglow, quitting. (Ping timeout: 260 seconds)
 [2013-01-30 18:18:14] stackedsax, quitting. (Quit: Leaving.)
+[2013-01-30 18:22:30] github-appium, joining. (#appium)
+[2013-01-30 18:22:31] github-appium: [appium] sourishkrout opened pull request #85: Make flick work reliably (master...master)  http://git.io/qQXcGA
+[2013-01-30 18:22:31] github-appium, leaving. (#appium)
+[2013-01-30 18:22:41] github-appium, joining. (#appium)
+[2013-01-30 18:22:42] github-appium: [appium] admc pushed 2 new commits to master: http://git.io/eTau8g
+[2013-01-30 18:22:42] github-appium: appium/master 8eda196 Sebastian Tiedtke: Another flick fix to deal with the value of zero.
+[2013-01-30 18:22:42] github-appium: appium/master 06ea4d8 Adam Christian: Merge pull request #85 from sourishkrout/master...
+[2013-01-30 18:22:42] github-appium, leaving. (#appium)
+[2013-01-30 18:24:37] jcarr, quitting. (Quit: Leaving.)
