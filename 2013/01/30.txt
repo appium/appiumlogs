@@ -399,3 +399,9 @@
 [2013-01-30 17:59:45] toks: http://stackoverflow.com/questions/733264/function-overloading-in-python-missing
 [2013-01-30 17:59:48] toks: ;_;
 [2013-01-30 17:59:56] toks: epic lulz
+[2013-01-30 18:00:03] toks: so...... :p
+[2013-01-30 18:00:20] stackedsax1, quitting. (Quit: Leaving.)
+[2013-01-30 18:00:38] toks: oh wait...
+[2013-01-30 18:00:42] toks: flick_element
+[2013-01-30 18:04:43] jcarr: haha yeah that's two different commands in the python
+[2013-01-30 18:04:55] jcarr: I don't think I knew enough to do it any other way when I wrote it
