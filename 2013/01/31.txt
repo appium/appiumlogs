@@ -61,3 +61,7 @@
 [2013-01-31 13:45:15] smccarthy, joining. (#appium)
 [2013-01-31 13:50:51] alexglow, joining. (#appium)
 [2013-01-31 13:56:22] admc: wassup yall
+[2013-01-31 14:15:36] sourishkrout, quitting. (Quit: Leaving.)
+[2013-01-31 14:18:14] rodericj, joining. (#appium)
+[2013-01-31 14:19:22] rodericj1, joining. (#appium)
+[2013-01-31 14:19:22] rodericj, quitting. (Read error: Connection reset by peer)
