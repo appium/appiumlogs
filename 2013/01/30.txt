@@ -351,3 +351,4 @@
 [2013-01-30 16:42:52] github-appium, leaving. (#appium)
 [2013-01-30 16:42:56] jlipps: ok toks that should do it for you
 [2013-01-30 16:43:28] jlipps: well, when it gets merged
+[2013-01-30 16:48:52] toks: o.o
