@@ -449,3 +449,5 @@
 [2013-01-30 23:24:14] sourishkrout, quitting. (Quit: Leaving.)
 [2013-01-30 23:26:09] sourishkrout, joining. (#appium)
 [2013-01-30 23:34:16] sourishkrout, quitting. (Quit: Leaving.)
+[2013-01-30 23:36:08] sourishkrout1, joining. (#appium)
+[2013-01-30 23:36:19] sourishkrout1, quitting. (Client Quit)
