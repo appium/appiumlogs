@@ -428,3 +428,5 @@
 [2013-01-30 18:22:42] github-appium: appium/master 06ea4d8 Adam Christian: Merge pull request #85 from sourishkrout/master...
 [2013-01-30 18:22:42] github-appium, leaving. (#appium)
 [2013-01-30 18:24:37] jcarr, quitting. (Quit: Leaving.)
+[2013-01-30 18:37:58] admc, quitting. (Quit: Leaving.)
+[2013-01-30 18:39:07] admc, joining. (#appium)
