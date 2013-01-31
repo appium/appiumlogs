@@ -65,3 +65,5 @@
 [2013-01-31 14:18:14] rodericj, joining. (#appium)
 [2013-01-31 14:19:22] rodericj1, joining. (#appium)
 [2013-01-31 14:19:22] rodericj, quitting. (Read error: Connection reset by peer)
+[2013-01-31 15:02:52] toks: o.o
+[2013-01-31 15:03:08] toks: so... touch(x,y)...
