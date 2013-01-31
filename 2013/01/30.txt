@@ -345,3 +345,4 @@
 [2013-01-30 16:20:53] jlipps: the wd.js bindings are also sending xspeed, which i think is why we did it that way
 [2013-01-30 16:20:58] *jlipps fixes all the things'
 [2013-01-30 16:21:00] toks: case-sensitive params.... =/
+[2013-01-30 16:34:13] ownedbyshiba, quitting. (Quit: Leaving.)
