@@ -38,3 +38,5 @@
 [2013-01-31 10:49:01] santiycr, joining. (#appium)
 [2013-01-31 10:49:16] sourishkrout, joining. (#appium)
 [2013-01-31 10:52:50] rodericj, joining. (#appium)
+[2013-01-31 10:58:05] sourishkrout, quitting. (Quit: Leaving.)
+[2013-01-31 10:58:44] sourishkrout, joining. (#appium)
