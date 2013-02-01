@@ -35,3 +35,4 @@
 [2013-02-01 08:56:47] ownedbyshiba, quitting. (Ping timeout: 255 seconds)
 [2013-02-01 09:04:41] lukeis, joining. (#appium)
 [2013-02-01 09:12:37] ownedbyshiba, joining. (#appium)
+[2013-02-01 09:28:06] stackedsax, joining. (#appium)
