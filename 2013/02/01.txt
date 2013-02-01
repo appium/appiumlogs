@@ -47,3 +47,4 @@
 [2013-02-01 10:44:35] lukeis, joining. (#appium)
 [2013-02-01 10:52:16] sourishkrout, joining. (#appium)
 [2013-02-01 11:01:29] rodericj, joining. (#appium)
+[2013-02-01 11:16:27] admc, joining. (#appium)
