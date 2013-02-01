@@ -151,3 +151,5 @@
 [2013-01-31 22:51:18] alexglow, quitting. (Ping timeout: 276 seconds)
 [2013-01-31 22:52:04] ownedbyshiba, quitting. (Ping timeout: 248 seconds)
 [2013-01-31 23:16:02] alexglow, joining. (#appium)
+[2013-01-31 23:31:34] santiycr, quitting. (Quit: Leaving.)
+[2013-01-31 23:33:44] admc, joining. (#appium)
