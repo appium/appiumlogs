@@ -56,3 +56,4 @@
 [2013-02-01 12:05:08] github-appium: appium/master 85be820 Jonathan Lipps: tell uiauto how to keep track of whether we're in a web frame
 [2013-02-01 12:05:08] github-appium, leaving. (#appium)
 [2013-02-01 12:10:57] sourishkrout, quitting. (Quit: Leaving.)
+[2013-02-01 12:17:06] smccarthy, joining. (#appium)
