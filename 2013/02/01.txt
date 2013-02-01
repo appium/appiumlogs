@@ -6,3 +6,4 @@
 [2013-02-01 01:36:21] sourishkrout, quitting. (Quit: Leaving.)
 [2013-02-01 01:49:13] ownedbyshiba, joining. (#appium)
 [2013-02-01 01:53:21] ownedbyshiba, quitting. (Ping timeout: 245 seconds)
+[2013-02-01 02:07:49] admc, quitting. (Quit: Leaving.)
