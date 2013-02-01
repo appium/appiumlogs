@@ -127,3 +127,4 @@
 [2013-01-31 18:11:04] ownedbyshiba, quitting. (Quit: Leaving.)
 [2013-01-31 18:35:09] santiycr, joining. (#appium)
 [2013-01-31 18:36:38] santiycr, quitting. (Client Quit)
+[2013-01-31 18:41:53] ownedbyshiba, joining. (#appium)
