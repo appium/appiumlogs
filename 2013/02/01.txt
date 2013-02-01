@@ -66,3 +66,4 @@
 [2013-02-01 13:34:26] rodericj, quitting. (Quit: Leaving.)
 [2013-02-01 13:58:18] jcarr, quitting. (Quit: Leaving.)
 [2013-02-01 13:59:14] ownedbyshiba, joining. (#appium)
+[2013-02-01 14:03:21] ownedbyshiba, quitting. (Ping timeout: 245 seconds)
