@@ -63,3 +63,4 @@
 [2013-02-01 12:47:22] github-appium: appium/master 21f3a9b Jason Huggins: Now require('appium') works again.
 [2013-02-01 12:47:22] github-appium, leaving. (#appium)
 [2013-02-01 12:58:31] ownedbyshiba, quitting. (Quit: Leaving.)
+[2013-02-01 13:34:26] rodericj, quitting. (Quit: Leaving.)
