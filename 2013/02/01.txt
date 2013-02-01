@@ -86,3 +86,9 @@
 [2013-02-01 15:06:38] github-appium, leaving. (#appium)
 [2013-02-01 15:12:28] rodericj, joining. (#appium)
 [2013-02-01 15:19:48] rodericj, quitting. (Ping timeout: 248 seconds)
+[2013-02-01 15:31:50] github-appium, joining. (#appium)
+[2013-02-01 15:31:50] github-appium: [appium] sourishkrout pushed 4 new commits to master: http://git.io/47L19w
+[2013-02-01 15:31:50] github-appium: appium/master 2000c33 Jonathan Lipps: refactor remote debugger
+[2013-02-01 15:31:50] github-appium: appium/master c2a0c89 Jonathan Lipps: Merge branch 'master' of github.com:appium/appium
+[2013-02-01 15:31:50] github-appium: appium/master e721639 Jonathan Lipps: fixing lint!
+[2013-02-01 15:31:50] github-appium, leaving. (#appium)
