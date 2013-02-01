@@ -18,3 +18,4 @@
 [2013-02-01 04:54:50] ownedbyshiba, quitting. (Ping timeout: 252 seconds)
 [2013-02-01 05:12:20] sourishkrout, joining. (#appium)
 [2013-02-01 05:16:57] sourishkrout, quitting. (Ping timeout: 256 seconds)
+[2013-02-01 05:51:02] ownedbyshiba, joining. (#appium)
