@@ -92,3 +92,4 @@
 [2013-02-01 15:31:50] github-appium: appium/master c2a0c89 Jonathan Lipps: Merge branch 'master' of github.com:appium/appium
 [2013-02-01 15:31:50] github-appium: appium/master e721639 Jonathan Lipps: fixing lint!
 [2013-02-01 15:31:50] github-appium, leaving. (#appium)
+[2013-02-01 15:43:09] rodericj, joining. (#appium)
