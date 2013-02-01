@@ -131,3 +131,4 @@
 [2013-01-31 18:49:39] ownedbyshiba, quitting. (Ping timeout: 248 seconds)
 [2013-01-31 18:53:35] admc, quitting. (Quit: Leaving.)
 [2013-01-31 18:59:58] alexglow, quitting. (Ping timeout: 244 seconds)
+[2013-01-31 19:36:16] smccarthy, joining. (#appium)
