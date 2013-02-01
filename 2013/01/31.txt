@@ -103,3 +103,6 @@
 [2013-01-31 15:53:53] toks: my laptop's IP isn't the same as yesterday :p
 [2013-01-31 15:54:00] lukeis1: haha
 [2013-01-31 15:54:43] lukeis1, quitting. (Quit: Leaving.)
+[2013-01-31 16:14:33] github-appium, joining. (#appium)
+[2013-01-31 16:14:33] github-appium: [appium] bernii opened pull request #86: Fixing merge conflicts of another pull request (master...master)  http://git.io/6CBDWA
+[2013-01-31 16:14:33] github-appium, leaving. (#appium)
