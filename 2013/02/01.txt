@@ -62,3 +62,4 @@
 [2013-02-01 12:47:22] github-appium: [appium] hugs pushed 1 new commit to master: http://git.io/SjEjvw
 [2013-02-01 12:47:22] github-appium: appium/master 21f3a9b Jason Huggins: Now require('appium') works again.
 [2013-02-01 12:47:22] github-appium, leaving. (#appium)
+[2013-02-01 12:58:31] ownedbyshiba, quitting. (Quit: Leaving.)
