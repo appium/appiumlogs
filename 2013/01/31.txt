@@ -125,3 +125,5 @@
 [2013-01-31 18:05:14] toks, quitting. (Read error: Connection reset by peer)
 [2013-01-31 18:08:06] santiycr1, quitting. (Quit: Leaving.)
 [2013-01-31 18:11:04] ownedbyshiba, quitting. (Quit: Leaving.)
+[2013-01-31 18:35:09] santiycr, joining. (#appium)
+[2013-01-31 18:36:38] santiycr, quitting. (Client Quit)
