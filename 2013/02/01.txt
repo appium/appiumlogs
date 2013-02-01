@@ -69,3 +69,11 @@
 [2013-02-01 14:03:21] ownedbyshiba, quitting. (Ping timeout: 245 seconds)
 [2013-02-01 14:17:45] sourishkrout, joining. (#appium)
 [2013-02-01 14:18:58] admc, joining. (#appium)
+[2013-02-01 14:23:23] github-appium, joining. (#appium)
+[2013-02-01 14:23:23] github-appium: [appium] admc pushed 12 new commits to master: http://git.io/U_qRbw
+[2013-02-01 14:23:23] github-appium: appium/master f0e8bd3 Adam Christian: Merge branch 'master' of github.com:appium/appium
+[2013-02-01 14:23:23] github-appium: appium/master fea896d Adam Christian: Merge branch 'master' of github.com:appium/appium
+[2013-02-01 14:23:23] github-appium: appium/master cf27534 Adam Christian: Merge branch 'master' of github.com:appium/appium
+[2013-02-01 14:23:23] github-appium, leaving. (#appium)
+[2013-02-01 14:23:27] berni, quitting. (Read error: Connection reset by peer)
+[2013-02-01 14:24:06] berni, joining. (#appium)
