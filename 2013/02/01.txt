@@ -3,3 +3,4 @@
 [2013-02-01 00:15:56] alexglow, joining. (#appium)
 [2013-02-01 00:48:47] ownedbyshiba, joining. (#appium)
 [2013-02-01 00:53:22] ownedbyshiba, quitting. (Ping timeout: 256 seconds)
+[2013-02-01 01:36:21] sourishkrout, quitting. (Quit: Leaving.)
