@@ -84,3 +84,4 @@
 [2013-02-01 15:06:38] github-appium, joining. (#appium)
 [2013-02-01 15:06:38] github-appium: [appium] jlipps opened pull request #89: bring remote debugger into our codebase in a nice way (master...master)  http://git.io/ywXSdg
 [2013-02-01 15:06:38] github-appium, leaving. (#appium)
+[2013-02-01 15:12:28] rodericj, joining. (#appium)
