@@ -80,3 +80,4 @@
 [2013-02-01 14:28:59] ownedbyshiba, joining. (#appium)
 [2013-02-01 14:37:54] rodericj, joining. (#appium)
 [2013-02-01 14:46:40] rodericj, quitting. (Ping timeout: 246 seconds)
+[2013-02-01 15:04:56] smccarthy, quitting. (Remote host closed the connection)
