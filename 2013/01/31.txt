@@ -136,3 +136,7 @@
 [2013-01-31 19:46:31] ownedbyshiba, joining. (#appium)
 [2013-01-31 19:51:05] ownedbyshiba, quitting. (Ping timeout: 255 seconds)
 [2013-01-31 19:54:12] stackedsax, joining. (#appium)
+[2013-01-31 20:10:03] github-appium, joining. (#appium)
+[2013-01-31 20:10:03] github-appium: [appium] jlipps opened pull request #87: misc stuff, pulling in some remote webkit debugging code (master...master)  http://git.io/4-2Nbw
+[2013-01-31 20:10:03] github-appium, leaving. (#appium)
+[2013-01-31 20:10:34] smccarthy, quitting. (Remote host closed the connection)
