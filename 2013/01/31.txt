@@ -134,3 +134,5 @@
 [2013-01-31 19:36:16] smccarthy, joining. (#appium)
 [2013-01-31 19:41:05] rodericj1, quitting. (Quit: Leaving.)
 [2013-01-31 19:46:31] ownedbyshiba, joining. (#appium)
+[2013-01-31 19:51:05] ownedbyshiba, quitting. (Ping timeout: 255 seconds)
+[2013-01-31 19:54:12] stackedsax, joining. (#appium)
