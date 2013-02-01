@@ -57,3 +57,4 @@
 [2013-02-01 12:05:08] github-appium, leaving. (#appium)
 [2013-02-01 12:10:57] sourishkrout, quitting. (Quit: Leaving.)
 [2013-02-01 12:17:06] smccarthy, joining. (#appium)
+[2013-02-01 12:22:02] admc, quitting. (Quit: Leaving.)
