@@ -36,3 +36,4 @@
 [2013-02-01 09:04:41] lukeis, joining. (#appium)
 [2013-02-01 09:12:37] ownedbyshiba, joining. (#appium)
 [2013-02-01 09:28:06] stackedsax, joining. (#appium)
+[2013-02-01 09:34:49] stackedsax, quitting. (Quit: Leaving.)
