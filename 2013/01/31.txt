@@ -155,3 +155,14 @@
 [2013-01-31 23:33:44] admc, joining. (#appium)
 [2013-01-31 23:36:12] sourishkrout, joining. (#appium)
 [2013-01-31 23:48:17] ownedbyshiba, joining. (#appium)
+[2013-01-31 23:50:12] github-appium, joining. (#appium)
+[2013-01-31 23:50:12] github-appium: [appium] sourishkrout opened pull request #88: Swap flick/swipe (master...master)  http://git.io/epmuww
+[2013-01-31 23:50:12] github-appium, leaving. (#appium)
+[2013-01-31 23:50:36] sourishkrout: admc: ^^
+[2013-01-31 23:51:20] github-appium, joining. (#appium)
+[2013-01-31 23:51:20] github-appium: [appium] admc pushed 3 new commits to master: http://git.io/cDPRGw
+[2013-01-31 23:51:20] github-appium: appium/master d1353ea Sebastian Tiedtke: Refactored element look up.
+[2013-01-31 23:51:20] github-appium: appium/master d583e38 Sebastian Tiedtke: Switch to swipe as default.
+[2013-01-31 23:51:20] github-appium: appium/master b304f71 Adam Christian: Merge pull request #88 from sourishkrout/master...
+[2013-01-31 23:51:20] github-appium, leaving. (#appium)
+[2013-01-31 23:53:00] ownedbyshiba, quitting. (Ping timeout: 264 seconds)
