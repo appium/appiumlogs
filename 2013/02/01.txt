@@ -31,3 +31,4 @@
 [2013-02-01 08:13:15] sourishkrout, joining. (#appium)
 [2013-02-01 08:17:34] sourishkrout, quitting. (Ping timeout: 256 seconds)
 [2013-02-01 08:48:12] lukeis, quitting. (Quit: Leaving.)
+[2013-02-01 08:52:24] ownedbyshiba, joining. (#appium)
