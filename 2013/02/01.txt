@@ -64,3 +64,5 @@
 [2013-02-01 12:47:22] github-appium, leaving. (#appium)
 [2013-02-01 12:58:31] ownedbyshiba, quitting. (Quit: Leaving.)
 [2013-02-01 13:34:26] rodericj, quitting. (Quit: Leaving.)
+[2013-02-01 13:58:18] jcarr, quitting. (Quit: Leaving.)
+[2013-02-01 13:59:14] ownedbyshiba, joining. (#appium)
