@@ -49,3 +49,9 @@
 [2013-02-01 11:01:29] rodericj, joining. (#appium)
 [2013-02-01 11:16:27] admc, joining. (#appium)
 [2013-02-01 11:21:43] jcarr, joining. (#appium)
+[2013-02-01 12:05:08] github-appium, joining. (#appium)
+[2013-02-01 12:05:08] github-appium: [appium] sourishkrout pushed 5 new commits to master: http://git.io/gzS-Nw
+[2013-02-01 12:05:08] github-appium: appium/master d4fcb65 Jonathan Lipps: give sauce example test a name
+[2013-02-01 12:05:08] github-appium: appium/master 7028843 Jonathan Lipps: misc fixes
+[2013-02-01 12:05:08] github-appium: appium/master 85be820 Jonathan Lipps: tell uiauto how to keep track of whether we're in a web frame
+[2013-02-01 12:05:08] github-appium, leaving. (#appium)
