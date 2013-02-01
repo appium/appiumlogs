@@ -117,3 +117,6 @@
 [2013-01-31 16:19:38] ownedbyshiba, joining. (#appium)
 [2013-01-31 16:50:48] santiycr, quitting. (Remote host closed the connection)
 [2013-01-31 16:52:56] santiycr, joining. (#appium)
+[2013-01-31 17:37:54] sourishkrout, joining. (#appium)
+[2013-01-31 17:38:30] santiycr1, joining. (#appium)
+[2013-01-31 17:38:50] sourishkrout, quitting. (Client Quit)
