@@ -154,3 +154,4 @@
 [2013-01-31 23:31:34] santiycr, quitting. (Quit: Leaving.)
 [2013-01-31 23:33:44] admc, joining. (#appium)
 [2013-01-31 23:36:12] sourishkrout, joining. (#appium)
+[2013-01-31 23:48:17] ownedbyshiba, joining. (#appium)
