@@ -25,3 +25,5 @@
 [2013-02-01 07:46:32] berni, joining. (#appium)
 [2013-02-01 07:46:32] berni1, quitting. (Read error: Connection reset by peer)
 [2013-02-01 07:51:58] ownedbyshiba, joining. (#appium)
+[2013-02-01 07:57:00] ownedbyshiba, quitting. (Ping timeout: 276 seconds)
+[2013-02-01 07:58:34] smccarthy, joining. (#appium)
