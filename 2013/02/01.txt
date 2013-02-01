@@ -45,3 +45,4 @@
 [2013-02-01 10:18:42] sourishkrout, quitting. (Ping timeout: 276 seconds)
 [2013-02-01 10:27:35] smccarthy, quitting. (Remote host closed the connection)
 [2013-02-01 10:44:35] lukeis, joining. (#appium)
+[2013-02-01 10:52:16] sourishkrout, joining. (#appium)
