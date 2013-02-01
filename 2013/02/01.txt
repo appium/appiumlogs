@@ -78,3 +78,4 @@
 [2013-02-01 14:23:27] berni, quitting. (Read error: Connection reset by peer)
 [2013-02-01 14:24:06] berni, joining. (#appium)
 [2013-02-01 14:28:59] ownedbyshiba, joining. (#appium)
+[2013-02-01 14:37:54] rodericj, joining. (#appium)
