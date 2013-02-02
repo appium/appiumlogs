@@ -106,3 +106,9 @@
 [2013-02-01 16:42:55] jlipps: that sound sensible?
 [2013-02-01 17:26:02] ownedbyshiba, quitting. (Quit: Leaving.)
 [2013-02-01 17:26:41] alexglow, quitting. (Ping timeout: 256 seconds)
+[2013-02-01 18:07:14] github-appium, joining. (#appium)
+[2013-02-01 18:07:14] github-appium: [appium] admc pushed 3 new commits to master: http://git.io/ziLkJA
+[2013-02-01 18:07:14] github-appium: appium/master 5b0e295 Adam Christian: Adding some node examples in other formats
+[2013-02-01 18:07:14] github-appium: appium/master a822647 Adam Christian: Merge branch 'master' of github.com:appium/appium
+[2013-02-01 18:07:14] github-appium: appium/master 2768e91 Adam Christian: Adding a very simple local test for the appium.io examples
+[2013-02-01 18:07:14] github-appium, leaving. (#appium)
