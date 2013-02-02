@@ -21,3 +21,6 @@
 [2013-02-02 13:59:09] ownedbyshiba, joining. (#appium)
 [2013-02-02 14:03:35] ownedbyshiba, quitting. (Ping timeout: 240 seconds)
 [2013-02-02 14:59:36] ownedbyshiba, joining. (#appium)
+[2013-02-02 15:01:03] ownedbyshiba1, joining. (#appium)
+[2013-02-02 15:01:03] ownedbyshiba, quitting. (Read error: Connection reset by peer)
+[2013-02-02 15:02:10] ownedbyshiba1, quitting. (Client Quit)
