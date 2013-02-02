@@ -112,3 +112,4 @@
 [2013-02-01 18:07:14] github-appium: appium/master a822647 Adam Christian: Merge branch 'master' of github.com:appium/appium
 [2013-02-01 18:07:14] github-appium: appium/master 2768e91 Adam Christian: Adding a very simple local test for the appium.io examples
 [2013-02-01 18:07:14] github-appium, leaving. (#appium)
+[2013-02-01 18:13:08] santiycr, quitting. (Quit: Leaving.)
