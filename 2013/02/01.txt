@@ -119,3 +119,5 @@
 [2013-02-01 18:15:18] github-appium: appium/master cc14e04 Jonathan Lipps: make grunt buildApp handle more SDKs, update readme
 [2013-02-01 18:15:18] github-appium: appium/master 37c4ed3 Jonathan Lipps: keep track of bundle ID when we start up
 [2013-02-01 18:15:18] github-appium, leaving. (#appium)
+[2013-02-01 18:43:37] alexglow, joining. (#appium)
+[2013-02-01 18:44:03] jlipps, quitting. (Quit: jlipps)
