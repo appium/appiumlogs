@@ -24,3 +24,4 @@
 [2013-02-02 15:01:03] ownedbyshiba1, joining. (#appium)
 [2013-02-02 15:01:03] ownedbyshiba, quitting. (Read error: Connection reset by peer)
 [2013-02-02 15:02:10] ownedbyshiba1, quitting. (Client Quit)
+[2013-02-02 15:45:51] alexglow, joining. (#appium)
