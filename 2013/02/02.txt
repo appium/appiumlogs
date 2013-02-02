@@ -12,3 +12,4 @@
 [2013-02-02 11:06:22] ownedbyshiba, joining. (#appium)
 [2013-02-02 11:47:18] admc, quitting. (Quit: Leaving.)
 [2013-02-02 11:57:53] ownedbyshiba, quitting. (Quit: Leaving.)
+[2013-02-02 12:35:11] admc, joining. (#appium)
