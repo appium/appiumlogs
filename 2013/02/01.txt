@@ -96,3 +96,11 @@
 [2013-02-01 15:52:12] rodericj, quitting. (Quit: Leaving.)
 [2013-02-01 16:00:27] lukeis, quitting. (Quit: Leaving.)
 [2013-02-01 16:18:51] rodericj, joining. (#appium)
+[2013-02-01 16:40:24] jlipps, joining. (#appium)
+[2013-02-01 16:40:56] jlipps, quitting. (Remote host closed the connection)
+[2013-02-01 16:41:12] jlipps, joining. (#appium)
+[2013-02-01 16:41:48] jlipps: santiycr: jmathes_ we need a way to tell the remote debugger which remote "window" we want to work in
+[2013-02-01 16:41:54] jlipps: i.e., which javascript context we will use
+[2013-02-01 16:42:03] jlipps: i'm thinking of using window_handles to get the list of available contexts
+[2013-02-01 16:42:46] jlipps: and then we can use POST /session/sessionId/window to tell the debugger which one to select
+[2013-02-01 16:42:55] jlipps: that sound sensible?
