@@ -113,3 +113,9 @@
 [2013-02-01 18:07:14] github-appium: appium/master 2768e91 Adam Christian: Adding a very simple local test for the appium.io examples
 [2013-02-01 18:07:14] github-appium, leaving. (#appium)
 [2013-02-01 18:13:08] santiycr, quitting. (Quit: Leaving.)
+[2013-02-01 18:15:18] github-appium, joining. (#appium)
+[2013-02-01 18:15:18] github-appium: [appium] sourishkrout pushed 7 new commits to master: http://git.io/rgkUVw
+[2013-02-01 18:15:18] github-appium: appium/master f3c2c38 Jonathan Lipps: add callFunctionOn capability to remote debugger
+[2013-02-01 18:15:18] github-appium: appium/master cc14e04 Jonathan Lipps: make grunt buildApp handle more SDKs, update readme
+[2013-02-01 18:15:18] github-appium: appium/master 37c4ed3 Jonathan Lipps: keep track of bundle ID when we start up
+[2013-02-01 18:15:18] github-appium, leaving. (#appium)
