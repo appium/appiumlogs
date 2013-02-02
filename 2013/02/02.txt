@@ -15,3 +15,4 @@
 [2013-02-02 12:35:11] admc, joining. (#appium)
 [2013-02-02 12:48:14] admc, quitting. (Quit: Leaving.)
 [2013-02-02 12:58:44] ownedbyshiba, joining. (#appium)
+[2013-02-02 13:03:42] ownedbyshiba, quitting. (Ping timeout: 264 seconds)
