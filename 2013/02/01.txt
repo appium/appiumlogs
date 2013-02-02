@@ -94,3 +94,4 @@
 [2013-02-01 15:31:50] github-appium, leaving. (#appium)
 [2013-02-01 15:43:09] rodericj, joining. (#appium)
 [2013-02-01 15:52:12] rodericj, quitting. (Quit: Leaving.)
+[2013-02-01 16:00:27] lukeis, quitting. (Quit: Leaving.)
