@@ -131,3 +131,4 @@
 [2013-02-01 19:30:27] github-appium: appium/master 2c43681 Steven Hazel: mention appium is open source, just to be clear
 [2013-02-01 19:30:27] github-appium: appium/master 8e934c4 Adam Christian: Merge pull request #92 from sah/master...
 [2013-02-01 19:30:27] github-appium, leaving. (#appium)
+[2013-02-01 20:06:23] rodericj, quitting. (Quit: Leaving.)
