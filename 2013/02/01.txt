@@ -126,3 +126,8 @@
 [2013-02-01 19:29:11] github-appium, joining. (#appium)
 [2013-02-01 19:29:11] github-appium: [appium] sah opened pull request #92: mention we're open source in the README (master...master)  http://git.io/LYyLPg
 [2013-02-01 19:29:11] github-appium, leaving. (#appium)
+[2013-02-01 19:30:27] github-appium, joining. (#appium)
+[2013-02-01 19:30:27] github-appium: [appium] admc pushed 2 new commits to master: http://git.io/D2015A
+[2013-02-01 19:30:27] github-appium: appium/master 2c43681 Steven Hazel: mention appium is open source, just to be clear
+[2013-02-01 19:30:27] github-appium: appium/master 8e934c4 Adam Christian: Merge pull request #92 from sah/master...
+[2013-02-01 19:30:27] github-appium, leaving. (#appium)
