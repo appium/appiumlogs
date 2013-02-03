@@ -33,3 +33,4 @@
 [2013-02-02 21:35:09] rodericj, joining. (#appium)
 [2013-02-02 21:44:17] rodericj, quitting. (Quit: Leaving.)
 [2013-02-02 21:49:47] stackedsax, quitting. (Quit: Leaving.)
+[2013-02-02 22:24:03] alexglow, joining. (#appium)
