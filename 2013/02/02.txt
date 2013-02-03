@@ -31,3 +31,4 @@
 [2013-02-02 17:36:54] stackedsax1, quitting. (Ping timeout: 252 seconds)
 [2013-02-02 17:40:27] stackedsax, joining. (#appium)
 [2013-02-02 21:35:09] rodericj, joining. (#appium)
+[2013-02-02 21:44:17] rodericj, quitting. (Quit: Leaving.)
