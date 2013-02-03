@@ -4,3 +4,4 @@
 [2013-02-03 10:25:28] gsaini, quitting. (Ping timeout: 245 seconds)
 [2013-02-03 10:43:24] admc, joining. (#appium)
 [2013-02-03 11:24:45] alexglow, joining. (#appium)
+[2013-02-03 12:29:07] admc, quitting. (Quit: Leaving.)
