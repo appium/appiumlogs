@@ -8,3 +8,4 @@
 [2013-02-03 12:44:36] berni1, quitting. (Quit: Leaving.)
 [2013-02-03 13:33:08] alexglow, quitting. (Ping timeout: 248 seconds)
 [2013-02-03 14:24:41] santiycr, joining. (#appium)
+[2013-02-03 14:29:11] santiycr, quitting. (Ping timeout: 245 seconds)
