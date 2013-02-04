@@ -184,3 +184,10 @@
 [2013-02-04 14:23:56] toks: o.o
 [2013-02-04 14:24:45] sourishkrout: publishing a new version on npm
 [2013-02-04 14:24:57] sourishkrout: so everyone will be able to enjoy this fix
+[2013-02-04 14:25:14] toks: ah
+[2013-02-04 14:25:22] toks: I was gonna say, git pull updated stuff... but still broke
+[2013-02-04 14:25:23] toks: :p
+[2013-02-04 14:29:32] github-appium, joining. (#appium)
+[2013-02-04 14:29:32] github-appium: [appium] sourishkrout pushed 1 new commit to master: http://git.io/L_tdYw
+[2013-02-04 14:29:32] github-appium: appium/master a473f30 Sebastian Tiedtke: Bump version for npm publish.
+[2013-02-04 14:29:32] github-appium, leaving. (#appium)
