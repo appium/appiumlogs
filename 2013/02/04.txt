@@ -112,3 +112,11 @@
 [2013-02-04 13:13:41] github-appium, leaving. (#appium)
 [2013-02-04 13:14:38] jlipps: skatterbean, toks: appium uses mechanic under the hood
 [2013-02-04 13:14:45] jlipps: anything that's possible with it is possible with appium
+[2013-02-04 13:15:04] jlipps: in fact there's a "au" object (which is what appium uses to make things happen in UIAutomation-land)
+[2013-02-04 13:15:08] skatterbean: jlipps: that's what I realized, just what were wanting to do isn't wired up in routing.js
+[2013-02-04 13:15:09] jlipps: and it just extends mechanic's $
+[2013-02-04 13:15:50] jlipps: yeah. "wiring up X in routing.js" is a non-trivial thing though, not technically but because we're trying to keep parity with the JSON wire protocol. what are you after exactly?
+[2013-02-04 13:16:01] *jlipps scrolls up'
+[2013-02-04 13:16:21] jlipps: yeah there's a discussion going on on the appium-discuss list right now about the best way to handle device-specific functionality like this
+[2013-02-04 13:17:30] jlipps: i think sourishkrout is in the process of implementing a framework for accessing these kinds of capabilities via execute_script
+[2013-02-04 13:19:27] sourishkrout: yep, that's on my list of things to do
