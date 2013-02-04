@@ -133,3 +133,8 @@
 [2013-02-04 13:39:39] smccarthy, joining. (#appium)
 [2013-02-04 13:44:15] toks: oh, I just did git-pull and I see rotate.js
 [2013-02-04 13:44:34] toks: Do we have that? cuz rotate would also solve our "dismiss window" blocker too :)
+[2013-02-04 13:46:54] *toks tries'
+[2013-02-04 13:48:35] toks: ...
+[2013-02-04 13:48:40] toks: appium be broken now
+[2013-02-04 13:48:47] toks: "cannot find ios.js"
+[2013-02-04 13:48:56] toks: when trying to start server.js
