@@ -279,3 +279,6 @@
 [2013-02-04 15:22:41] admc: toks is that python?
 [2013-02-04 15:22:45] admc: isn't text a function
 [2013-02-04 15:23:45] smccarthy, quitting. (Remote host closed the connection)
+[2013-02-04 15:28:18] lukeis: .text is a function but also a @property
+[2013-02-04 15:28:40] lukeis: yay python ;)
+[2013-02-04 15:29:27] jcarr: huzzah
