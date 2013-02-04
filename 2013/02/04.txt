@@ -55,3 +55,11 @@
 [2013-02-04 11:20:13] skatterbean: toks: from selenium.webdriver.common.touch_actions import TouchActions
 [2013-02-04 11:26:11] toks: good times :)
 [2013-02-04 11:26:21] skatterbean: wait toks
+[2013-02-04 11:31:28] toks: 501 Not implemented :(
+[2013-02-04 11:32:50] toks: TouchActions(driver).tap_and_hold(dict(x=160.0,y=50.0),1).release(dict(x-160.0,y=50.0),1).perform()
+[2013-02-04 11:33:03] toks: (note, I completely made up that "1" argument)
+[2013-02-04 11:33:10] toks: I have no idea what's suppose to be there
+[2013-02-04 11:33:18] toks: lemme double-check :p
+[2013-02-04 11:33:47] toks: ooooohhhh
+[2013-02-04 11:33:54] toks: tap_and_hold(self, x, y)
+[2013-02-04 11:34:09] toks: retrying(but if it's not implemented,... probably will be the same)
