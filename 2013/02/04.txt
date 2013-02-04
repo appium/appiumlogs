@@ -238,3 +238,12 @@
 [2013-02-04 14:44:37] toks: :p Thanks
 [2013-02-04 14:44:42] toks: ... but git pull also works too right? :)
 [2013-02-04 14:44:49] toks: cuz I like looking at the source :p
+[2013-02-04 14:46:00] toks: (yeah, I know npm install leaves js src... but it's not "the same" :p )
+[2013-02-04 14:46:01] sourishkrout: yeah, git pull will work just fine
+[2013-02-04 14:46:06] toks: cool ^_^
+[2013-02-04 14:46:14] sourishkrout: it's more like the bleeding edge which some people may perfer
+[2013-02-04 14:46:17] sourishkrout: prefer
+[2013-02-04 14:46:27] toks: I perfer that :)
+[2013-02-04 14:46:39] toks: but good to know stable is in "npm install -g appium"
+[2013-02-04 14:48:08] toks: ya know what I'd like? For the server to stop timing out if it doesn't get a command in 10 secs :p
+[2013-02-04 14:48:31] toks: sometimes I'm researching/thinking, then the app dies cuz server.js didn't get a command in 10 secs
