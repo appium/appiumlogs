@@ -123,3 +123,10 @@
 [2013-02-04 13:27:24] github-appium, joining. (#appium)
 [2013-02-04 13:27:24] github-appium: [appium] maudineormsby opened pull request #94: Sauce example for python (master...master)  http://git.io/8Oa4qw
 [2013-02-04 13:27:25] github-appium, leaving. (#appium)
+[2013-02-04 13:31:03] toks: jlipps: just tossing my 2 cents in, handling native stuff like this with android... they had an object like NativeKeys or NativeEvents
+[2013-02-04 13:31:14] toks: appdriver
+[2013-02-04 13:31:48] toks: driver.getKeyboard().sendKeys(AndroidKeys.MENU);
+[2013-02-04 13:32:01] toks: https://github.com/tokunbo/appdriver/blob/master/AndroidNativeKeys.py
+[2013-02-04 13:32:16] toks: I had to "reverse" it so I could do it from Python
+[2013-02-04 13:32:52] toks: They send HTTP POST with data = {value:"[3-byte-code]"}
+[2013-02-04 13:33:15] toks: I have no idea what those 3 bytes mean, but they work :p
