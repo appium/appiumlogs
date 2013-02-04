@@ -89,3 +89,7 @@
 [2013-02-04 11:42:24] jcarr: ahh
 [2013-02-04 11:43:15] sourishkrout, quitting. (Quit: Leaving.)
 [2013-02-04 11:44:09] jcarr: yeah there's not a good way to tap generic x, y coords right now
+[2013-02-04 11:45:24] toks: skatterbean pointed me to this http://developer.apple.com/library/ios/#documentation/ToolsLanguages/Reference/UIATargetClassReference/UIATargetClass/UIATargetClass.html#//apple_ref/doc/uid/TP40009924
+[2013-02-04 11:45:49] toks: so I guess, if we can... we should attempt to implement that event and add it to appium's routing.js
+[2013-02-04 11:45:56] skatterbean: jcarr: it looks like there's some facility in mechanic.js to tap?
+[2013-02-04 11:46:18] skatterbean: oh, right, mechanic isn't appium really
