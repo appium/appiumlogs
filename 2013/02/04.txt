@@ -52,3 +52,4 @@
 [2013-02-04 11:08:04] jcarr, joining. (#appium)
 [2013-02-04 11:14:31] toks: skatterbean: ok. rocking
 [2013-02-04 11:14:39] toks: Needed a git pull and some more nodejs modules
+[2013-02-04 11:20:13] skatterbean: toks: from selenium.webdriver.common.touch_actions import TouchActions
