@@ -35,3 +35,17 @@
 [2013-02-04 10:59:08] toks: o.o
 [2013-02-04 10:59:26] skatterbean: toks: mechanic.js line 416
 [2013-02-04 10:59:46] skatterbean: toks: which calls http://developer.apple.com/library/ios/#documentation/ToolsLanguages/Reference/UIATargetClassReference/UIATargetClass/UIATargetClass.html#//apple_ref/doc/uid/TP40009924
+[2013-02-04 11:00:09] toks: can it let me tap an arbitrary point on the screen? In general, if I have to actually give an element as an argument ....it'll crash appium
+[2013-02-04 11:00:14] toks: cuz it's "out of focus"
+[2013-02-04 11:00:17] toks: but, I'll try it
+[2013-02-04 11:01:01] skatterbean: tapWithOptions, you can send it a js object with x and y keys
+[2013-02-04 11:01:14] toks: o_O
+[2013-02-04 11:01:16] toks: hmm
+[2013-02-04 11:01:21] toks: okay... here I go then!
+[2013-02-04 11:01:27] skatterbean: toks: look at that link in the apple doc
+[2013-02-04 11:01:38] skatterbean: the first arg is a tapPointObject
+[2013-02-04 11:02:22] skatterbean: so you'd send {x:x_coord, y:y_coord}
+[2013-02-04 11:02:25] toks: ooooooohhhhhhh, yeah I'm sure the UIAutomator has all the stuff needed... I just don't think appium has "mapped" that function to a selenium method
+[2013-02-04 11:02:30] toks: but let me double-check
+[2013-02-04 11:02:57] skatterbean: toks: I'm looking at the appium source, that's how I found this
+[2013-02-04 11:03:05] toks: D:
