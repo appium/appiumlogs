@@ -104,3 +104,11 @@
 [2013-02-04 12:39:06] github-appium, joining. (#appium)
 [2013-02-04 12:39:06] github-appium: [appium] santiycr opened pull request #93: executeScript, yay! (master...master)  http://git.io/PzIx2Q
 [2013-02-04 12:39:06] github-appium, leaving. (#appium)
+[2013-02-04 13:13:40] github-appium, joining. (#appium)
+[2013-02-04 13:13:41] github-appium: [appium] admc pushed 3 new commits to master: http://git.io/tWbvTQ
+[2013-02-04 13:13:41] github-appium: appium/master 126b08e Santiago Suarez Ordoñez: Starting work on execute script with jlipps
+[2013-02-04 13:13:41] github-appium: appium/master b69cbe3 Santiago Suarez Ordoñez: Wrapping up execute script with jlipps
+[2013-02-04 13:13:41] github-appium: appium/master 450164b Adam Christian: Merge pull request #93 from santiycr/master...
+[2013-02-04 13:13:41] github-appium, leaving. (#appium)
+[2013-02-04 13:14:38] jlipps: skatterbean, toks: appium uses mechanic under the hood
+[2013-02-04 13:14:45] jlipps: anything that's possible with it is possible with appium
