@@ -130,3 +130,4 @@
 [2013-02-04 13:32:16] toks: I had to "reverse" it so I could do it from Python
 [2013-02-04 13:32:52] toks: They send HTTP POST with data = {value:"[3-byte-code]"}
 [2013-02-04 13:33:15] toks: I have no idea what those 3 bytes mean, but they work :p
+[2013-02-04 13:39:39] smccarthy, joining. (#appium)
