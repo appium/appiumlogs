@@ -63,3 +63,21 @@
 [2013-02-04 11:33:47] toks: ooooohhhh
 [2013-02-04 11:33:54] toks: tap_and_hold(self, x, y)
 [2013-02-04 11:34:09] toks: retrying(but if it's not implemented,... probably will be the same)
+[2013-02-04 11:35:05] toks: yeah, still 501
+[2013-02-04 11:37:03] toks: Ah, https://github.com/appium/appium/blob/master/app/routing.js
+[2013-02-04 11:37:18] toks: So I guess this is the complete list of what is implemented.
+[2013-02-04 11:37:50] jcarr: toks, that's /session/:sessionId/touch/down I think
+[2013-02-04 11:37:56] toks: yup
+[2013-02-04 11:38:00] toks: looking at the logs
+[2013-02-04 11:38:06] toks: it's /touch/up|down
+[2013-02-04 11:38:15] jcarr: I have no idea why I called that 'tap_and_hold'
+[2013-02-04 11:38:16] toks: and it's not in routing.js
+[2013-02-04 11:38:19] toks: :p
+[2013-02-04 11:38:24] jcarr: but I guess that's technically what it does
+[2013-02-04 11:38:32] jcarr: should be 'touch_down'
+[2013-02-04 11:38:36] jcarr: I might even submit that
+[2013-02-04 11:38:43] toks: agreed :)
+[2013-02-04 11:38:54] toks: well...actually
+[2013-02-04 11:39:10] toks: tap_and_hold == keydown ....it could make sense on a touch screen
+[2013-02-04 11:39:11] skatterbean: jcarr: yeah, we're looking for ways to dismiss the detail view of a UISplitViewController
+[2013-02-04 11:39:13] skatterbean: which just needs a tap
