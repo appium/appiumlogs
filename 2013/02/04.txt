@@ -101,3 +101,6 @@
 [2013-02-04 11:58:56] github-appium, leaving. (#appium)
 [2013-02-04 12:27:57] admc, joining. (#appium)
 [2013-02-04 12:29:50] sourishkrout, joining. (#appium)
+[2013-02-04 12:39:06] github-appium, joining. (#appium)
+[2013-02-04 12:39:06] github-appium: [appium] santiycr opened pull request #93: executeScript, yay! (master...master)  http://git.io/PzIx2Q
+[2013-02-04 12:39:06] github-appium, leaving. (#appium)
