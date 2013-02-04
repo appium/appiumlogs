@@ -14,3 +14,5 @@
 [2013-02-03 17:55:53] sourishkrout, quitting. (Read error: No route to host)
 [2013-02-03 17:56:06] sourishkrout, joining. (#appium)
 [2013-02-03 18:05:00] alexglow, joining. (#appium)
+[2013-02-03 19:44:24] ownedbyshiba, joining. (#appium)
+[2013-02-03 19:44:39] ownedbyshiba, quitting. (Client Quit)
