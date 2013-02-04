@@ -218,3 +218,23 @@
 [2013-02-04 14:36:35] github-appium: [appium] jlipps opened pull request #97: more PHP example love (master...master)  http://git.io/8Hrx_Q
 [2013-02-04 14:36:35] github-appium, leaving. (#appium)
 [2013-02-04 14:38:42] jlipps: toks/sourishkrout what are you guys talking about
+[2013-02-04 14:40:41] jlipps: sourishkrout: merge ^^ plz
+[2013-02-04 14:41:38] sourishkrout: toks: once you install node.js it also have npm
+[2013-02-04 14:41:47] sourishkrout: npm handles dependencies
+[2013-02-04 14:41:51] toks: cool
+[2013-02-04 14:42:13] sourishkrout: we publish appium to npm
+[2013-02-04 14:42:41] sourishkrout: you can always clone the repo from github
+[2013-02-04 14:43:08] sourishkrout: but it's easier to pull the official published version through npm
+[2013-02-04 14:43:22] toks: ooooooohhhh!
+[2013-02-04 14:43:29] sourishkrout: (which a user of appium rather wants to do vs. handling the git repo)
+[2013-02-04 14:43:34] sourishkrout: that's more for devs
+[2013-02-04 14:43:36] toks: so you're saying, I should do npm install appium
+[2013-02-04 14:43:39] sourishkrout: sorry for the confusion
+[2013-02-04 14:43:53] sourishkrout: yeah, even better npm install -g appium
+[2013-02-04 14:43:58] toks: I had no idea I could get appium that way
+[2013-02-04 14:44:00] toks: okay...
+[2013-02-04 14:44:04] sourishkrout: then you can just launch appium with the command 'appium'
+[2013-02-04 14:44:30] sourishkrout: well, now you know :)
+[2013-02-04 14:44:37] toks: :p Thanks
+[2013-02-04 14:44:42] toks: ... but git pull also works too right? :)
+[2013-02-04 14:44:49] toks: cuz I like looking at the source :p
