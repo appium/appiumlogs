@@ -154,3 +154,7 @@
 [2013-02-04 14:03:48] toks: o_O
 [2013-02-04 14:03:53] toks: oh....
 [2013-02-04 14:04:02] *toks runs install -g'
+[2013-02-04 14:05:18] admc: thats borken, sebastian is working on fixing it
+[2013-02-04 14:05:32] toks: npm install -g definitely downloaded a lot of stuff.... but still broken
+[2013-02-04 14:05:43] toks: oh, so it's known that it's broken
+[2013-02-04 14:05:44] toks: okay
