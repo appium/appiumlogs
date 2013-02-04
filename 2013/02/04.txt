@@ -273,3 +273,9 @@
 [2013-02-04 15:12:45] toks: I use to be able to do: driver.find_elements("UIAButton")[0].text
 [2013-02-04 15:12:53] toks: and get the text of the button
 [2013-02-04 15:13:14] toks: I don't get an error, but the string is of length 0
+[2013-02-04 15:20:16] github-appium, joining. (#appium)
+[2013-02-04 15:20:16] github-appium: [appium] admc opened pull request #99: README needs to match appium.io data (master...master)  http://git.io/MjLeVA
+[2013-02-04 15:20:16] github-appium, leaving. (#appium)
+[2013-02-04 15:22:41] admc: toks is that python?
+[2013-02-04 15:22:45] admc: isn't text a function
+[2013-02-04 15:23:45] smccarthy, quitting. (Remote host closed the connection)
