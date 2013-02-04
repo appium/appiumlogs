@@ -282,3 +282,6 @@
 [2013-02-04 15:28:18] lukeis: .text is a function but also a @property
 [2013-02-04 15:28:40] lukeis: yay python ;)
 [2013-02-04 15:29:27] jcarr: huzzah
+[2013-02-04 15:30:36] lukeis: to be more complete, i hope toks actually meant:  driver.find_elements_by_tag_name("UIAButton")[0].text
+[2013-02-04 15:32:08] lukeis: or… driver.find_elements("tag name", "UIAButton")[0].text    s/"tag name"/By.TAG_NAME/  :)
+[2013-02-04 15:32:51] stackedsax, joining. (#appium)
