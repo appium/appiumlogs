@@ -25,3 +25,5 @@
 [2013-02-04 09:47:03] alexglow, quitting. (Ping timeout: 276 seconds)
 [2013-02-04 09:54:34] santiycr, joining. (#appium)
 [2013-02-04 09:59:56] alexglow, joining. (#appium)
+[2013-02-04 10:04:02] alexglow, quitting. (Ping timeout: 240 seconds)
+[2013-02-04 10:04:57] smccarthy, quitting. (Remote host closed the connection)
