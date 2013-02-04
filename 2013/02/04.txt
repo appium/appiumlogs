@@ -94,3 +94,8 @@
 [2013-02-04 11:45:56] skatterbean: jcarr: it looks like there's some facility in mechanic.js to tap?
 [2013-02-04 11:46:18] skatterbean: oh, right, mechanic isn't appium really
 [2013-02-04 11:51:20] jcarr: yeah it's possible in uiautomation, I think
+[2013-02-04 11:57:37] toks: brb
+[2013-02-04 11:58:55] github-appium, joining. (#appium)
+[2013-02-04 11:58:56] github-appium: [appium] hugs pushed 1 new commit to master: http://git.io/7fldZA
+[2013-02-04 11:58:56] github-appium: appium/master c58eeb6 Jason Huggins: Adding Apache2 license file
+[2013-02-04 11:58:56] github-appium, leaving. (#appium)
