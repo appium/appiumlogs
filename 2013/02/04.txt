@@ -31,3 +31,7 @@
 [2013-02-04 10:35:26] jlipps, joining. (#appium)
 [2013-02-04 10:41:57] alexglow, joining. (#appium)
 [2013-02-04 10:50:29] toks: o.o
+[2013-02-04 10:58:35] skatterbean: toks: looks like in mechanic.js there is a tap function that calls UIATarget's tapWithOptions
+[2013-02-04 10:59:08] toks: o.o
+[2013-02-04 10:59:26] skatterbean: toks: mechanic.js line 416
+[2013-02-04 10:59:46] skatterbean: toks: which calls http://developer.apple.com/library/ios/#documentation/ToolsLanguages/Reference/UIATargetClassReference/UIATargetClass/UIATargetClass.html#//apple_ref/doc/uid/TP40009924
