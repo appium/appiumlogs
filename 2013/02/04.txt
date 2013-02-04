@@ -49,3 +49,4 @@
 [2013-02-04 11:02:30] toks: but let me double-check
 [2013-02-04 11:02:57] skatterbean: toks: I'm looking at the appium source, that's how I found this
 [2013-02-04 11:03:05] toks: D:
+[2013-02-04 11:08:04] jcarr, joining. (#appium)
