@@ -268,3 +268,8 @@
 [2013-02-04 15:03:37] github-appium: appium/master ecb3873 Jason Carr: Use environment variables for raw.js
 [2013-02-04 15:03:37] github-appium: appium/master d9eb3ab Adam Christian: Merge pull request #96 from maudineormsby/master...
 [2013-02-04 15:03:37] github-appium, leaving. (#appium)
+[2013-02-04 15:12:24] toks: Hmm...
+[2013-02-04 15:12:30] toks: element.text broke
+[2013-02-04 15:12:45] toks: I use to be able to do: driver.find_elements("UIAButton")[0].text
+[2013-02-04 15:12:53] toks: and get the text of the button
+[2013-02-04 15:13:14] toks: I don't get an error, but the string is of length 0
