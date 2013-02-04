@@ -93,3 +93,4 @@
 [2013-02-04 11:45:49] toks: so I guess, if we can... we should attempt to implement that event and add it to appium's routing.js
 [2013-02-04 11:45:56] skatterbean: jcarr: it looks like there's some facility in mechanic.js to tap?
 [2013-02-04 11:46:18] skatterbean: oh, right, mechanic isn't appium really
+[2013-02-04 11:51:20] jcarr: yeah it's possible in uiautomation, I think
