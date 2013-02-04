@@ -120,3 +120,6 @@
 [2013-02-04 13:16:21] jlipps: yeah there's a discussion going on on the appium-discuss list right now about the best way to handle device-specific functionality like this
 [2013-02-04 13:17:30] jlipps: i think sourishkrout is in the process of implementing a framework for accessing these kinds of capabilities via execute_script
 [2013-02-04 13:19:27] sourishkrout: yep, that's on my list of things to do
+[2013-02-04 13:27:24] github-appium, joining. (#appium)
+[2013-02-04 13:27:24] github-appium: [appium] maudineormsby opened pull request #94: Sauce example for python (master...master)  http://git.io/8Oa4qw
+[2013-02-04 13:27:25] github-appium, leaving. (#appium)
