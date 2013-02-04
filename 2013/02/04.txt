@@ -173,3 +173,14 @@
 [2013-02-04 14:16:58] jlipps: sourishkrout: lint error
 [2013-02-04 14:17:38] toks: o.o
 [2013-02-04 14:18:05] sourishkrout: you got me, i'll push a fix
+[2013-02-04 14:22:09] sourishkrout: jlipps: travis-ci passed
+[2013-02-04 14:22:42] github-appium, joining. (#appium)
+[2013-02-04 14:22:42] github-appium: [appium] jlipps pushed 4 new commits to master: http://git.io/5vzdsQ
+[2013-02-04 14:22:43] github-appium: appium/master ead7358 Sebastian Tiedtke: Added bin (npm install -g) for instruments socket client.
+[2013-02-04 14:22:43] github-appium: appium/master 8989a33 Jason Carr: Python example on Sauce.
+[2013-02-04 14:22:43] github-appium: appium/master 6967643 Sebastian Tiedtke: Fixing all the lintz!
+[2013-02-04 14:22:43] github-appium, leaving. (#appium)
+[2013-02-04 14:22:51] toks: :)
+[2013-02-04 14:23:56] toks: o.o
+[2013-02-04 14:24:45] sourishkrout: publishing a new version on npm
+[2013-02-04 14:24:57] sourishkrout: so everyone will be able to enjoy this fix
