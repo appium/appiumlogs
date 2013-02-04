@@ -249,3 +249,6 @@
 [2013-02-04 14:48:31] toks: sometimes I'm researching/thinking, then the app dies cuz server.js didn't get a command in 10 secs
 [2013-02-04 14:52:57] toks: oh, I see.... instruments_client.js : var defWaitForDataTimeout = 60;
 [2013-02-04 14:53:58] toks: Well, I'll just mod that for my needs ^_^
+[2013-02-04 14:57:28] github-appium, joining. (#appium)
+[2013-02-04 14:57:28] github-appium: [appium] DylanLacey opened pull request #98: Sample codes for Rubys (master...master)  http://git.io/R9unZw
+[2013-02-04 14:57:28] github-appium, leaving. (#appium)
