@@ -252,3 +252,19 @@
 [2013-02-04 14:57:28] github-appium, joining. (#appium)
 [2013-02-04 14:57:28] github-appium: [appium] DylanLacey opened pull request #98: Sample codes for Rubys (master...master)  http://git.io/R9unZw
 [2013-02-04 14:57:28] github-appium, leaving. (#appium)
+[2013-02-04 15:03:18] github-appium, joining. (#appium)
+[2013-02-04 15:03:18] github-appium: [appium] admc pushed 3 new commits to master: http://git.io/7b0-ag
+[2013-02-04 15:03:18] github-appium: appium/master fcd79f3 Dylan Lacey: It helps to add things to the right repository....
+[2013-02-04 15:03:18] github-appium: appium/master 930aba5 Dylan Lacey: Merge branch 'master' of github.com:DylanLacey/appium-1
+[2013-02-04 15:03:18] github-appium: appium/master 8818111 Adam Christian: Merge pull request #98 from DylanLacey/master...
+[2013-02-04 15:03:18] github-appium, leaving. (#appium)
+[2013-02-04 15:03:28] github-appium, joining. (#appium)
+[2013-02-04 15:03:29] github-appium: [appium] admc pushed 2 new commits to master: http://git.io/-Moj6g
+[2013-02-04 15:03:29] github-appium: appium/master 3df1503 Jonathan Lipps: update php example and add sauce php example
+[2013-02-04 15:03:29] github-appium: appium/master 833c354 Adam Christian: Merge pull request #97 from jlipps/master...
+[2013-02-04 15:03:29] github-appium, leaving. (#appium)
+[2013-02-04 15:03:36] github-appium, joining. (#appium)
+[2013-02-04 15:03:37] github-appium: [appium] admc pushed 2 new commits to master: http://git.io/ODGvXw
+[2013-02-04 15:03:37] github-appium: appium/master ecb3873 Jason Carr: Use environment variables for raw.js
+[2013-02-04 15:03:37] github-appium: appium/master d9eb3ab Adam Christian: Merge pull request #96 from maudineormsby/master...
+[2013-02-04 15:03:37] github-appium, leaving. (#appium)
