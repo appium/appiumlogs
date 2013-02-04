@@ -99,3 +99,5 @@
 [2013-02-04 11:58:56] github-appium: [appium] hugs pushed 1 new commit to master: http://git.io/7fldZA
 [2013-02-04 11:58:56] github-appium: appium/master c58eeb6 Jason Huggins: Adding Apache2 license file
 [2013-02-04 11:58:56] github-appium, leaving. (#appium)
+[2013-02-04 12:27:57] admc, joining. (#appium)
+[2013-02-04 12:29:50] sourishkrout, joining. (#appium)
