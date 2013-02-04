@@ -5,3 +5,4 @@
 [2013-02-04 01:25:54] alexglow, quitting. (Ping timeout: 276 seconds)
 [2013-02-04 01:44:41] berni, joining. (#appium)
 [2013-02-04 01:46:41] rodericj, joining. (#appium)
+[2013-02-04 01:54:14] rodericj, quitting. (Ping timeout: 255 seconds)
