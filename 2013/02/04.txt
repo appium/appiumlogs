@@ -247,3 +247,5 @@
 [2013-02-04 14:46:39] toks: but good to know stable is in "npm install -g appium"
 [2013-02-04 14:48:08] toks: ya know what I'd like? For the server to stop timing out if it doesn't get a command in 10 secs :p
 [2013-02-04 14:48:31] toks: sometimes I'm researching/thinking, then the app dies cuz server.js didn't get a command in 10 secs
+[2013-02-04 14:52:57] toks: oh, I see.... instruments_client.js : var defWaitForDataTimeout = 60;
+[2013-02-04 14:53:58] toks: Well, I'll just mod that for my needs ^_^
