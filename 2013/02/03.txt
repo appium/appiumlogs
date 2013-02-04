@@ -11,3 +11,5 @@
 [2013-02-03 14:29:11] santiycr, quitting. (Ping timeout: 245 seconds)
 [2013-02-03 14:31:39] santiycr, joining. (#appium)
 [2013-02-03 14:48:58] santiycr, quitting. (Quit: Leaving.)
+[2013-02-03 17:55:53] sourishkrout, quitting. (Read error: No route to host)
+[2013-02-03 17:56:06] sourishkrout, joining. (#appium)
