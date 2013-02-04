@@ -148,3 +148,9 @@
 [2013-02-04 13:55:53] *toks tries removing it from ios.js'
 [2013-02-04 13:57:26] toks: okay... that certainly didn't work when trying to get a driver instance
 [2013-02-04 13:59:58] toks: hmm, webUI shows instruments.js.... my git pull'ed repo doesn't ......
+[2013-02-04 14:00:07] *toks assumes this is user-error on his part'
+[2013-02-04 14:01:43] admc: toks, you did the npm install -g right?
+[2013-02-04 14:01:49] admc: are you running appium from the command line
+[2013-02-04 14:03:48] toks: o_O
+[2013-02-04 14:03:53] toks: oh....
+[2013-02-04 14:04:02] *toks runs install -g'
