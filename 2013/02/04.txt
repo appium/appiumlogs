@@ -143,3 +143,8 @@
 [2013-02-04 13:51:10] toks: I assume typo and forgot ".js"
 [2013-02-04 13:51:20] *toks tries to fix it'
 [2013-02-04 13:52:56] toks: nope, that wasn't it.
+[2013-02-04 13:55:32] toks: oh... instruments.js doesn't exist at all (anymore?)
+[2013-02-04 13:55:48] toks: then I assume it's no longer needed
+[2013-02-04 13:55:53] *toks tries removing it from ios.js'
+[2013-02-04 13:57:26] toks: okay... that certainly didn't work when trying to get a driver instance
+[2013-02-04 13:59:58] toks: hmm, webUI shows instruments.js.... my git pull'ed repo doesn't ......
