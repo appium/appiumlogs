@@ -131,3 +131,5 @@
 [2013-02-04 13:32:52] toks: They send HTTP POST with data = {value:"[3-byte-code]"}
 [2013-02-04 13:33:15] toks: I have no idea what those 3 bytes mean, but they work :p
 [2013-02-04 13:39:39] smccarthy, joining. (#appium)
+[2013-02-04 13:44:15] toks: oh, I just did git-pull and I see rotate.js
+[2013-02-04 13:44:34] toks: Do we have that? cuz rotate would also solve our "dismiss window" blocker too :)
