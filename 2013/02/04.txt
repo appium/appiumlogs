@@ -158,3 +158,13 @@
 [2013-02-04 14:05:32] toks: npm install -g definitely downloaded a lot of stuff.... but still broken
 [2013-02-04 14:05:43] toks: oh, so it's known that it's broken
 [2013-02-04 14:05:44] toks: okay
+[2013-02-04 14:10:14] admc: toks from the appium repo;  what happens when you run
+[2013-02-04 14:10:14] admc:  node server.js -V 1
+[2013-02-04 14:13:32] github-appium, joining. (#appium)
+[2013-02-04 14:13:33] github-appium: [appium] sourishkrout opened pull request #95: Bin for instruments socket client (for 'npm install -g appium') (master...master)  http://git.io/obVbTw
+[2013-02-04 14:13:33] github-appium, leaving. (#appium)
+[2013-02-04 14:14:36] github-appium, joining. (#appium)
+[2013-02-04 14:14:36] github-appium: [appium] sourishkrout pushed 2 new commits to master: http://git.io/KPLaqg
+[2013-02-04 14:14:36] github-appium: appium/master f06ae02 Jason Carr: Python example on Sauce.
+[2013-02-04 14:14:36] github-appium: appium/master 51d58cc Sebastian Tiedtke: Merge pull request #94 from maudineormsby/master...
+[2013-02-04 14:14:36] github-appium, leaving. (#appium)
