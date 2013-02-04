@@ -213,3 +213,8 @@
 [2013-02-04 14:34:11] sourishkrout: it includes npm
 [2013-02-04 14:34:18] sourishkrout: no worries :)
 [2013-02-04 14:34:25] toks: hmm
+[2013-02-04 14:35:12] toks: Just so I understand this correctly.... my nodejs install comes from the dmg on http://nodejs.org/.... and npm is apparently inside it. If I go reinstall that, your changes are in it?
+[2013-02-04 14:36:35] github-appium, joining. (#appium)
+[2013-02-04 14:36:35] github-appium: [appium] jlipps opened pull request #97: more PHP example love (master...master)  http://git.io/8Hrx_Q
+[2013-02-04 14:36:35] github-appium, leaving. (#appium)
+[2013-02-04 14:38:42] jlipps: toks/sourishkrout what are you guys talking about
