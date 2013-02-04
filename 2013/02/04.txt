@@ -191,3 +191,25 @@
 [2013-02-04 14:29:32] github-appium: [appium] sourishkrout pushed 1 new commit to master: http://git.io/L_tdYw
 [2013-02-04 14:29:32] github-appium: appium/master a473f30 Sebastian Tiedtke: Bump version for npm publish.
 [2013-02-04 14:29:32] github-appium, leaving. (#appium)
+[2013-02-04 14:32:37] sourishkrout: toks: published latest version to npm
+[2013-02-04 14:32:45] toks: :)
+[2013-02-04 14:32:53] toks: wait
+[2013-02-04 14:32:56] toks: to npm?
+[2013-02-04 14:33:03] toks: Do I need to reinstall nodejs?
+[2013-02-04 14:33:06] sourishkrout: yep
+[2013-02-04 14:33:07] github-appium, joining. (#appium)
+[2013-02-04 14:33:07] github-appium: [appium] maudineormsby opened pull request #96: Use environment variables for raw.js (master...master)  http://git.io/ES6Myg
+[2013-02-04 14:33:08] github-appium, leaving. (#appium)
+[2013-02-04 14:33:09] toks: O_o
+[2013-02-04 14:33:14] sourishkrout: https://npmjs.org/package/appium
+[2013-02-04 14:33:21] toks: O_o
+[2013-02-04 14:33:28] toks: that's not the nodejs I've been using!
+[2013-02-04 14:33:31] toks: :o
+[2013-02-04 14:33:34] sourishkrout: node's package manager
+[2013-02-04 14:33:44] sourishkrout: npm (node.js package manager)
+[2013-02-04 14:33:55] toks: My npm came from, nodejs.dmg from node's website
+[2013-02-04 14:34:03] sourishkrout: that's fine
+[2013-02-04 14:34:08] sourishkrout: node.js comes from the website
+[2013-02-04 14:34:11] sourishkrout: it includes npm
+[2013-02-04 14:34:18] sourishkrout: no worries :)
+[2013-02-04 14:34:25] toks: hmm
