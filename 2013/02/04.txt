@@ -168,3 +168,8 @@
 [2013-02-04 14:14:36] github-appium: appium/master f06ae02 Jason Carr: Python example on Sauce.
 [2013-02-04 14:14:36] github-appium: appium/master 51d58cc Sebastian Tiedtke: Merge pull request #94 from maudineormsby/master...
 [2013-02-04 14:14:36] github-appium, leaving. (#appium)
+[2013-02-04 14:15:21] sourishkrout: toks: npm install -g will work after PR #95 got merged
+[2013-02-04 14:15:44] sourishkrout: jlipps: ^^
+[2013-02-04 14:16:58] jlipps: sourishkrout: lint error
+[2013-02-04 14:17:38] toks: o.o
+[2013-02-04 14:18:05] sourishkrout: you got me, i'll push a fix
