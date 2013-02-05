@@ -313,3 +313,4 @@
 [2013-02-04 16:42:04] github-appium: appium/master f0809b2 Santiago Suarez Ordoñez: first iteration on findElement/s
 [2013-02-04 16:42:04] github-appium: appium/master bd8b84e Jonathan Lipps: Merge pull request #100 from santiycr/master...
 [2013-02-04 16:42:04] github-appium, leaving. (#appium)
+[2013-02-04 16:48:36] lukeis, quitting. (Quit: Leaving.)
