@@ -408,3 +408,5 @@
 [2013-02-04 19:47:30] github-appium: appium/master b403be4 Adam Christian: Merge branch 'master' of github.com:appium/appium
 [2013-02-04 19:47:30] github-appium, leaving. (#appium)
 [2013-02-04 19:54:23] admc1, joining. (#appium)
+[2013-02-04 19:57:08] admc, quitting. (Ping timeout: 248 seconds)
+[2013-02-04 19:57:09] alexglow, quitting. (Ping timeout: 248 seconds)
