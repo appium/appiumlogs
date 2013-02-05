@@ -340,3 +340,5 @@
 [2013-02-04 17:18:58] github-appium: appium/master 0c99ad6 Jonathan Lipps: fixing remote debugger connections and relax webview app requirements and refactor all the things
 [2013-02-04 17:18:58] github-appium: appium/master e2a0696 Jonathan Lipps: Merge branch 'master' of github.com:appium/appium
 [2013-02-04 17:18:58] github-appium, leaving. (#appium)
+[2013-02-04 17:21:32] stackedsax, joining. (#appium)
+[2013-02-04 17:22:03] toks: I don't see anything in xcode for it...
