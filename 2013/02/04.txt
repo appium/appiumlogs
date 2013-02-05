@@ -349,3 +349,9 @@
 [2013-02-04 17:42:58] github-appium, leaving. (#appium)
 [2013-02-04 17:48:25] toks: ....
 [2013-02-04 17:49:38] sourishkrout: i think it's in a plist
+[2013-02-04 17:50:08] sourishkrout: -> /Users/Sebastian/Library/Application\ Support/iPhone\ Simulator/6.0/Library/Preferences/.GlobalPreferences.plist
+[2013-02-04 17:52:36] sourishkrout: actually this one is for the locale
+[2013-02-04 17:52:41] sourishkrout: i can't remember this from the top of my head
+[2013-02-04 17:53:51] github-appium, joining. (#appium)
+[2013-02-04 17:53:51] github-appium: [appium] maudineormsby opened pull request #104: Ruby sauce example (master...master)  http://git.io/DSQVfQ
+[2013-02-04 17:53:51] github-appium, leaving. (#appium)
