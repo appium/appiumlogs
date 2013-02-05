@@ -303,3 +303,4 @@
 [2013-02-04 16:23:37] github-appium, leaving. (#appium)
 [2013-02-04 16:25:39] stackedsax1, joining. (#appium)
 [2013-02-04 16:26:41] stackedsax, quitting. (Ping timeout: 245 seconds)
+[2013-02-04 16:37:34] stackedsax1, quitting. (Quit: Leaving.)
