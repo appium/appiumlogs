@@ -475,3 +475,7 @@
 [2013-02-04 22:34:46] github-appium, leaving. (#appium)
 [2013-02-04 22:44:52] rodericj1, joining. (#appium)
 [2013-02-04 22:44:52] rodericj, quitting. (Read error: Connection reset by peer)
+[2013-02-04 22:51:55] github-appium, joining. (#appium)
+[2013-02-04 22:51:55] github-appium: [appium] sourishkrout pushed 1 new commit to master: http://git.io/n-lD8w
+[2013-02-04 22:51:55] github-appium: appium/master 4cc7499 Sebastian Tiedtke: Version bump.
+[2013-02-04 22:51:55] github-appium, leaving. (#appium)
