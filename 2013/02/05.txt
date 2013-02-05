@@ -75,3 +75,5 @@
 [2013-02-05 10:57:23] github-appium: appium/master f7fdebd berni: adding UIANavigatonBar element
 [2013-02-05 10:57:23] github-appium: appium/master b104ea0 Adam Christian: Merge pull request #125 from bernii/master...
 [2013-02-05 10:57:23] github-appium, leaving. (#appium)
+[2013-02-05 11:14:23] jcarr, joining. (#appium)
+[2013-02-05 11:14:36] jcarr: :log
