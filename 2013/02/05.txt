@@ -41,3 +41,4 @@
 [2013-02-05 08:58:04] github-appium, joining. (#appium)
 [2013-02-05 08:58:04] github-appium: [appium] bernii opened pull request #125: Adding UIANavigationBar (master...master)  http://git.io/jGdn2w
 [2013-02-05 08:58:04] github-appium, leaving. (#appium)
+[2013-02-05 09:00:41] lukeis, joining. (#appium)
