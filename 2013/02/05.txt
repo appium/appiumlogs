@@ -77,3 +77,4 @@
 [2013-02-05 10:57:23] github-appium, leaving. (#appium)
 [2013-02-05 11:14:23] jcarr, joining. (#appium)
 [2013-02-05 11:14:36] jcarr: :log
+[2013-02-05 11:15:19] jcarr: toks: ping
