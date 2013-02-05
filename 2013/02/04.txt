@@ -387,3 +387,4 @@
 [2013-02-04 18:28:29] github-appium: [appium] admc pushed 1 new commit to master: http://git.io/-WTT6Q
 [2013-02-04 18:28:29] github-appium: appium/master 4dbbeb9 Adam Christian: Adding java
 [2013-02-04 18:28:29] github-appium, leaving. (#appium)
+[2013-02-04 18:42:29] stackedsax, quitting. (Quit: Leaving.)
