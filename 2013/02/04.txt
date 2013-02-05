@@ -355,3 +355,19 @@
 [2013-02-04 17:53:51] github-appium, joining. (#appium)
 [2013-02-04 17:53:51] github-appium: [appium] maudineormsby opened pull request #104: Ruby sauce example (master...master)  http://git.io/DSQVfQ
 [2013-02-04 17:53:51] github-appium, leaving. (#appium)
+[2013-02-04 18:00:10] github-appium, joining. (#appium)
+[2013-02-04 18:00:11] github-appium: [appium] sourishkrout pushed 2 new commits to master: http://git.io/FelfuQ
+[2013-02-04 18:00:11] github-appium: appium/master 363fcce Santiago Suarez Ordoñez: fixing all the bugs in jlipps code
+[2013-02-04 18:00:11] github-appium: appium/master 1ce14c6 Sebastian Tiedtke: Merge pull request #103 from santiycr/master...
+[2013-02-04 18:00:11] github-appium, leaving. (#appium)
+[2013-02-04 18:00:37] github-appium, joining. (#appium)
+[2013-02-04 18:00:38] github-appium: [appium] sourishkrout pushed 2 new commits to master: http://git.io/CWUy4Q
+[2013-02-04 18:00:38] github-appium: appium/master 145cfac Jason Carr: Ruby example for Sauce.
+[2013-02-04 18:00:38] github-appium: appium/master cb205fb Sebastian Tiedtke: Merge pull request #104 from maudineormsby/master...
+[2013-02-04 18:00:38] github-appium, leaving. (#appium)
+[2013-02-04 18:01:51] github-appium, joining. (#appium)
+[2013-02-04 18:01:51] github-appium: [appium] rossrowe opened pull request #105: Ported Python tests to Java (master...master)  http://git.io/eIW6yg
+[2013-02-04 18:01:51] github-appium, leaving. (#appium)
+[2013-02-04 18:04:07] github-appium, joining. (#appium)
+[2013-02-04 18:04:07] github-appium: [appium] jlipps opened pull request #106: nav to url for webview (master...master)  http://git.io/vo2FfQ
+[2013-02-04 18:04:07] github-appium, leaving. (#appium)
