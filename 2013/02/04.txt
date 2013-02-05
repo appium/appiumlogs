@@ -319,3 +319,4 @@
 [2013-02-04 17:08:16] github-appium: [appium] sourishkrout opened pull request #101: Added web hook support for logging. (master...master)  http://git.io/nlOkkw
 [2013-02-04 17:08:17] github-appium, leaving. (#appium)
 [2013-02-04 17:08:20] sourishkrout: jlipps: ^^
+[2013-02-04 17:11:43] stackedsax, quitting. (Client Quit)
