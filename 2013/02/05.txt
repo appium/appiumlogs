@@ -147,3 +147,4 @@
 [2013-02-05 12:47:42] jlipps, quitting. (Read error: Connection reset by peer)
 [2013-02-05 12:48:36] ownedbyshiba, joining. (#appium)
 [2013-02-05 12:50:12] jlipps, joining. (#appium)
+[2013-02-05 13:04:46] Rolken, joining. (#appium)
