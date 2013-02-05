@@ -152,3 +152,4 @@
 [2013-02-05 13:31:27] toks: I see someone here has posted Appium.io to HackerNews :)
 [2013-02-05 13:32:01] *toks looks at sahazel '
 [2013-02-05 13:41:41] bradleymeck, joining. (#appium)
+[2013-02-05 13:51:26] admc, quitting. (Quit: Leaving.)
