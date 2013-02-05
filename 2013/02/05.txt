@@ -55,3 +55,6 @@
 [2013-02-05 10:33:52] toks: Then I just deleted the file completely
 [2013-02-05 10:34:13] toks: And that resulted in a borderless Simulator with buttons in the app I couldn't reach anymore
 [2013-02-05 10:34:16] toks: o_O
+[2013-02-05 10:35:29] toks: but yeah, this is all because I've been shown that our app has a different layout for iPhone and I won't have the issue of not being able to dismiss one of the UIA views
+[2013-02-05 10:37:11] toks: and....
+[2013-02-05 10:37:14] toks, changing nick to toks-meeting.
