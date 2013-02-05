@@ -304,3 +304,12 @@
 [2013-02-04 16:25:39] stackedsax1, joining. (#appium)
 [2013-02-04 16:26:41] stackedsax, quitting. (Ping timeout: 245 seconds)
 [2013-02-04 16:37:34] stackedsax1, quitting. (Quit: Leaving.)
+[2013-02-04 16:41:05] github-appium, joining. (#appium)
+[2013-02-04 16:41:06] github-appium: [appium] santiycr opened pull request #100: let the hybrid magic begin (master...master)  http://git.io/OZkDEQ
+[2013-02-04 16:41:06] github-appium, leaving. (#appium)
+[2013-02-04 16:42:04] github-appium, joining. (#appium)
+[2013-02-04 16:42:04] github-appium: [appium] jlipps pushed 3 new commits to master: http://git.io/pcSXKQ
+[2013-02-04 16:42:04] github-appium: appium/master 7905322 Santiago Suarez Ordoñez: adding support for GET title on web view
+[2013-02-04 16:42:04] github-appium: appium/master f0809b2 Santiago Suarez Ordoñez: first iteration on findElement/s
+[2013-02-04 16:42:04] github-appium: appium/master bd8b84e Jonathan Lipps: Merge pull request #100 from santiycr/master...
+[2013-02-04 16:42:04] github-appium, leaving. (#appium)
