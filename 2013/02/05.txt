@@ -60,3 +60,18 @@
 [2013-02-05 10:37:14] toks, changing nick to toks-meeting.
 [2013-02-05 10:51:41] alexglow, quitting. (Ping timeout: 245 seconds)
 [2013-02-05 10:54:43] admc, joining. (#appium)
+[2013-02-05 10:56:21] toks-meeting: and...
+[2013-02-05 10:56:23] toks-meeting, changing nick to toks.
+[2013-02-05 10:57:08] toks: POP EIP
+[2013-02-05 10:57:09] toks: RET
+[2013-02-05 10:57:11] github-appium, joining. (#appium)
+[2013-02-05 10:57:11] github-appium: [appium] admc pushed 6 new commits to master: http://git.io/W8vyqA
+[2013-02-05 10:57:11] github-appium: appium/master 5ff68cd Dylan Lacey: Changed from sauce-labs/appium to appium/appium
+[2013-02-05 10:57:11] github-appium: appium/master 7a5c055 Dylan Lacey: Added details for scrolling -- Not yet functional
+[2013-02-05 10:57:11] github-appium: appium/master 0fb8ee5 Dylan Lacey: Added a Gemfile, Gemfile.lock to allow for easier dep management...
+[2013-02-05 10:57:11] github-appium, leaving. (#appium)
+[2013-02-05 10:57:23] github-appium, joining. (#appium)
+[2013-02-05 10:57:23] github-appium: [appium] admc pushed 2 new commits to master: http://git.io/HyiTqg
+[2013-02-05 10:57:23] github-appium: appium/master f7fdebd berni: adding UIANavigatonBar element
+[2013-02-05 10:57:23] github-appium: appium/master b104ea0 Adam Christian: Merge pull request #125 from bernii/master...
+[2013-02-05 10:57:23] github-appium, leaving. (#appium)
