@@ -291,3 +291,13 @@
 [2013-02-04 16:10:20] github-appium: appium/master 3614116 Adam Christian: Making the readme match appium.io
 [2013-02-04 16:10:20] github-appium: appium/master 55419dc Sebastian Tiedtke: Merge pull request #99 from admc/master...
 [2013-02-04 16:10:20] github-appium, leaving. (#appium)
+[2013-02-04 16:21:19] berni1, joining. (#appium)
+[2013-02-04 16:21:19] berni, quitting. (Read error: Connection reset by peer)
+[2013-02-04 16:22:33] github-appium, joining. (#appium)
+[2013-02-04 16:22:33] github-appium: [appium] admc pushed 1 new commit to master: http://git.io/eJ2iqw
+[2013-02-04 16:22:33] github-appium: appium/master 08e88de Adam Christian: Adding links to credits
+[2013-02-04 16:22:33] github-appium, leaving. (#appium)
+[2013-02-04 16:23:37] github-appium, joining. (#appium)
+[2013-02-04 16:23:37] github-appium: [appium] admc pushed 1 new commit to master: http://git.io/FT53fw
+[2013-02-04 16:23:37] github-appium: appium/master cbbd668 Adam Christian: wording
+[2013-02-04 16:23:37] github-appium, leaving. (#appium)
