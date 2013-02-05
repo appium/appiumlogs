@@ -505,3 +505,4 @@
 [2013-02-04 23:49:35] github-appium: appium/master a0d8e98 Sebastian Tiedtke: Version bump.
 [2013-02-04 23:49:35] github-appium, leaving. (#appium)
 [2013-02-04 23:50:15] jlipps, quitting. (Quit: jlipps)
+[2013-02-04 23:57:41] stackedsax, quitting. (Quit: Leaving.)
