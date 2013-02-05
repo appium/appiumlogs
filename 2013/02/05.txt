@@ -179,3 +179,5 @@
 [2013-02-05 15:23:09] github-appium: appium/master 16fb120 Bernard Kobos: Merge pull request #127 from jlipps/master...
 [2013-02-05 15:23:09] github-appium, leaving. (#appium)
 [2013-02-05 15:28:17] santiycr, joining. (#appium)
+[2013-02-05 15:46:03] ownedbyshiba, quitting. (Quit: Leaving.)
+[2013-02-05 15:46:50] ownedbyshiba, joining. (#appium)
