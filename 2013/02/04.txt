@@ -461,3 +461,4 @@
 [2013-02-04 22:14:15] github-appium: appium/master 36d409c Sebastian Tiedtke: Check ENV for Appium.app.
 [2013-02-04 22:14:15] github-appium: appium/master 0a9c3de Adam Christian: Merge pull request #114 from sourishkrout/master...
 [2013-02-04 22:14:15] github-appium, leaving. (#appium)
+[2013-02-04 22:17:05] admc1, changing nick to admc.
