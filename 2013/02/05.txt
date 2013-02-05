@@ -144,3 +144,5 @@
 [2013-02-05 12:29:02] sourishkrout, quitting. (Quit: Leaving.)
 [2013-02-05 12:31:52] stackedsax, quitting. (Quit: Leaving.)
 [2013-02-05 12:36:44] jlipps, joining. (#appium)
+[2013-02-05 12:47:42] jlipps, quitting. (Read error: Connection reset by peer)
+[2013-02-05 12:48:36] ownedbyshiba, joining. (#appium)
