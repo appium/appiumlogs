@@ -100,3 +100,28 @@
 [2013-02-05 11:32:33] toks: I had TARGET
 [2013-02-05 11:32:34] toks: okay
 [2013-02-05 11:32:58] *toks tries jcarr's way'
+[2013-02-05 11:35:41] toks: omg, jcarr
+[2013-02-05 11:35:45] toks: ...just.... omg
+[2013-02-05 11:36:02] toks: oh....my.....gosh
+[2013-02-05 11:36:04] toks: it worked
+[2013-02-05 11:36:20] toks: okay... that's a major block destroyed :)
+[2013-02-05 11:36:22] toks: gracias
+[2013-02-05 11:36:33] jcarr: :D no problem
+[2013-02-05 11:36:37] toks: how did you know it was TARGETED?
+[2013-02-05 11:36:42] toks: I saw TARGET in docs
+[2013-02-05 11:36:45] jcarr: lots and lots of trial and error
+[2013-02-05 11:36:55] jcarr: appium docs or other docs?
+[2013-02-05 11:37:07] toks: just random googlin'
+[2013-02-05 11:37:26] toks: like this
+[2013-02-05 11:37:28] toks: http://stackoverflow.com/questions/3936506/universal-apps-are-not-working-right-why
+[2013-02-05 11:37:45] jcarr: yeah, lots of confused people
+[2013-02-05 11:37:51] toks: o_O
+[2013-02-05 11:38:14] jcarr: I found it here http://developer.apple.com/library/ios/#qa/qa1623/_index.html
+[2013-02-05 11:38:19] jcarr: mentioned obliquely
+[2013-02-05 11:38:28] toks: o.o
+[2013-02-05 11:38:42] jcarr: really most of these settings you can find by looking through the xcodebuild spew
+[2013-02-05 11:38:55] toks: "spew"
+[2013-02-05 11:38:57] toks: ? o.o
+[2013-02-05 11:39:29] jcarr: the huge wall of text it outputs
+[2013-02-05 11:39:42] toks: oh
+[2013-02-05 11:39:56] *toks goes look up the word spew'
