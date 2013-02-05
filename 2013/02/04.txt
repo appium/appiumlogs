@@ -301,3 +301,5 @@
 [2013-02-04 16:23:37] github-appium: [appium] admc pushed 1 new commit to master: http://git.io/FT53fw
 [2013-02-04 16:23:37] github-appium: appium/master cbbd668 Adam Christian: wording
 [2013-02-04 16:23:37] github-appium, leaving. (#appium)
+[2013-02-04 16:25:39] stackedsax1, joining. (#appium)
+[2013-02-04 16:26:41] stackedsax, quitting. (Ping timeout: 245 seconds)
