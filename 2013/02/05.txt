@@ -14,3 +14,15 @@
 [2013-02-05 01:28:43] github-appium: appium/master c99211d Jonathan Lipps: update readme to point to hybrid apps in wiki
 [2013-02-05 01:28:43] github-appium: appium/master 2835941 Adam Christian: Merge pull request #118 from jlipps/master...
 [2013-02-05 01:28:43] github-appium, leaving. (#appium)
+[2013-02-05 01:50:32] github-appium, joining. (#appium)
+[2013-02-05 01:50:32] github-appium: [appium] sourishkrout opened pull request #119: Hardcoded path to node if which lookup fails (master...master)  http://git.io/S_ocwg
+[2013-02-05 01:50:32] github-appium, leaving. (#appium)
+[2013-02-05 01:51:23] github-appium, joining. (#appium)
+[2013-02-05 01:51:23] github-appium: [appium] admc pushed 2 new commits to master: http://git.io/JoG-TQ
+[2013-02-05 01:51:23] github-appium: appium/master fbd5af1 Sebastian Tiedtke: Hardcoded batman as fall back.
+[2013-02-05 01:51:23] github-appium: appium/master 3f3efb7 Adam Christian: Merge pull request #119 from sourishkrout/master...
+[2013-02-05 01:51:23] github-appium, leaving. (#appium)
+[2013-02-05 01:53:14] github-appium, joining. (#appium)
+[2013-02-05 01:53:14] github-appium: [appium] sourishkrout pushed 1 new commit to master: http://git.io/IArzWg
+[2013-02-05 01:53:14] github-appium: appium/master 6080a32 Sebastian Tiedtke: Verion bump
+[2013-02-05 01:53:14] github-appium, leaving. (#appium)
