@@ -383,3 +383,7 @@
 [2013-02-04 18:24:31] github-appium: appium/master 66f3275 Ross Rowe: Merge remote-tracking branch 'upstream/master'
 [2013-02-04 18:24:31] github-appium: appium/master dd26af0 Ross Rowe: Initial Java port of tests
 [2013-02-04 18:24:31] github-appium, leaving. (#appium)
+[2013-02-04 18:28:29] github-appium, joining. (#appium)
+[2013-02-04 18:28:29] github-appium: [appium] admc pushed 1 new commit to master: http://git.io/-WTT6Q
+[2013-02-04 18:28:29] github-appium: appium/master 4dbbeb9 Adam Christian: Adding java
+[2013-02-04 18:28:29] github-appium, leaving. (#appium)
