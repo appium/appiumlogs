@@ -483,3 +483,11 @@
 [2013-02-04 23:09:51] github-appium, joining. (#appium)
 [2013-02-04 23:09:51] github-appium: [appium] santiycr opened pull request #116: more hybrid commands (master...master)  http://git.io/tA0OTA
 [2013-02-04 23:09:51] github-appium, leaving. (#appium)
+[2013-02-04 23:15:11] henrikhodne, joining. (#appium)
+[2013-02-04 23:17:39] github-appium, joining. (#appium)
+[2013-02-04 23:17:40] github-appium: [appium] admc pushed 4 new commits to master: http://git.io/fi_0NQ
+[2013-02-04 23:17:40] github-appium: appium/master 888026c Santiago Suarez Ordoñez: testfix
+[2013-02-04 23:17:40] github-appium: appium/master 1c14de7 Santiago Suarez Ordoñez: improved findElement handling + an attempt to make the click test actually test stuff. Need more solid driver.get
+[2013-02-04 23:17:40] github-appium: appium/master 833398e Santiago Suarez Ordoñez: getAttribute, boom!
+[2013-02-04 23:17:40] github-appium, leaving. (#appium)
+[2013-02-04 23:18:09] henrik_hodne, quitting. (Quit: ZNC - http://znc.in)
