@@ -155,3 +155,4 @@
 [2013-02-05 13:51:26] admc, quitting. (Quit: Leaving.)
 [2013-02-05 13:55:35] ownedbyshiba, quitting. (Quit: Leaving.)
 [2013-02-05 13:58:08] bradleymeck, quitting. (Quit: bradleymeck)
+[2013-02-05 14:09:59] admc, joining. (#appium)
