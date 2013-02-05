@@ -371,3 +371,9 @@
 [2013-02-04 18:04:07] github-appium, joining. (#appium)
 [2013-02-04 18:04:07] github-appium: [appium] jlipps opened pull request #106: nav to url for webview (master...master)  http://git.io/vo2FfQ
 [2013-02-04 18:04:07] github-appium, leaving. (#appium)
+[2013-02-04 18:13:50] github-appium, joining. (#appium)
+[2013-02-04 18:13:50] github-appium: [appium] santiycr pushed 3 new commits to master: http://git.io/Zb7tZA
+[2013-02-04 18:13:51] github-appium: appium/master 0266280 Jonathan Lipps: add nav to url function for web view
+[2013-02-04 18:13:51] github-appium: appium/master b1d8244 Jonathan Lipps: Merge branch 'master' of github.com:appium/appium
+[2013-02-04 18:13:51] github-appium: appium/master 21206fa Santiago Suarez Ordoñez: Merge pull request #106 from jlipps/master...
+[2013-02-04 18:13:51] github-appium, leaving. (#appium)
