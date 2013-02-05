@@ -377,3 +377,9 @@
 [2013-02-04 18:13:51] github-appium: appium/master b1d8244 Jonathan Lipps: Merge branch 'master' of github.com:appium/appium
 [2013-02-04 18:13:51] github-appium: appium/master 21206fa Santiago Suarez Ordoñez: Merge pull request #106 from jlipps/master...
 [2013-02-04 18:13:51] github-appium, leaving. (#appium)
+[2013-02-04 18:24:31] github-appium, joining. (#appium)
+[2013-02-04 18:24:31] github-appium: [appium] admc pushed 7 new commits to master: http://git.io/9R5V1Q
+[2013-02-04 18:24:31] github-appium: appium/master afa64af Ross Rowe: Added initial Java testing code
+[2013-02-04 18:24:31] github-appium: appium/master 66f3275 Ross Rowe: Merge remote-tracking branch 'upstream/master'
+[2013-02-04 18:24:31] github-appium: appium/master dd26af0 Ross Rowe: Initial Java port of tests
+[2013-02-04 18:24:31] github-appium, leaving. (#appium)
