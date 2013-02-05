@@ -286,3 +286,8 @@
 [2013-02-04 15:32:08] lukeis: or… driver.find_elements("tag name", "UIAButton")[0].text    s/"tag name"/By.TAG_NAME/  :)
 [2013-02-04 15:32:51] stackedsax, joining. (#appium)
 [2013-02-04 15:36:03] admc: ah yeah that looks more right
+[2013-02-04 16:10:20] github-appium, joining. (#appium)
+[2013-02-04 16:10:20] github-appium: [appium] sourishkrout pushed 2 new commits to master: http://git.io/BBuU9g
+[2013-02-04 16:10:20] github-appium: appium/master 3614116 Adam Christian: Making the readme match appium.io
+[2013-02-04 16:10:20] github-appium: appium/master 55419dc Sebastian Tiedtke: Merge pull request #99 from admc/master...
+[2013-02-04 16:10:20] github-appium, leaving. (#appium)
