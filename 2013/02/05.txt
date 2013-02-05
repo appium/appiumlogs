@@ -46,3 +46,12 @@
 [2013-02-05 09:18:34] ownedbyshiba, joining. (#appium)
 [2013-02-05 09:56:33] rodericj, joining. (#appium)
 [2013-02-05 10:00:53] stackedsax, joining. (#appium)
+[2013-02-05 10:31:10] toks, joining. (#appium)
+[2013-02-05 10:31:21] toks: So...
+[2013-02-05 10:32:12] toks: last episode, toks was wrestling with why he couldn't make appium start the iOS-Sim in iPhone mode, rather than iPad...
+[2013-02-05 10:32:15] toks: http://stackoverflow.com/questions/9582926/launching-retina-simulator-from-xcodebuild-for-continuous-integration
+[2013-02-05 10:32:48] toks: Based on that link, I would think my problems would be solved by: defaults write com.apple.iphonesimulator "SimulateDevice" "iPhone"
+[2013-02-05 10:33:32] toks: but still, Simulator starts in iPhone mode. Also, when it exits, it writes "iPad" back to that plist file
+[2013-02-05 10:33:52] toks: Then I just deleted the file completely
+[2013-02-05 10:34:13] toks: And that resulted in a borderless Simulator with buttons in the app I couldn't reach anymore
+[2013-02-05 10:34:16] toks: o_O
