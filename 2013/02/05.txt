@@ -9,3 +9,8 @@
 [2013-02-05 01:16:23] github-appium: [appium] jlipps opened pull request #118: readme update (master...master)  http://git.io/NRm8jw
 [2013-02-05 01:16:23] github-appium, leaving. (#appium)
 [2013-02-05 01:16:51] alexglow, joining. (#appium)
+[2013-02-05 01:28:42] github-appium, joining. (#appium)
+[2013-02-05 01:28:43] github-appium: [appium] admc pushed 2 new commits to master: http://git.io/uJvnGQ
+[2013-02-05 01:28:43] github-appium: appium/master c99211d Jonathan Lipps: update readme to point to hybrid apps in wiki
+[2013-02-05 01:28:43] github-appium: appium/master 2835941 Adam Christian: Merge pull request #118 from jlipps/master...
+[2013-02-05 01:28:43] github-appium, leaving. (#appium)
