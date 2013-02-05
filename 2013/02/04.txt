@@ -447,3 +447,8 @@
 [2013-02-04 21:38:47] github-appium: [appium] sourishkrout opened pull request #113: Added more info to exception. (master...master)  http://git.io/XTMlag
 [2013-02-04 21:38:47] github-appium, leaving. (#appium)
 [2013-02-04 21:39:07] sourishkrout: admc1: ^^
+[2013-02-04 21:40:56] github-appium, joining. (#appium)
+[2013-02-04 21:40:56] github-appium: [appium] admc pushed 2 new commits to master: http://git.io/LJJ4Cg
+[2013-02-04 21:40:56] github-appium: appium/master 63b0d60 Sebastian Tiedtke: Added more info to exception.
+[2013-02-04 21:40:56] github-appium: appium/master 0be87d2 Adam Christian: Merge pull request #113 from sourishkrout/master...
+[2013-02-04 21:40:56] github-appium, leaving. (#appium)
