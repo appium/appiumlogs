@@ -397,3 +397,13 @@
 [2013-02-04 19:44:58] github-appium, joining. (#appium)
 [2013-02-04 19:44:58] github-appium: [appium] admc opened pull request #107: Show the actual version number from the cmd line (master...master)  http://git.io/1NgSCQ
 [2013-02-04 19:44:58] github-appium, leaving. (#appium)
+[2013-02-04 19:45:59] github-appium, joining. (#appium)
+[2013-02-04 19:46:00] github-appium: [appium] santiycr pushed 2 new commits to master: http://git.io/K8JTKw
+[2013-02-04 19:46:00] github-appium: appium/master 72e1c11 Adam Christian: Printing out the actual version number
+[2013-02-04 19:46:00] github-appium: appium/master 344a7f3 Santiago Suarez Ordoñez: Merge pull request #107 from admc/master...
+[2013-02-04 19:46:00] github-appium, leaving. (#appium)
+[2013-02-04 19:47:30] github-appium, joining. (#appium)
+[2013-02-04 19:47:30] github-appium: [appium] admc pushed 2 new commits to master: http://git.io/ROLs0A
+[2013-02-04 19:47:30] github-appium: appium/master 309cd86 Adam Christian: Bumping version for a publish of 0.0.5
+[2013-02-04 19:47:30] github-appium: appium/master b403be4 Adam Christian: Merge branch 'master' of github.com:appium/appium
+[2013-02-04 19:47:30] github-appium, leaving. (#appium)
