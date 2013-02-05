@@ -479,3 +479,7 @@
 [2013-02-04 22:51:55] github-appium: [appium] sourishkrout pushed 1 new commit to master: http://git.io/n-lD8w
 [2013-02-04 22:51:55] github-appium: appium/master 4cc7499 Sebastian Tiedtke: Version bump.
 [2013-02-04 22:51:55] github-appium, leaving. (#appium)
+[2013-02-04 23:09:05] henrikhodne, changing nick to henrik_hodne.
+[2013-02-04 23:09:51] github-appium, joining. (#appium)
+[2013-02-04 23:09:51] github-appium: [appium] santiycr opened pull request #116: more hybrid commands (master...master)  http://git.io/tA0OTA
+[2013-02-04 23:09:51] github-appium, leaving. (#appium)
