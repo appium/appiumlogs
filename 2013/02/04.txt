@@ -320,3 +320,23 @@
 [2013-02-04 17:08:17] github-appium, leaving. (#appium)
 [2013-02-04 17:08:20] sourishkrout: jlipps: ^^
 [2013-02-04 17:11:43] stackedsax, quitting. (Client Quit)
+[2013-02-04 17:16:25] toks: so...
+[2013-02-04 17:16:38] toks: For server.js
+[2013-02-04 17:16:56] toks: When it starts the simulator, it always starts in iPad mode for me
+[2013-02-04 17:17:06] toks: I want it to start in iPhone mode
+[2013-02-04 17:17:18] github-appium, joining. (#appium)
+[2013-02-04 17:17:19] github-appium: [appium] jlipps opened pull request #102: fix some things with remote debugging (master...master)  http://git.io/liZLhw
+[2013-02-04 17:17:19] github-appium, leaving. (#appium)
+[2013-02-04 17:17:22] toks: is that something controlled by appium? or is that part of my xcodebuild command
+[2013-02-04 17:17:29] github-appium, joining. (#appium)
+[2013-02-04 17:17:29] github-appium: [appium] jlipps pushed 2 new commits to master: http://git.io/VDjJvg
+[2013-02-04 17:17:29] github-appium: appium/master d63227c Sebastian Tiedtke: Added optional webhook for logging.
+[2013-02-04 17:17:29] github-appium: appium/master d645c7f Jonathan Lipps: Merge pull request #101 from sourishkrout/master...
+[2013-02-04 17:17:29] github-appium, leaving. (#appium)
+[2013-02-04 17:17:42] smccarthy, joining. (#appium)
+[2013-02-04 17:18:58] github-appium, joining. (#appium)
+[2013-02-04 17:18:58] github-appium: [appium] santiycr pushed 4 new commits to master: http://git.io/9lZfOA
+[2013-02-04 17:18:58] github-appium: appium/master 5078a0d Jonathan Lipps: Merge branch 'master' of github.com:appium/appium
+[2013-02-04 17:18:58] github-appium: appium/master 0c99ad6 Jonathan Lipps: fixing remote debugger connections and relax webview app requirements and refactor all the things
+[2013-02-04 17:18:58] github-appium: appium/master e2a0696 Jonathan Lipps: Merge branch 'master' of github.com:appium/appium
+[2013-02-04 17:18:58] github-appium, leaving. (#appium)
