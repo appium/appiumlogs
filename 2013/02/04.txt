@@ -427,3 +427,14 @@
 [2013-02-04 20:19:28] github-appium: appium/master 22f9164 Jonathan Lipps: Merge pull request #109 from jmathes/master...
 [2013-02-04 20:19:28] github-appium, leaving. (#appium)
 [2013-02-04 20:19:34] sourishkrout: jlipps: https://github.com/appium/appium/pull/110
+[2013-02-04 20:42:48] github-appium, joining. (#appium)
+[2013-02-04 20:42:48] github-appium: [appium] santiycr opened pull request #111: Support for more hybrid commands (master...master)  http://git.io/bGnHVw
+[2013-02-04 20:42:48] github-appium, leaving. (#appium)
+[2013-02-04 20:43:11] github-appium, joining. (#appium)
+[2013-02-04 20:43:11] github-appium: [appium] jlipps opened pull request #112: better keys for urls (master...master)  http://git.io/WOewMw
+[2013-02-04 20:43:11] github-appium, leaving. (#appium)
+[2013-02-04 20:44:51] github-appium, joining. (#appium)
+[2013-02-04 20:44:52] github-appium: [appium] sourishkrout pushed 2 new commits to master: http://git.io/hzXaKw
+[2013-02-04 20:44:52] github-appium: appium/master da124e4 Jonathan Lipps: use keys() instead of sendKeys() because sendKeys doesn't use keyboard (dumbly)
+[2013-02-04 20:44:52] github-appium: appium/master b7108e9 Sebastian Tiedtke: Merge pull request #112 from jlipps/master...
+[2013-02-04 20:44:52] github-appium, leaving. (#appium)
