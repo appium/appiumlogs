@@ -79,3 +79,4 @@
 [2013-02-05 11:14:36] jcarr: :log
 [2013-02-05 11:15:19] jcarr: toks: ping
 [2013-02-05 11:24:04] toks: pong
+[2013-02-05 11:29:49] jcarr: so you were having trouble getting the iphone not ipad sim?
