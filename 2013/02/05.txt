@@ -43,3 +43,4 @@
 [2013-02-05 08:58:04] github-appium, leaving. (#appium)
 [2013-02-05 09:00:41] lukeis, joining. (#appium)
 [2013-02-05 09:13:19] stackedsax, quitting. (Quit: Leaving.)
+[2013-02-05 09:18:34] ownedbyshiba, joining. (#appium)
