@@ -504,3 +504,4 @@
 [2013-02-04 23:49:35] github-appium: [appium] sourishkrout pushed 1 new commit to master: http://git.io/7rkLsg
 [2013-02-04 23:49:35] github-appium: appium/master a0d8e98 Sebastian Tiedtke: Version bump.
 [2013-02-04 23:49:35] github-appium, leaving. (#appium)
+[2013-02-04 23:50:15] jlipps, quitting. (Quit: jlipps)
