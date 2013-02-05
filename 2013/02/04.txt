@@ -343,3 +343,4 @@
 [2013-02-04 17:21:32] stackedsax, joining. (#appium)
 [2013-02-04 17:22:03] toks: I don't see anything in xcode for it...
 [2013-02-04 17:33:30] stackedsax, quitting. (Quit: Leaving.)
+[2013-02-04 17:37:38] stackedsax, joining. (#appium)
