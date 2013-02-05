@@ -467,3 +467,9 @@
 [2013-02-04 22:28:40] github-appium, leaving. (#appium)
 [2013-02-04 22:28:44] sourishkrout: admc: ^^ merge please
 [2013-02-04 22:29:33] berni1, quitting. (Read error: Connection reset by peer)
+[2013-02-04 22:30:25] berni, joining. (#appium)
+[2013-02-04 22:34:46] github-appium, joining. (#appium)
+[2013-02-04 22:34:46] github-appium: [appium] admc pushed 2 new commits to master: http://git.io/s1rRbQ
+[2013-02-04 22:34:46] github-appium: appium/master ceb753f Sebastian Tiedtke: Be friendlier in case Appium is already running.
+[2013-02-04 22:34:46] github-appium: appium/master 1d78623 Adam Christian: Merge pull request #115 from sourishkrout/master...
+[2013-02-04 22:34:46] github-appium, leaving. (#appium)
