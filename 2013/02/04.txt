@@ -491,3 +491,4 @@
 [2013-02-04 23:17:40] github-appium: appium/master 833398e Santiago Suarez Ordoñez: getAttribute, boom!
 [2013-02-04 23:17:40] github-appium, leaving. (#appium)
 [2013-02-04 23:18:09] henrik_hodne, quitting. (Quit: ZNC - http://znc.in)
+[2013-02-04 23:29:52] rodericj1, quitting. (Quit: Leaving.)
