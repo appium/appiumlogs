@@ -407,3 +407,4 @@
 [2013-02-04 19:47:30] github-appium: appium/master 309cd86 Adam Christian: Bumping version for a publish of 0.0.5
 [2013-02-04 19:47:30] github-appium: appium/master b403be4 Adam Christian: Merge branch 'master' of github.com:appium/appium
 [2013-02-04 19:47:30] github-appium, leaving. (#appium)
+[2013-02-04 19:54:23] admc1, joining. (#appium)
