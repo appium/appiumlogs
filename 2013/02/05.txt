@@ -80,3 +80,23 @@
 [2013-02-05 11:15:19] jcarr: toks: ping
 [2013-02-05 11:24:04] toks: pong
 [2013-02-05 11:29:49] jcarr: so you were having trouble getting the iphone not ipad sim?
+[2013-02-05 11:30:02] toks: ^_^
+[2013-02-05 11:30:09] toks: true.dat
+[2013-02-05 11:30:25] jcarr: what's happening is that instruments is detecting what the app is compiled for
+[2013-02-05 11:30:32] jcarr: and launching the simulator a certain way
+[2013-02-05 11:30:34] toks: O_o;;;;;
+[2013-02-05 11:30:39] jcarr: universal apps will *always* launch in the ipad
+[2013-02-05 11:30:44] jcarr: there is a worksaround though
+[2013-02-05 11:30:47] toks: oooooohhhh
+[2013-02-05 11:30:54] *toks is all ears'
+[2013-02-05 11:30:59] toks: (eyes?)
+[2013-02-05 11:31:11] jcarr: if you build the app with the xcodebuild utility and pass 'TARGETED_DEVICE_FAMILY=1' at the command line, you'll get an iphone only version of the app
+[2013-02-05 11:31:20] toks: I tried that!
+[2013-02-05 11:31:24] toks: oh wait
+[2013-02-05 11:31:37] toks: yeah, I tried that... but.. maybe didn't spell it that way
+[2013-02-05 11:31:39] toks: lemme see
+[2013-02-05 11:32:10] alexglow, joining. (#appium)
+[2013-02-05 11:32:31] toks: ah, yeah... you have TARGETED
+[2013-02-05 11:32:33] toks: I had TARGET
+[2013-02-05 11:32:34] toks: okay
+[2013-02-05 11:32:58] *toks tries jcarr's way'
