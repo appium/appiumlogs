@@ -171,3 +171,10 @@
 [2013-02-05 14:58:05] ownedbyshiba, quitting. (Quit: Leaving.)
 [2013-02-05 15:02:59] ownedbyshiba, joining. (#appium)
 [2013-02-05 15:19:34] santiycr, quitting. (Quit: Leaving.)
+[2013-02-05 15:22:10] admc, joining. (#appium)
+[2013-02-05 15:23:09] github-appium, joining. (#appium)
+[2013-02-05 15:23:09] github-appium: [appium] bernii pushed 3 new commits to master: http://git.io/oJrjxw
+[2013-02-05 15:23:09] github-appium: appium/master 38e4837 Jonathan Lipps: reformatting execute.js
+[2013-02-05 15:23:09] github-appium: appium/master 623edea Jonathan Lipps: add framework for supporting non-selenium commands, and add complex tap action as an example
+[2013-02-05 15:23:09] github-appium: appium/master 16fb120 Bernard Kobos: Merge pull request #127 from jlipps/master...
+[2013-02-05 15:23:09] github-appium, leaving. (#appium)
