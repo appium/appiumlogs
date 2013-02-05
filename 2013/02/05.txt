@@ -178,3 +178,4 @@
 [2013-02-05 15:23:09] github-appium: appium/master 623edea Jonathan Lipps: add framework for supporting non-selenium commands, and add complex tap action as an example
 [2013-02-05 15:23:09] github-appium: appium/master 16fb120 Bernard Kobos: Merge pull request #127 from jlipps/master...
 [2013-02-05 15:23:09] github-appium, leaving. (#appium)
+[2013-02-05 15:28:17] santiycr, joining. (#appium)
