@@ -452,3 +452,12 @@
 [2013-02-04 21:40:56] github-appium: appium/master 63b0d60 Sebastian Tiedtke: Added more info to exception.
 [2013-02-04 21:40:56] github-appium: appium/master 0be87d2 Adam Christian: Merge pull request #113 from sourishkrout/master...
 [2013-02-04 21:40:56] github-appium, leaving. (#appium)
+[2013-02-04 22:13:32] github-appium, joining. (#appium)
+[2013-02-04 22:13:32] github-appium: [appium] sourishkrout opened pull request #114: Check ENV for Appium.app (master...master)  http://git.io/G2pGUw
+[2013-02-04 22:13:32] github-appium, leaving. (#appium)
+[2013-02-04 22:13:36] sourishkrout: admc1: ^^
+[2013-02-04 22:14:14] github-appium, joining. (#appium)
+[2013-02-04 22:14:14] github-appium: [appium] admc pushed 2 new commits to master: http://git.io/0tqkCQ
+[2013-02-04 22:14:15] github-appium: appium/master 36d409c Sebastian Tiedtke: Check ENV for Appium.app.
+[2013-02-04 22:14:15] github-appium: appium/master 0a9c3de Adam Christian: Merge pull request #114 from sourishkrout/master...
+[2013-02-04 22:14:15] github-appium, leaving. (#appium)
