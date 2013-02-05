@@ -462,3 +462,8 @@
 [2013-02-04 22:14:15] github-appium: appium/master 0a9c3de Adam Christian: Merge pull request #114 from sourishkrout/master...
 [2013-02-04 22:14:15] github-appium, leaving. (#appium)
 [2013-02-04 22:17:05] admc1, changing nick to admc.
+[2013-02-04 22:28:39] github-appium, joining. (#appium)
+[2013-02-04 22:28:40] github-appium: [appium] sourishkrout opened pull request #115: Be less cryptic in case Appium couldn't start up. (master...master)  http://git.io/hNxgGA
+[2013-02-04 22:28:40] github-appium, leaving. (#appium)
+[2013-02-04 22:28:44] sourishkrout: admc: ^^ merge please
+[2013-02-04 22:29:33] berni1, quitting. (Read error: Connection reset by peer)
