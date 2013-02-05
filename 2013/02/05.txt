@@ -143,3 +143,4 @@
 [2013-02-05 12:20:58] lukeis, leaving. (#appium)
 [2013-02-05 12:29:02] sourishkrout, quitting. (Quit: Leaving.)
 [2013-02-05 12:31:52] stackedsax, quitting. (Quit: Leaving.)
+[2013-02-05 12:36:44] jlipps, joining. (#appium)
