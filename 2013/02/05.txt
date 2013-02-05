@@ -168,3 +168,4 @@
 [2013-02-05 14:28:47] toks: ^_^
 [2013-02-05 14:29:02] santiycr, joining. (#appium)
 [2013-02-05 14:47:39] admc, quitting. (Quit: Leaving.)
+[2013-02-05 14:58:05] ownedbyshiba, quitting. (Quit: Leaving.)
