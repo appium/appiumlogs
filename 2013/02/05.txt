@@ -58,3 +58,5 @@
 [2013-02-05 10:35:29] toks: but yeah, this is all because I've been shown that our app has a different layout for iPhone and I won't have the issue of not being able to dismiss one of the UIA views
 [2013-02-05 10:37:11] toks: and....
 [2013-02-05 10:37:14] toks, changing nick to toks-meeting.
+[2013-02-05 10:51:41] alexglow, quitting. (Ping timeout: 245 seconds)
+[2013-02-05 10:54:43] admc, joining. (#appium)
