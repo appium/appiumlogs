@@ -391,3 +391,6 @@
 [2013-02-04 18:57:00] toks, quitting. (Ping timeout: 252 seconds)
 [2013-02-04 19:22:02] stackedsax, joining. (#appium)
 [2013-02-04 19:27:07] jcarr, quitting. (Quit: Leaving.)
+[2013-02-04 19:35:59] smccarthy, quitting. (Remote host closed the connection)
+[2013-02-04 19:39:33] smccarthy, joining. (#appium)
+[2013-02-04 19:39:50] smccarthy, quitting. (Remote host closed the connection)
