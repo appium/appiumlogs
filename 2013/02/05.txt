@@ -3,3 +3,9 @@
 [2013-02-05 00:40:26] sourishkrout, joining. (#appium)
 [2013-02-05 01:07:09] alexglow, quitting. (Ping timeout: 256 seconds)
 [2013-02-05 01:11:48] alexglow, joining. (#appium)
+[2013-02-05 01:15:35] stackedsax, joining. (#appium)
+[2013-02-05 01:16:01] alexglow, quitting. (Ping timeout: 240 seconds)
+[2013-02-05 01:16:23] github-appium, joining. (#appium)
+[2013-02-05 01:16:23] github-appium: [appium] jlipps opened pull request #118: readme update (master...master)  http://git.io/NRm8jw
+[2013-02-05 01:16:23] github-appium, leaving. (#appium)
+[2013-02-05 01:16:51] alexglow, joining. (#appium)
