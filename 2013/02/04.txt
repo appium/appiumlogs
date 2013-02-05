@@ -394,3 +394,6 @@
 [2013-02-04 19:35:59] smccarthy, quitting. (Remote host closed the connection)
 [2013-02-04 19:39:33] smccarthy, joining. (#appium)
 [2013-02-04 19:39:50] smccarthy, quitting. (Remote host closed the connection)
+[2013-02-04 19:44:58] github-appium, joining. (#appium)
+[2013-02-04 19:44:58] github-appium: [appium] admc opened pull request #107: Show the actual version number from the cmd line (master...master)  http://git.io/1NgSCQ
+[2013-02-04 19:44:58] github-appium, leaving. (#appium)
