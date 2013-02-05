@@ -473,3 +473,5 @@
 [2013-02-04 22:34:46] github-appium: appium/master ceb753f Sebastian Tiedtke: Be friendlier in case Appium is already running.
 [2013-02-04 22:34:46] github-appium: appium/master 1d78623 Adam Christian: Merge pull request #115 from sourishkrout/master...
 [2013-02-04 22:34:46] github-appium, leaving. (#appium)
+[2013-02-04 22:44:52] rodericj1, joining. (#appium)
+[2013-02-04 22:44:52] rodericj, quitting. (Read error: Connection reset by peer)
