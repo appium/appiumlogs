@@ -26,3 +26,5 @@
 [2013-02-05 01:53:14] github-appium: [appium] sourishkrout pushed 1 new commit to master: http://git.io/IArzWg
 [2013-02-05 01:53:14] github-appium: appium/master 6080a32 Sebastian Tiedtke: Verion bump
 [2013-02-05 01:53:14] github-appium, leaving. (#appium)
+[2013-02-05 01:55:53] alexglow, quitting. (Ping timeout: 256 seconds)
+[2013-02-05 01:56:38] alexglow, joining. (#appium)
