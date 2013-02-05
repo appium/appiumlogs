@@ -160,3 +160,4 @@
 [2013-02-05 14:11:44] github-appium: [appium] jlipps opened pull request #127: reformatting some test code (master...master)  http://git.io/agJgHQ
 [2013-02-05 14:11:44] github-appium, leaving. (#appium)
 [2013-02-05 14:12:06] jlipps: yes! rejoice in the front page-age. or whatever alternative emotional expression.
+[2013-02-05 14:18:29] ownedbyshiba, joining. (#appium)
