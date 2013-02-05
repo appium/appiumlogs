@@ -347,3 +347,5 @@
 [2013-02-04 17:42:58] github-appium, joining. (#appium)
 [2013-02-04 17:42:58] github-appium: [appium] santiycr opened pull request #103: squashing the bugs (master...master)  http://git.io/7s0OQw
 [2013-02-04 17:42:58] github-appium, leaving. (#appium)
+[2013-02-04 17:48:25] toks: ....
+[2013-02-04 17:49:38] sourishkrout: i think it's in a plist
