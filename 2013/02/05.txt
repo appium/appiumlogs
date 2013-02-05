@@ -170,3 +170,4 @@
 [2013-02-05 14:47:39] admc, quitting. (Quit: Leaving.)
 [2013-02-05 14:58:05] ownedbyshiba, quitting. (Quit: Leaving.)
 [2013-02-05 15:02:59] ownedbyshiba, joining. (#appium)
+[2013-02-05 15:19:34] santiycr, quitting. (Quit: Leaving.)
