@@ -156,3 +156,7 @@
 [2013-02-05 13:55:35] ownedbyshiba, quitting. (Quit: Leaving.)
 [2013-02-05 13:58:08] bradleymeck, quitting. (Quit: bradleymeck)
 [2013-02-05 14:09:59] admc, joining. (#appium)
+[2013-02-05 14:11:44] github-appium, joining. (#appium)
+[2013-02-05 14:11:44] github-appium: [appium] jlipps opened pull request #127: reformatting some test code (master...master)  http://git.io/agJgHQ
+[2013-02-05 14:11:44] github-appium, leaving. (#appium)
+[2013-02-05 14:12:06] jlipps: yes! rejoice in the front page-age. or whatever alternative emotional expression.
