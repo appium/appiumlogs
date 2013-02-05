@@ -1,2 +1,3 @@
 [2013-02-05 00:11:44] sourishkrout, quitting. (Quit: Leaving.)
 [2013-02-05 00:32:23] alexglow, joining. (#appium)
+[2013-02-05 00:40:26] sourishkrout, joining. (#appium)
