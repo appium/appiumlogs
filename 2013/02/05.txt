@@ -132,3 +132,6 @@
 [2013-02-05 11:40:30] jcarr: http://www.youtube.com/watch?v=ouDDj6kr1qo
 [2013-02-05 11:40:54] toks: lol
 [2013-02-05 11:53:53] sahazel: look, it's appium on HN: http://news.ycombinator.com/item?id=5172747
+[2013-02-05 11:55:52] stackedsax, quitting. (Quit: Leaving.)
+[2013-02-05 11:56:10] jcarr, leaving. (#appium)
+[2013-02-05 11:59:58] ownedbyshiba, quitting. (Quit: Leaving.)
