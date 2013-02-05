@@ -443,3 +443,7 @@
 [2013-02-04 20:50:29] github-appium: appium/master 66d970c Santiago Suarez Ordoñez: getText and click in webviews working...
 [2013-02-04 20:50:29] github-appium: appium/master b184e58 Sebastian Tiedtke: Merge pull request #111 from santiycr/master...
 [2013-02-04 20:50:29] github-appium, leaving. (#appium)
+[2013-02-04 21:38:47] github-appium, joining. (#appium)
+[2013-02-04 21:38:47] github-appium: [appium] sourishkrout opened pull request #113: Added more info to exception. (master...master)  http://git.io/XTMlag
+[2013-02-04 21:38:47] github-appium, leaving. (#appium)
+[2013-02-04 21:39:07] sourishkrout: admc1: ^^
