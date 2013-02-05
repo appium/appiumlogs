@@ -161,3 +161,9 @@
 [2013-02-05 14:11:44] github-appium, leaving. (#appium)
 [2013-02-05 14:12:06] jlipps: yes! rejoice in the front page-age. or whatever alternative emotional expression.
 [2013-02-05 14:18:29] ownedbyshiba, joining. (#appium)
+[2013-02-05 14:25:13] jcarr, joining. (#appium)
+[2013-02-05 14:25:16] jcarr: :log
+[2013-02-05 14:25:27] sahazel: toks: guilty
+[2013-02-05 14:27:19] sourishkrout, joining. (#appium)
+[2013-02-05 14:28:47] toks: ^_^
+[2013-02-05 14:29:02] santiycr, joining. (#appium)
