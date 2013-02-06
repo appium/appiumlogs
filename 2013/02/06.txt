@@ -17,3 +17,10 @@
 [2013-02-06 07:53:23] bradleymeck, joining. (#appium)
 [2013-02-06 07:57:02] smccarthy, joining. (#appium)
 [2013-02-06 08:15:17] stackedsax, joining. (#appium)
+[2013-02-06 08:29:11] bradleymeck, quitting. (Quit: bradleymeck)
+[2013-02-06 08:29:59] github-appium, joining. (#appium)
+[2013-02-06 08:29:59] github-appium: [appium] hugs pushed 3 new commits to master: http://git.io/flTsqQ
+[2013-02-06 08:29:59] github-appium: appium/master ba53258 Satchit Haridas: Update README.md...
+[2013-02-06 08:29:59] github-appium: appium/master 72998cf Satchit Haridas: Update README.md...
+[2013-02-06 08:29:59] github-appium: appium/master 5e99075 Jason Huggins: Merge pull request #129 from satchit/patch-1...
+[2013-02-06 08:29:59] github-appium, leaving. (#appium)
