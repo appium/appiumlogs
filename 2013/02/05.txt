@@ -186,3 +186,5 @@
 [2013-02-05 16:15:03] github-appium, leaving. (#appium)
 [2013-02-05 16:27:52] ownedbyshiba: TomV-415 - hey, just saw your message. we have a ruby evangelist nearly on board. he's on aussie time though, so i'm going to send your message to him. do you have a help ticket open?
 [2013-02-05 16:28:07] ownedbyshiba: not "nearly"… "newly"
+[2013-02-05 16:31:20] awilson820, joining. (#appium)
+[2013-02-05 16:32:53] ownedbyshiba: oops. wrong window.
