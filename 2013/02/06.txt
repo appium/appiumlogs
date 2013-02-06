@@ -167,3 +167,9 @@
 [2013-02-06 13:58:58] github-appium, joining. (#appium)
 [2013-02-06 13:58:58] github-appium: [appium] jlipps opened pull request #133: Refactor uiautomation code and adjust tests (master...master)  http://git.io/CGTIpw
 [2013-02-06 13:58:58] github-appium, leaving. (#appium)
+[2013-02-06 14:03:59] github-appium, joining. (#appium)
+[2013-02-06 14:03:59] github-appium: [appium] bernii pushed 12 new commits to master: http://git.io/tVz8FA
+[2013-02-06 14:03:59] github-appium: appium/master 96bbf52 Jonathan Lipps: rename this file so we can put other tests in it
+[2013-02-06 14:03:59] github-appium: appium/master d8181b0 Jonathan Lipps: move element-related functions from base into element
+[2013-02-06 14:03:59] github-appium: appium/master 9bb5e70 Jonathan Lipps: don't keep track of web frames in uiautomation but remote debugger
+[2013-02-06 14:03:59] github-appium, leaving. (#appium)
