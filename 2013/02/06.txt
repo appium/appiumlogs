@@ -173,3 +173,5 @@
 [2013-02-06 14:03:59] github-appium: appium/master d8181b0 Jonathan Lipps: move element-related functions from base into element
 [2013-02-06 14:03:59] github-appium: appium/master 9bb5e70 Jonathan Lipps: don't keep track of web frames in uiautomation but remote debugger
 [2013-02-06 14:03:59] github-appium, leaving. (#appium)
+[2013-02-06 14:20:36] *toks doing stuff'
+[2013-02-06 14:20:41] toks: wrong channel....
