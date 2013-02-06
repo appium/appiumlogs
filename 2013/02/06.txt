@@ -105,3 +105,5 @@
 [2013-02-06 11:43:16] toks: but typing into it?
 [2013-02-06 11:43:17] toks: ....hmm
 [2013-02-06 11:44:17] toks: http://aboutselenium.blogspot.com/2011/11/handling-alert-prompt-and-confirmation.html
+[2013-02-06 11:45:03] toks: Maybe some crazy variant of that stuff works for iOS?
+[2013-02-06 11:47:33] santiycr, joining. (#appium)
