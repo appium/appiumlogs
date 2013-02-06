@@ -218,3 +218,5 @@
 [2013-02-05 20:27:15] stackedsax, quitting. (Quit: Leaving.)
 [2013-02-05 20:40:34] rodericj1, quitting. (Quit: Leaving.)
 [2013-02-05 20:59:03] sahazel, joining. (#appium)
+[2013-02-05 21:11:39] stackedsax, joining. (#appium)
+[2013-02-05 21:13:09] stackedsax, quitting. (Read error: Connection reset by peer)
