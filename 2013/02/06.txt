@@ -111,3 +111,4 @@
 [2013-02-06 11:53:20] sp0cksbeard: also looking at the appium server code to see if it lets me send some commands over the wire
 [2013-02-06 11:55:38] toks: o.o
 [2013-02-06 11:55:59] toks: for the most part, https://github.com/appium/appium/blob/master/app/routing.js
+[2013-02-06 12:20:44] bradleymeck, joining. (#appium)
