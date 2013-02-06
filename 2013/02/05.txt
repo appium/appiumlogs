@@ -211,3 +211,4 @@
 [2013-02-05 18:54:44] toks, quitting. (Ping timeout: 248 seconds)
 [2013-02-05 19:04:56] sahazel, quitting. (Ping timeout: 256 seconds)
 [2013-02-05 19:20:06] bradleymeck, joining. (#appium)
+[2013-02-05 19:31:56] bradleymeck, quitting. (Quit: bradleymeck)
