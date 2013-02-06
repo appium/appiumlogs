@@ -121,3 +121,4 @@
 [2013-02-06 13:00:20] github-appium: [appium] santiycr opened pull request #132: Some code cleanup (master...master)  http://git.io/QJ3L5Q
 [2013-02-06 13:00:20] github-appium, leaving. (#appium)
 [2013-02-06 13:11:34] santiycr, quitting. (Quit: Leaving.)
+[2013-02-06 13:20:49] bradleymeck, quitting. (Quit: bradleymeck)
