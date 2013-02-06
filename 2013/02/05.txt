@@ -199,3 +199,5 @@
 [2013-02-05 18:00:45] toks, joining. (#appium)
 [2013-02-05 18:02:01] admc, quitting. (Quit: Leaving.)
 [2013-02-05 18:02:37] awilson820, quitting. (Quit: Leaving.)
+[2013-02-05 18:09:36] smccarthy, joining. (#appium)
+[2013-02-05 18:09:42] santiycr, quitting. (Quit: Leaving.)
