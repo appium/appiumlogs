@@ -147,3 +147,7 @@
 [2013-02-06 13:44:00] jlipps: and a correction to what I just said re: timeout: implicit wait is actually something different. we don't currently have the command timeout exposed -- working on that now though.
 [2013-02-06 13:44:39] jlipps: here's an idea re: the textfield sp0cksbeard. what about clicking on an x,y coordinate using driver.execute("mobile: …"), then using driver.keys() to send a sequence of keystrokes?
 [2013-02-06 13:44:45] jlipps: a bit janky but it could work
+[2013-02-06 13:45:35] sp0cksbeard: the driver instance I've access to doesn't seem to have a "keys" or a "send_keys" method. is that newly added?
+[2013-02-06 13:46:02] sp0cksbeard: i'm using the python webdriver
+[2013-02-06 13:46:09] jlipps: let me check what it is in python
+[2013-02-06 13:49:17] jlipps: sp0cksbeard: hmm looks like it's on the "element" obj in the python bindings: http://selenium.googlecode.com/svn/trunk/docs/api/py/webdriver_remote/selenium.webdriver.remote.webelement.html
