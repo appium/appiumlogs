@@ -220,3 +220,5 @@
 [2013-02-05 20:59:03] sahazel, joining. (#appium)
 [2013-02-05 21:11:39] stackedsax, joining. (#appium)
 [2013-02-05 21:13:09] stackedsax, quitting. (Read error: Connection reset by peer)
+[2013-02-05 21:46:09] Rolken, quitting. (Excess Flood)
+[2013-02-05 21:48:00] Rolken, joining. (#appium)
