@@ -8,3 +8,9 @@
 [2013-02-06 07:11:32] github-appium, joining. (#appium)
 [2013-02-06 07:11:32] github-appium: [appium] satchit opened pull request #129: Update README.md (master...patch-1)  http://git.io/DViVgg
 [2013-02-06 07:11:32] github-appium, leaving. (#appium)
+[2013-02-06 07:22:24] github-appium, joining. (#appium)
+[2013-02-06 07:22:25] github-appium: [appium] hugs pushed 3 new commits to master: http://git.io/J-N6_w
+[2013-02-06 07:22:25] github-appium: appium/master 604bd45 Dylan Lacey: Created a cucumber example along with documentation about what it means.
+[2013-02-06 07:22:25] github-appium: appium/master cde11f1 Dylan Lacey: Added additional explaination.
+[2013-02-06 07:22:25] github-appium: appium/master 3c1e435 Jason Huggins: Merge pull request #128 from DylanLacey/master...
+[2013-02-06 07:22:25] github-appium, leaving. (#appium)
