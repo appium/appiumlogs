@@ -15,3 +15,4 @@
 [2013-02-06 07:22:25] github-appium: appium/master 3c1e435 Jason Huggins: Merge pull request #128 from DylanLacey/master...
 [2013-02-06 07:22:25] github-appium, leaving. (#appium)
 [2013-02-06 07:53:23] bradleymeck, joining. (#appium)
+[2013-02-06 07:57:02] smccarthy, joining. (#appium)
