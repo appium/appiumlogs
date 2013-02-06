@@ -192,3 +192,4 @@
 [2013-02-05 16:39:16] sourishkrout1, quitting. (Client Quit)
 [2013-02-05 16:41:11] sourishkrout, quitting. (Ping timeout: 252 seconds)
 [2013-02-05 16:56:54] ownedbyshiba, leaving. (#appium)
+[2013-02-05 17:18:21] toks, quitting. (Ping timeout: 245 seconds)
