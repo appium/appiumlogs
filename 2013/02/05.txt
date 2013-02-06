@@ -223,3 +223,4 @@
 [2013-02-05 21:46:09] Rolken, quitting. (Excess Flood)
 [2013-02-05 21:48:00] Rolken, joining. (#appium)
 [2013-02-05 22:03:12] bradleymeck, joining. (#appium)
+[2013-02-05 22:11:20] stackedsax, joining. (#appium)
