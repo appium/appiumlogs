@@ -196,3 +196,6 @@
 [2013-02-05 17:37:47] santiycr, quitting. (Quit: Leaving.)
 [2013-02-05 17:38:04] bradleymeck, joining. (#appium)
 [2013-02-05 17:53:13] santiycr, joining. (#appium)
+[2013-02-05 18:00:45] toks, joining. (#appium)
+[2013-02-05 18:02:01] admc, quitting. (Quit: Leaving.)
+[2013-02-05 18:02:37] awilson820, quitting. (Quit: Leaving.)
