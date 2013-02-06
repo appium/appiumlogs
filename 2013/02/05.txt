@@ -205,3 +205,7 @@
 [2013-02-05 18:15:13] jcarr, quitting. (Quit: Leaving.)
 [2013-02-05 18:15:13] jlipps, quitting. (Quit: jlipps)
 [2013-02-05 18:31:03] bradleymeck, quitting. (Quit: bradleymeck)
+[2013-02-05 18:52:10] copongcopong, joining. (#appium)
+[2013-02-05 18:53:55] berni, quitting. (Read error: Connection reset by peer)
+[2013-02-05 18:54:08] berni, joining. (#appium)
+[2013-02-05 18:54:44] toks, quitting. (Ping timeout: 248 seconds)
