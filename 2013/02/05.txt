@@ -230,3 +230,4 @@
 [2013-02-05 23:19:05] admc1, quitting. (Quit: Leaving.)
 [2013-02-05 23:37:52] bradleymeck, quitting. (Read error: Connection reset by peer)
 [2013-02-05 23:38:13] bradleymeck, joining. (#appium)
+[2013-02-05 23:55:39] alexglow, joining. (#appium)
