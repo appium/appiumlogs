@@ -86,3 +86,12 @@
 [2013-02-06 11:08:29] toks: so you can see if server.js actually did your command, or it just didn't work
 [2013-02-06 11:08:49] toks: (it'd be nice if it responded to the webdriver with a failure...)
 [2013-02-06 11:14:54] sp0cksbeard: thanks. yeah
+[2013-02-06 11:20:34] sp0cksbeard: hmm. appium can't seem to find a textField inside an alert
+[2013-02-06 11:20:52] sp0cksbeard: and it can't find an element with an "alert" tagname either
+[2013-02-06 11:21:51] sp0cksbeard: in UIAutomation, I would override the onAlert handler to access the textField in an alert
+[2013-02-06 11:21:55] toks: o.o
+[2013-02-06 11:22:24] toks: if you do : driver.page_source
+[2013-02-06 11:22:29] toks: you'll get a whole bunch of stuff
+[2013-02-06 11:22:37] toks: is that alert anywhere in there?
+[2013-02-06 11:24:29] sp0cksbeard: no
+[2013-02-06 11:24:37] toks: uh oh :(
