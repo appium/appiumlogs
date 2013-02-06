@@ -215,3 +215,4 @@
 [2013-02-05 19:41:49] smccarthy, quitting. (Remote host closed the connection)
 [2013-02-05 19:50:29] rodericj1, joining. (#appium)
 [2013-02-05 19:50:29] rodericj, quitting. (Read error: Connection reset by peer)
+[2013-02-05 20:27:15] stackedsax, quitting. (Quit: Leaving.)
