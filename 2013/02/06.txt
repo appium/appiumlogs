@@ -151,3 +151,16 @@
 [2013-02-06 13:46:02] sp0cksbeard: i'm using the python webdriver
 [2013-02-06 13:46:09] jlipps: let me check what it is in python
 [2013-02-06 13:49:17] jlipps: sp0cksbeard: hmm looks like it's on the "element" obj in the python bindings: http://selenium.googlecode.com/svn/trunk/docs/api/py/webdriver_remote/selenium.webdriver.remote.webelement.html
+[2013-02-06 13:50:07] jlipps: jcarr: do you know how to access the keys method in python bindings?
+[2013-02-06 13:50:20] jcarr: this was brought up in #selenium yesterday - there is not
+[2013-02-06 13:50:24] berni, joining. (#appium)
+[2013-02-06 13:50:30] jcarr: lukeis knows all about that, but he seems to be absent
+[2013-02-06 13:50:51] jlipps: ah. sounds like a great thing for someone to contribute then
+[2013-02-06 13:50:55] jcarr: indeed
+[2013-02-06 13:51:00] jlipps: should be a pretty easy driver-level contrib
+[2013-02-06 13:51:05] santiycr, quitting. (Ping timeout: 255 seconds)
+[2013-02-06 13:51:12] jcarr: I think luke put a pull up alredy
+[2013-02-06 13:52:20] jcarr: luke has an untested patch that adds it
+[2013-02-06 13:52:29] jcarr: http://github.com/lukeis/selenium
+[2013-02-06 13:52:30] jlipps: i see ok
+[2013-02-06 13:52:59] jlipps: looks solid
