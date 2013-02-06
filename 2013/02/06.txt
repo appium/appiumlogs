@@ -77,3 +77,11 @@
 [2013-02-06 11:03:44] toks: lemme show ya ... hold
 [2013-02-06 11:03:45] toks: on
 [2013-02-06 11:04:46] toks: hmm.... I know I saw it... it's like "timeout = 60" or something
+[2013-02-06 11:05:26] sp0cksbeard: checking… :-)
+[2013-02-06 11:05:51] toks: ah https://github.com/appium/appium/blob/master/app/uiauto/lib/instruments_client.js
+[2013-02-06 11:06:04] toks: See at the top, that = 60 thing
+[2013-02-06 11:06:13] sp0cksbeard: thanks! :-)
+[2013-02-06 11:06:22] toks: ^_^
+[2013-02-06 11:08:08] toks: (oh, and it's node server.js --app /path/to/whatever.app -V 1 -a <IPaddr>
+[2013-02-06 11:08:29] toks: so you can see if server.js actually did your command, or it just didn't work
+[2013-02-06 11:08:49] toks: (it'd be nice if it responded to the webdriver with a failure...)
