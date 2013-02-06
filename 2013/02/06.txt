@@ -85,3 +85,4 @@
 [2013-02-06 11:08:08] toks: (oh, and it's node server.js --app /path/to/whatever.app -V 1 -a <IPaddr>
 [2013-02-06 11:08:29] toks: so you can see if server.js actually did your command, or it just didn't work
 [2013-02-06 11:08:49] toks: (it'd be nice if it responded to the webdriver with a failure...)
+[2013-02-06 11:14:54] sp0cksbeard: thanks. yeah
