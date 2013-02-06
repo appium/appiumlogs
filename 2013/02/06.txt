@@ -54,3 +54,8 @@
 [2013-02-06 10:44:24] toks: okay, so... yeah... provisioning
 [2013-02-06 10:44:36] toks: it no workie :p
 [2013-02-06 10:44:45] *toks runs to stackoverflow '
+[2013-02-06 10:45:56] jcarr, joining. (#appium)
+[2013-02-06 10:46:12] smccarthy, quitting. (Remote host closed the connection)
+[2013-02-06 10:47:41] smccarthy, joining. (#appium)
+[2013-02-06 10:47:44] smccarthy, quitting. (Remote host closed the connection)
+[2013-02-06 10:49:52] jlipps, joining. (#appium)
