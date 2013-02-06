@@ -113,3 +113,5 @@
 [2013-02-06 11:55:59] toks: for the most part, https://github.com/appium/appium/blob/master/app/routing.js
 [2013-02-06 12:20:44] bradleymeck, joining. (#appium)
 [2013-02-06 12:33:01] awilson820, quitting. (Quit: Leaving.)
+[2013-02-06 12:35:09] awilson820, joining. (#appium)
+[2013-02-06 12:36:32] sourishkrout, quitting. (Quit: Leaving.)
