@@ -204,3 +204,4 @@
 [2013-02-05 18:12:28] alexglow, quitting. (Ping timeout: 272 seconds)
 [2013-02-05 18:15:13] jcarr, quitting. (Quit: Leaving.)
 [2013-02-05 18:15:13] jlipps, quitting. (Quit: jlipps)
+[2013-02-05 18:31:03] bradleymeck, quitting. (Quit: bradleymeck)
