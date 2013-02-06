@@ -59,3 +59,7 @@
 [2013-02-06 10:47:41] smccarthy, joining. (#appium)
 [2013-02-06 10:47:44] smccarthy, quitting. (Remote host closed the connection)
 [2013-02-06 10:49:52] jlipps, joining. (#appium)
+[2013-02-06 10:59:03] sp0cksbeard, joining. (#appium)
+[2013-02-06 10:59:34] sp0cksbeard: hi, is there a way to send custom UIAutomation commands to appium?
+[2013-02-06 10:59:44] toks: o.O
+[2013-02-06 10:59:55] sp0cksbeard: I'm trying to find a way to write to a textField inside an alert dialog
