@@ -37,3 +37,6 @@
 [2013-02-06 10:04:39] smccarthy, joining. (#appium)
 [2013-02-06 10:23:58] awilson820, quitting. (Quit: Leaving.)
 [2013-02-06 10:24:54] toks, joining. (#appium)
+[2013-02-06 10:25:33] smccarthy, quitting. (Ping timeout: 276 seconds)
+[2013-02-06 10:26:39] smccarthy, joining. (#appium)
+[2013-02-06 10:28:32] alexglow, joining. (#appium)
