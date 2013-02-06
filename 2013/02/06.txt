@@ -188,3 +188,4 @@
 [2013-02-06 14:42:15] github-appium: appium/master 68b5486 Jonathan Lipps: add special mobile function for setting command timeout
 [2013-02-06 14:42:15] github-appium: appium/master e5fd25e Bernard Kobos: Merge pull request #134 from jlipps/master...
 [2013-02-06 14:42:15] github-appium, leaving. (#appium)
+[2013-02-06 15:06:05] toks: removed whitespace?! Noooooooooo!
