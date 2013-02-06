@@ -175,3 +175,7 @@
 [2013-02-06 14:03:59] github-appium, leaving. (#appium)
 [2013-02-06 14:20:36] *toks doing stuff'
 [2013-02-06 14:20:41] toks: wrong channel....
+[2013-02-06 14:25:44] toks: https://issues.rax.io/browse/MIOS-57
+[2013-02-06 14:25:47] toks: arghh!!!!
+[2013-02-06 14:25:52] toks: freakin' wrong channel
+[2013-02-06 14:27:45] sp0cksbeard, quitting. (Quit: sp0cksbeard)
