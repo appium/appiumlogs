@@ -63,3 +63,17 @@
 [2013-02-06 10:59:34] sp0cksbeard: hi, is there a way to send custom UIAutomation commands to appium?
 [2013-02-06 10:59:44] toks: o.O
 [2013-02-06 10:59:55] sp0cksbeard: I'm trying to find a way to write to a textField inside an alert dialog
+[2013-02-06 11:00:16] toks: you can't click on it, and do send_keys?
+[2013-02-06 11:01:37] sp0cksbeard: I tried to switch_to_alert and then do a send_keys, but it didn't seem to work
+[2013-02-06 11:02:00] toks: Hmm... I'm not sure switch_to_alert is even implemented
+[2013-02-06 11:02:13] toks: if you start server.js with a -v(I think)
+[2013-02-06 11:02:22] toks: you'll see how it responds to each command
+[2013-02-06 11:02:26] toks: if you get "501"
+[2013-02-06 11:02:32] toks: it's not implemeneted
+[2013-02-06 11:03:11] sp0cksbeard: checking it out… another question. is there a way to increase the timeout for how long the server waits for a command?
+[2013-02-06 11:03:22] toks: ah :)
+[2013-02-06 11:03:25] toks: I had that issue :p
+[2013-02-06 11:03:33] toks: you have to patch it yourself
+[2013-02-06 11:03:44] toks: lemme show ya ... hold
+[2013-02-06 11:03:45] toks: on
+[2013-02-06 11:04:46] toks: hmm.... I know I saw it... it's like "timeout = 60" or something
