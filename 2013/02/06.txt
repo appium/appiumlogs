@@ -40,3 +40,17 @@
 [2013-02-06 10:25:33] smccarthy, quitting. (Ping timeout: 276 seconds)
 [2013-02-06 10:26:39] smccarthy, joining. (#appium)
 [2013-02-06 10:28:32] alexglow, joining. (#appium)
+[2013-02-06 10:41:26] toks: so....
+[2013-02-06 10:41:34] toks: HEY EVERYBODY!!!!
+[2013-02-06 10:41:38] *toks waves like a crazy person'
+[2013-02-06 10:41:54] toks: but yeah, provision profiles for ipa
+[2013-02-06 10:42:03] toks: ...and xcodebuild
+[2013-02-06 10:42:58] toks: $ /usr/bin/xcodebuild -target "Rackspace Cloud" -configuration Debug clean build CODE_SIGNING_REQUIRED=NO PROVISIONING_PROFILE=/path/to/file.mobileprovision CODE_SIGNING_REQUIRED=NO  CODE_SIGN_IDENTITY=
+[2013-02-06 10:43:02] toks: and.... brb
+[2013-02-06 10:43:04] toks, changing nick to toks-meeting.
+[2013-02-06 10:44:14] toks-meeting, changing nick to toks.
+[2013-02-06 10:44:16] toks: POPA
+[2013-02-06 10:44:17] toks: RET
+[2013-02-06 10:44:24] toks: okay, so... yeah... provisioning
+[2013-02-06 10:44:36] toks: it no workie :p
+[2013-02-06 10:44:45] *toks runs to stackoverflow '
