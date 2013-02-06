@@ -98,3 +98,4 @@
 [2013-02-06 11:25:27] sp0cksbeard: the server logged a "calling onAlert"
 [2013-02-06 11:25:46] sp0cksbeard: and then a "[ScriptAgent handleAlert:]: Call to onAlert returned 'YES'"
 [2013-02-06 11:27:38] toks: hmm
+[2013-02-06 11:37:01] awilson820, joining. (#appium)
