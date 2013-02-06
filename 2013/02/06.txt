@@ -16,3 +16,4 @@
 [2013-02-06 07:22:25] github-appium, leaving. (#appium)
 [2013-02-06 07:53:23] bradleymeck, joining. (#appium)
 [2013-02-06 07:57:02] smccarthy, joining. (#appium)
+[2013-02-06 08:15:17] stackedsax, joining. (#appium)
