@@ -190,3 +190,4 @@
 [2013-02-05 16:32:53] ownedbyshiba: oops. wrong window.
 [2013-02-05 16:39:14] sourishkrout1, joining. (#appium)
 [2013-02-05 16:39:16] sourishkrout1, quitting. (Client Quit)
+[2013-02-05 16:41:11] sourishkrout, quitting. (Ping timeout: 252 seconds)
