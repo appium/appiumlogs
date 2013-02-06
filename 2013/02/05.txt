@@ -181,3 +181,6 @@
 [2013-02-05 15:28:17] santiycr, joining. (#appium)
 [2013-02-05 15:46:03] ownedbyshiba, quitting. (Quit: Leaving.)
 [2013-02-05 15:46:50] ownedbyshiba, joining. (#appium)
+[2013-02-05 16:15:03] github-appium, joining. (#appium)
+[2013-02-05 16:15:03] github-appium: [appium] sourishkrout deleted upstream at 7398795: http://git.io/bOGGNQ
+[2013-02-05 16:15:03] github-appium, leaving. (#appium)
