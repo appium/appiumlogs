@@ -164,3 +164,6 @@
 [2013-02-06 13:52:29] jcarr: http://github.com/lukeis/selenium
 [2013-02-06 13:52:30] jlipps: i see ok
 [2013-02-06 13:52:59] jlipps: looks solid
+[2013-02-06 13:58:58] github-appium, joining. (#appium)
+[2013-02-06 13:58:58] github-appium: [appium] jlipps opened pull request #133: Refactor uiautomation code and adjust tests (master...master)  http://git.io/CGTIpw
+[2013-02-06 13:58:58] github-appium, leaving. (#appium)
