@@ -179,3 +179,12 @@
 [2013-02-06 14:25:47] toks: arghh!!!!
 [2013-02-06 14:25:52] toks: freakin' wrong channel
 [2013-02-06 14:27:45] sp0cksbeard, quitting. (Quit: sp0cksbeard)
+[2013-02-06 14:41:51] github-appium, joining. (#appium)
+[2013-02-06 14:41:51] github-appium: [appium] jlipps opened pull request #134: add ability to set/get command timeout (master...master)  http://git.io/y7G7QA
+[2013-02-06 14:41:51] github-appium, leaving. (#appium)
+[2013-02-06 14:42:15] github-appium, joining. (#appium)
+[2013-02-06 14:42:15] github-appium: [appium] bernii pushed 3 new commits to master: http://git.io/9v9Rdw
+[2013-02-06 14:42:15] github-appium: appium/master 98f3425 Jonathan Lipps: john carmack would not approve of all of this useless whitespace
+[2013-02-06 14:42:15] github-appium: appium/master 68b5486 Jonathan Lipps: add special mobile function for setting command timeout
+[2013-02-06 14:42:15] github-appium: appium/master e5fd25e Bernard Kobos: Merge pull request #134 from jlipps/master...
+[2013-02-06 14:42:15] github-appium, leaving. (#appium)
