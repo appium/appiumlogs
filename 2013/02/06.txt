@@ -32,3 +32,5 @@
 [2013-02-06 09:35:42] rodericj, joining. (#appium)
 [2013-02-06 09:36:16] awilson820, joining. (#appium)
 [2013-02-06 09:48:35] alexglow, quitting. (Ping timeout: 252 seconds)
+[2013-02-06 09:51:07] smccarthy2, quitting. (Remote host closed the connection)
+[2013-02-06 09:52:54] sourishkrout, joining. (#appium)
