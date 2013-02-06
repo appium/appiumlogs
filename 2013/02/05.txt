@@ -188,3 +188,5 @@
 [2013-02-05 16:28:07] ownedbyshiba: not "nearly"… "newly"
 [2013-02-05 16:31:20] awilson820, joining. (#appium)
 [2013-02-05 16:32:53] ownedbyshiba: oops. wrong window.
+[2013-02-05 16:39:14] sourishkrout1, joining. (#appium)
+[2013-02-05 16:39:16] sourishkrout1, quitting. (Client Quit)
