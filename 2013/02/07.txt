@@ -60,3 +60,4 @@
 [2013-02-07 13:38:50] github-appium: appium/master b4d0c58 Jonathan Lipps: fix driver.quit fail in node sauce example too
 [2013-02-07 13:38:50] github-appium, leaving. (#appium)
 [2013-02-07 15:27:27] sp0cksbeard, quitting. (Quit: sp0cksbeard)
+[2013-02-07 15:43:19] berni, quitting. (Quit: Leaving.)
