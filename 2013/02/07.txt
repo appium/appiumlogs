@@ -39,3 +39,4 @@
 [2013-02-07 11:56:31] github-appium, joining. (#appium)
 [2013-02-07 11:56:31] github-appium: [appium] bootstraponline opened pull request #140: Fix gem name (master...patch-1)  http://git.io/sGZj1Q
 [2013-02-07 11:56:31] github-appium, leaving. (#appium)
+[2013-02-07 12:13:41] Manoj, quitting. (Quit: Page closed)
