@@ -33,3 +33,4 @@
 [2013-02-07 11:20:45] Manoj, joining. (#appium)
 [2013-02-07 11:20:50] Manoj: :log
 [2013-02-07 11:22:02] Rolken, quitting. (Excess Flood)
+[2013-02-07 11:25:31] Rolken, joining. (#appium)
