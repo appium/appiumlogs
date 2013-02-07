@@ -61,3 +61,4 @@
 [2013-02-07 13:38:50] github-appium, leaving. (#appium)
 [2013-02-07 15:27:27] sp0cksbeard, quitting. (Quit: sp0cksbeard)
 [2013-02-07 15:43:19] berni, quitting. (Quit: Leaving.)
+[2013-02-07 15:45:24] *toks runs around in circles'
