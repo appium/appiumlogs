@@ -11,3 +11,6 @@
 [2013-02-07 08:30:30] stackedsax1, joining. (#appium)
 [2013-02-07 08:32:37] stackedsax1, quitting. (Client Quit)
 [2013-02-07 08:33:00] stackedsax, quitting. (Ping timeout: 252 seconds)
+[2013-02-07 09:10:15] Manoj, joining. (#appium)
+[2013-02-07 09:10:34] Manoj: hi all...
+[2013-02-07 09:14:33] Manoj: Getting Involved...? how shall I help.  Anything other than dev ? coz i cannot dig the source code and develop :(
