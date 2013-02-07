@@ -23,3 +23,5 @@
 [2013-02-07 10:16:39] jlipps, joining. (#appium)
 [2013-02-07 10:21:46] rodericj, quitting. (Quit: Leaving.)
 [2013-02-07 10:27:06] toks, joining. (#appium)
+[2013-02-07 10:43:40] stackedsax1, quitting. (Quit: Leaving.)
+[2013-02-07 10:44:03] stackedsax, joining. (#appium)
