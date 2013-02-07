@@ -4,3 +4,4 @@
 [2013-02-07 06:25:50] sp0cksbeard, joining. (#appium)
 [2013-02-07 07:26:04] stackedsax, joining. (#appium)
 [2013-02-07 07:36:32] smccarthy, joining. (#appium)
+[2013-02-07 07:57:45] knorrium, quitting. (Quit: knorrium)
