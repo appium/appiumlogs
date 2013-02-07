@@ -36,3 +36,6 @@
 [2013-02-07 11:25:31] Rolken, joining. (#appium)
 [2013-02-07 11:39:20] AdamW_, joining. (#appium)
 [2013-02-07 11:40:10] AdamW_: Hey guys, is there a known problem with the ruby sample scripts? can't get them to run
+[2013-02-07 11:56:31] github-appium, joining. (#appium)
+[2013-02-07 11:56:31] github-appium: [appium] bootstraponline opened pull request #140: Fix gem name (master...patch-1)  http://git.io/sGZj1Q
+[2013-02-07 11:56:31] github-appium, leaving. (#appium)
