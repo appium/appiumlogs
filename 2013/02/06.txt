@@ -240,3 +240,4 @@
 [2013-02-06 19:04:35] github-appium: appium/master 09b356b Jonathan Lipps: provide access through mobile methods to native flick behavior
 [2013-02-06 19:04:35] github-appium: appium/master a85a673 Jonathan Lipps: Merge pull request #139 from jlipps/master...
 [2013-02-06 19:04:35] github-appium, leaving. (#appium)
+[2013-02-06 19:17:58] toks, quitting. (Ping timeout: 240 seconds)
