@@ -8,3 +8,6 @@
 [2013-02-07 08:03:57] stackedsax, quitting. (Quit: Leaving.)
 [2013-02-07 08:26:18] alexglow, joining. (#appium)
 [2013-02-07 08:28:20] stackedsax, joining. (#appium)
+[2013-02-07 08:30:30] stackedsax1, joining. (#appium)
+[2013-02-07 08:32:37] stackedsax1, quitting. (Client Quit)
+[2013-02-07 08:33:00] stackedsax, quitting. (Ping timeout: 252 seconds)
