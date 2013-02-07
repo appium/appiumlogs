@@ -53,3 +53,9 @@
 [2013-02-07 13:20:54] github-appium, joining. (#appium)
 [2013-02-07 13:20:54] github-appium: [appium] jlipps opened pull request #141: fixes to ruby examples and execute.js (master...master)  http://git.io/gEEnqg
 [2013-02-07 13:20:54] github-appium, leaving. (#appium)
+[2013-02-07 13:38:50] github-appium, joining. (#appium)
+[2013-02-07 13:38:50] github-appium: [appium] sah pushed 4 new commits to master: http://git.io/e2z6Qw
+[2013-02-07 13:38:50] github-appium: appium/master 9eb2f80 Jonathan Lipps: fix ruby examples to use driver.quit
+[2013-02-07 13:38:50] github-appium: appium/master f330ca5 Jonathan Lipps: make execute.js tests less brittle
+[2013-02-07 13:38:50] github-appium: appium/master b4d0c58 Jonathan Lipps: fix driver.quit fail in node sauce example too
+[2013-02-07 13:38:50] github-appium, leaving. (#appium)
