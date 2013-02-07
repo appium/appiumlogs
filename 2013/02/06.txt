@@ -226,3 +226,4 @@
 [2013-02-06 17:02:47] github-appium: appium/master abcd63c Jonathan Lipps: allow flick/swipe to take either relative units or pixels
 [2013-02-06 17:02:47] github-appium, leaving. (#appium)
 [2013-02-06 17:02:47] github-appium: appium/master f594835 Bernard Kobos: Merge pull request #138 from jlipps/master...
+[2013-02-06 17:38:59] Rolken, quitting. (Excess Flood)
