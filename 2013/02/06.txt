@@ -232,3 +232,11 @@
 [2013-02-06 18:36:34] jcarr, quitting. (Quit: Leaving.)
 [2013-02-06 18:51:27] stackedsax, quitting. (Quit: Leaving.)
 [2013-02-06 18:55:43] awilson820, quitting. (Quit: Leaving.)
+[2013-02-06 19:00:54] github-appium, joining. (#appium)
+[2013-02-06 19:00:54] github-appium: [appium] jlipps opened pull request #139: better access to native flick methods through "mobile: flick" (master...master)  http://git.io/-MIcUg
+[2013-02-06 19:00:54] github-appium, leaving. (#appium)
+[2013-02-06 19:04:34] github-appium, joining. (#appium)
+[2013-02-06 19:04:34] github-appium: [appium] jlipps pushed 2 new commits to master: http://git.io/8GVedg
+[2013-02-06 19:04:35] github-appium: appium/master 09b356b Jonathan Lipps: provide access through mobile methods to native flick behavior
+[2013-02-06 19:04:35] github-appium: appium/master a85a673 Jonathan Lipps: Merge pull request #139 from jlipps/master...
+[2013-02-06 19:04:35] github-appium, leaving. (#appium)
