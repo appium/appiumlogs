@@ -41,3 +41,12 @@
 [2013-02-07 11:56:31] github-appium, leaving. (#appium)
 [2013-02-07 12:13:41] Manoj, quitting. (Quit: Page closed)
 [2013-02-07 12:19:53] alexglow, joining. (#appium)
+[2013-02-07 12:27:44] github-appium, joining. (#appium)
+[2013-02-07 12:27:44] github-appium: [appium] jlipps pushed 3 new commits to master: http://git.io/hQ9ASQ
+[2013-02-07 12:27:44] github-appium: appium/master 0b83ddf bootstraponline: Fix gem name...
+[2013-02-07 12:27:44] github-appium: appium/master ef5e0e1 bootstraponline: Add run command...
+[2013-02-07 12:27:44] github-appium: appium/master acd7d2a Jonathan Lipps: Merge pull request #140 from bootstraponline/patch-1...
+[2013-02-07 12:27:44] github-appium, leaving. (#appium)
+[2013-02-07 12:28:27] jlipps_, joining. (#appium)
+[2013-02-07 12:28:28] jlipps, quitting. (Read error: Connection reset by peer)
+[2013-02-07 12:28:28] jlipps_, changing nick to jlipps.
