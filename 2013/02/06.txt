@@ -212,3 +212,4 @@
 [2013-02-06 16:35:29] github-appium: [appium] jlipps opened pull request #137: update hosted example app location (master...master)  http://git.io/-sU5FA
 [2013-02-06 16:35:29] github-appium, leaving. (#appium)
 [2013-02-06 16:43:15] Rolken, quitting. (Excess Flood)
+[2013-02-06 16:47:02] Rolken, joining. (#appium)
