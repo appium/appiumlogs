@@ -199,3 +199,12 @@
 [2013-02-06 15:56:50] github-appium: appium/master 86557f7 Jonathan Lipps: make complexTap work as expected, with tests too
 [2013-02-06 15:56:50] github-appium: appium/master 39cbfbf Bernard Kobos: Merge pull request #135 from jlipps/master...
 [2013-02-06 15:56:50] github-appium, leaving. (#appium)
+[2013-02-06 16:21:23] github-appium, joining. (#appium)
+[2013-02-06 16:21:24] github-appium: [appium] jlipps opened pull request #136: use better uiauto functions for flick and swipe (master...master)  http://git.io/vnrb_Q
+[2013-02-06 16:21:24] github-appium, leaving. (#appium)
+[2013-02-06 16:22:29] github-appium, joining. (#appium)
+[2013-02-06 16:22:29] github-appium: [appium] bernii pushed 2 new commits to master: http://git.io/RZ16Qw
+[2013-02-06 16:22:29] github-appium: appium/master 0b9b59e Jonathan Lipps: flick and swipe were using the wrong methods. let's use target methods instead!
+[2013-02-06 16:22:29] github-appium: appium/master 5d58a2a Bernard Kobos: Merge pull request #136 from jlipps/master...
+[2013-02-06 16:22:29] github-appium, leaving. (#appium)
+[2013-02-06 16:23:33] santiycr, quitting. (Quit: Leaving.)
