@@ -218,3 +218,11 @@
 [2013-02-06 16:58:41] github-appium: appium/master 6b88ae1 Jonathan Lipps: change hosted location of example apps
 [2013-02-06 16:58:41] github-appium: appium/master afc90a1 Bernard Kobos: Merge pull request #137 from jlipps/master...
 [2013-02-06 16:58:41] github-appium, leaving. (#appium)
+[2013-02-06 17:01:56] github-appium, joining. (#appium)
+[2013-02-06 17:01:56] github-appium: [appium] jlipps opened pull request #138: more work on flick/swipe (master...master)  http://git.io/9I3l2g
+[2013-02-06 17:01:56] github-appium, leaving. (#appium)
+[2013-02-06 17:02:47] github-appium, joining. (#appium)
+[2013-02-06 17:02:47] github-appium: [appium] bernii pushed 2 new commits to master: http://git.io/TYT6JQ
+[2013-02-06 17:02:47] github-appium: appium/master abcd63c Jonathan Lipps: allow flick/swipe to take either relative units or pixels
+[2013-02-06 17:02:47] github-appium, leaving. (#appium)
+[2013-02-06 17:02:47] github-appium: appium/master f594835 Bernard Kobos: Merge pull request #138 from jlipps/master...
