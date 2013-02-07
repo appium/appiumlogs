@@ -243,3 +243,4 @@
 [2013-02-06 19:17:58] toks, quitting. (Ping timeout: 240 seconds)
 [2013-02-06 19:26:18] jlipps, quitting. (Quit: jlipps)
 [2013-02-06 19:49:50] stackedsax, joining. (#appium)
+[2013-02-06 20:36:17] awilson820, joining. (#appium)
