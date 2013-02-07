@@ -17,3 +17,5 @@
 [2013-02-07 09:27:49] stackedsax, joining. (#appium)
 [2013-02-07 09:37:16] Manoj: hugs: there ?
 [2013-02-07 09:41:43] Manoj, quitting. (Ping timeout: 245 seconds)
+[2013-02-07 10:02:00] stackedsax1, joining. (#appium)
+[2013-02-07 10:04:12] stackedsax, quitting. (Ping timeout: 276 seconds)
