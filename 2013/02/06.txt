@@ -245,3 +245,5 @@
 [2013-02-06 19:49:50] stackedsax, joining. (#appium)
 [2013-02-06 20:36:17] awilson820, joining. (#appium)
 [2013-02-06 20:48:17] awilson820, quitting. (Quit: Leaving.)
+[2013-02-06 20:50:27] berni, quitting. (Read error: Connection reset by peer)
+[2013-02-06 20:50:34] berni, joining. (#appium)
