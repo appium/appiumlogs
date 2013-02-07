@@ -190,3 +190,12 @@
 [2013-02-06 14:42:15] github-appium, leaving. (#appium)
 [2013-02-06 15:06:05] toks: removed whitespace?! Noooooooooo!
 [2013-02-06 15:51:21] santiycr, joining. (#appium)
+[2013-02-06 15:56:06] github-appium, joining. (#appium)
+[2013-02-06 15:56:06] github-appium: [appium] jlipps opened pull request #135: update mobile command framework, make complexTap work as expected (master...master)  http://git.io/ZDYCPQ
+[2013-02-06 15:56:06] github-appium, leaving. (#appium)
+[2013-02-06 15:56:50] github-appium, joining. (#appium)
+[2013-02-06 15:56:50] github-appium: [appium] bernii pushed 3 new commits to master: http://git.io/YZAIlg
+[2013-02-06 15:56:50] github-appium: appium/master 85beae8 Jonathan Lipps: move to a hash-based parameter list for mobile commands
+[2013-02-06 15:56:50] github-appium: appium/master 86557f7 Jonathan Lipps: make complexTap work as expected, with tests too
+[2013-02-06 15:56:50] github-appium: appium/master 39cbfbf Bernard Kobos: Merge pull request #135 from jlipps/master...
+[2013-02-06 15:56:50] github-appium, leaving. (#appium)
