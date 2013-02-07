@@ -35,3 +35,4 @@
 [2013-02-07 11:22:02] Rolken, quitting. (Excess Flood)
 [2013-02-07 11:25:31] Rolken, joining. (#appium)
 [2013-02-07 11:39:20] AdamW_, joining. (#appium)
+[2013-02-07 11:40:10] AdamW_: Hey guys, is there a known problem with the ruby sample scripts? can't get them to run
