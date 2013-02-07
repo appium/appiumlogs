@@ -50,3 +50,6 @@
 [2013-02-07 12:28:27] jlipps_, joining. (#appium)
 [2013-02-07 12:28:28] jlipps, quitting. (Read error: Connection reset by peer)
 [2013-02-07 12:28:28] jlipps_, changing nick to jlipps.
+[2013-02-07 13:20:54] github-appium, joining. (#appium)
+[2013-02-07 13:20:54] github-appium: [appium] jlipps opened pull request #141: fixes to ruby examples and execute.js (master...master)  http://git.io/gEEnqg
+[2013-02-07 13:20:54] github-appium, leaving. (#appium)
