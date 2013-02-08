@@ -63,3 +63,4 @@
 [2013-02-08 12:13:36] toks: oh... I'm just whining about async-nestingmania in nodejs :p
 [2013-02-08 12:44:26] jlipps: :-)
 [2013-02-08 12:59:26] smccarthy, quitting. (Remote host closed the connection)
+[2013-02-08 13:01:58] smccarthy, joining. (#appium)
