@@ -71,3 +71,6 @@
 [2013-02-07 16:03:16] github-appium: appium/master fcd0496 bootstraponline: Exit after scenario...
 [2013-02-07 16:03:16] github-appium: appium/master 41f9685 Jonathan Lipps: Merge pull request #142 from bootstraponline/exit_cucumber...
 [2013-02-07 16:03:16] github-appium, leaving. (#appium)
+[2013-02-07 16:09:45] github-appium, joining. (#appium)
+[2013-02-07 16:09:45] github-appium: [appium] DylanLacey opened pull request #143: Created a README for examples (master...master)  http://git.io/5eAQ_A
+[2013-02-07 16:09:45] github-appium, leaving. (#appium)
