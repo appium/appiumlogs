@@ -102,3 +102,8 @@
 [2013-02-08 15:19:19] rodericj: it was this: info: [INST STDERR] 2013-02-08 00:15:13.380 instruments[73438:547f] Failed to start Instruments daemon for 'iOS' on 'iPhone (v6.1)' (The service is invalid.)
 [2013-02-08 15:19:31] rodericj: but now I'm not getting that, i'm just getting a popup
 [2013-02-08 15:20:01] rodericj: info: [INSTSERVER] Instruments socket server started at /tmp/instruments_sock
+[2013-02-08 15:20:01] rodericj: info: [INST STDERR] 2013-02-08 15:19:46.841 instruments[6335:1207] -[NSAlert alertWithError:] called with nil NSError. A generic error message will be displayed, but the user deserves better.
+[2013-02-08 15:20:01] rodericj: info: [INST STDERR] 2013-02-08 15:19:51.588 instruments[6335:1207] Recording cancelled : At least one target failed to launch; aborting run
+[2013-02-08 15:20:15] rodericj: so that's in my appium terminal.
+[2013-02-08 15:20:31] rodericj: it happens when i kick off mocha
+[2013-02-08 15:21:22] rodericj: maybe I should just start over with the setup
