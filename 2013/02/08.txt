@@ -2,3 +2,9 @@
 [2013-02-08 00:35:26] stackedsax, joining. (#appium)
 [2013-02-08 00:37:42] stackedsax, quitting. (Client Quit)
 [2013-02-08 00:44:03] alexglow, joining. (#appium)
+[2013-02-08 00:46:20] github-appium, joining. (#appium)
+[2013-02-08 00:46:20] github-appium: [appium] bernii pushed 4 new commits to master: http://git.io/PtkCpA
+[2013-02-08 00:46:20] github-appium: appium/master fd9c86f Jonathan Lipps: rename this file to something more appropriate
+[2013-02-08 00:46:20] github-appium: appium/master d1438d3 Jonathan Lipps: move tap into gestures
+[2013-02-08 00:46:20] github-appium: appium/master 5626836 Jonathan Lipps: add mobile-specific swipe and swipe-element methods and tests
+[2013-02-08 00:46:20] github-appium, leaving. (#appium)
