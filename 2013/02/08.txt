@@ -74,3 +74,4 @@
 [2013-02-08 14:33:09] github-appium, leaving. (#appium)
 [2013-02-08 14:36:12] awilson820, quitting. (Quit: Leaving.)
 [2013-02-08 14:44:23] sp0cksbeard, quitting. (Quit: sp0cksbeard)
+[2013-02-08 14:53:02] rodericj: Hey guys, I'm wondering if anyone has seen an issue where the server doesn't seem to recognize iOS6.1 builds. I may be reading the error wrong: info: [INST STDERR] 2013-02-08 00:15:13.380 instruments[73438:547f] Failed to start Instruments daemon for 'iOS' on 'iPhone (v6.1)' (The service is invalid.)
