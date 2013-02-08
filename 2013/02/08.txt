@@ -69,3 +69,6 @@
 [2013-02-08 13:22:43] toks: ah, now I see it
 [2013-02-08 13:22:46] smccarthy, joining. (#appium)
 [2013-02-08 13:22:48] toks: argh.. wrong channel
+[2013-02-08 14:33:09] github-appium, joining. (#appium)
+[2013-02-08 14:33:09] github-appium: [appium] jlipps opened pull request #149: allow local zipped apps (master...master)  http://git.io/XdpUrg
+[2013-02-08 14:33:09] github-appium, leaving. (#appium)
