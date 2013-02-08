@@ -53,3 +53,4 @@
 [2013-02-08 11:26:39] github-appium: appium/master cd37a3c Jonathan Lipps: enable complextap in both absolute and relative units
 [2013-02-08 11:26:39] github-appium: appium/master b529cda Jonathan Lipps: add appium jsonwp extensions to routing
 [2013-02-08 11:26:39] github-appium, leaving. (#appium)
+[2013-02-08 11:34:19] jlipps, quitting. (Quit: jlipps)
