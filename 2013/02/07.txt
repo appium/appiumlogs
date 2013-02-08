@@ -62,3 +62,6 @@
 [2013-02-07 15:27:27] sp0cksbeard, quitting. (Quit: sp0cksbeard)
 [2013-02-07 15:43:19] berni, quitting. (Quit: Leaving.)
 [2013-02-07 15:45:24] *toks runs around in circles'
+[2013-02-07 15:56:10] github-appium, joining. (#appium)
+[2013-02-07 15:56:10] github-appium: [appium] bootstraponline opened pull request #142: Exit after scenario (master...exit_cucumber)  http://git.io/N4Jg4g
+[2013-02-07 15:56:10] github-appium, leaving. (#appium)
