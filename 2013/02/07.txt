@@ -92,3 +92,4 @@
 [2013-02-07 18:18:12] toks: doesn't seem to accept port or path for the host
 [2013-02-07 18:19:17] toks: oh... http://unmesh.me/tag/appium/
 [2013-02-07 18:19:28] toks: sudo npm install wd
+[2013-02-07 18:22:24] alexglow, quitting. (Ping timeout: 276 seconds)
