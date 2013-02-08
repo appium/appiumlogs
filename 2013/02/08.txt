@@ -13,3 +13,4 @@
 [2013-02-08 02:06:56] alexglow, quitting. (Ping timeout: 255 seconds)
 [2013-02-08 03:28:41] berni, quitting. (Read error: Connection reset by peer)
 [2013-02-08 03:28:52] berni, joining. (#appium)
+[2013-02-08 06:19:04] sp0cksbeard, joining. (#appium)
