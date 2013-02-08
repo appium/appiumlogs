@@ -54,3 +54,6 @@
 [2013-02-08 11:26:39] github-appium: appium/master b529cda Jonathan Lipps: add appium jsonwp extensions to routing
 [2013-02-08 11:26:39] github-appium, leaving. (#appium)
 [2013-02-08 11:34:19] jlipps, quitting. (Quit: jlipps)
+[2013-02-08 11:35:29] toks: so.... npm install wd....
+[2013-02-08 11:35:43] toks: I need a nodejs module that forces sync behavior
+[2013-02-08 11:36:00] toks: so I can just call the driver object without a huge nesting,async,callback thing
