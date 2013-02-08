@@ -128,3 +128,5 @@
 [2013-02-07 21:37:56] rodericj: i haven't updated in a few days, perhaps something is out of date
 [2013-02-07 21:38:45] rodericj: npm install fixed that. Alright :/
 [2013-02-07 22:45:01] smccarthy, quitting. (Remote host closed the connection)
+[2013-02-07 23:40:26] Rolken, quitting. (Excess Flood)
+[2013-02-07 23:44:03] Rolken, joining. (#appium)
