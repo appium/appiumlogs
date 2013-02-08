@@ -58,3 +58,6 @@
 [2013-02-08 11:35:43] toks: I need a nodejs module that forces sync behavior
 [2013-02-08 11:36:00] toks: so I can just call the driver object without a huge nesting,async,callback thing
 [2013-02-08 11:58:34] jlipps, joining. (#appium)
+[2013-02-08 12:11:44] jlipps: what toks?
+[2013-02-08 12:13:17] toks: o.o
+[2013-02-08 12:13:36] toks: oh... I'm just whining about async-nestingmania in nodejs :p
