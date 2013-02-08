@@ -78,3 +78,5 @@
 [2013-02-07 17:10:28] github-appium, joining. (#appium)
 [2013-02-07 17:10:28] github-appium: [appium] jlipps opened pull request #144: readme update (master...master)  http://git.io/w43TcA
 [2013-02-07 17:10:28] github-appium, leaving. (#appium)
+[2013-02-07 17:31:44] awilson820, joining. (#appium)
+[2013-02-07 17:32:41] awilson820, quitting. (Client Quit)
