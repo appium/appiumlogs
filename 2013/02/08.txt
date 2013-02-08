@@ -86,3 +86,12 @@
 [2013-02-08 14:58:27] jcarr: :log
 [2013-02-08 14:59:00] jlipps, quitting. (Ping timeout: 264 seconds)
 [2013-02-08 14:59:01] jlipps_, changing nick to jlipps.
+[2013-02-08 15:00:38] jlipps: rodericj: how are you running appium?
+[2013-02-08 15:01:05] johndunham, joining. (#appium)
+[2013-02-08 15:01:18] rodericj: node server.js --app /Users/everest/Library/DevelopeXXXXXXXXXXXXX -V 1
+[2013-02-08 15:01:22] github-appium, joining. (#appium)
+[2013-02-08 15:01:22] github-appium: [appium] jlipps pushed 2 new commits to master: http://git.io/pV1z3w
+[2013-02-08 15:01:22] github-appium: appium/master e724536 Jonathan Lipps: add capability to use local version of zipped app & test
+[2013-02-08 15:01:22] github-appium: appium/master a66caf8 Jonathan Lipps: Merge pull request #149 from jlipps/master...
+[2013-02-08 15:01:22] github-appium, leaving. (#appium)
+[2013-02-08 15:02:45] rodericj: am I doing it all wrong?
