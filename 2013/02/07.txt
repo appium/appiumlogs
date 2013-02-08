@@ -93,3 +93,5 @@
 [2013-02-07 18:19:17] toks: oh... http://unmesh.me/tag/appium/
 [2013-02-07 18:19:28] toks: sudo npm install wd
 [2013-02-07 18:22:24] alexglow, quitting. (Ping timeout: 276 seconds)
+[2013-02-07 18:50:43] toks, quitting. (Ping timeout: 246 seconds)
+[2013-02-07 18:51:50] stackedsax1, quitting. (Quit: Leaving.)
