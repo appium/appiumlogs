@@ -97,3 +97,8 @@
 [2013-02-08 15:02:45] rodericj: am I doing it all wrong?
 [2013-02-08 15:10:42] stackedsax1, joining. (#appium)
 [2013-02-08 15:12:42] stackedsax, quitting. (Ping timeout: 276 seconds)
+[2013-02-08 15:16:39] jlipps: hmm no, what was the error you are getting again (lost in scrollback)
+[2013-02-08 15:18:51] rodericj: sure hang on
+[2013-02-08 15:19:19] rodericj: it was this: info: [INST STDERR] 2013-02-08 00:15:13.380 instruments[73438:547f] Failed to start Instruments daemon for 'iOS' on 'iPhone (v6.1)' (The service is invalid.)
+[2013-02-08 15:19:31] rodericj: but now I'm not getting that, i'm just getting a popup
+[2013-02-08 15:20:01] rodericj: info: [INSTSERVER] Instruments socket server started at /tmp/instruments_sock
