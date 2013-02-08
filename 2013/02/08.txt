@@ -26,3 +26,5 @@
 [2013-02-08 08:58:32] smccarthy, joining. (#appium)
 [2013-02-08 09:17:51] berni, quitting. (Read error: Connection reset by peer)
 [2013-02-08 09:18:08] berni, joining. (#appium)
+[2013-02-08 09:40:10] jlipps, joining. (#appium)
+[2013-02-08 09:43:24] Rolken, quitting. (Excess Flood)
