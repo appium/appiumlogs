@@ -95,3 +95,5 @@
 [2013-02-08 15:01:22] github-appium: appium/master a66caf8 Jonathan Lipps: Merge pull request #149 from jlipps/master...
 [2013-02-08 15:01:22] github-appium, leaving. (#appium)
 [2013-02-08 15:02:45] rodericj: am I doing it all wrong?
+[2013-02-08 15:10:42] stackedsax1, joining. (#appium)
+[2013-02-08 15:12:42] stackedsax, quitting. (Ping timeout: 276 seconds)
