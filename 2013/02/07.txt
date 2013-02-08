@@ -113,3 +113,12 @@
 [2013-02-07 20:26:34] smccarthy, joining. (#appium)
 [2013-02-07 20:26:40] jlipps, joining. (#appium)
 [2013-02-07 20:27:04] rodericj, joining. (#appium)
+[2013-02-07 20:48:05] github-appium, joining. (#appium)
+[2013-02-07 20:48:06] github-appium: [appium] jlipps pushed 4 new commits to master: http://git.io/9Wjsgw
+[2013-02-07 20:48:06] github-appium: appium/master 4739d94 Dylan Lacey: Added additional details to the simple test....
+[2013-02-07 20:48:06] github-appium: appium/master 2918e92 Dylan Lacey: Merge branch 'master' of github.com:appium/appium...
+[2013-02-07 20:48:06] github-appium: appium/master 3c674f2 Dylan Lacey: Lets try to use secure rubygems.org
+[2013-02-07 20:48:06] github-appium, leaving. (#appium)
+[2013-02-07 20:49:45] github-appium, joining. (#appium)
+[2013-02-07 20:49:45] github-appium: [appium] jlipps opened pull request #145: better native swipe actions and a bit of cleanup (master...master)  http://git.io/ZlW1Vw
+[2013-02-07 20:49:45] github-appium, leaving. (#appium)
