@@ -72,3 +72,4 @@
 [2013-02-08 14:33:09] github-appium, joining. (#appium)
 [2013-02-08 14:33:09] github-appium: [appium] jlipps opened pull request #149: allow local zipped apps (master...master)  http://git.io/XdpUrg
 [2013-02-08 14:33:09] github-appium, leaving. (#appium)
+[2013-02-08 14:36:12] awilson820, quitting. (Quit: Leaving.)
