@@ -65,3 +65,7 @@
 [2013-02-08 12:59:26] smccarthy, quitting. (Remote host closed the connection)
 [2013-02-08 13:01:58] smccarthy, joining. (#appium)
 [2013-02-08 13:19:41] smccarthy, quitting. (Remote host closed the connection)
+[2013-02-08 13:22:00] toks: o.o
+[2013-02-08 13:22:43] toks: ah, now I see it
+[2013-02-08 13:22:46] smccarthy, joining. (#appium)
+[2013-02-08 13:22:48] toks: argh.. wrong channel
