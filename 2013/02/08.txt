@@ -45,3 +45,5 @@
 [2013-02-08 11:18:34] github-appium, joining. (#appium)
 [2013-02-08 11:18:34] github-appium: [appium] jlipps opened pull request #147: turned gestures into a jsonwp extension (master...master)  http://git.io/-E7lZw
 [2013-02-08 11:18:34] github-appium, leaving. (#appium)
+[2013-02-08 11:20:21] toks: so....
+[2013-02-08 11:20:27] toks: npm install wd
