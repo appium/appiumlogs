@@ -124,3 +124,6 @@
 [2013-02-07 20:49:45] github-appium, leaving. (#appium)
 [2013-02-07 20:57:00] jlipps, quitting. (Ping timeout: 256 seconds)
 [2013-02-07 21:34:27] stackedsax, joining. (#appium)
+[2013-02-07 21:37:28] rodericj: Hey guys, I'm looking to run my tests locally and I'm seeing this error: Error: Cannot find module 'underscore.string'
+[2013-02-07 21:37:56] rodericj: i haven't updated in a few days, perhaps something is out of date
+[2013-02-07 21:38:45] rodericj: npm install fixed that. Alright :/
