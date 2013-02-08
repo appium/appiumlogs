@@ -47,3 +47,9 @@
 [2013-02-08 11:18:34] github-appium, leaving. (#appium)
 [2013-02-08 11:20:21] toks: so....
 [2013-02-08 11:20:27] toks: npm install wd
+[2013-02-08 11:26:38] github-appium, joining. (#appium)
+[2013-02-08 11:26:39] github-appium: [appium] jlipps pushed 4 new commits to master: http://git.io/Ia5avw
+[2013-02-08 11:26:39] github-appium: appium/master 2e70f16 Jonathan Lipps: rename elementId to element to match JSONWP
+[2013-02-08 11:26:39] github-appium: appium/master cd37a3c Jonathan Lipps: enable complextap in both absolute and relative units
+[2013-02-08 11:26:39] github-appium: appium/master b529cda Jonathan Lipps: add appium jsonwp extensions to routing
+[2013-02-08 11:26:39] github-appium, leaving. (#appium)
