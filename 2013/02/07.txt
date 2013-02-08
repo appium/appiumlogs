@@ -122,3 +122,4 @@
 [2013-02-07 20:49:45] github-appium, joining. (#appium)
 [2013-02-07 20:49:45] github-appium: [appium] jlipps opened pull request #145: better native swipe actions and a bit of cleanup (master...master)  http://git.io/ZlW1Vw
 [2013-02-07 20:49:45] github-appium, leaving. (#appium)
+[2013-02-07 20:57:00] jlipps, quitting. (Ping timeout: 256 seconds)
