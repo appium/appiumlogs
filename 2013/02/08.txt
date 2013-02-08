@@ -21,3 +21,4 @@
 [2013-02-08 08:28:28] github-appium, joining. (#appium)
 [2013-02-08 08:28:28] github-appium: [appium] bootstraponline opened pull request #146: Add error detection to absolute_app_path (master...check_app_path)  http://git.io/H__X9A
 [2013-02-08 08:28:28] github-appium, leaving. (#appium)
+[2013-02-08 08:38:13] stackedsax, quitting. (Quit: Leaving.)
