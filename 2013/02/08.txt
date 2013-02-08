@@ -16,3 +16,8 @@
 [2013-02-08 06:19:04] sp0cksbeard, joining. (#appium)
 [2013-02-08 07:44:42] smccarthy, joining. (#appium)
 [2013-02-08 08:03:40] stackedsax, joining. (#appium)
+[2013-02-08 08:27:08] stackedsax, quitting. (Read error: Connection reset by peer)
+[2013-02-08 08:28:03] stackedsax, joining. (#appium)
+[2013-02-08 08:28:28] github-appium, joining. (#appium)
+[2013-02-08 08:28:28] github-appium: [appium] bootstraponline opened pull request #146: Add error detection to absolute_app_path (master...check_app_path)  http://git.io/H__X9A
+[2013-02-08 08:28:28] github-appium, leaving. (#appium)
