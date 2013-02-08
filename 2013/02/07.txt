@@ -75,3 +75,6 @@
 [2013-02-07 16:09:45] github-appium: [appium] DylanLacey opened pull request #143: Created a README for examples (master...master)  http://git.io/5eAQ_A
 [2013-02-07 16:09:45] github-appium, leaving. (#appium)
 [2013-02-07 16:46:21] AdamW_, quitting. (Ping timeout: 252 seconds)
+[2013-02-07 17:10:28] github-appium, joining. (#appium)
+[2013-02-07 17:10:28] github-appium: [appium] jlipps opened pull request #144: readme update (master...master)  http://git.io/w43TcA
+[2013-02-07 17:10:28] github-appium, leaving. (#appium)
