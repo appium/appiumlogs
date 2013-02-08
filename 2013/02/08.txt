@@ -107,3 +107,6 @@
 [2013-02-08 15:20:15] rodericj: so that's in my appium terminal.
 [2013-02-08 15:20:31] rodericj: it happens when i kick off mocha
 [2013-02-08 15:21:22] rodericj: maybe I should just start over with the setup
+[2013-02-08 15:51:28] jlipps: rodericj: are you sure the path to your app is correct?
+[2013-02-08 15:51:35] jlipps: and that it's built for iphonesimulator6.1
+[2013-02-08 15:51:54] jlipps: that popup occurs when the path is (a) wrong, (b) not absolute, or © to an app that's not compiled for the right sdk
