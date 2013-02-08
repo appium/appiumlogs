@@ -65,3 +65,9 @@
 [2013-02-07 15:56:10] github-appium, joining. (#appium)
 [2013-02-07 15:56:10] github-appium: [appium] bootstraponline opened pull request #142: Exit after scenario (master...exit_cucumber)  http://git.io/N4Jg4g
 [2013-02-07 15:56:10] github-appium, leaving. (#appium)
+[2013-02-07 16:01:33] awilson820, quitting. (Quit: Leaving.)
+[2013-02-07 16:03:16] github-appium, joining. (#appium)
+[2013-02-07 16:03:16] github-appium: [appium] jlipps pushed 2 new commits to master: http://git.io/ViVG9Q
+[2013-02-07 16:03:16] github-appium: appium/master fcd0496 bootstraponline: Exit after scenario...
+[2013-02-07 16:03:16] github-appium: appium/master 41f9685 Jonathan Lipps: Merge pull request #142 from bootstraponline/exit_cucumber...
+[2013-02-07 16:03:16] github-appium, leaving. (#appium)
