@@ -9,3 +9,4 @@
 [2013-02-08 00:46:20] github-appium: appium/master 5626836 Jonathan Lipps: add mobile-specific swipe and swipe-element methods and tests
 [2013-02-08 00:46:20] github-appium, leaving. (#appium)
 [2013-02-08 00:53:08] berni, joining. (#appium)
+[2013-02-08 01:35:05] rodericj, quitting. (Quit: Leaving.)
