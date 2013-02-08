@@ -87,3 +87,8 @@
 [2013-02-07 17:45:21] github-appium: appium/master 9ebdb15 Steven Hazel: Merge pull request #144 from jlipps/master...
 [2013-02-07 17:45:21] github-appium, leaving. (#appium)
 [2013-02-07 17:50:58] jlipps, quitting. (Quit: jlipps)
+[2013-02-07 18:17:13] toks: So... any recommendations on selenium tests from javascript?
+[2013-02-07 18:17:35] toks: I don't like this one... https://github.com/Camme/webdriverjs
+[2013-02-07 18:18:12] toks: doesn't seem to accept port or path for the host
+[2013-02-07 18:19:17] toks: oh... http://unmesh.me/tag/appium/
+[2013-02-07 18:19:28] toks: sudo npm install wd
