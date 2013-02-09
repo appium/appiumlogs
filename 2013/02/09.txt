@@ -9,3 +9,4 @@
 [2013-02-09 09:51:52] github-appium, joining. (#appium)
 [2013-02-09 09:51:52] github-appium: [appium] bootstraponline opened pull request #150: App can be zip file or directory #149 (master...remove_dir_check)  http://git.io/ntx2Tw
 [2013-02-09 09:51:52] github-appium, leaving. (#appium)
+[2013-02-09 10:06:36] smccarthy, quitting. (Remote host closed the connection)
