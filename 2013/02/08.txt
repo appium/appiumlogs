@@ -133,3 +133,4 @@
 [2013-02-08 18:32:11] toks, quitting. (Ping timeout: 244 seconds)
 [2013-02-08 18:34:57] johndunham, quitting. (Quit: Computer has gone to sleep.)
 [2013-02-08 19:34:41] alexglow, joining. (#appium)
+[2013-02-08 19:44:03] alexglow, quitting. (Ping timeout: 276 seconds)
