@@ -124,3 +124,4 @@
 [2013-02-08 16:26:17] berni: hmm Roderic is still having some problems
 [2013-02-08 16:26:58] rodericj: eventEmmitter
 [2013-02-08 16:27:00] rodericj: :/
+[2013-02-08 16:38:32] admc, quitting. (Quit: Leaving.)
