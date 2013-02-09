@@ -111,3 +111,7 @@
 [2013-02-08 15:51:35] jlipps: and that it's built for iphonesimulator6.1
 [2013-02-08 15:51:54] jlipps: that popup occurs when the path is (a) wrong, (b) not absolute, or © to an app that's not compiled for the right sdk
 [2013-02-08 15:59:55] smccarthy, quitting. (Remote host closed the connection)
+[2013-02-08 16:02:35] berni, quitting. (Quit: Leaving.)
+[2013-02-08 16:02:48] rodericj: i'm pretty sure it is
+[2013-02-08 16:02:55] rodericj: though I do have a lot of apps in that directory
+[2013-02-08 16:03:58] berni, joining. (#appium)
