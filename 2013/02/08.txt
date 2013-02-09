@@ -118,3 +118,6 @@
 [2013-02-08 16:11:45] admc, joining. (#appium)
 [2013-02-08 16:12:06] admc, leaving. (#appium)
 [2013-02-08 16:12:23] admc, joining. (#appium)
+[2013-02-08 16:18:20] rodericj: alright
+[2013-02-08 16:18:37] rodericj: I recompiled and found the actual .app file that was most recently created
+[2013-02-08 16:18:40] rodericj: seems to be working now
