@@ -127,3 +127,4 @@
 [2013-02-08 16:38:32] admc, quitting. (Quit: Leaving.)
 [2013-02-08 17:04:06] rodericj, quitting. (Quit: Leaving.)
 [2013-02-08 17:23:39] jlipps, quitting. (Quit: jlipps)
+[2013-02-08 17:38:33] jcarr, quitting. (Quit: Leaving.)
