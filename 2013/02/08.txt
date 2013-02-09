@@ -136,3 +136,4 @@
 [2013-02-08 19:44:03] alexglow, quitting. (Ping timeout: 276 seconds)
 [2013-02-08 19:57:30] Rolken, quitting. (Excess Flood)
 [2013-02-08 20:00:03] Rolken, joining. (#appium)
+[2013-02-08 20:33:20] smccarthy, joining. (#appium)
