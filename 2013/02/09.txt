@@ -6,3 +6,6 @@
 [2013-02-09 07:58:49] johndunham, joining. (#appium)
 [2013-02-09 08:36:12] alexglow, joining. (#appium)
 [2013-02-09 09:12:05] smccarthy, joining. (#appium)
+[2013-02-09 09:51:52] github-appium, joining. (#appium)
+[2013-02-09 09:51:52] github-appium: [appium] bootstraponline opened pull request #150: App can be zip file or directory #149 (master...remove_dir_check)  http://git.io/ntx2Tw
+[2013-02-09 09:51:52] github-appium, leaving. (#appium)
