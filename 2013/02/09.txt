@@ -17,3 +17,5 @@
 [2013-02-09 10:37:33] berni, quitting. (Read error: Connection reset by peer)
 [2013-02-09 10:37:46] berni, joining. (#appium)
 [2013-02-09 10:41:38] smccarthy, joining. (#appium)
+[2013-02-09 10:59:04] johndunham, quitting. (Quit: Computer has gone to sleep.)
+[2013-02-09 10:59:52] smccarthy, quitting. (Remote host closed the connection)
