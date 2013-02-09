@@ -4,3 +4,4 @@
 [2013-02-09 07:49:49] Manoj_: :log
 [2013-02-09 07:50:06] Manoj_: hugs: there ?
 [2013-02-09 07:58:49] johndunham, joining. (#appium)
+[2013-02-09 08:36:12] alexglow, joining. (#appium)
