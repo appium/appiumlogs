@@ -128,3 +128,4 @@
 [2013-02-08 17:04:06] rodericj, quitting. (Quit: Leaving.)
 [2013-02-08 17:23:39] jlipps, quitting. (Quit: jlipps)
 [2013-02-08 17:38:33] jcarr, quitting. (Quit: Leaving.)
+[2013-02-08 17:49:35] stackedsax1, quitting. (Quit: Leaving.)
