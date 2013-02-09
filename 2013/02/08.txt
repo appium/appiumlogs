@@ -115,3 +115,6 @@
 [2013-02-08 16:02:48] rodericj: i'm pretty sure it is
 [2013-02-08 16:02:55] rodericj: though I do have a lot of apps in that directory
 [2013-02-08 16:03:58] berni, joining. (#appium)
+[2013-02-08 16:11:45] admc, joining. (#appium)
+[2013-02-08 16:12:06] admc, leaving. (#appium)
+[2013-02-08 16:12:23] admc, joining. (#appium)
