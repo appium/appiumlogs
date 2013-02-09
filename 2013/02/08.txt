@@ -121,3 +121,6 @@
 [2013-02-08 16:18:20] rodericj: alright
 [2013-02-08 16:18:37] rodericj: I recompiled and found the actual .app file that was most recently created
 [2013-02-08 16:18:40] rodericj: seems to be working now
+[2013-02-08 16:26:17] berni: hmm Roderic is still having some problems
+[2013-02-08 16:26:58] rodericj: eventEmmitter
+[2013-02-08 16:27:00] rodericj: :/
