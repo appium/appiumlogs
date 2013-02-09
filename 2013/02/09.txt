@@ -13,3 +13,6 @@
 [2013-02-09 10:14:19] Manoj_, quitting. (Quit: Page closed)
 [2013-02-09 10:14:33] alexglow, quitting. (Ping timeout: 252 seconds)
 [2013-02-09 10:19:41] smccarthy, joining. (#appium)
+[2013-02-09 10:37:33] smccarthy, quitting. (Remote host closed the connection)
+[2013-02-09 10:37:33] berni, quitting. (Read error: Connection reset by peer)
+[2013-02-09 10:37:46] berni, joining. (#appium)
