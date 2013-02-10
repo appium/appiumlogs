@@ -29,3 +29,4 @@
 [2013-02-09 19:52:42] github-appium: [appium] rossrowe opened pull request #151: Updated Java tests to use correct DesiredCapabilities when connecting to Sauce (master...master)  http://git.io/PEMy3w
 [2013-02-09 19:52:42] github-appium, leaving. (#appium)
 [2013-02-09 20:33:03] smccarthy, quitting. (Remote host closed the connection)
+[2013-02-09 21:08:52] johndunham, quitting. (Quit: Computer has gone to sleep.)
