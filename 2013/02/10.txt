@@ -1,3 +1,8 @@
 [2013-02-10 02:00:43] alexglow, joining. (#appium)
 [2013-02-10 02:05:41] alexglow, quitting. (Ping timeout: 256 seconds)
 [2013-02-10 03:11:47] berni, quitting. (Read error: Connection reset by peer)
+[2013-02-10 08:48:49] github-appium, joining. (#appium)
+[2013-02-10 08:48:49] github-appium: [appium] sah pushed 2 new commits to master: http://git.io/Iykmng
+[2013-02-10 08:48:49] github-appium: appium/master 6a92151 bootstraponline: App can be zip file or directory #149
+[2013-02-10 08:48:49] github-appium: appium/master 78391a8 Steven Hazel: Merge pull request #150 from bootstraponline/remove_dir_check...
+[2013-02-10 08:48:49] github-appium, leaving. (#appium)
