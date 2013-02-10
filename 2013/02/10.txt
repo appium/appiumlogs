@@ -11,3 +11,6 @@
 [2013-02-10 11:13:45] alexglow, joining. (#appium)
 [2013-02-10 11:24:59] alexglow, quitting. (Ping timeout: 252 seconds)
 [2013-02-10 12:24:23] rodericj, joining. (#appium)
+[2013-02-10 13:55:58] rodericj, quitting. (Quit: Leaving.)
+[2013-02-10 13:59:41] admc, joining. (#appium)
+[2013-02-10 13:59:45] admc, quitting. (Client Quit)
