@@ -18,3 +18,4 @@
 [2013-02-10 14:33:38] github-appium: [appium] rossrowe opened pull request #153: Updated Java tests to use correct DesiredCapabilities when connecting to Sauce  (master...upstream)  http://git.io/hhsCrA
 [2013-02-10 14:33:38] github-appium, leaving. (#appium)
 [2013-02-10 14:43:36] smccarthy, joining. (#appium)
+[2013-02-10 15:05:33] Rolken, quitting. (Excess Flood)
