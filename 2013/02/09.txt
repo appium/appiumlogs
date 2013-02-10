@@ -25,3 +25,6 @@
 [2013-02-09 17:26:17] admc, quitting. (Quit: Leaving.)
 [2013-02-09 17:41:02] johndunham, joining. (#appium)
 [2013-02-09 18:30:50] smccarthy, joining. (#appium)
+[2013-02-09 19:52:42] github-appium, joining. (#appium)
+[2013-02-09 19:52:42] github-appium: [appium] rossrowe opened pull request #151: Updated Java tests to use correct DesiredCapabilities when connecting to Sauce (master...master)  http://git.io/PEMy3w
+[2013-02-09 19:52:42] github-appium, leaving. (#appium)
