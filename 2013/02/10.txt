@@ -20,3 +20,4 @@
 [2013-02-10 14:43:36] smccarthy, joining. (#appium)
 [2013-02-10 15:05:33] Rolken, quitting. (Excess Flood)
 [2013-02-10 15:11:04] Rolken, joining. (#appium)
+[2013-02-10 15:45:54] smccarthy, quitting. (Remote host closed the connection)
