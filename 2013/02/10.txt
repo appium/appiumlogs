@@ -7,3 +7,4 @@
 [2013-02-10 08:48:49] github-appium: appium/master 78391a8 Steven Hazel: Merge pull request #150 from bootstraponline/remove_dir_check...
 [2013-02-10 08:48:49] github-appium, leaving. (#appium)
 [2013-02-10 10:36:39] alexglow, joining. (#appium)
+[2013-02-10 11:00:18] alexglow, quitting. (Ping timeout: 276 seconds)
