@@ -196,3 +196,10 @@
 [2013-02-11 15:08:18] jlipps: ok let me try something
 [2013-02-11 15:08:25] nags: jlipps, sure :-) thanks
 [2013-02-11 15:10:32] nags: jlipps, BTW, I'm author of http://ldtp.freedesktop.org/wiki/Home just incase ;-)
+[2013-02-11 15:20:53] jlipps: nags after thinking it through i'm not sure how this will be possible. but i don't have an app on hand that fires up another app. i believe if i did you'd still be able to click around the other app, but i don't think at that point that you could tell uiautomation to switch back to the first app.
+[2013-02-11 15:21:36] nags: jlipps, ok, so looks like this is not possible
+[2013-02-11 15:21:55] jlipps: it might be possible but i can't think of a way offhand
+[2013-02-11 15:22:01] jlipps: what is your use case for this?
+[2013-02-11 15:23:01] nags: jlipps, I work with VMware, they are developing a product, which will do the above task I mentioned
+[2013-02-11 15:24:29] toks: man... wanna see the gnarly command I had to run to remotely enable VNCserver on OSX so I could use vncviewer from linux? :D
+[2013-02-11 15:24:40] toks: sudo  /System/Library/CoreServices/RemoteManagement/ARDAgent.app/Contents/Resources/kickstart -activate -configure -access -on -configure -allowAccessFor -allUsers -configure -restart -agent -privs -all -clientopts -setvnclegacy -vnclegacy yes -clientopts  -setvncpw -vncpw mysup3rs3cr3t -restart -agent -privs -all
