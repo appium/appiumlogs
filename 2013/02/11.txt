@@ -195,3 +195,4 @@
 [2013-02-11 15:08:10] jlipps: back
 [2013-02-11 15:08:18] jlipps: ok let me try something
 [2013-02-11 15:08:25] nags: jlipps, sure :-) thanks
+[2013-02-11 15:10:32] nags: jlipps, BTW, I'm author of http://ldtp.freedesktop.org/wiki/Home just incase ;-)
