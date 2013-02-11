@@ -179,3 +179,9 @@
 [2013-02-11 14:39:43] jlipps: nags, maybe go through the install process here: http://nodejs.org/
 [2013-02-11 14:39:52] nags: jlipps, sure
 [2013-02-11 14:45:33] jcarr, quitting. (Quit: Leaving.)
+[2013-02-11 14:56:13] alexglow, joining. (#appium)
+[2013-02-11 14:57:37] nags: jlipps, awesome, that works without any issue, till running sample
+[2013-02-11 14:57:53] jlipps: ok, what's up then
+[2013-02-11 14:58:32] nags: jlipps, I have a question, I posted this in Frank list and from there I found about appium projectt
+[2013-02-11 14:59:13] jlipps: yep
+[2013-02-11 14:59:41] nags: jlipps, http://pastebin.com/dUVAK45n
