@@ -1,1 +1,2 @@
 [2013-02-11 00:08:58] rodericj, quitting. (Quit: Leaving.)
+[2013-02-11 00:34:13] alexglow, joining. (#appium)
