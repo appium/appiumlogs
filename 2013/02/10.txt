@@ -24,3 +24,4 @@
 [2013-02-10 15:57:09] alexglow, joining. (#appium)
 [2013-02-10 17:01:27] johndunham, joining. (#appium)
 [2013-02-10 17:01:35] johndunham, quitting. (Client Quit)
+[2013-02-10 17:53:51] alexglow, quitting. (Ping timeout: 260 seconds)
