@@ -67,3 +67,5 @@
 [2013-02-11 13:34:48] sourishkrout, joining. (#appium)
 [2013-02-11 13:36:48] santiycr, joining. (#appium)
 [2013-02-11 13:38:13] smccarthy, quitting. (Remote host closed the connection)
+[2013-02-11 13:52:44] rodericj, quitting. (Excess Flood)
+[2013-02-11 13:53:04] rodericj, joining. (#appium)
