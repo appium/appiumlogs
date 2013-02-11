@@ -204,3 +204,17 @@
 [2013-02-11 15:24:29] toks: man... wanna see the gnarly command I had to run to remotely enable VNCserver on OSX so I could use vncviewer from linux? :D
 [2013-02-11 15:24:40] toks: sudo  /System/Library/CoreServices/RemoteManagement/ARDAgent.app/Contents/Resources/kickstart -activate -configure -access -on -configure -allowAccessFor -allUsers -configure -restart -agent -privs -all -clientopts -setvnclegacy -vnclegacy yes -clientopts  -setvncpw -vncpw mysup3rs3cr3t -restart -agent -privs -all
 [2013-02-11 15:25:19] nags: jlipps, maybe launching settings app from your test app is also a scenario
+[2013-02-11 15:31:30] jlipps: nags, i see. yeah, can't think of a way to get back to the first app once you've navigated away. but the phone should remember settings. so the next appium session should be able to check for those, so you could do it in a 2-part process
+[2013-02-11 15:31:39] jlipps: yikes toks!
+[2013-02-11 15:32:07] nags: jlipps, ok
+[2013-02-11 15:33:18] *nags going offline'
+[2013-02-11 15:33:33] nags, quitting. (Quit: Cross Platform GUI Testing - http://ldtp.freedesktop.org)
+[2013-02-11 15:33:46] toks: okay
+[2013-02-11 15:33:47] toks: so verified
+[2013-02-11 15:33:58] toks: I had to vnc into the mac and lgoin
+[2013-02-11 15:34:01] toks: login*
+[2013-02-11 15:34:13] toks: so that driver = webdriver.Remote("http://localhost:4723/wd/hub",{})
+[2013-02-11 15:34:16] toks: would work
+[2013-02-11 15:34:24] jlipps: oh gotcha
+[2013-02-11 15:34:27] jlipps: well that's useful
+[2013-02-11 15:34:30] toks: :)
