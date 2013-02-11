@@ -57,3 +57,4 @@
 [2013-02-11 12:26:29] nags, joining. (#appium)
 [2013-02-11 12:27:44] sp0cksbeard, joining. (#appium)
 [2013-02-11 12:51:22] *toks runs around in circles'
+[2013-02-11 12:59:14] sp0cksbeard, quitting. (Quit: sp0cksbeard)
