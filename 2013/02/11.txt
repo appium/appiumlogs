@@ -116,3 +116,23 @@
 [2013-02-11 14:23:40] jlipps: and at least i can now see what the exception is :-)
 [2013-02-11 14:24:31] jlipps: nags ^^
 [2013-02-11 14:24:53] nags: jlipps, http://pastebin.com/T7r9eq86
+[2013-02-11 14:25:28] jlipps: lol, let's try one more time: "appium -V 1" (the 1 is also necessary, unintuitive I know)
+[2013-02-11 14:25:45] nags: jlipps, sure
+[2013-02-11 14:26:01] nags: jlipps, same error message
+[2013-02-11 14:26:03] jlipps: also, if the problem persists, can i convince you to checkout the github repo
+[2013-02-11 14:26:15] nags: jlipps, sure
+[2013-02-11 14:26:16] jlipps: it could be something is weird in the version we published to npm
+[2013-02-11 14:26:41] toks: hmm... so if the OSX screen is locked... I can't use appium?
+[2013-02-11 14:26:41] toks:  [INST STDERR] _RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+[2013-02-11 14:26:47] jlipps: nags, once you check out: https://github.com/appium/appium#developing-on-appium
+[2013-02-11 14:27:04] nags: jI guessed that, let me try now
+[2013-02-11 14:27:39] jlipps: toks interesting, i haven't got my device set up for to explore that
+[2013-02-11 14:28:00] toks: I'm guessing that's the issue
+[2013-02-11 14:28:05] toks: I'm doing this to a remote macmini
+[2013-02-11 14:28:11] toks: I have no idea what state it's in :p
+[2013-02-11 14:28:31] toks: I'm guessing it's locked
+[2013-02-11 14:28:51] jlipps: is there an actual device attached to the remote macmini or a sim?
+[2013-02-11 14:29:01] toks: sim
+[2013-02-11 14:29:14] nags: jlipps, http://pastebin.com/gFuePHSj
+[2013-02-11 14:29:20] jlipps: weird. well instruments starts up the sim so it shouldn't be locked
+[2013-02-11 14:29:58] toks: o.o
