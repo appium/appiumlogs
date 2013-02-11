@@ -29,3 +29,7 @@
 [2013-02-10 18:17:54] smccarthy, joining. (#appium)
 [2013-02-10 19:12:24] rodericj, joining. (#appium)
 [2013-02-10 20:26:54] smccarthy, quitting. (Remote host closed the connection)
+[2013-02-10 21:16:15] nags, joining. (#appium)
+[2013-02-10 21:16:37] nags: any clues, why I get uncaught exception ?
+[2013-02-10 21:16:39] nags: https://gist.github.com/nagappan/4752841
+[2013-02-10 21:17:34] nags: I'm trying from User Quick Start page - http://appium.io/getting-started.html
