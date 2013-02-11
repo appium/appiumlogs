@@ -37,3 +37,5 @@
 [2013-02-11 10:58:51] jcarr, joining. (#appium)
 [2013-02-11 10:59:06] rodericj, joining. (#appium)
 [2013-02-11 11:00:28] alexglow, quitting. (Ping timeout: 244 seconds)
+[2013-02-11 11:12:50] nags, quitting. (Quit: Cross Platform GUI Testing - http://ldtp.freedesktop.org)
+[2013-02-11 11:12:51] alexglow, joining. (#appium)
