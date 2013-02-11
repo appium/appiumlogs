@@ -102,3 +102,17 @@
 [2013-02-11 14:19:18] sourishkrout: jlipps is right about the dependencies. npm install —save is for any custom dependencies you wanna make sticky
 [2013-02-11 14:19:38] nags: jlipps, sure, will do that in future :-)
 [2013-02-11 14:19:59] jlipps: nags: here's another thing you can do:
+[2013-02-11 14:20:08] nags: jlipps, sure
+[2013-02-11 14:20:18] jlipps: run the commands in two separate terminal processes, and without the &
+[2013-02-11 14:20:25] nags: ok
+[2013-02-11 14:20:26] jlipps: so in one, type this: "appium -V 1"
+[2013-02-11 14:20:31] jlipps: and wait for it to start
+[2013-02-11 14:20:39] jlipps: or to say that it's listening
+[2013-02-11 14:20:46] jlipps: and then run the test command in the other terminal
+[2013-02-11 14:20:47] *nags doing the commands suggested by jlipps '
+[2013-02-11 14:20:59] jlipps: with the verbose flag on, you'll be able to see what the appium server is trying to do
+[2013-02-11 14:22:26] nags: jlipps, http://pastebin.com/Spj8Bu3Q
+[2013-02-11 14:23:32] jlipps: can you try with a capital "V" for me?
+[2013-02-11 14:23:40] jlipps: and at least i can now see what the exception is :-)
+[2013-02-11 14:24:31] jlipps: nags ^^
+[2013-02-11 14:24:53] nags: jlipps, http://pastebin.com/T7r9eq86
