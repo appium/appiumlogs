@@ -34,3 +34,5 @@
 [2013-02-10 21:16:39] nags: https://gist.github.com/nagappan/4752841
 [2013-02-10 21:17:34] nags: I'm trying from User Quick Start page - http://appium.io/getting-started.html
 [2013-02-10 21:32:55] nags, quitting. (Quit: Cross Platform GUI Testing - http://ldtp.freedesktop.org)
+[2013-02-10 21:51:15] johndunham, joining. (#appium)
+[2013-02-10 21:53:47] alexglow, joining. (#appium)
