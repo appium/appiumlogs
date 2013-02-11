@@ -229,3 +229,6 @@
 [2013-02-11 15:48:55] toks: info: [INST] 2013-02-11 23:48:20 +0000 Default: Lookup returned [object UIATableCell] with the name "OpenStack, Custom API Configuration" (id: 29).
 [2013-02-11 15:49:09] toks: that text in quotes is what I want the .text property to give me
 [2013-02-11 15:49:32] toks: I put "whatever" there, cuz it doesn't appear to matter to appium what that value is
+[2013-02-11 15:51:03] toks: yeah...
+[2013-02-11 15:51:13] toks: that was broken before... then fixed.... now broken again
+[2013-02-11 15:51:28] toks: (assuming npm install appium == git clone appium-master)
