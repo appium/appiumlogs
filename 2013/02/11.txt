@@ -187,3 +187,11 @@
 [2013-02-11 14:59:41] nags: jlipps, http://pastebin.com/dUVAK45n
 [2013-02-11 15:02:17] jlipps: nags, so you want to background one app, open another, and then get back to the first app?
 [2013-02-11 15:02:40] jlipps: brb
+[2013-02-11 15:05:07] rodericj, quitting. (Quit: Leaving.)
+[2013-02-11 15:05:08] nags: jlipps, yes, sure will wait
+[2013-02-11 15:05:09] jcarr, joining. (#appium)
+[2013-02-11 15:06:22] rodericj, joining. (#appium)
+[2013-02-11 15:07:16] jcarr, leaving. (#appium)
+[2013-02-11 15:08:10] jlipps: back
+[2013-02-11 15:08:18] jlipps: ok let me try something
+[2013-02-11 15:08:25] nags: jlipps, sure :-) thanks
