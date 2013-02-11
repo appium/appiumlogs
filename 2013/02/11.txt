@@ -203,3 +203,4 @@
 [2013-02-11 15:23:01] nags: jlipps, I work with VMware, they are developing a product, which will do the above task I mentioned
 [2013-02-11 15:24:29] toks: man... wanna see the gnarly command I had to run to remotely enable VNCserver on OSX so I could use vncviewer from linux? :D
 [2013-02-11 15:24:40] toks: sudo  /System/Library/CoreServices/RemoteManagement/ARDAgent.app/Contents/Resources/kickstart -activate -configure -access -on -configure -allowAccessFor -allUsers -configure -restart -agent -privs -all -clientopts -setvnclegacy -vnclegacy yes -clientopts  -setvncpw -vncpw mysup3rs3cr3t -restart -agent -privs -all
+[2013-02-11 15:25:19] nags: jlipps, maybe launching settings app from your test app is also a scenario
