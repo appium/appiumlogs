@@ -54,3 +54,5 @@
 [2013-02-11 11:42:24] github-appium: appium/master f8044b0 Santiago Suarez Ordoñez: Merge pull request #155 from jlipps/master...
 [2013-02-11 11:42:24] github-appium, leaving. (#appium)
 [2013-02-11 12:11:53] jcarr: :log
+[2013-02-11 12:26:29] nags, joining. (#appium)
+[2013-02-11 12:27:44] sp0cksbeard, joining. (#appium)
