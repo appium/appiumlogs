@@ -48,3 +48,8 @@
 [2013-02-11 11:35:52] github-appium: appium/master 3f3efd1 Jonathan Lipps: Merge pull request #153 from rossrowe/upstream...
 [2013-02-11 11:35:52] github-appium, leaving. (#appium)
 [2013-02-11 11:37:12] admc, joining. (#appium)
+[2013-02-11 11:42:24] github-appium, joining. (#appium)
+[2013-02-11 11:42:24] github-appium: [appium] santiycr pushed 2 new commits to master: http://git.io/Xv8eCQ
+[2013-02-11 11:42:24] github-appium: appium/master d39b2a8 Jonathan Lipps: allow execute() to proxy raw UIAutomation commands
+[2013-02-11 11:42:24] github-appium: appium/master f8044b0 Santiago Suarez Ordoñez: Merge pull request #155 from jlipps/master...
+[2013-02-11 11:42:24] github-appium, leaving. (#appium)
