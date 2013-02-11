@@ -28,3 +28,4 @@
 [2013-02-10 17:58:50] copongcopong, leaving. (#appium)
 [2013-02-10 18:17:54] smccarthy, joining. (#appium)
 [2013-02-10 19:12:24] rodericj, joining. (#appium)
+[2013-02-10 20:26:54] smccarthy, quitting. (Remote host closed the connection)
