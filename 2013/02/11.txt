@@ -25,3 +25,4 @@
 [2013-02-11 07:56:03] smccarthy, joining. (#appium)
 [2013-02-11 08:03:34] johndunham, quitting. (Quit: Computer has gone to sleep.)
 [2013-02-11 08:52:37] rodericj, joining. (#appium)
+[2013-02-11 09:04:20] rodericj, quitting. (Ping timeout: 240 seconds)
