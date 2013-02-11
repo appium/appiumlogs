@@ -34,3 +34,5 @@
 [2013-02-11 10:52:23] jlipps, joining. (#appium)
 [2013-02-11 10:52:23] Rolken, quitting. (Excess Flood)
 [2013-02-11 10:54:36] Rolken, joining. (#appium)
+[2013-02-11 10:58:51] jcarr, joining. (#appium)
+[2013-02-11 10:59:06] rodericj, joining. (#appium)
