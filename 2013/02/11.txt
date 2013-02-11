@@ -17,3 +17,7 @@
 [2013-02-11 06:30:32] rodericj, quitting. (Ping timeout: 255 seconds)
 [2013-02-11 07:34:33] nags, joining. (#appium)
 [2013-02-11 07:34:47] rodericj, joining. (#appium)
+[2013-02-11 07:35:48] nags: since, I disconnected after my yesterdays post, I'm reposting my message
+[2013-02-11 07:35:53] nags: any clues, why I get uncaught exception ?
+[2013-02-11 07:35:57] nags: https://gist.github.com/nagappan/4752841
+[2013-02-11 07:36:02] nags: I'm trying from User Quick Start page - http://appium.io/getting-started.html
