@@ -136,3 +136,19 @@
 [2013-02-11 14:29:14] nags: jlipps, http://pastebin.com/gFuePHSj
 [2013-02-11 14:29:20] jlipps: weird. well instruments starts up the sim so it shouldn't be locked
 [2013-02-11 14:29:58] toks: o.o
+[2013-02-11 14:30:02] jlipps: nags, are you in the directory where you cloned the repo?
+[2013-02-11 14:30:38] jlipps: seems to think it can't find package.json which is in the root of the codebase
+[2013-02-11 14:30:42] nags: jlipps, I haven't clone appium yet
+[2013-02-11 14:30:51] nags: jlipps, could this be an issue http://pastebin.com/yUJtFUH7
+[2013-02-11 14:30:54] jlipps: ah yes, clone first then go through those steps
+[2013-02-11 14:31:01] nags: jlipps, sorry
+[2013-02-11 14:31:05] nags: let me do it now
+[2013-02-11 14:31:16] jlipps: the npm install xxxx -g should be ok
+[2013-02-11 14:31:20] jlipps: they can run before or after
+[2013-02-11 14:31:27] jlipps: but "npm install" has to happen in the cloned dir
+[2013-02-11 14:31:46] jlipps: it's basically saying "install all the dependencies for this project, which i'll find in ./package.json"
+[2013-02-11 14:32:06] jlipps: the -g flag is saying "install this package globally", so it doesn't care whether there's a package.json
+[2013-02-11 14:32:20] nags: jlipps, ok
+[2013-02-11 14:34:04] nags: jlipps, http://pastebin.com/0UrX0chs
+[2013-02-11 14:34:16] nags: jlipps, on doing nom install (3rd step)
+[2013-02-11 14:34:59] jlipps: weird!
