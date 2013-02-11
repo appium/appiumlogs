@@ -152,3 +152,29 @@
 [2013-02-11 14:34:04] nags: jlipps, http://pastebin.com/0UrX0chs
 [2013-02-11 14:34:16] nags: jlipps, on doing nom install (3rd step)
 [2013-02-11 14:34:59] jlipps: weird!
+[2013-02-11 14:35:11] jlipps: can you do npm -v and node -v
+[2013-02-11 14:35:40] nags: jlipps, android-mbpro:appium nags$ npm -v
+[2013-02-11 14:35:40] nags: 1.2.10
+[2013-02-11 14:35:40] nags: android-mbpro:appium nags$ node -v
+[2013-02-11 14:35:41] nags: v0.6.15
+[2013-02-11 14:36:07] admc: jlipps:  I had problems with .6.x also
+[2013-02-11 14:36:07] nags: OSX 10.8 64-bit
+[2013-02-11 14:36:10] jlipps: hmm, i think we're all on node >v0.8
+[2013-02-11 14:36:25] jlipps: can you upgrade node?
+[2013-02-11 14:36:27] nags: jlipps, interesting, how do I upgrade my node
+[2013-02-11 14:36:30] admc: i think we need to say appium has minimum .8 version
+[2013-02-11 14:36:32] nags: jlipps, sure
+[2013-02-11 14:36:47] admc: the version of node you get from apt-get is too old for appium
+[2013-02-11 14:36:49] admc: :(
+[2013-02-11 14:37:02] jlipps: nags, how did you install it originally?
+[2013-02-11 14:37:26] nags: jlipps, I don't remember, at least recently I haven't
+[2013-02-11 14:37:43] jlipps: was it with homebrew?
+[2013-02-11 14:37:48] alexglow, quitting. (Ping timeout: 252 seconds)
+[2013-02-11 14:38:06] nags: jlipps, I don't remember, how do I find ?
+[2013-02-11 14:38:30] jlipps: brew list node
+[2013-02-11 14:38:36] *nags checking'
+[2013-02-11 14:38:59] nags: jlipps, Error: No such keg: /usr/local/Cellar/node
+[2013-02-11 14:39:07] jlipps: k, wasn't with homebrew then
+[2013-02-11 14:39:15] nags: jlipps, ok
+[2013-02-11 14:39:43] jlipps: nags, maybe go through the install process here: http://nodejs.org/
+[2013-02-11 14:39:52] nags: jlipps, sure
