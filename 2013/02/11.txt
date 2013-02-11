@@ -218,3 +218,14 @@
 [2013-02-11 15:34:24] jlipps: oh gotcha
 [2013-02-11 15:34:27] jlipps: well that's useful
 [2013-02-11 15:34:30] toks: :)
+[2013-02-11 15:45:57] toks: hmm
+[2013-02-11 15:46:09] toks: webelement.text broken again
+[2013-02-11 15:46:23] toks: at least, from npm install appium
+[2013-02-11 15:46:33] toks: I dunno if that's updated to current github mater
+[2013-02-11 15:48:02] rodericj: ?
+[2013-02-11 15:48:29] toks: driver.find_elements("whatever","UIATableCell")[2].text
+[2013-02-11 15:48:35] toks: is a string of 0 length
+[2013-02-11 15:48:54] toks: but server.js logs clearly show...
+[2013-02-11 15:48:55] toks: info: [INST] 2013-02-11 23:48:20 +0000 Default: Lookup returned [object UIATableCell] with the name "OpenStack, Custom API Configuration" (id: 29).
+[2013-02-11 15:49:09] toks: that text in quotes is what I want the .text property to give me
+[2013-02-11 15:49:32] toks: I put "whatever" there, cuz it doesn't appear to matter to appium what that value is
