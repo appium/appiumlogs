@@ -42,3 +42,9 @@
 [2013-02-11 11:31:48] github-appium, joining. (#appium)
 [2013-02-11 11:31:48] github-appium: [appium] jlipps opened pull request #155: execute() for proxying UIAutomation commands (master...master)  http://git.io/Oy7GrA
 [2013-02-11 11:31:48] github-appium, leaving. (#appium)
+[2013-02-11 11:35:51] github-appium, joining. (#appium)
+[2013-02-11 11:35:52] github-appium: [appium] jlipps pushed 2 new commits to master: http://git.io/P_dNWw
+[2013-02-11 11:35:52] github-appium: appium/master 1d79fbc Ross Rowe: Updated Sauce appium tests
+[2013-02-11 11:35:52] github-appium: appium/master 3f3efd1 Jonathan Lipps: Merge pull request #153 from rossrowe/upstream...
+[2013-02-11 11:35:52] github-appium, leaving. (#appium)
+[2013-02-11 11:37:12] admc, joining. (#appium)
