@@ -76,3 +76,29 @@
 [2013-02-11 14:00:31] github-appium: appium/master 74a46ae Santiago Suarez Ordoñez: rewriting page load/unload handling, now with sleep in
 [2013-02-11 14:00:31] github-appium, leaving. (#appium)
 [2013-02-11 14:09:08] *jlipps wonders why toks is always running around in circles'
+[2013-02-11 14:15:13] toks: :p
+[2013-02-11 14:15:20] toks: just cuz :p
+[2013-02-11 14:15:47] toks: ya know, what do I need to do to make npm just install all dependencies
+[2013-02-11 14:16:03] toks: I keep trying to start: node server.js
+[2013-02-11 14:16:08] toks: I get an error about a missing module
+[2013-02-11 14:16:16] toks: npm install <module>
+[2013-02-11 14:16:22] toks: node server.js
+[2013-02-11 14:16:31] toks: (a different module missing... rinse and repeat)
+[2013-02-11 14:17:03] toks: I'm sure _eventually_ I'll get everything I need... but is there a way to make it just do everything?
+[2013-02-11 14:17:14] sourishkrout: npm install —save <module>
+[2013-02-11 14:17:24] toks: o.o
+[2013-02-11 14:17:29] jlipps: yes there is
+[2013-02-11 14:17:42] jlipps: "npm install"
+[2013-02-11 14:18:00] toks: o.O
+[2013-02-11 14:18:15] jlipps: if you're in the appium directory, it'll install all the things
+[2013-02-11 14:18:31] jlipps: and it's no biggie to rm -rf node_modules/
+[2013-02-11 14:18:38] jlipps: and redo "npm install"
+[2013-02-11 14:18:44] nags: since there is activity, let me repost my question 3rd time ;-)
+[2013-02-11 14:18:49] nags: any clues, why I get uncaught exception ?
+[2013-02-11 14:18:53] nags: https://gist.github.com/nagappan/4752841
+[2013-02-11 14:18:54] jlipps: please do nags!
+[2013-02-11 14:18:59] nags: I'm trying from User Quick Start page - http://appium.io/getting-started.html
+[2013-02-11 14:19:08] jlipps: also, if you're not getting responses on here, there's a discussion list, or feel free to create an issue on github
+[2013-02-11 14:19:18] sourishkrout: jlipps is right about the dependencies. npm install —save is for any custom dependencies you wanna make sticky
+[2013-02-11 14:19:38] nags: jlipps, sure, will do that in future :-)
+[2013-02-11 14:19:59] jlipps: nags: here's another thing you can do:
