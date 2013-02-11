@@ -62,3 +62,5 @@
 [2013-02-11 13:13:54] nags, joining. (#appium)
 [2013-02-11 13:13:54] nags, quitting. (Changing host)
 [2013-02-11 13:13:54] nags, joining. (#appium)
+[2013-02-11 13:28:02] smccarthy, quitting. (Remote host closed the connection)
+[2013-02-11 13:29:53] smccarthy, joining. (#appium)
