@@ -75,3 +75,4 @@
 [2013-02-11 14:00:31] github-appium: appium/master ca5523f Santiago Suarez Ordoñez: adding support for getting elements' size
 [2013-02-11 14:00:31] github-appium: appium/master 74a46ae Santiago Suarez Ordoñez: rewriting page load/unload handling, now with sleep in
 [2013-02-11 14:00:31] github-appium, leaving. (#appium)
+[2013-02-11 14:09:08] *jlipps wonders why toks is always running around in circles'
