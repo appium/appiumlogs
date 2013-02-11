@@ -69,3 +69,9 @@
 [2013-02-11 13:38:13] smccarthy, quitting. (Remote host closed the connection)
 [2013-02-11 13:52:44] rodericj, quitting. (Excess Flood)
 [2013-02-11 13:53:04] rodericj, joining. (#appium)
+[2013-02-11 14:00:31] github-appium, joining. (#appium)
+[2013-02-11 14:00:31] github-appium: [appium] jlipps pushed 4 new commits to master: http://git.io/jyO_GQ
+[2013-02-11 14:00:31] github-appium: appium/master 52241dc Santiago Suarez Ordoñez: adding support for getting the source of a web view
+[2013-02-11 14:00:31] github-appium: appium/master ca5523f Santiago Suarez Ordoñez: adding support for getting elements' size
+[2013-02-11 14:00:31] github-appium: appium/master 74a46ae Santiago Suarez Ordoñez: rewriting page load/unload handling, now with sleep in
+[2013-02-11 14:00:31] github-appium, leaving. (#appium)
