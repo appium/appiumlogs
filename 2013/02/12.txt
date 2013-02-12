@@ -34,3 +34,11 @@
 [2013-02-12 10:01:35] github-appium, joining. (#appium)
 [2013-02-12 10:01:35] github-appium: [appium] penguinho opened pull request #165: Adding example Appium Code for .NET (master...master)  http://git.io/-A7Iwg
 [2013-02-12 10:01:35] github-appium, leaving. (#appium)
+[2013-02-12 10:07:04] github-appium, joining. (#appium)
+[2013-02-12 10:07:04] github-appium: [appium] jlipps opened pull request #166: more flexibility in alert handling and getting text of buttons (master...master)  http://git.io/Jnyi9Q
+[2013-02-12 10:07:04] github-appium, leaving. (#appium)
+[2013-02-12 10:09:38] github-appium, joining. (#appium)
+[2013-02-12 10:09:38] github-appium: [appium] jlipps pushed 2 new commits to master: http://git.io/5okUCw
+[2013-02-12 10:09:38] github-appium: appium/master 9a5a4c6 Dan Cuellar: Adding example for .NET
+[2013-02-12 10:09:38] github-appium: appium/master c0b6f9e Jonathan Lipps: Merge pull request #165 from penguinho/master...
+[2013-02-12 10:09:38] github-appium, leaving. (#appium)
