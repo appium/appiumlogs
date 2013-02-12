@@ -177,3 +177,10 @@
 [2013-02-12 12:53:44] sp0cksbeard: it has a list of constants that are the various commands that "execute" will support
 [2013-02-12 12:54:21] sp0cksbeard: or the version of selenium you're using, which should be the most recent hopefully
 [2013-02-12 12:54:32] toks: o.o
+[2013-02-12 12:56:00] toks: this is epic
+[2013-02-12 12:56:15] toks: thanks, there's a bunch more commands in there I didn't know about
+[2013-02-12 12:56:48] toks: hey, I see getAlertText in there
+[2013-02-12 12:56:58] toks: what if you used that for your thing? :)
+[2013-02-12 12:58:32] admc, quitting. (Quit: Leaving.)
+[2013-02-12 12:59:20] sp0cksbeard: toks: that returns the title too
+[2013-02-12 12:59:53] sp0cksbeard: wondering if I should file an issue on github
