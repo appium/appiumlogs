@@ -213,3 +213,4 @@
 [2013-02-12 13:24:59] jcarr: agree, by the way, with your analysis
 [2013-02-12 13:25:14] sp0cksbeard: will add an issue. thanks
 [2013-02-12 13:36:37] stackedsax, joining. (#appium)
+[2013-02-12 13:46:12] sp0cksbeard: wow. jlipps checked in a fix for that issue, although alerts still don't show up in page_source
