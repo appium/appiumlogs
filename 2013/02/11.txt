@@ -303,3 +303,4 @@
 [2013-02-11 19:13:46] github-appium: appium/master d447951 Jonathan Lipps: distinguish test app zips by build sdk
 [2013-02-11 19:13:46] github-appium: appium/master c11c7a4 Jonathan Lipps: update example files to clarify what sdk is used
 [2013-02-11 19:13:46] github-appium, leaving. (#appium)
+[2013-02-11 19:16:49] alexglow, quitting. (Ping timeout: 248 seconds)
