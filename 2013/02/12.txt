@@ -88,3 +88,6 @@
 [2013-02-12 11:20:14] toks: cuz it's the only textfield
 [2013-02-12 11:20:28] toks: driver.find_elements('type','UIATextField') returns an array of 1
 [2013-02-12 11:24:55] jlipps, quitting. (*.net *.split)
+[2013-02-12 11:25:53] toks: netslpit?
+[2013-02-12 11:25:57] toks: those still happen?
+[2013-02-12 11:25:58] toks: :p
