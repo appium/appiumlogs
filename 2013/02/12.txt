@@ -292,3 +292,10 @@
 [2013-02-12 15:34:08] nags: jlipps, ok
 [2013-02-12 15:39:42] sfbrian: jlipps: unfortunately your update to driver.execute didn't work for me
 [2013-02-12 15:39:52] jlipps: sfbrian: what are you trying to do
+[2013-02-12 15:40:12] sfbrian: maybe my syntax is wrong but here's an example:
+[2013-02-12 15:40:13] sfbrian: self.driver.execute("target.frontMostApp().tabBar().buttons()['MY TICKETS'].tap();")
+[2013-02-12 15:41:16] sfbrian: the error is: KeyError: "target.frontMostApp().tabBar().buttons()['MY TICKETS'].tap();"
+[2013-02-12 15:43:00] jlipps: hmm
+[2013-02-12 15:43:45] sfbrian: using python
+[2013-02-12 15:44:38] jlipps: sfbrian: you want driver.execute_script
+[2013-02-12 15:44:41] jlipps: driver.execute is an internal thing
