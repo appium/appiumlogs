@@ -57,3 +57,23 @@
 [2013-02-12 10:33:39] toks: to tell the UI that a human did click on it, then blur() to say "ok, now re-evaluate the contents"
 [2013-02-12 10:33:57] toks: ....I guess I could try clicking somewhere else after typing
 [2013-02-12 10:48:34] nags, joining. (#appium)
+[2013-02-12 10:50:28] nags: jlipps, one more question, is UIAutomation restricted with the test app we are planing to test and beyond that we can't do testing ? its similar to my yesterday's question
+[2013-02-12 10:51:12] jlipps: toks, try making the keyboard go away?
+[2013-02-12 10:51:32] jlipps: nags, you can also automate e.g. mobile safari
+[2013-02-12 10:52:03] jlipps: but you have to have the simulator version of the .app you want to run
+[2013-02-12 10:52:16] jlipps: so not just any other app
+[2013-02-12 10:52:45] nags: jlipps, ok, as long as we have the other app, we can automate ?
+[2013-02-12 10:52:52] toks: o.o
+[2013-02-12 10:53:08] nags: jlipps, if I launch second app with Instruments, it just hang the complete test
+[2013-02-12 10:53:18] jlipps: nags, you can't automate them both in the same run
+[2013-02-12 10:53:24] *toks goes to try stuff...'
+[2013-02-12 10:53:30] jlipps: each run shuts down instruments
+[2013-02-12 10:53:37] nags: jlipps, that's the issue
+[2013-02-12 10:53:49] jlipps: yeah, since we use instruments under the hood, we can't get around that
+[2013-02-12 10:54:15] nags: jlipps, got you, thanks for the info :-)
+[2013-02-12 10:54:19] jlipps: for most people this shouldn't be a problem even if they are testing app interaction
+[2013-02-12 10:54:25] jlipps: since the simulator remembers app preferences
+[2013-02-12 10:54:34] nags: jlipps, ok
+[2013-02-12 10:54:38] jlipps: (i believe)
+[2013-02-12 10:54:39] admc, joining. (#appium)
+[2013-02-12 10:54:57] jlipps: but maybe it just won't work for your use case, not sure
