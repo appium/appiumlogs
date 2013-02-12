@@ -104,3 +104,15 @@
 [2013-02-12 11:53:56] github-appium, joining. (#appium)
 [2013-02-12 11:53:56] github-appium: [appium] penguinho opened pull request #168: Making App Finder more forgiving so it will find apps already installed in the iOS simulator (master...master)  http://git.io/-VEayA
 [2013-02-12 11:53:56] github-appium, leaving. (#appium)
+[2013-02-12 11:57:23] github-appium, joining. (#appium)
+[2013-02-12 11:57:23] github-appium: [appium] sourishkrout pushed 2 new commits to master: http://git.io/CKu4aQ
+[2013-02-12 11:57:23] github-appium: appium/master 31f14c8 Jonathan Lipps: allow getting screen size through selenium /window/size
+[2013-02-12 11:57:23] github-appium: appium/master d5f1ede Sebastian Tiedtke: Merge pull request #167 from jlipps/master...
+[2013-02-12 11:57:23] github-appium, leaving. (#appium)
+[2013-02-12 11:58:55] sassda: but then, do you see the text being displayed in the testfield? or its really not showing any text?
+[2013-02-12 11:59:16] github-appium, joining. (#appium)
+[2013-02-12 11:59:16] github-appium: [appium] jlipps pushed 3 new commits to master: http://git.io/beMzRw
+[2013-02-12 11:59:16] github-appium: appium/master bed7f25 Dan Cuellar: Making .NET app finder for forgiving so it can use an app already installed in the simulator
+[2013-02-12 11:59:16] github-appium: appium/master c44cc1c Dan Cuellar: Fixing issue with line separations
+[2013-02-12 11:59:16] github-appium: appium/master 62a2cde Jonathan Lipps: Merge pull request #168 from penguinho/master...
+[2013-02-12 11:59:17] github-appium, leaving. (#appium)
