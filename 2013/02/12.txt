@@ -214,3 +214,9 @@
 [2013-02-12 13:25:14] sp0cksbeard: will add an issue. thanks
 [2013-02-12 13:36:37] stackedsax, joining. (#appium)
 [2013-02-12 13:46:12] sp0cksbeard: wow. jlipps checked in a fix for that issue, although alerts still don't show up in page_source
+[2013-02-12 13:50:54] toks-0xf00d: being near wholefoods is good for my diet
+[2013-02-12 13:50:57] toks-0xf00d, changing nick to toks.
+[2013-02-12 13:51:06] toks: (but bad for my wallet)
+[2013-02-12 13:52:05] alexglow, joining. (#appium)
+[2013-02-12 13:53:39] jlipps, joining. (#appium)
+[2013-02-12 13:53:49] admc, joining. (#appium)
