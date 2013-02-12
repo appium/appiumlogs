@@ -97,3 +97,4 @@
 [2013-02-12 11:33:32] toks: when I do this manually on the iOS sim, it works fine
 [2013-02-12 11:33:41] toks: so some kind of event isn't firing when appium does it
 [2013-02-12 11:34:56] toks: typically in the webbrowser automation world, this issue would be resolved by using focus() and blur() on said element
+[2013-02-12 11:43:19] toks: also... does appium allow me to touch the iOS-virtual-keyboard?
