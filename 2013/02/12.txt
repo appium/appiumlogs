@@ -116,3 +116,4 @@
 [2013-02-12 11:59:16] github-appium: appium/master c44cc1c Dan Cuellar: Fixing issue with line separations
 [2013-02-12 11:59:16] github-appium: appium/master 62a2cde Jonathan Lipps: Merge pull request #168 from penguinho/master...
 [2013-02-12 11:59:17] github-appium, leaving. (#appium)
+[2013-02-12 12:14:34] toks: o.o
