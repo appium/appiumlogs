@@ -17,3 +17,4 @@
 [2013-02-12 08:31:54] github-appium: appium/master 4e9ae00 Jonathan Lipps: remove stray 'only'
 [2013-02-12 08:31:54] github-appium: appium/master e266b54 Bernard Kobos: Merge pull request #162 from jlipps/master...
 [2013-02-12 08:31:54] github-appium, leaving. (#appium)
+[2013-02-12 09:09:05] sourishkrout, joining. (#appium)
