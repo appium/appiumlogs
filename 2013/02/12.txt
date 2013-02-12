@@ -290,3 +290,5 @@
 [2013-02-12 15:32:23] jlipps: since we use instruments and not a 3rd-party internal server like frank, we are limited by only having one instruments process going at a time
 [2013-02-12 15:33:44] santiycr, quitting. (Read error: Operation timed out)
 [2013-02-12 15:34:08] nags: jlipps, ok
+[2013-02-12 15:39:42] sfbrian: jlipps: unfortunately your update to driver.execute didn't work for me
+[2013-02-12 15:39:52] jlipps: sfbrian: what are you trying to do
