@@ -259,3 +259,14 @@
 [2013-02-11 16:59:40] santiycr, joining. (#appium)
 [2013-02-11 17:07:25] sourishkrout, quitting. (Quit: Leaving.)
 [2013-02-11 17:09:30] sassda1, joining. (#appium)
+[2013-02-11 17:10:14] github-appium, joining. (#appium)
+[2013-02-11 17:10:15] github-appium: [appium] sourishkrout pushed 1 new commit to master: http://git.io/oxAXXA
+[2013-02-11 17:10:15] github-appium: appium/master 612df77 Sebastian Tiedtke: Version bump
+[2013-02-11 17:10:15] github-appium, leaving. (#appium)
+[2013-02-11 17:10:55] sourishkrout, joining. (#appium)
+[2013-02-11 17:11:31] sassda, quitting. (Ping timeout: 260 seconds)
+[2013-02-11 17:11:56] github-appium, joining. (#appium)
+[2013-02-11 17:11:56] github-appium: [appium] jlipps pushed 1 new commit to master: http://git.io/vmYwoQ
+[2013-02-11 17:11:56] github-appium: appium/master ddfc995 Jonathan Lipps: version bump for npm publish
+[2013-02-11 17:11:56] github-appium, leaving. (#appium)
+[2013-02-11 17:12:20] *jlipps published v0.0.11 on npm'
