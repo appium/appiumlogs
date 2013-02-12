@@ -117,3 +117,16 @@
 [2013-02-12 11:59:16] github-appium: appium/master 62a2cde Jonathan Lipps: Merge pull request #168 from penguinho/master...
 [2013-02-12 11:59:17] github-appium, leaving. (#appium)
 [2013-02-12 12:14:34] toks: o.o
+[2013-02-12 12:16:12] sp0cksbeard: is there a way to get the message inside an alert ?
+[2013-02-12 12:16:24] sp0cksbeard: the text returns the title
+[2013-02-12 12:16:40] sp0cksbeard: i mean the "text" attribute on an alert currently returns the title
+[2013-02-12 12:16:53] toks: yes
+[2013-02-12 12:17:02] toks: driver.switch_to_alert()
+[2013-02-12 12:17:21] toks: driver.switch_to_alert().text
+[2013-02-12 12:17:32] toks: oh
+[2013-02-12 12:17:33] toks: hmm
+[2013-02-12 12:18:18] sp0cksbeard: this is a native app
+[2013-02-12 12:18:19] toks: =/
+[2013-02-12 12:18:35] toks: hmm
+[2013-02-12 12:18:58] toks: for me, an iOS native app... driver.switch_to_alert().text gives me the text in the box
+[2013-02-12 12:19:25] toks: or maybe I'm just lucky that the alert title and contents are the same or something
