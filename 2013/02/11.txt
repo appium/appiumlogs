@@ -236,3 +236,11 @@
 [2013-02-11 16:32:34] sassda, joining. (#appium)
 [2013-02-11 16:37:20] toks: hmm... well, iPHoneSimulator doesn't repaint its UI for vncviewer
 [2013-02-11 16:37:35] toks: you have to drag the sim around before its screen updates
+[2013-02-11 16:50:14] sourishkrout: toks ^^ my comment for /text is still valid
+[2013-02-11 16:50:15] sourishkrout: https://github.com/appium/appium/issues/66
+[2013-02-11 16:50:31] sourishkrout: i.e. "OpenStack, Custom API Configuration" is the name of the button
+[2013-02-11 16:50:35] sourishkrout: and not it's value
+[2013-02-11 16:50:59] sourishkrout: appium will have to handle this type specific
+[2013-02-11 16:51:07] sourishkrout: haven't gotten around to look at it though
+[2013-02-11 16:51:51] sourishkrout: (unless someone else took a stab at it)
+[2013-02-11 16:53:00] sourishkrout: also, not to confuse with the way it works when working with a web view
