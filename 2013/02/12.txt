@@ -187,3 +187,10 @@
 [2013-02-12 13:01:08] toks: o.o
 [2013-02-12 13:01:16] toks: sounds like an issue to me
 [2013-02-12 13:02:08] toks: man, even dragElement is here
+[2013-02-12 13:05:11] sp0cksbeard: one thing though, appium doesn't support every command from what I understand - they're working on implementing it all, but not yet there yet
+[2013-02-12 13:06:11] toks: ah, yeah... I see that in the server.js logs... everytime I see 501, then I know "okay, they haven't done this yet"
+[2013-02-12 13:06:50] sp0cksbeard: is any core-committer for appium here right now?
+[2013-02-12 13:07:04] toks: they're not talking
+[2013-02-12 13:07:08] sp0cksbeard: ah
+[2013-02-12 13:07:20] toks: but but jcarr, sourishkrout , hugs
+[2013-02-12 13:07:31] toks: those guys are definitely on the commit list
