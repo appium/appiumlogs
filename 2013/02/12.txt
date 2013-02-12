@@ -91,3 +91,9 @@
 [2013-02-12 11:25:53] toks: netslpit?
 [2013-02-12 11:25:57] toks: those still happen?
 [2013-02-12 11:25:58] toks: :p
+[2013-02-12 11:30:54] sassda: toks: what do you mean making the app believe there is text in that field? do you mean its a case where the app should react to text input?
+[2013-02-12 11:33:08] toks: when I click "save"
+[2013-02-12 11:33:17] toks: I get an error that there's no text in the field
+[2013-02-12 11:33:32] toks: when I do this manually on the iOS sim, it works fine
+[2013-02-12 11:33:41] toks: so some kind of event isn't firing when appium does it
+[2013-02-12 11:34:56] toks: typically in the webbrowser automation world, this issue would be resolved by using focus() and blur() on said element
