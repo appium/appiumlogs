@@ -8,3 +8,12 @@
 [2013-02-12 06:14:27] sp0cksbeard, joining. (#appium)
 [2013-02-12 06:40:04] johndunham, quitting. (Quit: Computer has gone to sleep.)
 [2013-02-12 07:11:11] jlipps, joining. (#appium)
+[2013-02-12 08:30:20] github-appium, joining. (#appium)
+[2013-02-12 08:30:20] github-appium: [appium] jlipps opened pull request #162: make functional tests all pass (master...master)  http://git.io/39vguA
+[2013-02-12 08:30:20] github-appium, leaving. (#appium)
+[2013-02-12 08:31:54] github-appium, joining. (#appium)
+[2013-02-12 08:31:54] github-appium: [appium] bernii pushed 3 new commits to master: http://git.io/9I2RQQ
+[2013-02-12 08:31:54] github-appium: appium/master 85f59ad Jonathan Lipps: fix test which had wrong expectation
+[2013-02-12 08:31:54] github-appium: appium/master 4e9ae00 Jonathan Lipps: remove stray 'only'
+[2013-02-12 08:31:54] github-appium: appium/master e266b54 Bernard Kobos: Merge pull request #162 from jlipps/master...
+[2013-02-12 08:31:54] github-appium, leaving. (#appium)
