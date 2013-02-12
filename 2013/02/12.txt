@@ -98,3 +98,9 @@
 [2013-02-12 11:33:41] toks: so some kind of event isn't firing when appium does it
 [2013-02-12 11:34:56] toks: typically in the webbrowser automation world, this issue would be resolved by using focus() and blur() on said element
 [2013-02-12 11:43:19] toks: also... does appium allow me to touch the iOS-virtual-keyboard?
+[2013-02-12 11:53:08] github-appium, joining. (#appium)
+[2013-02-12 11:53:08] github-appium: [appium] jlipps opened pull request #167: add ability to get screen size through WebDriver window command (master...master)  http://git.io/y1jOSw
+[2013-02-12 11:53:08] github-appium, leaving. (#appium)
+[2013-02-12 11:53:56] github-appium, joining. (#appium)
+[2013-02-12 11:53:56] github-appium: [appium] penguinho opened pull request #168: Making App Finder more forgiving so it will find apps already installed in the iOS simulator (master...master)  http://git.io/-VEayA
+[2013-02-12 11:53:56] github-appium, leaving. (#appium)
