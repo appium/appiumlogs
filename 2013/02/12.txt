@@ -18,3 +18,8 @@
 [2013-02-12 08:31:54] github-appium: appium/master e266b54 Bernard Kobos: Merge pull request #162 from jlipps/master...
 [2013-02-12 08:31:54] github-appium, leaving. (#appium)
 [2013-02-12 09:09:05] sourishkrout, joining. (#appium)
+[2013-02-12 09:10:44] sourishkrout, quitting. (Client Quit)
+[2013-02-12 09:13:09] github-appium, joining. (#appium)
+[2013-02-12 09:13:09] github-appium: [appium] jlipps opened pull request #164: ruby examples for dealing with alerts (master...master)  http://git.io/du0l9w
+[2013-02-12 09:13:10] github-appium, leaving. (#appium)
+[2013-02-12 09:14:43] sourishkrout, joining. (#appium)
