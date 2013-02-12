@@ -319,3 +319,38 @@
 [2013-02-12 15:49:26] toks: o.o
 [2013-02-12 15:49:35] jlipps: 2) to hit the go button send "\\uE007"
 [2013-02-12 15:49:42] sfbrian: ah
+[2013-02-12 15:50:05] jlipps: inspired by this: http://code.google.com/p/selenium/wiki/JsonWireProtocol#/session/:sessionId/element/:id/value
+[2013-02-12 15:50:19] jlipps: (the "Enter" key)
+[2013-02-12 15:50:49] toks: what?! I can get to tap() from driver.execute?
+[2013-02-12 15:50:52] sfbrian: yeah, Enter key gives me an icon of a sneaker. LOL
+[2013-02-12 15:51:16] jlipps: sfbrian, that's because python is using the wrong selenium endpoint
+[2013-02-12 15:51:19] jlipps: it's using /value
+[2013-02-12 15:51:23] jlipps: we want /keys
+[2013-02-12 15:51:26] nags: jlipps, do appium support running tests in device as well ? since it uses instruments internally I feel it will support device, just asking
+[2013-02-12 15:51:35] jlipps: nags, yes
+[2013-02-12 15:51:37] sfbrian: ah
+[2013-02-12 15:52:11] nags: jlipps, awesome, thanks, let me try automating things with appium and see how that goes
+[2013-02-12 15:52:27] *toks would love to know where that javscript looking syntax is coming from in that driver.execute()'
+[2013-02-12 15:52:32] jlipps: sfbrian: this is why you need to do self.driver.execute(Command…. blah blah blah);
+[2013-02-12 15:52:36] jlipps: toks
+[2013-02-12 15:52:38] nags: jlipps, one last question for now, does appium take screenshots as well ?
+[2013-02-12 15:52:50] sfbrian: ok, i'll give that a shot
+[2013-02-12 15:52:52] jlipps: toks you can run arbitrary UIAutomation JS
+[2013-02-12 15:52:54] jlipps: nags, yes
+[2013-02-12 15:53:01] toks: jlipps: that is epic
+[2013-02-12 15:53:04] jlipps: check the appium test code, there's examples of it
+[2013-02-12 15:53:13] *toks can confirm screenshot works '
+[2013-02-12 15:53:16] toks: :)
+[2013-02-12 15:53:18] *jlipps warns toks that with great power comes great responsibility'
+[2013-02-12 15:53:24] nags: jlipps, I think, I should start automation VMware Horizon now using appium
+[2013-02-12 15:53:27] toks: ha
+[2013-02-12 15:53:50] jlipps: nags, not sure what that means!
+[2013-02-12 15:53:54] toks: VMware has an iOS app?
+[2013-02-12 15:54:09] nags: jlipps, its a product from VMware
+[2013-02-12 15:54:19] toks: oh... https://itunes.apple.com/us/app/vmware-view-client/id417993697?mt=8
+[2013-02-12 15:54:21] toks: I guess so
+[2013-02-12 15:54:24] nags: toks, ya, coming up with mobile virtualization app ;-)
+[2013-02-12 15:54:35] nags: toks, for enterprise
+[2013-02-12 15:54:37] toks: O_o;
+[2013-02-12 15:54:41] toks: whoa, really?
+[2013-02-12 15:54:43] jlipps: oh i see nags
