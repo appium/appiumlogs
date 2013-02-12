@@ -234,3 +234,5 @@
 [2013-02-11 15:51:28] toks: (assuming npm install appium == git clone appium-master)
 [2013-02-11 16:28:26] santiycr, quitting. (Quit: Leaving.)
 [2013-02-11 16:32:34] sassda, joining. (#appium)
+[2013-02-11 16:37:20] toks: hmm... well, iPHoneSimulator doesn't repaint its UI for vncviewer
+[2013-02-11 16:37:35] toks: you have to drag the sim around before its screen updates
