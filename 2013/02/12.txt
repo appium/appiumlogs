@@ -7,3 +7,4 @@
 [2013-02-12 05:03:47] johndunham, joining. (#appium)
 [2013-02-12 06:14:27] sp0cksbeard, joining. (#appium)
 [2013-02-12 06:40:04] johndunham, quitting. (Quit: Computer has gone to sleep.)
+[2013-02-12 07:11:11] jlipps, joining. (#appium)
