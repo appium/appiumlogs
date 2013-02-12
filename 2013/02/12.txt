@@ -81,3 +81,6 @@
 [2013-02-12 10:55:09] nags: jlipps, ok, let me explore more
 [2013-02-12 10:55:12] nags: jlipps, sure, thanks
 [2013-02-12 11:10:07] awilson820, joining. (#appium)
+[2013-02-12 11:17:33] toks: hmm...
+[2013-02-12 11:17:37] toks: very strange
+[2013-02-12 11:19:52] toks: I really can't get appium to make the app believe there's text in that field
