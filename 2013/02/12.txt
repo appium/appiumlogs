@@ -135,3 +135,4 @@
 [2013-02-12 12:21:46] toks: hmm
 [2013-02-12 12:22:02] toks: not sure =/ ; I too am on github checkouts
 [2013-02-12 12:22:22] toks: trying to figure out why appium entering text into a field doesn't seem to count for our app
+[2013-02-12 12:27:41] santiycr, joining. (#appium)
