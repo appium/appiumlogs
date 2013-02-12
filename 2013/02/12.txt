@@ -80,3 +80,4 @@
 [2013-02-12 10:55:07] jlipps: good luck!
 [2013-02-12 10:55:09] nags: jlipps, ok, let me explore more
 [2013-02-12 10:55:12] nags: jlipps, sure, thanks
+[2013-02-12 11:10:07] awilson820, joining. (#appium)
