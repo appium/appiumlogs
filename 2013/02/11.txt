@@ -313,3 +313,5 @@
 [2013-02-11 20:49:49] Rolken, quitting. (Excess Flood)
 [2013-02-11 20:50:37] Rolken, joining. (#appium)
 [2013-02-11 20:53:41] alexglow, joining. (#appium)
+[2013-02-11 21:06:51] appiumbot_, joining. (#appium)
+[2013-02-11 21:07:26] appiumbot, quitting. (Remote host closed the connection)
