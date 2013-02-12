@@ -258,3 +258,8 @@
 [2013-02-12 14:57:41] github-appium, leaving. (#appium)
 [2013-02-12 14:58:07] *jlipps published appium@0.0.12'
 [2013-02-12 14:58:13] jlipps: sp0cksbeard: ^^
+[2013-02-12 15:00:13] sfbrian: jlipps: does 0.0.12 have your commit in it from this pull request? https://github.com/appium/appium/pull/155
+[2013-02-12 15:00:35] jlipps: sfbrian: yes
+[2013-02-12 15:04:12] stackedsax, joining. (#appium)
+[2013-02-12 15:04:25] sfbrian: nice
+[2013-02-12 15:04:57] sfbrian: looking forward to that as I'm struggling trying to deal with the keyboard element in my app
