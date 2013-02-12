@@ -232,3 +232,4 @@
 [2013-02-11 15:51:03] toks: yeah...
 [2013-02-11 15:51:13] toks: that was broken before... then fixed.... now broken again
 [2013-02-11 15:51:28] toks: (assuming npm install appium == git clone appium-master)
+[2013-02-11 16:28:26] santiycr, quitting. (Quit: Leaving.)
