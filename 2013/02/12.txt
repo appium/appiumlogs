@@ -227,3 +227,5 @@
 [2013-02-12 14:01:37] stackedsax, quitting. (Quit: Leaving.)
 [2013-02-12 14:02:16] stackedsax, joining. (#appium)
 [2013-02-12 14:02:41] toks: o.o
+[2013-02-12 14:06:23] jlipps: yes toks
+[2013-02-12 14:06:35] toks: :)
