@@ -304,3 +304,5 @@
 [2013-02-11 19:13:46] github-appium: appium/master c11c7a4 Jonathan Lipps: update example files to clarify what sdk is used
 [2013-02-11 19:13:46] github-appium, leaving. (#appium)
 [2013-02-11 19:16:49] alexglow, quitting. (Ping timeout: 248 seconds)
+[2013-02-11 19:33:59] henrikhodne_, joining. (#appium)
+[2013-02-11 19:34:24] nags, quitting. (Quit: Cross Platform GUI Testing - http://ldtp.freedesktop.org)
