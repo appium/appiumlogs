@@ -158,3 +158,22 @@
 [2013-02-12 12:49:23] sp0cksbeard: what driver are you using?
 [2013-02-12 12:49:29] toks: python's
 [2013-02-12 12:49:58] sp0cksbeard: have you tried the "driver.execute("sendKeysToActiveElement", {'value': ['a', 'b',…]})?
+[2013-02-12 12:50:13] sp0cksbeard: assuming the textfield is selected
+[2013-02-12 12:50:14] toks: execute works in appium now?
+[2013-02-12 12:50:27] sp0cksbeard: i know it works on the build i'm using
+[2013-02-12 12:50:32] toks: O_o;;;
+[2013-02-12 12:50:35] *toks tries'
+[2013-02-12 12:51:33] toks: OOOOOHHHHH MY GOD
+[2013-02-12 12:51:37] toks: OH MY GOD OH MY GOD
+[2013-02-12 12:51:46] toks: you are a life-saver
+[2013-02-12 12:51:49] sp0cksbeard: :-)
+[2013-02-12 12:51:59] toks: Holy &*&(YJ(P) T^*Y {IK()_!!!!
+[2013-02-12 12:52:09] toks: you have no idea how long I've been stuck on this
+[2013-02-12 12:52:32] toks: where is that documented?
+[2013-02-12 12:52:46] sp0cksbeard: i'd to look at the command.py file inside selenium package
+[2013-02-12 12:53:02] toks: o.o
+[2013-02-12 12:53:07] sp0cksbeard: it has a list of supported commands. of course, I'd to figure out the parameter signature myself
+[2013-02-12 12:53:26] sp0cksbeard: look in "selenium-2.29.0-py2.7.egg/selenium/webdriver/remote/command.py"
+[2013-02-12 12:53:44] sp0cksbeard: it has a list of constants that are the various commands that "execute" will support
+[2013-02-12 12:54:21] sp0cksbeard: or the version of selenium you're using, which should be the most recent hopefully
+[2013-02-12 12:54:32] toks: o.o
