@@ -56,3 +56,4 @@
 [2013-02-12 10:33:18] toks: in the webbrowser world, this kind of issue tends to be fixed by focus() and blur()
 [2013-02-12 10:33:39] toks: to tell the UI that a human did click on it, then blur() to say "ok, now re-evaluate the contents"
 [2013-02-12 10:33:57] toks: ....I guess I could try clicking somewhere else after typing
+[2013-02-12 10:48:34] nags, joining. (#appium)
