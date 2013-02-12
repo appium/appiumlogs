@@ -224,3 +224,6 @@
 [2013-02-12 13:58:24] toks: it grabs the iOS keyboard, and makes it type the text
 [2013-02-12 13:58:32] toks: (according to the log of server.js)
 [2013-02-12 13:59:00] toks: rather that whatever magicsmoke makes UIATextField.send_keys() works
+[2013-02-12 14:01:37] stackedsax, quitting. (Quit: Leaving.)
+[2013-02-12 14:02:16] stackedsax, joining. (#appium)
+[2013-02-12 14:02:41] toks: o.o
