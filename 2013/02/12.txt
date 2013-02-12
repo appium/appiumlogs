@@ -251,3 +251,10 @@
 [2013-02-12 14:53:32] github-appium: appium/master 6929940 Jonathan Lipps: be much more eager about cleaning up extraneous files
 [2013-02-12 14:53:32] github-appium: appium/master 38bf9fe Jonathan Lipps: update this test to use the new hotness behavior
 [2013-02-12 14:53:32] github-appium, leaving. (#appium)
+[2013-02-12 14:57:06] sfbrian, joining. (#appium)
+[2013-02-12 14:57:41] github-appium, joining. (#appium)
+[2013-02-12 14:57:41] github-appium: [appium] jlipps pushed 1 new commit to master: http://git.io/ciskrw
+[2013-02-12 14:57:41] github-appium: appium/master d5989b3 Jonathan Lipps: bump package json for npm publish
+[2013-02-12 14:57:41] github-appium, leaving. (#appium)
+[2013-02-12 14:58:07] *jlipps published appium@0.0.12'
+[2013-02-12 14:58:13] jlipps: sp0cksbeard: ^^
