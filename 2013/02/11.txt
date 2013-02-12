@@ -290,3 +290,10 @@
 [2013-02-11 18:45:50] admc, quitting. (Quit: Leaving.)
 [2013-02-11 18:46:16] toks, quitting. (Ping timeout: 245 seconds)
 [2013-02-11 18:52:19] toks, joining. (#appium)
+[2013-02-11 18:58:14] github-appium, joining. (#appium)
+[2013-02-11 18:58:14] github-appium: [appium] jlipps opened pull request #159: updating assets to reflect sdk version (master...master)  http://git.io/rwHAhQ
+[2013-02-11 18:58:14] github-appium, leaving. (#appium)
+[2013-02-11 18:58:30] jlipps: toks
+[2013-02-11 18:58:51] jlipps: check out: https://github.com/appium/appium/issues/152
+[2013-02-11 18:59:20] jlipps: we're going to change what send_keys does to use the "real" keyboard
+[2013-02-11 18:59:27] jlipps: which i suspect will alleviate your issue
