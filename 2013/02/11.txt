@@ -297,3 +297,9 @@
 [2013-02-11 18:58:51] jlipps: check out: https://github.com/appium/appium/issues/152
 [2013-02-11 18:59:20] jlipps: we're going to change what send_keys does to use the "real" keyboard
 [2013-02-11 18:59:27] jlipps: which i suspect will alleviate your issue
+[2013-02-11 19:13:46] github-appium, joining. (#appium)
+[2013-02-11 19:13:46] github-appium: [appium] santiycr pushed 4 new commits to master: http://git.io/oXrb0Q
+[2013-02-11 19:13:46] github-appium: appium/master efe60c2 Jonathan Lipps: move stuff into grunt helpers for max clean
+[2013-02-11 19:13:46] github-appium: appium/master d447951 Jonathan Lipps: distinguish test app zips by build sdk
+[2013-02-11 19:13:46] github-appium: appium/master c11c7a4 Jonathan Lipps: update example files to clarify what sdk is used
+[2013-02-11 19:13:46] github-appium, leaving. (#appium)
