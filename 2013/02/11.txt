@@ -270,3 +270,4 @@
 [2013-02-11 17:11:56] github-appium: appium/master ddfc995 Jonathan Lipps: version bump for npm publish
 [2013-02-11 17:11:56] github-appium, leaving. (#appium)
 [2013-02-11 17:12:20] *jlipps published v0.0.11 on npm'
+[2013-02-11 17:43:42] sassda1, quitting. (Ping timeout: 252 seconds)
