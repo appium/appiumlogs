@@ -194,3 +194,5 @@
 [2013-02-12 13:07:08] sp0cksbeard: ah
 [2013-02-12 13:07:20] toks: but but jcarr, sourishkrout , hugs
 [2013-02-12 13:07:31] toks: those guys are definitely on the commit list
+[2013-02-12 13:10:17] sp0cksbeard: will wait till they're here to see if the current behavior of the alert is expected. unfortunately, the webdriver wire protocol only supports "alert_text", and not "alert_title". that would have made the semantics a bit clear
+[2013-02-12 13:10:39] toks: indeed
