@@ -24,3 +24,9 @@
 [2013-02-12 09:13:10] github-appium, leaving. (#appium)
 [2013-02-12 09:14:43] sourishkrout, joining. (#appium)
 [2013-02-12 09:15:29] smccarthy, joining. (#appium)
+[2013-02-12 09:23:47] github-appium, joining. (#appium)
+[2013-02-12 09:23:47] github-appium: [appium] sourishkrout pushed 4 new commits to master: http://git.io/SQEVsw
+[2013-02-12 09:23:47] github-appium: appium/master 554c755 Jonathan Lipps: update ruby example to show how alerts work
+[2013-02-12 09:23:47] github-appium: appium/master f4d0b72 Jonathan Lipps: this file shouldn't be in the repo
+[2013-02-12 09:23:47] github-appium: appium/master 4709288 Jonathan Lipps: update gitignore to include Gemfile.lock
+[2013-02-12 09:23:47] github-appium, leaving. (#appium)
