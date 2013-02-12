@@ -230,3 +230,8 @@
 [2013-02-12 14:06:23] jlipps: yes toks
 [2013-02-12 14:06:35] toks: :)
 [2013-02-12 14:11:04] alexglow, quitting. (Ping timeout: 257 seconds)
+[2013-02-12 14:28:11] sp0cksbeard: jlipps: how often are the appium builds uploaded to the nodejs repo?
+[2013-02-12 14:28:47] alexglow, joining. (#appium)
+[2013-02-12 14:28:54] jlipps: sp0cksbeard: it's by hand, so as often as one of us remembers. we're always happy to do a new publish though
+[2013-02-12 14:29:39] sp0cksbeard: i see. i wonder if you could deploy the one with the alert fixes (thanks for that, btw!) so I can set up our CI infrastructure
+[2013-02-12 14:30:00] jlipps: happy to. working on another change atm and will publish as soon as i get that in
