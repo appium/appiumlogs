@@ -278,3 +278,11 @@
 [2013-02-11 18:14:24] toks: oh, an interesting issue has come up for me
 [2013-02-11 18:14:34] toks: I have a field that is required in my app
 [2013-02-11 18:14:55] toks: when I do find_element('type','UIATextField').send_keys('helloworld')
+[2013-02-11 18:15:02] toks: it fills it with the text
+[2013-02-11 18:15:22] toks: but when I click on save, it gives an alert indicating it's blank
+[2013-02-11 18:15:34] toks: when I do it on the sim manually, it works
+[2013-02-11 18:16:10] toks: I'm thinking some kind of "focus" event isn't happening that let's the UI know I did what I needed to do
+[2013-02-11 18:16:11] rodericj, quitting. (Quit: Leaving.)
+[2013-02-11 18:16:18] nags, joining. (#appium)
+[2013-02-11 18:16:52] toks: I think in the webbrowser world
+[2013-02-11 18:17:04] toks: this kind of issue was handled with things like focus() and blur()
