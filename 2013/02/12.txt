@@ -241,3 +241,13 @@
 [2013-02-12 14:34:19] stackedsax, joining. (#appium)
 [2013-02-12 14:38:26] stackedsax, quitting. (Ping timeout: 244 seconds)
 [2013-02-12 14:42:36] nags, joining. (#appium)
+[2013-02-12 14:51:37] santiycr, quitting. (Quit: Leaving.)
+[2013-02-12 14:53:07] github-appium, joining. (#appium)
+[2013-02-12 14:53:07] github-appium: [appium] jlipps opened pull request #171: better cleanup, less crashing (master...master)  http://git.io/Wpwuew
+[2013-02-12 14:53:07] github-appium, leaving. (#appium)
+[2013-02-12 14:53:32] github-appium, joining. (#appium)
+[2013-02-12 14:53:32] github-appium: [appium] bernii pushed 4 new commits to master: http://git.io/CrwRYw
+[2013-02-12 14:53:32] github-appium: appium/master 8a0c51b Jonathan Lipps: add global error handling for appium controller methods
+[2013-02-12 14:53:32] github-appium: appium/master 6929940 Jonathan Lipps: be much more eager about cleaning up extraneous files
+[2013-02-12 14:53:32] github-appium: appium/master 38bf9fe Jonathan Lipps: update this test to use the new hotness behavior
+[2013-02-12 14:53:32] github-appium, leaving. (#appium)
