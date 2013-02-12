@@ -281,3 +281,12 @@
 [2013-02-12 15:29:18] jlipps: oh i see
 [2013-02-12 15:29:25] jlipps: then try this: "npm update appium -g"
 [2013-02-12 15:30:01] sfbrian: nice, that did it
+[2013-02-12 15:30:39] sfbrian: yeah, npm is a bit confusing… i'm used to pip :)
+[2013-02-12 15:30:40] santiycr1, joining. (#appium)
+[2013-02-12 15:30:46] jlipps: yeah :-)
+[2013-02-12 15:30:55] sfbrian: thanks dude
+[2013-02-12 15:31:01] jlipps: np
+[2013-02-12 15:31:55] jlipps: nags, i don't think that approach will work with appium
+[2013-02-12 15:32:23] jlipps: since we use instruments and not a 3rd-party internal server like frank, we are limited by only having one instruments process going at a time
+[2013-02-12 15:33:44] santiycr, quitting. (Read error: Operation timed out)
+[2013-02-12 15:34:08] nags: jlipps, ok
