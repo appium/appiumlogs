@@ -311,3 +311,5 @@
 [2013-02-11 20:18:46] toks, quitting. (Ping timeout: 245 seconds)
 [2013-02-11 20:49:10] jlipps, quitting. (Quit: jlipps)
 [2013-02-11 20:49:49] Rolken, quitting. (Excess Flood)
+[2013-02-11 20:50:37] Rolken, joining. (#appium)
+[2013-02-11 20:53:41] alexglow, joining. (#appium)
