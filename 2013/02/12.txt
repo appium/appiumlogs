@@ -229,3 +229,4 @@
 [2013-02-12 14:02:41] toks: o.o
 [2013-02-12 14:06:23] jlipps: yes toks
 [2013-02-12 14:06:35] toks: :)
+[2013-02-12 14:11:04] alexglow, quitting. (Ping timeout: 257 seconds)
