@@ -267,3 +267,5 @@
 [2013-02-12 15:05:51] santiycr, joining. (#appium)
 [2013-02-12 15:09:49] smccarthy, quitting. (Remote host closed the connection)
 [2013-02-12 15:11:59] stackedsax, quitting. (Quit: Leaving.)
+[2013-02-12 15:23:45] sfbrian: jlipps: this might sound like a noob question but how do you update appium? I'm trying npm install appium and npm update appium and it's still at 0.0.10 for me
+[2013-02-12 15:24:40] stackedsax, joining. (#appium)
