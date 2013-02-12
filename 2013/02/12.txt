@@ -42,3 +42,9 @@
 [2013-02-12 10:09:38] github-appium: appium/master 9a5a4c6 Dan Cuellar: Adding example for .NET
 [2013-02-12 10:09:38] github-appium: appium/master c0b6f9e Jonathan Lipps: Merge pull request #165 from penguinho/master...
 [2013-02-12 10:09:38] github-appium, leaving. (#appium)
+[2013-02-12 10:11:37] github-appium, joining. (#appium)
+[2013-02-12 10:11:37] github-appium: [appium] sourishkrout pushed 4 new commits to master: http://git.io/FYwNiA
+[2013-02-12 10:11:37] github-appium: appium/master 8239f80 Jonathan Lipps: Merge branch 'master' of github.com:appium/appium
+[2013-02-12 10:11:37] github-appium: appium/master 5359008 Jonathan Lipps: allow finding of alerts
+[2013-02-12 10:11:37] github-appium: appium/master eee901f Jonathan Lipps: special-case getting the text of a button
+[2013-02-12 10:11:37] github-appium, leaving. (#appium)
