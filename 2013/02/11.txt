@@ -257,3 +257,5 @@
 [2013-02-11 16:59:03] github-appium: appium/master b39dd08 Jonathan Lipps: Merge branch 'master' of github.com:appium/appium
 [2013-02-11 16:59:03] github-appium, leaving. (#appium)
 [2013-02-11 16:59:40] santiycr, joining. (#appium)
+[2013-02-11 17:07:25] sourishkrout, quitting. (Quit: Leaving.)
+[2013-02-11 17:09:30] sassda1, joining. (#appium)
