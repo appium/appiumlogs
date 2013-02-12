@@ -271,3 +271,10 @@
 [2013-02-11 17:11:56] github-appium, leaving. (#appium)
 [2013-02-11 17:12:20] *jlipps published v0.0.11 on npm'
 [2013-02-11 17:43:42] sassda1, quitting. (Ping timeout: 252 seconds)
+[2013-02-11 18:13:35] toks: jlipps: good to know :)
+[2013-02-11 18:13:50] toks: (though, I feel like I was told this before :p)
+[2013-02-11 18:14:08] jlipps: we'll feel free to keep telling you
+[2013-02-11 18:14:16] toks: heh
+[2013-02-11 18:14:24] toks: oh, an interesting issue has come up for me
+[2013-02-11 18:14:34] toks: I have a field that is required in my app
+[2013-02-11 18:14:55] toks: when I do find_element('type','UIATextField').send_keys('helloworld')
