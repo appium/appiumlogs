@@ -30,3 +30,4 @@
 [2013-02-12 09:23:47] github-appium: appium/master f4d0b72 Jonathan Lipps: this file shouldn't be in the repo
 [2013-02-12 09:23:47] github-appium: appium/master 4709288 Jonathan Lipps: update gitignore to include Gemfile.lock
 [2013-02-12 09:23:47] github-appium, leaving. (#appium)
+[2013-02-12 09:30:07] sassda, joining. (#appium)
