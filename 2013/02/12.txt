@@ -3,3 +3,4 @@
 [2013-02-12 00:24:58] admc, quitting. (Quit: Leaving.)
 [2013-02-12 00:26:19] admc, joining. (#appium)
 [2013-02-12 00:36:17] admc, quitting. (Quit: Leaving.)
+[2013-02-12 01:47:40] alexglow, quitting. (Ping timeout: 276 seconds)
