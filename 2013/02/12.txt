@@ -48,3 +48,4 @@
 [2013-02-12 10:11:37] github-appium: appium/master 5359008 Jonathan Lipps: allow finding of alerts
 [2013-02-12 10:11:37] github-appium: appium/master eee901f Jonathan Lipps: special-case getting the text of a button
 [2013-02-12 10:11:37] github-appium, leaving. (#appium)
+[2013-02-12 10:25:20] toks, joining. (#appium)
