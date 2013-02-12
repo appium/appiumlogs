@@ -299,3 +299,23 @@
 [2013-02-12 15:43:45] sfbrian: using python
 [2013-02-12 15:44:38] jlipps: sfbrian: you want driver.execute_script
 [2013-02-12 15:44:41] jlipps: driver.execute is an internal thing
+[2013-02-12 15:45:10] jlipps: also, i feel there should be a better non-UIAuto way to get that button
+[2013-02-12 15:45:23] sfbrian: wow, I feel dumb today
+[2013-02-12 15:45:27] sfbrian: yeah, that was it
+[2013-02-12 15:45:29] jlipps: maybe we need to create a way to select the "tabbar" element first or something
+[2013-02-12 15:46:11] sfbrian: jlipps: there is a non UIAuto way to do it. I was just testing with that button
+[2013-02-12 15:46:23] jlipps: oh ok cool
+[2013-02-12 15:46:47] sfbrian: jlipps: the real one I really wanted to do was this:
+[2013-02-12 15:46:49] sfbrian: target.frontMostApp().keyboard().typeString("\n");
+[2013-02-12 15:46:54] jlipps: ah
+[2013-02-12 15:47:04] sfbrian: appium doesn't like send_keys("\n")
+[2013-02-12 15:47:08] jlipps: by "\n" do you mean hit the go button
+[2013-02-12 15:47:18] jlipps: or enter a newline
+[2013-02-12 15:47:30] sfbrian: go button
+[2013-02-12 15:47:56] sfbrian: that's what instruments gives me when recording
+[2013-02-12 15:48:09] jlipps: sfbrian: 2 things:
+[2013-02-12 15:48:57] jlipps: 1) python bindings don't have a way to call POST /keys, but gaige and i have a discussion about getting around that here: https://github.com/appium/appium/issues/152
+[2013-02-12 15:49:09] jlipps: (basically something like this: self.driver.execute(Command.SEND_KEYS_TO_ACTIVE_ELEMENT, { "value":["TopLayer"]}))
+[2013-02-12 15:49:26] toks: o.o
+[2013-02-12 15:49:35] jlipps: 2) to hit the go button send "\\uE007"
+[2013-02-12 15:49:42] sfbrian: ah
