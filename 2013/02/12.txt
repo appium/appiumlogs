@@ -137,3 +137,24 @@
 [2013-02-12 12:22:22] toks: trying to figure out why appium entering text into a field doesn't seem to count for our app
 [2013-02-12 12:27:41] santiycr, joining. (#appium)
 [2013-02-12 12:34:23] toks: wow, there's really no way to do this.....
+[2013-02-12 12:45:31] sp0cksbeard: toks: can you elaborate "this"? :-)
+[2013-02-12 12:45:35] jcarr, joining. (#appium)
+[2013-02-12 12:45:48] toks: heh
+[2013-02-12 12:46:00] toks: well... I wanted to automate some iOS testing here.... but...
+[2013-02-12 12:46:14] toks: there is something happening with a required textfield in our app
+[2013-02-12 12:46:18] toks: (native app)
+[2013-02-12 12:46:32] toks: in that, in the simulator, when I enter the text manually... it works
+[2013-02-12 12:46:49] toks: when appium does it, the app still thinks the field is empty and won't move forward
+[2013-02-12 12:47:07] toks: I see no other appium api to get around this
+[2013-02-12 12:47:23] sp0cksbeard: do you know if they textfield is the default text field or a custom widget?
+[2013-02-12 12:47:41] toks: I find it by doing find_elements('type','UIATextField')
+[2013-02-12 12:47:45] toks: returns an array of
+[2013-02-12 12:47:47] toks: 1
+[2013-02-12 12:48:12] sp0cksbeard: and the name/label of that field is the one you think it is?
+[2013-02-12 12:48:26] sp0cksbeard: i suppose it will be, but just want to be sure
+[2013-02-12 12:48:26] toks: yeah, there's only one textfield on the screen
+[2013-02-12 12:48:55] toks: it's in a tablecell
+[2013-02-12 12:49:11] toks: so I've tried clicking on the UIATableCell it's in
+[2013-02-12 12:49:23] sp0cksbeard: what driver are you using?
+[2013-02-12 12:49:29] toks: python's
+[2013-02-12 12:49:58] sp0cksbeard: have you tried the "driver.execute("sendKeysToActiveElement", {'value': ['a', 'b',…]})?
