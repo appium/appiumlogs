@@ -134,3 +134,6 @@
 [2013-02-13 13:24:44] github-appium, leaving. (#appium)
 [2013-02-13 13:40:58] sourishkrout, quitting. (Quit: Leaving.)
 [2013-02-13 13:49:48] *toks runs around in circles'
+[2013-02-13 13:50:24] toks: man, I'm diggin' this appium stuff
+[2013-02-13 13:50:42] awilson8201, joining. (#appium)
+[2013-02-13 13:53:20] awilson820, quitting. (Ping timeout: 255 seconds)
