@@ -482,3 +482,16 @@
 [2013-02-12 16:53:01] alexglow, joining. (#appium)
 [2013-02-12 17:03:07] sfbrian: sassda: that doesn't work for me
 [2013-02-12 17:05:47] sassda: one question, when text is being typed in your app, do you see the keyboard appearing?
+[2013-02-12 17:12:17] toks: oh... you have that keyboard issue too?
+[2013-02-12 17:12:30] toks: I was just told the solution for that
+[2013-02-12 17:12:45] sassda: oh?
+[2013-02-12 17:12:54] sassda: yes, interested :D
+[2013-02-12 17:13:00] toks: you have a thing where you type text in with send_keys(), but your app still thinks the field is empty?
+[2013-02-12 17:13:18] jcarr, leaving. (#appium)
+[2013-02-12 17:13:22] toks: that's what happened to me
+[2013-02-12 17:13:40] toks: I'm in python
+[2013-02-12 17:13:59] sfbrian: sassda: yeah, the keyboard appears when it types
+[2013-02-12 17:14:10] toks: instead of doing driver.find_element('UIATextField').send_keys("Mycoolname")
+[2013-02-12 17:14:20] toks: do driver.execute("sendKeysToActiveElement",{'value':list("Mycoolname")})
+[2013-02-12 17:14:49] toks: but make sure to  UIATextField.click() first
+[2013-02-12 17:15:01] toks: it'll send the keys to the keyboard
