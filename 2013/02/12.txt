@@ -518,3 +518,9 @@
 [2013-02-12 17:19:04] sfbrian: jlipps said he is going to work on it to make it work with any button name instead of just Go
 [2013-02-12 17:19:44] toks: driver.execute("sendKeysToActiveElement",{'value':list("\n")})  maybe?
 [2013-02-12 17:19:59] toks: er
+[2013-02-12 17:20:03] toks: but without the list()
+[2013-02-12 17:20:09] sfbrian: tried it, no go
+[2013-02-12 17:20:15] toks: argh
+[2013-02-12 17:20:17] sassda: yep, I hoped maybe it wouldn't need to go this far, but it seems thats what will be needed
+[2013-02-12 17:20:33] sfbrian: I gotta run though, good luck
+[2013-02-12 17:25:00] sfbrian, quitting. (Ping timeout: 260 seconds)
