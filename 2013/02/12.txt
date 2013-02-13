@@ -473,3 +473,5 @@
 [2013-02-12 16:32:40] jlipps: gotta run for now, later all!
 [2013-02-12 16:33:11] sfbrian: see ya
 [2013-02-12 16:34:01] jlipps, quitting. (Quit: jlipps)
+[2013-02-12 16:37:06] stackedsax, joining. (#appium)
+[2013-02-12 16:38:04] stackedsax, quitting. (Client Quit)
