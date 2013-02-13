@@ -53,3 +53,6 @@
 [2013-02-13 11:00:17] sfbrian: sounds good
 [2013-02-13 11:08:35] stackedsax, joining. (#appium)
 [2013-02-13 11:13:05] stackedsax, quitting. (Ping timeout: 260 seconds)
+[2013-02-13 11:17:23] stackedsax, joining. (#appium)
+[2013-02-13 11:17:25] sfbrian: jlipps: looking at your code. I noticed that "\\n" works as a temp solution
+[2013-02-13 11:20:01] jlipps: yes, although it won't work once you pull
