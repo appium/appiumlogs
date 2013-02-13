@@ -16,3 +16,6 @@
 [2013-02-13 09:38:40] awilson820, joining. (#appium)
 [2013-02-13 09:39:40] sfbrian, joining. (#appium)
 [2013-02-13 09:56:05] sassda, quitting. (Ping timeout: 260 seconds)
+[2013-02-13 10:04:05] stackedsax, quitting. (Read error: Connection reset by peer)
+[2013-02-13 10:04:06] sassda, joining. (#appium)
+[2013-02-13 10:04:27] stackedsax, joining. (#appium)
