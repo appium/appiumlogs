@@ -531,3 +531,4 @@
 [2013-02-12 18:15:20] awilson820, quitting. (Ping timeout: 255 seconds)
 [2013-02-12 18:31:59] stackedsax, quitting. (Quit: Leaving.)
 [2013-02-12 18:52:08] toks, quitting. (Ping timeout: 255 seconds)
+[2013-02-12 18:56:16] rodericj, quitting. (Quit: Leaving.)
