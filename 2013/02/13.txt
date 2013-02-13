@@ -191,3 +191,8 @@
 [2013-02-13 14:53:55] github-appium, leaving. (#appium)
 [2013-02-13 14:54:23] jlipps: sfbrian: yeah we need to enable binding to other ips than localhost
 [2013-02-13 14:56:01] sfbrian: jlipps: yeah, that sounds tough/annoying
+[2013-02-13 15:14:36] github-appium, joining. (#appium)
+[2013-02-13 15:14:36] github-appium: [appium] santiycr pushed 2 new commits to master: http://git.io/loARCQ
+[2013-02-13 15:14:36] github-appium: appium/master a575c7b Santiago Suarez Ordoñez: Merge pull request #182 from jlipps/master...
+[2013-02-13 15:14:36] github-appium: appium/master fec770c Jonathan Lipps: better messages when we try to use a strategy that doesn't exist
+[2013-02-13 15:14:36] github-appium, leaving. (#appium)
