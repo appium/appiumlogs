@@ -56,3 +56,4 @@
 [2013-02-13 11:17:23] stackedsax, joining. (#appium)
 [2013-02-13 11:17:25] sfbrian: jlipps: looking at your code. I noticed that "\\n" works as a temp solution
 [2013-02-13 11:20:01] jlipps: yes, although it won't work once you pull
+[2013-02-13 11:20:05] jlipps: since i added some escaping
