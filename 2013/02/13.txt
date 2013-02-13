@@ -15,3 +15,4 @@
 [2013-02-13 09:36:31] smccarthy, joining. (#appium)
 [2013-02-13 09:38:40] awilson820, joining. (#appium)
 [2013-02-13 09:39:40] sfbrian, joining. (#appium)
+[2013-02-13 09:56:05] sassda, quitting. (Ping timeout: 260 seconds)
