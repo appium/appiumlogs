@@ -427,3 +427,24 @@
 [2013-02-12 16:14:28] toks: driver.execute('UIATarget.localTarget().frontMostApp().mainWindow().buttons()[0].tap()')
 [2013-02-12 16:14:28] sfbrian: does the button literally have to be called "Go"?
 [2013-02-12 16:14:30] jlipps: admc, clients can be on different machines
+[2013-02-12 16:15:18] admc: maybe we should write a service designed to launch appium on a non locked up port, called appium-appium ;)
+[2013-02-12 16:15:18] jlipps: sfbrian: just checked and indeed that's hardcoded
+[2013-02-12 16:15:18] admc: lolz
+[2013-02-12 16:15:40] jlipps: admc: once an irc troll, always an irc troll
+[2013-02-12 16:15:44] jlipps: :-)
+[2013-02-12 16:15:45] sfbrian: jlipps: ah. My button is called "Search"
+[2013-02-12 16:15:50] sfbrian: d'oh
+[2013-02-12 16:15:57] jlipps: sfbrian: yes, good point. this needs to be more general.
+[2013-02-12 16:16:50] jlipps: sfbrian: i'll add a method for hitting named keyboard buttons
+[2013-02-12 16:16:58] sfbrian: nice!
+[2013-02-12 16:17:29] nags: jlipps, I guess you mentioned appium supports Safari as well, if so, is there an example available in git repo ?
+[2013-02-12 16:17:48] nags: I'm looking at this now https://github.com/appium/appium/blob/master/sample-code/examples/python/uicatalog.py
+[2013-02-12 16:18:00] sassda: in UIA, if you just do something like target.frontMostApp().keyboard().typeString("\n"); this will make the effect of pressing the action button, whatever the label, wouldn't that be a safest generic approach?
+[2013-02-12 16:18:07] jlipps: nags, not yet
+[2013-02-12 16:18:24] jlipps: sassda, trouble is we don't know what the action button is?
+[2013-02-12 16:18:25] jlipps: or do we?
+[2013-02-12 16:18:31] jlipps: i thought we had to access it by name, which can change
+[2013-02-12 16:18:55] sassda: thats my point, by just submiting the "\n" string, the button name doesn't matter anymore
+[2013-02-12 16:19:04] sassda: in my app, its called search also
+[2013-02-12 16:19:15] jlipps: sassda: but my point is that on the UIAutomation side, we need to know what it's called
+[2013-02-12 16:19:32] nags: jlipps, I should not have asked 2 questions ;-) not yet for "Safari not supported yet" or "no examples for web automation" ?
