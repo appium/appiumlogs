@@ -190,3 +190,4 @@
 [2013-02-13 14:53:55] github-appium: [appium] jlipps opened pull request #182: more helpful error handling for find strategies (master...master)  http://git.io/bwR1qQ
 [2013-02-13 14:53:55] github-appium, leaving. (#appium)
 [2013-02-13 14:54:23] jlipps: sfbrian: yeah we need to enable binding to other ips than localhost
+[2013-02-13 14:56:01] sfbrian: jlipps: yeah, that sounds tough/annoying
