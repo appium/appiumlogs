@@ -176,3 +176,13 @@
 [2013-02-13 14:30:54] sp0cksbeard: thanks
 [2013-02-13 14:44:37] sfbrian: jlipps: I don't think it's possible to connect to the appium server remotely
 [2013-02-13 14:44:55] jlipps: eh? you mean from another box
+[2013-02-13 14:45:03] jlipps: yeah i'm working on that
+[2013-02-13 14:45:04] sfbrian: yeah
+[2013-02-13 14:45:05] sfbrian: ah
+[2013-02-13 14:45:34] sfbrian: [ ~]$ netstat -vatn |grep "4444"
+[2013-02-13 14:45:34] sfbrian: tcp46      0      0  *.4444                 *.*                    LISTEN
+[2013-02-13 14:45:35] sfbrian: [ ~]$ netstat -vatn |grep "4723"
+[2013-02-13 14:45:36] sfbrian: tcp4       0      0  127.0.0.1.4723         *.*                    LISTEN
+[2013-02-13 14:46:15] sfbrian: that was the difference I could see but I don't full understand it
+[2013-02-13 14:46:24] sfbrian: but cool, thanks for working on it
+[2013-02-13 14:47:05] davidko, joining. (#appium)
