@@ -142,3 +142,12 @@
 [2013-02-13 14:02:00] nags, quitting. (Changing host)
 [2013-02-13 14:02:00] nags, joining. (#appium)
 [2013-02-13 14:04:54] sassda, quitting. (Ping timeout: 264 seconds)
+[2013-02-13 14:05:07] jlipps, joining. (#appium)
+[2013-02-13 14:05:27] jlipps: dig it toks!
+[2013-02-13 14:06:06] sassda, joining. (#appium)
+[2013-02-13 14:06:15] alexglow, joining. (#appium)
+[2013-02-13 14:07:56] admc, joining. (#appium)
+[2013-02-13 14:09:39] github-appium, joining. (#appium)
+[2013-02-13 14:09:39] github-appium: [appium] santiycr pushed 1 new commit to master: http://git.io/UkGVcg
+[2013-02-13 14:09:39] github-appium: appium/master c51422d Santiago Suarez Ordoñez: log some more info to figure out what's going on with these messages
+[2013-02-13 14:09:39] github-appium, leaving. (#appium)
