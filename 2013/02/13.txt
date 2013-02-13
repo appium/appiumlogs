@@ -32,3 +32,21 @@
 [2013-02-13 10:39:25] sassda: oh, cool!
 [2013-02-13 10:40:44] stackedsax, quitting. (Quit: Leaving.)
 [2013-02-13 10:53:59] rodericj, joining. (#appium)
+[2013-02-13 10:57:14] jlipps: sfbrian: #177 should fix your issue when it gets merged
+[2013-02-13 10:57:30] sfbrian: jlipps: nice! thanks dude
+[2013-02-13 10:58:14] sfbrian: so just send_keys("\n") will submit the form?
+[2013-02-13 10:58:29] jlipps: well in python there's the additional wrinkle that send_keys is really POST /value
+[2013-02-13 10:58:39] jlipps: and that should still work
+[2013-02-13 10:58:45] github-appium, joining. (#appium)
+[2013-02-13 10:58:45] github-appium: [appium] sourishkrout pushed 6 new commits to master: http://git.io/_549GQ
+[2013-02-13 10:58:45] github-appium: appium/master c7be3e4 Jonathan Lipps: remove legacy test
+[2013-02-13 10:58:45] github-appium: appium/master af79ecc Jonathan Lipps: Merge branch 'master' of github.com:appium/appium
+[2013-02-13 10:58:45] github-appium: appium/master d3890ad Jonathan Lipps: easiest fix ever: instruments likes newline for keyboard action
+[2013-02-13 10:58:45] github-appium, leaving. (#appium)
+[2013-02-13 10:58:47] jlipps: but we're waiting on a patch from gaige to make that happen
+[2013-02-13 10:59:06] jlipps: meanwhile, if you use that weird driver.execute(somecrazycommand) thing i pasted yesterday, it'll work
+[2013-02-13 10:59:08] sfbrian: so you still have to do SEND_KEYS_TO_ACTIVE_ELEMENT?
+[2013-02-13 10:59:15] sfbrian: yeah
+[2013-02-13 10:59:26] jlipps: yes, but you can do "\n" and not "\\uE007"
+[2013-02-13 10:59:37] sfbrian: nice
+[2013-02-13 10:59:53] jlipps: and in a bit you'll be able to do send_keys as well
