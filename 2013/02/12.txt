@@ -371,3 +371,22 @@
 [2013-02-12 15:59:08] nags: jlipps, our current product have a single sign on feature (not yet released to the market) - Confidential :-D
 [2013-02-12 15:59:26] nags: jlipps, which will connect to the server for auth
 [2013-02-12 15:59:36] nags: jlipps, then launches respective app for the required task
+[2013-02-12 16:00:06] nags: jlipps, like Horizon Data (equivalent to Google Drive), VMware View etc
+[2013-02-12 16:00:36] jlipps: i see what you're saying
+[2013-02-12 16:00:42] nags: jlipps, based on the customer license, they can get respective app and associate in to their catalog
+[2013-02-12 16:00:43] jlipps: well as long as you don't have to get back to the original app
+[2013-02-12 16:00:45] jlipps: i think appium will work
+[2013-02-12 16:01:00] nags: jlipps, for now, no need to come back to original app
+[2013-02-12 16:01:01] jlipps: i believe links to launch other apps will work automatically
+[2013-02-12 16:01:08] jlipps: as long as that app already exists on the sim
+[2013-02-12 16:01:17] jlipps: which you can guarantee by running an empty test with that app first
+[2013-02-12 16:01:17] nags: jlipps, but yes both the app will exist
+[2013-02-12 16:01:57] nags: jlipps, after auth, first app will show list of supported app for current user and on clicking the respective icon, second / third app launches and the session continues
+[2013-02-12 16:02:10] nags: *continue from second / third app
+[2013-02-12 16:03:01] jlipps: gotcha
+[2013-02-12 16:03:29] nags: jlipps, I know :-)
+[2013-02-12 16:03:48] nags: jlipps, thats what enterprise need ;-)
+[2013-02-12 16:03:52] jlipps: ok, well excited to see whether this will work for you
+[2013-02-12 16:04:33] nags: jlipps, sure, thanks, guess I'm going to bug you with too many questions
+[2013-02-12 16:04:50] nags: once I start automating
+[2013-02-12 16:04:54] jlipps: i'll do what i can when i can
