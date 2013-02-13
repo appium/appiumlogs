@@ -481,3 +481,4 @@
 [2013-02-12 16:52:51] santiycr, joining. (#appium)
 [2013-02-12 16:53:01] alexglow, joining. (#appium)
 [2013-02-12 17:03:07] sfbrian: sassda: that doesn't work for me
+[2013-02-12 17:05:47] sassda: one question, when text is being typed in your app, do you see the keyboard appearing?
