@@ -133,3 +133,4 @@
 [2013-02-13 13:24:44] github-appium: [appium] bootstraponline opened pull request #179: Fix result handling (master...fix_event_result)  http://git.io/fXf42g
 [2013-02-13 13:24:44] github-appium, leaving. (#appium)
 [2013-02-13 13:40:58] sourishkrout, quitting. (Quit: Leaving.)
+[2013-02-13 13:49:48] *toks runs around in circles'
