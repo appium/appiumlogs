@@ -186,3 +186,7 @@
 [2013-02-13 14:46:15] sfbrian: that was the difference I could see but I don't full understand it
 [2013-02-13 14:46:24] sfbrian: but cool, thanks for working on it
 [2013-02-13 14:47:05] davidko, joining. (#appium)
+[2013-02-13 14:53:55] github-appium, joining. (#appium)
+[2013-02-13 14:53:55] github-appium: [appium] jlipps opened pull request #182: more helpful error handling for find strategies (master...master)  http://git.io/bwR1qQ
+[2013-02-13 14:53:55] github-appium, leaving. (#appium)
+[2013-02-13 14:54:23] jlipps: sfbrian: yeah we need to enable binding to other ips than localhost
