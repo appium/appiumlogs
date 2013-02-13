@@ -525,3 +525,4 @@
 [2013-02-12 17:20:33] sfbrian: I gotta run though, good luck
 [2013-02-12 17:25:00] sfbrian, quitting. (Ping timeout: 260 seconds)
 [2013-02-12 17:38:36] stackedsax, joining. (#appium)
+[2013-02-12 18:08:14] toks: okay, I think I got this working
