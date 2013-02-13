@@ -174,3 +174,5 @@
 [2013-02-13 14:30:43] jlipps: yes sp0cksbeard the first few tests in execute.js are of that. the next tests are for running javascript in a webview
 [2013-02-13 14:30:45] jlipps: brb
 [2013-02-13 14:30:54] sp0cksbeard: thanks
+[2013-02-13 14:44:37] sfbrian: jlipps: I don't think it's possible to connect to the appium server remotely
+[2013-02-13 14:44:55] jlipps: eh? you mean from another box
