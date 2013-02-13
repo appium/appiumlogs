@@ -400,3 +400,30 @@
 [2013-02-12 16:08:46] sfbrian: self.driver.execute(Command.SEND_KEYS_TO_ACTIVE_ELEMENT, { "value":["Test"]})
 [2013-02-12 16:08:47] sfbrian:         self.driver.execute(Command.SEND_KEYS_TO_ACTIVE_ELEMENT, { "value":["\\uE007"]})
 [2013-02-12 16:08:57] sfbrian: I get the always useful: WebDriverException: Message: ''
+[2013-02-12 16:10:19] nags: jlipps, maybe another instance is already running, that's the reason user gets exception ? stack=[Error: listen EADDRINUSE, at errnoException (net.js:770:11) https://github.com/appium/appium/issues/172
+[2013-02-12 16:11:21] jlipps: nags, that could be too--i just replied with my personal guess that it's a socket hanging around due to running with sudo previously
+[2013-02-12 16:11:31] toks: oh
+[2013-02-12 16:11:37] toks: that's what happens to me
+[2013-02-12 16:11:38] nags: jlipps, ok
+[2013-02-12 16:11:38] jlipps: sfbrian: what does appium server log say?
+[2013-02-12 16:11:53] toks: that usually means server.js is running somewhere
+[2013-02-12 16:11:54] toks: or instruments
+[2013-02-12 16:12:01] toks: type "lsof -i"
+[2013-02-12 16:12:13] toks: I bet you'll see the process holding port 4723 or whatever
+[2013-02-12 16:12:36] jlipps: yep. the socket one is harder to diagnose though
+[2013-02-12 16:12:42] jlipps: and it also generates the EADDRINUSE error
+[2013-02-12 16:12:47] admc: maybe we should make it so that if 4723 isn't available we just increment the port until we get one thats available
+[2013-02-12 16:12:53] jlipps: and in this case the error is in instruments.js
+[2013-02-12 16:12:57] jlipps: which doesn't know about 4723
+[2013-02-12 16:13:01] jlipps: but does know about the socket
+[2013-02-12 16:13:20] jlipps: admc, client tests need to know the port though
+[2013-02-12 16:13:26] jlipps: and you can set it when you start appium
+[2013-02-12 16:13:30] admc: what if appium set an env variable
+[2013-02-12 16:13:31] sfbrian: POST /wd/hub/session/63b5c0bf-0050-4349-b583-ea8c4ae06abe/keys 500 1995ms - 199
+[2013-02-12 16:13:32] sfbrian: info: Shutting down appium session...
+[2013-02-12 16:13:32] sfbrian: info: [INST] 2013-02-13 00:12:32 +0000 Debug: Cannot perform action on invalid element: UIAElementNil from target.frontMostApp().keyboard().buttons()["Go"]
+[2013-02-12 16:13:33] sfbrian:        2013-02-13 00:12:32 +0000 Stopped: Script was stopped by the user
+[2013-02-12 16:13:34] admc: that tests used
+[2013-02-12 16:14:28] toks: driver.execute('UIATarget.localTarget().frontMostApp().mainWindow().buttons()[0].tap()')
+[2013-02-12 16:14:28] sfbrian: does the button literally have to be called "Go"?
+[2013-02-12 16:14:30] jlipps: admc, clients can be on different machines
