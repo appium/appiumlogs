@@ -30,3 +30,4 @@
 [2013-02-13 10:36:52] github-appium: [appium] jlipps opened pull request #177: fix keyboard action-triggering behavior (master...master)  http://git.io/_16u1g
 [2013-02-13 10:36:52] github-appium, leaving. (#appium)
 [2013-02-13 10:39:25] sassda: oh, cool!
+[2013-02-13 10:40:44] stackedsax, quitting. (Quit: Leaving.)
