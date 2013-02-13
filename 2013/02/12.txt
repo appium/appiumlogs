@@ -547,3 +547,4 @@
 [2013-02-12 20:45:57] johndunham, joining. (#appium)
 [2013-02-12 20:58:28] santiycr, quitting. (Quit: Leaving.)
 [2013-02-12 21:17:20] johndunham, quitting. (Quit: Textual IRC Client: www.textualapp.com)
+[2013-02-12 21:50:17] smccarthy, joining. (#appium)
