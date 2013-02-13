@@ -534,3 +534,8 @@
 [2013-02-12 18:56:16] rodericj, quitting. (Quit: Leaving.)
 [2013-02-12 19:16:02] awilson8201, quitting. (Quit: Leaving.)
 [2013-02-12 19:24:16] santiycr, quitting. (Quit: Leaving.)
+[2013-02-12 19:30:50] sourishkrout1, joining. (#appium)
+[2013-02-12 19:31:45] sourishkrout, quitting. (Ping timeout: 248 seconds)
+[2013-02-12 19:31:58] sourishkrout1, quitting. (Client Quit)
+[2013-02-12 19:33:59] alexglow, quitting. (Ping timeout: 260 seconds)
+[2013-02-12 19:34:34] sourishkrout, joining. (#appium)
