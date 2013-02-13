@@ -151,3 +151,10 @@
 [2013-02-13 14:09:39] github-appium: [appium] santiycr pushed 1 new commit to master: http://git.io/UkGVcg
 [2013-02-13 14:09:39] github-appium: appium/master c51422d Santiago Suarez Ordoñez: log some more info to figure out what's going on with these messages
 [2013-02-13 14:09:39] github-appium, leaving. (#appium)
+[2013-02-13 14:11:53] toks: hey, so Element.text is broken again
+[2013-02-13 14:11:59] toks: like
+[2013-02-13 14:12:17] toks: driver.find_element('UIAButton').text returns u''
+[2013-02-13 14:12:25] toks: (string of length 0)
+[2013-02-13 14:12:44] github-appium, joining. (#appium)
+[2013-02-13 14:12:44] github-appium: [appium] bootstraponline opened pull request #181: Status is never undefined (master...fix_wrap)  http://git.io/Hm8PWA
+[2013-02-13 14:12:44] github-appium, leaving. (#appium)
