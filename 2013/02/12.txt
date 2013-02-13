@@ -539,3 +539,4 @@
 [2013-02-12 19:31:58] sourishkrout1, quitting. (Client Quit)
 [2013-02-12 19:33:59] alexglow, quitting. (Ping timeout: 260 seconds)
 [2013-02-12 19:34:34] sourishkrout, joining. (#appium)
+[2013-02-12 19:49:01] admc, quitting. (Quit: Leaving.)
