@@ -526,3 +526,5 @@
 [2013-02-12 17:25:00] sfbrian, quitting. (Ping timeout: 260 seconds)
 [2013-02-12 17:38:36] stackedsax, joining. (#appium)
 [2013-02-12 18:08:14] toks: okay, I think I got this working
+[2013-02-12 18:11:36] awilson8201, joining. (#appium)
+[2013-02-12 18:12:25] sassda, quitting. (Ping timeout: 276 seconds)
