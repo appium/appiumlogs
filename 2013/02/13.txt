@@ -115,3 +115,5 @@
 [2013-02-13 13:06:07] sourishkrout, joining. (#appium)
 [2013-02-13 13:07:42] henrikhodne_, changing nick to henrikhodne.
 [2013-02-13 13:09:21] santiycr, joining. (#appium)
+[2013-02-13 13:12:25] sassda, joining. (#appium)
+[2013-02-13 13:12:41] smccarthy, joining. (#appium)
