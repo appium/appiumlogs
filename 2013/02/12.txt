@@ -464,3 +464,12 @@
 [2013-02-12 16:27:35] sassda: I got this by actually using the record function in instruments
 [2013-02-12 16:28:23] sassda: copy paste from my test http://pastebin.com/LCgHqexe
 [2013-02-12 16:29:59] jlipps: sfbrian: i love city beer! live right by there
+[2013-02-12 16:30:26] jlipps: sassda, then the issue may be in the selenium proxy part of things
+[2013-02-12 16:30:32] jlipps: that is an additional layer of complication
+[2013-02-12 16:31:47] sfbrian: jlipps: me too. I practically live there. If you haven't had Alpine, it's a great brewery from San Diego that makes awesome IPAs
+[2013-02-12 16:32:24] stackedsax, quitting. (Quit: Leaving.)
+[2013-02-12 16:32:29] jlipps: sfbrian: i usually just drink russian river, but i'm all about ipas so i'll check it out.
+[2013-02-12 16:32:37] jlipps: or let you buy me one when i fix this for you :-)
+[2013-02-12 16:32:40] jlipps: gotta run for now, later all!
+[2013-02-12 16:33:11] sfbrian: see ya
+[2013-02-12 16:34:01] jlipps, quitting. (Quit: jlipps)
