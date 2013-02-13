@@ -127,3 +127,8 @@
 [2013-02-13 13:17:15] github-appium, leaving. (#appium)
 [2013-02-13 13:17:26] santiycr, joining. (#appium)
 [2013-02-13 13:19:45] awilson820, quitting. (Quit: Leaving.)
+[2013-02-13 13:21:00] awilson820, joining. (#appium)
+[2013-02-13 13:21:58] stackedsax, joining. (#appium)
+[2013-02-13 13:24:44] github-appium, joining. (#appium)
+[2013-02-13 13:24:44] github-appium: [appium] bootstraponline opened pull request #179: Fix result handling (master...fix_event_result)  http://git.io/fXf42g
+[2013-02-13 13:24:44] github-appium, leaving. (#appium)
