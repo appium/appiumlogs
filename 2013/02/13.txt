@@ -52,3 +52,4 @@
 [2013-02-13 10:59:53] jlipps: and in a bit you'll be able to do send_keys as well
 [2013-02-13 11:00:17] sfbrian: sounds good
 [2013-02-13 11:08:35] stackedsax, joining. (#appium)
+[2013-02-13 11:13:05] stackedsax, quitting. (Ping timeout: 260 seconds)
