@@ -354,3 +354,20 @@
 [2013-02-12 15:54:37] toks: O_o;
 [2013-02-12 15:54:41] toks: whoa, really?
 [2013-02-12 15:54:43] jlipps: oh i see nags
+[2013-02-12 15:55:01] toks: I hear there are licensing issues with running multiple iOS simulators
+[2013-02-12 15:55:31] sourishkrout, joining. (#appium)
+[2013-02-12 15:55:40] toks: been thinking how to fool OSX into running more than one iOS-sim at one time
+[2013-02-12 15:55:47] nags: https://twitter.com/VMwareHorizon
+[2013-02-12 15:55:50] toks: and how to patch appium to handle it
+[2013-02-12 15:56:10] toks: nags: good times
+[2013-02-12 15:56:17] nags: toks, thanks :-)
+[2013-02-12 15:56:35] jlipps: nags we'd love to figure that out
+[2013-02-12 15:56:39] jlipps: let us know what you come up with
+[2013-02-12 15:56:45] nags: jlipps, sure :-)
+[2013-02-12 15:57:26] jlipps: nags with multiple vms would this be a problem?
+[2013-02-12 15:57:52] nags: jlipps, which one ?
+[2013-02-12 15:58:18] jlipps: could you do what you need by running different instances of appium on different VMs?
+[2013-02-12 15:58:34] nags: jlipps, nope
+[2013-02-12 15:59:08] nags: jlipps, our current product have a single sign on feature (not yet released to the market) - Confidential :-D
+[2013-02-12 15:59:26] nags: jlipps, which will connect to the server for auth
+[2013-02-12 15:59:36] nags: jlipps, then launches respective app for the required task
