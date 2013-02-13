@@ -138,3 +138,7 @@
 [2013-02-13 13:50:42] awilson8201, joining. (#appium)
 [2013-02-13 13:53:20] awilson820, quitting. (Ping timeout: 255 seconds)
 [2013-02-13 13:57:08] jlipps, quitting. (Quit: jlipps)
+[2013-02-13 14:02:00] nags, joining. (#appium)
+[2013-02-13 14:02:00] nags, quitting. (Changing host)
+[2013-02-13 14:02:00] nags, joining. (#appium)
+[2013-02-13 14:04:54] sassda, quitting. (Ping timeout: 264 seconds)
