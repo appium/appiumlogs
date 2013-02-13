@@ -524,3 +524,4 @@
 [2013-02-12 17:20:17] sassda: yep, I hoped maybe it wouldn't need to go this far, but it seems thats what will be needed
 [2013-02-12 17:20:33] sfbrian: I gotta run though, good luck
 [2013-02-12 17:25:00] sfbrian, quitting. (Ping timeout: 260 seconds)
+[2013-02-12 17:38:36] stackedsax, joining. (#appium)
