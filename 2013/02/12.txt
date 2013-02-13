@@ -475,3 +475,4 @@
 [2013-02-12 16:34:01] jlipps, quitting. (Quit: jlipps)
 [2013-02-12 16:37:06] stackedsax, joining. (#appium)
 [2013-02-12 16:38:04] stackedsax, quitting. (Client Quit)
+[2013-02-12 16:45:25] sassda: hey sfbrian, can you try doing something like driver.execute('target.frontMostApp().keyboard().typeString("\n");')   ? on my side this works to press the action button of my keyboard (called search on my app)
