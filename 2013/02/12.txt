@@ -495,3 +495,26 @@
 [2013-02-12 17:14:20] toks: do driver.execute("sendKeysToActiveElement",{'value':list("Mycoolname")})
 [2013-02-12 17:14:49] toks: but make sure to  UIATextField.click() first
 [2013-02-12 17:15:01] toks: it'll send the keys to the keyboard
+[2013-02-12 17:15:06] toks: you'll see the keys animate
+[2013-02-12 17:15:27] sfbrian: that only works if the keyboard is visible
+[2013-02-12 17:15:37] toks: that'll make it visible
+[2013-02-12 17:15:41] toks: at least it does for me
+[2013-02-12 17:15:47] toks: oh wait...
+[2013-02-12 17:15:48] toks: hmm
+[2013-02-12 17:15:56] toks: maybe the click makes it visible
+[2013-02-12 17:16:09] sfbrian: yeah, i have to click on it first
+[2013-02-12 17:16:19] sassda: yeah, the fact of tapping on a textfield, brings up the keyboard for sure
+[2013-02-12 17:16:38] toks: cool
+[2013-02-12 17:16:46] sfbrian: but doing something like this still doesn't press the "Search" button because it's expecting the button to say "Go"
+[2013-02-12 17:16:47] sfbrian: self.driver.execute(Command.SEND_KEYS_TO_ACTIVE_ELEMENT, { "value":["\\uE007"]})
+[2013-02-12 17:17:48] toks: hmm
+[2013-02-12 17:17:53] toks: double \\ ?
+[2013-02-12 17:17:55] sassda: actually, sfbrian, are you familiar with instruments and UIA? could you use the record function and click on the button, see what apple has to say about this ;)
+[2013-02-12 17:18:10] sfbrian: yeah, instruments says \n
+[2013-02-12 17:18:12] sfbrian: but that doesn't work
+[2013-02-12 17:18:18] sassda: oh ok :(
+[2013-02-12 17:18:42] toks: is this an alert window?
+[2013-02-12 17:18:53] toks: driver.switch_to_alert().dismiss() maybe?
+[2013-02-12 17:19:04] sfbrian: jlipps said he is going to work on it to make it work with any button name instead of just Go
+[2013-02-12 17:19:44] toks: driver.execute("sendKeysToActiveElement",{'value':list("\n")})  maybe?
+[2013-02-12 17:19:59] toks: er
