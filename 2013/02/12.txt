@@ -533,3 +533,4 @@
 [2013-02-12 18:52:08] toks, quitting. (Ping timeout: 255 seconds)
 [2013-02-12 18:56:16] rodericj, quitting. (Quit: Leaving.)
 [2013-02-12 19:16:02] awilson8201, quitting. (Quit: Leaving.)
+[2013-02-12 19:24:16] santiycr, quitting. (Quit: Leaving.)
