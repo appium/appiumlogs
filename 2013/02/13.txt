@@ -200,3 +200,6 @@
 [2013-02-13 15:16:09] jlipps: run appium with -a 0.0.0.0
 [2013-02-13 15:16:21] sfbrian: ah, sweet
 [2013-02-13 15:16:21] jlipps: so like: node server.js -a 0.0.0.0 -V 1
+[2013-02-13 15:20:34] sfbrian: jlipps: hell yeah, thanks!
+[2013-02-13 15:20:43] sfbrian: that should be default I feel
+[2013-02-13 15:21:41] jlipps: yeah that would make sense
