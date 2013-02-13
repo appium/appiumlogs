@@ -171,3 +171,6 @@
 [2013-02-13 14:29:24] sp0cksbeard: i see
 [2013-02-13 14:29:42] jlipps: ideally, when you run into something that you feel you need raw UIAutomation for, create an issue on github so we can tackle it, and make it nice and WebDrivery
 [2013-02-13 14:29:57] sp0cksbeard: you mentioned examples of that before on IRC. were you referring to the "execute.js"?
+[2013-02-13 14:30:43] jlipps: yes sp0cksbeard the first few tests in execute.js are of that. the next tests are for running javascript in a webview
+[2013-02-13 14:30:45] jlipps: brb
+[2013-02-13 14:30:54] sp0cksbeard: thanks
