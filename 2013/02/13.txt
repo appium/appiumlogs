@@ -64,3 +64,12 @@
 [2013-02-13 11:26:12] sfbrian: np
 [2013-02-13 11:29:40] sassda1, joining. (#appium)
 [2013-02-13 11:29:40] sassda, quitting. (Read error: Connection reset by peer)
+[2013-02-13 11:32:28] sp0cksbeard: jlipps: are you familiar with appium related stuff on saucelabs? I was trying to test an app with saucelabs, and I get a "Failed to download mobile app" error
+[2013-02-13 11:32:50] sp0cksbeard: trying to figure out if it's because the app might be too large in size
+[2013-02-13 11:33:20] sp0cksbeard: i can test the same app on a local appium server just fine
+[2013-02-13 11:33:26] toks: o.o
+[2013-02-13 11:33:48] jlipps: sp0cksbeard: i am familiar in that i helped build it :-) so let's figure it out
+[2013-02-13 11:33:54] toks: ha
+[2013-02-13 11:33:58] toks: I was just typing that
+[2013-02-13 11:33:59] sp0cksbeard: cool! :-)
+[2013-02-13 11:34:48] jlipps: sp0cksbeard: when did you try to run this test? just now?
