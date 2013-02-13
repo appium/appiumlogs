@@ -480,3 +480,4 @@
 [2013-02-12 16:52:08] santiycr1, quitting. (Quit: Leaving.)
 [2013-02-12 16:52:51] santiycr, joining. (#appium)
 [2013-02-12 16:53:01] alexglow, joining. (#appium)
+[2013-02-12 17:03:07] sfbrian: sassda: that doesn't work for me
