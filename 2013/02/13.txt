@@ -97,3 +97,8 @@
 [2013-02-13 11:41:27] jlipps: yep np let me know how it goes
 [2013-02-13 11:42:20] sourishkrout: there's a #saucelabs channel btw for sauce related stuff
 [2013-02-13 11:42:57] sassda: nice
+[2013-02-13 11:48:14] github-appium, joining. (#appium)
+[2013-02-13 11:48:14] github-appium: [appium] sourishkrout opened pull request #178: Added getElementsByName support. (master...master)  http://git.io/oD4wXw
+[2013-02-13 11:48:14] github-appium, leaving. (#appium)
+[2013-02-13 11:48:42] sourishkrout: jlipps: please merge once travis passed ^^
+[2013-02-13 11:49:13] sassda, quitting. (Quit: Leaving.)
