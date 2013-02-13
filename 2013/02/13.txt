@@ -73,3 +73,18 @@
 [2013-02-13 11:33:58] toks: I was just typing that
 [2013-02-13 11:33:59] sp0cksbeard: cool! :-)
 [2013-02-13 11:34:48] jlipps: sp0cksbeard: when did you try to run this test? just now?
+[2013-02-13 11:35:32] sp0cksbeard: no. around 12:22 pm. I can run it again
+[2013-02-13 11:35:46] jlipps: yeah i just deployed a newer version of appium about an hour ago
+[2013-02-13 11:35:53] jlipps: see if the same thing happens
+[2013-02-13 11:35:59] jlipps: brb
+[2013-02-13 11:36:12] sp0cksbeard: ooh. does saucelabs expect a zip?
+[2013-02-13 11:36:41] sp0cksbeard: i passed the path to the uncompressed version. may be that's the reason?
+[2013-02-13 11:36:47] sp0cksbeard: trying again after compressing
+[2013-02-13 11:37:22] jlipps: sp0cksbeard: yes try that, also can you give me the url of the job that failed? i can take a look at the logs
+[2013-02-13 11:37:26] jlipps: but we do expect a zip
+[2013-02-13 11:37:48] sp0cksbeard: jlipps: sending it in a private channel
+[2013-02-13 11:37:54] jlipps: k
+[2013-02-13 11:39:04] sassda1, changing nick to sassda.
+[2013-02-13 11:39:28] jlipps: ah
+[2013-02-13 11:39:41] jlipps: another issue sp0cksbeard is that the zip has to be hosted on a URL accessible publicly or via sauce connect
+[2013-02-13 11:39:48] jlipps: we unfortunately don't have access to your filesystem :-)
