@@ -88,3 +88,12 @@
 [2013-02-13 11:39:28] jlipps: ah
 [2013-02-13 11:39:41] jlipps: another issue sp0cksbeard is that the zip has to be hosted on a URL accessible publicly or via sauce connect
 [2013-02-13 11:39:48] jlipps: we unfortunately don't have access to your filesystem :-)
+[2013-02-13 11:40:03] sp0cksbeard: ah. of course! :-)
+[2013-02-13 11:40:11] jlipps: so the 'app' desiredCap has to be (a) URL and (b) zip
+[2013-02-13 11:40:17] sp0cksbeard: i tried with sauce-connect too, but it was without the compressed version
+[2013-02-13 11:40:44] sp0cksbeard: nm. missed the "URL" part
+[2013-02-13 11:41:01] sp0cksbeard: thanks!
+[2013-02-13 11:41:06] jlipps: (even with sauce connect, it has to be a url--sauce connect is just a proxy, not reverse ssh or something)
+[2013-02-13 11:41:27] jlipps: yep np let me know how it goes
+[2013-02-13 11:42:20] sourishkrout: there's a #saucelabs channel btw for sauce related stuff
+[2013-02-13 11:42:57] sassda: nice
