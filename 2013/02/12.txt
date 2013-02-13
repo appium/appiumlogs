@@ -554,3 +554,4 @@
 [2013-02-12 22:42:19] nags_, joining. (#appium)
 [2013-02-12 22:44:25] rodericj, joining. (#appium)
 [2013-02-12 22:52:41] nags_, quitting. (Quit: Cross Platform GUI Testing - http://ldtp.freedesktop.org)
+[2013-02-12 22:57:25] rodericj, quitting. (Quit: Leaving.)
