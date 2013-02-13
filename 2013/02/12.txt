@@ -390,3 +390,13 @@
 [2013-02-12 16:04:33] nags: jlipps, sure, thanks, guess I'm going to bug you with too many questions
 [2013-02-12 16:04:50] nags: once I start automating
 [2013-02-12 16:04:54] jlipps: i'll do what i can when i can
+[2013-02-12 16:05:06] jlipps: my secret plan is to tell you just enough so you can contribute stuff yourself :-)
+[2013-02-12 16:05:27] toks: heh
+[2013-02-12 16:06:25] sfbrian: jlipps: That didn't work quite right. I was able to get the SEND_KEYS_TO_ACTIVE_ELEMENT to work correctly and it types in what I want. But when I get to sending the enter key things blow up
+[2013-02-12 16:06:34] jlipps: sfbrian: sweet
+[2013-02-12 16:06:45] nags: jlipps, I agree with you
+[2013-02-12 16:08:15] jlipps: sfbrian: how do they blow up exactly?
+[2013-02-12 16:08:43] sfbrian: I have something like this
+[2013-02-12 16:08:46] sfbrian: self.driver.execute(Command.SEND_KEYS_TO_ACTIVE_ELEMENT, { "value":["Test"]})
+[2013-02-12 16:08:47] sfbrian:         self.driver.execute(Command.SEND_KEYS_TO_ACTIVE_ELEMENT, { "value":["\\uE007"]})
+[2013-02-12 16:08:57] sfbrian: I get the always useful: WebDriverException: Message: ''
