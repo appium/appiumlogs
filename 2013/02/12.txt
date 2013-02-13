@@ -456,3 +456,11 @@
 [2013-02-12 16:24:06] jlipps: sassda, the special buttons like "Go" and "Search" aren't submitted that way
 [2013-02-12 16:24:11] jlipps: you actually have to tap buttons on the keyboard element
 [2013-02-12 16:24:48] sassda: lemme double check on my side, this is how we have it in our current automation using UIA
+[2013-02-12 16:25:01] sfbrian: jlipps: Thanks for all the help. I'll have to buy you a beer sometime. You work at Sauce right?
+[2013-02-12 16:25:27] jlipps: sfbrian: yep! be happy to have one with you sometime
+[2013-02-12 16:25:38] jlipps: sassda: that would be interesting, let me know
+[2013-02-12 16:26:27] sfbrian: jlipps: city beer has Alpine day today. I love beer week
+[2013-02-12 16:27:22] sassda: ok, just tried, and it works for my app, and I assure you, there is nothing fancy about it :D
+[2013-02-12 16:27:35] sassda: I got this by actually using the record function in instruments
+[2013-02-12 16:28:23] sassda: copy paste from my test http://pastebin.com/LCgHqexe
+[2013-02-12 16:29:59] jlipps: sfbrian: i love city beer! live right by there
