@@ -102,3 +102,6 @@
 [2013-02-13 11:48:14] github-appium, leaving. (#appium)
 [2013-02-13 11:48:42] sourishkrout: jlipps: please merge once travis passed ^^
 [2013-02-13 11:49:13] sassda, quitting. (Quit: Leaving.)
+[2013-02-13 11:52:12] sp0cksbeard: jlipps: yup. will do. thanks!
+[2013-02-13 11:52:55] jlipps: sourishkrout: read comment plz
+[2013-02-13 11:53:03] awilson820, quitting. (Quit: Leaving.)
