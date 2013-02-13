@@ -50,3 +50,4 @@
 [2013-02-13 10:59:26] jlipps: yes, but you can do "\n" and not "\\uE007"
 [2013-02-13 10:59:37] sfbrian: nice
 [2013-02-13 10:59:53] jlipps: and in a bit you'll be able to do send_keys as well
+[2013-02-13 11:00:17] sfbrian: sounds good
