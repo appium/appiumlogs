@@ -57,3 +57,10 @@
 [2013-02-13 11:17:25] sfbrian: jlipps: looking at your code. I noticed that "\\n" works as a temp solution
 [2013-02-13 11:20:01] jlipps: yes, although it won't work once you pull
 [2013-02-13 11:20:05] jlipps: since i added some escaping
+[2013-02-13 11:25:25] jlipps: sfbrian: do you have the SEND_KEYS_TO… command at hand? i forgot it and want to post it on the mailing list
+[2013-02-13 11:25:50] jcarr, joining. (#appium)
+[2013-02-13 11:26:03] sfbrian: self.driver.execute(Command.SEND_KEYS_TO_ACTIVE_ELEMENT, { "value":["\\n"]})
+[2013-02-13 11:26:10] jlipps: sweet thanks
+[2013-02-13 11:26:12] sfbrian: np
+[2013-02-13 11:29:40] sassda1, joining. (#appium)
+[2013-02-13 11:29:40] sassda, quitting. (Read error: Connection reset by peer)
