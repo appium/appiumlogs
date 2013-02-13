@@ -162,3 +162,12 @@
 [2013-02-13 14:24:21] jlipps: we've gone back and forth about whether to return value(), label(), or name() for button.text
 [2013-02-13 14:24:33] jlipps: it seems like there's no consistency about which is there
 [2013-02-13 14:24:42] jlipps: it's probably broken because i switched it from value() to label() yesterday
+[2013-02-13 14:25:03] jlipps: but maybe we need a priority cascade of checks instead
+[2013-02-13 14:25:24] jlipps: to test, you could change button.text to button.attribute('value')
+[2013-02-13 14:25:34] jlipps: (or whatever the right code is) to see if your text comes back that way
+[2013-02-13 14:25:56] jlipps: if so, can you create an issue on github so we can track progress of fixing this?
+[2013-02-13 14:28:39] sp0cksbeard: jlipps: can we execute arbitrary UIAutomation javascript commands via driver.execute?
+[2013-02-13 14:29:04] jlipps: sp0cksbeard: yes but this is for dev purposes only. we're working on writing to the appium-discuss list about this
+[2013-02-13 14:29:24] sp0cksbeard: i see
+[2013-02-13 14:29:42] jlipps: ideally, when you run into something that you feel you need raw UIAutomation for, create an issue on github so we can tackle it, and make it nice and WebDrivery
+[2013-02-13 14:29:57] sp0cksbeard: you mentioned examples of that before on IRC. were you referring to the "execute.js"?
