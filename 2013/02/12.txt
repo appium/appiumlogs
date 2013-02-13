@@ -448,3 +448,11 @@
 [2013-02-12 16:19:04] sassda: in my app, its called search also
 [2013-02-12 16:19:15] jlipps: sassda: but my point is that on the UIAutomation side, we need to know what it's called
 [2013-02-12 16:19:32] nags: jlipps, I should not have asked 2 questions ;-) not yet for "Safari not supported yet" or "no examples for web automation" ?
+[2013-02-12 16:20:03] jlipps: nags, examples for web automation are in webview.js
+[2013-02-12 16:20:09] jlipps: those could apply to safari but no examples for that yet
+[2013-02-12 16:20:12] nags: jlipps, let me check
+[2013-02-12 16:20:27] sassda: why do you need to know how its called, you are just submitting a string through the keyboard, the string will get send to the active element
+[2013-02-12 16:21:40] sfbrian: jlipps: Let me know when there is a ticket to follow for that change. I'll be looking forward to it.
+[2013-02-12 16:24:06] jlipps: sassda, the special buttons like "Go" and "Search" aren't submitted that way
+[2013-02-12 16:24:11] jlipps: you actually have to tap buttons on the keyboard element
+[2013-02-12 16:24:48] sassda: lemme double check on my side, this is how we have it in our current automation using UIA
