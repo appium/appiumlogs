@@ -22,3 +22,7 @@
 [2013-02-13 10:05:21] hugs, quitting. (Read error: Operation timed out)
 [2013-02-13 10:05:41] hugs, joining. (#appium)
 [2013-02-13 10:24:09] toks, joining. (#appium)
+[2013-02-13 10:28:43] jlipps: sassda: you are totally right about the keyboard accepting "\n" as whatever the action button is
+[2013-02-13 10:29:04] jlipps: the trouble was that selenium turns "\n" into "\uE008"
+[2013-02-13 10:29:16] jlipps: so all i have to do us turn it back into "\n" on the instruments side, and we're golden
+[2013-02-13 10:29:23] santiycr, joining. (#appium)
