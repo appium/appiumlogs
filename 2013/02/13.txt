@@ -110,3 +110,5 @@
 [2013-02-13 12:02:13] admc, quitting. (Quit: Leaving.)
 [2013-02-13 12:11:10] stackedsax, quitting. (Quit: Leaving.)
 [2013-02-13 12:15:46] santiycr, quitting. (Quit: Leaving.)
+[2013-02-13 12:56:48] awilson820, joining. (#appium)
+[2013-02-13 12:58:32] smccarthy, quitting. (Remote host closed the connection)
