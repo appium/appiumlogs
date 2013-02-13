@@ -117,3 +117,13 @@
 [2013-02-13 13:09:21] santiycr, joining. (#appium)
 [2013-02-13 13:12:25] sassda, joining. (#appium)
 [2013-02-13 13:12:41] smccarthy, joining. (#appium)
+[2013-02-13 13:16:56] santiycr, quitting. (Read error: Connection reset by peer)
+[2013-02-13 13:16:59] alexglow, quitting. (Ping timeout: 256 seconds)
+[2013-02-13 13:17:15] github-appium, joining. (#appium)
+[2013-02-13 13:17:15] github-appium: [appium] jlipps pushed 15 new commits to master: http://git.io/qORnOA
+[2013-02-13 13:17:15] github-appium: appium/master 047ac9e Jonathan Lipps: better logging
+[2013-02-13 13:17:15] github-appium: appium/master f1c34aa Jonathan Lipps: better logging from appium about request and response data
+[2013-02-13 13:17:15] github-appium: appium/master 6948cc6 Jonathan Lipps: don't let asking for non-existent attributes crash appium
+[2013-02-13 13:17:15] github-appium, leaving. (#appium)
+[2013-02-13 13:17:26] santiycr, joining. (#appium)
+[2013-02-13 13:19:45] awilson820, quitting. (Quit: Leaving.)
