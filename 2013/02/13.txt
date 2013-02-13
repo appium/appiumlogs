@@ -19,3 +19,5 @@
 [2013-02-13 10:04:05] stackedsax, quitting. (Read error: Connection reset by peer)
 [2013-02-13 10:04:06] sassda, joining. (#appium)
 [2013-02-13 10:04:27] stackedsax, joining. (#appium)
+[2013-02-13 10:05:21] hugs, quitting. (Read error: Operation timed out)
+[2013-02-13 10:05:41] hugs, joining. (#appium)
