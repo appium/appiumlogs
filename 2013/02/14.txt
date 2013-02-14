@@ -163,3 +163,9 @@
 [2013-02-14 14:03:35] toks: lemme try
 [2013-02-14 14:03:38] berni1: I'm not sure but you could give it a try
 [2013-02-14 14:03:55] berni1: jlipps: does it default to some values if you don't provide them?
+[2013-02-14 14:06:45] berni1: yeah in fact it looks that it should default to some values
+[2013-02-14 14:08:14] berni1: toks: what's going on in appium console when you perform that command?
+[2013-02-14 14:08:25] toks: hmm
+[2013-02-14 14:08:38] toks: well, now I'm just getting some kind of syntax error
+[2013-02-14 14:08:39] toks: hold
+[2013-02-14 14:08:40] toks: on
