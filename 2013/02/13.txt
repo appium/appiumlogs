@@ -451,3 +451,17 @@
 [2013-02-13 18:48:24] github-appium: appium/master 388baad Jonathan Lipps: add mobile: hideKeyboard method for hiding keyboard based on key name
 [2013-02-13 18:48:24] github-appium: appium/master 21e9dba Sebastian Tiedtke: Merge pull request #185 from jlipps/master...
 [2013-02-13 18:48:24] github-appium, leaving. (#appium)
+[2013-02-13 18:50:03] jlipps: toks, that does sound like a bug. feel free to patch it or create an issue
+[2013-02-13 18:50:25] jlipps: davidko: you can use the webdriver dismissAlert method
+[2013-02-13 18:50:29] jlipps: or at least that works for us
+[2013-02-13 18:51:08] davidko: ah…i found that you can use this:
+[2013-02-13 18:51:21] davidko: alert = self.driver.switch_to_alert()
+[2013-02-13 18:51:22] davidko: alert.accept()
+[2013-02-13 18:52:18] sourishkrout: davidko:
+[2013-02-13 18:52:19] sourishkrout: So basically iOS app developer defines which button is responsible for 'default action' and which for 'cancel action' and we just tap the button we want - UIAutomation reference here: http://developer.apple.com/library/ios/#documentation/ToolsLanguages/Reference/UIAAlertClassReference/UIAAlert/UIAAlert.html%23//apple_ref/doc/uid/TP40009898
+[2013-02-13 18:52:19] sourishkrout: So you just call 'acceptAlert' to tap on a 'default action button' and 'dismissAlert' to tap on 'cancel action button'.
+[2013-02-13 18:52:40] jlipps: yep, you found the python way to do it, nice
+[2013-02-13 18:52:45] sourishkrout: does this help?
+[2013-02-13 18:52:48] davidko: yup!
+[2013-02-13 18:53:17] davidko: thanks…all this work is awesome btw
+[2013-02-13 18:53:56] sourishkrout: cool. glad you're liking it.
