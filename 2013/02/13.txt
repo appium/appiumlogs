@@ -294,3 +294,4 @@
 [2013-02-13 16:14:49] toks: which seems odd
 [2013-02-13 16:15:02] toks: and .text is 0 length string
 [2013-02-13 16:19:57] stackedsax, quitting. (Quit: Leaving.)
+[2013-02-13 16:29:24] sourishkrout, joining. (#appium)
