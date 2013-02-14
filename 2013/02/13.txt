@@ -340,3 +340,9 @@
 [2013-02-13 17:16:56] jlipps: let me know if you can't figure out specific commands
 [2013-02-13 17:19:07] toks: driver.execute("mobile: tap", [tapOpts], function(err) {
 [2013-02-13 17:19:09] toks: from python
+[2013-02-13 17:22:40] toks: in fact, I don't understand how to get the syntax for execute or execute_script
+[2013-02-13 17:22:50] toks: what script is running?
+[2013-02-13 17:23:04] toks: This stuff definitely doesn't work: http://developer.apple.com/library/ios/#documentation/DeveloperTools/Reference/UIAutomationRef/Introduction/Introduction.html#//apple_ref/doc/uid/TP40009771-CH1-SW1
+[2013-02-13 17:23:31] toks: s/script/API/
+[2013-02-13 17:24:34] sassda: what part of the documentation specifically doesn't work for you toks/
+[2013-02-13 17:24:35] sassda: ?
