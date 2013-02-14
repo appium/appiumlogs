@@ -485,3 +485,4 @@
 [2013-02-13 19:53:59] smccarthy, quitting. (Remote host closed the connection)
 [2013-02-13 21:05:05] santiycr, quitting. (Quit: Leaving.)
 [2013-02-13 21:16:29] admc, joining. (#appium)
+[2013-02-13 21:22:07] stackedsax, joining. (#appium)
