@@ -287,3 +287,8 @@
 [2013-02-13 16:05:12] toks:  undefined is not a function (evaluating 'au.getElementByTag('UIATableCell')')
 [2013-02-13 16:05:35] toks: where are you getting that au object anyway?
 [2013-02-13 16:07:38] awilson820, quitting. (Ping timeout: 252 seconds)
+[2013-02-13 16:13:53] toks: ya know what's interesting though?
+[2013-02-13 16:14:08] toks: I can do driver.find_element_by_name('some text')
+[2013-02-13 16:14:16] toks: and it'll find the tablecell that matches it
+[2013-02-13 16:14:44] toks: and yet, driver.find_element_by_name('some text').name is undefined
+[2013-02-13 16:14:49] toks: which seems odd
