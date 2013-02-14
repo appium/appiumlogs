@@ -41,3 +41,5 @@
 [2013-02-14 10:20:57] nags, joining. (#appium)
 [2013-02-14 10:20:57] nags, quitting. (Changing host)
 [2013-02-14 10:20:57] nags, joining. (#appium)
+[2013-02-14 10:25:18] toks, joining. (#appium)
+[2013-02-14 10:28:16] sourishkrout, quitting. (Quit: Leaving.)
