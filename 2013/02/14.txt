@@ -13,3 +13,4 @@
 [2013-02-14 08:47:04] nags, joining. (#appium)
 [2013-02-14 08:47:04] nags, quitting. (Changing host)
 [2013-02-14 08:47:04] nags, joining. (#appium)
+[2013-02-14 08:57:50] sassda, joining. (#appium)
