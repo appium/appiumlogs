@@ -87,3 +87,5 @@
 [2013-02-14 11:56:30] alexglow, quitting. (Ping timeout: 264 seconds)
 [2013-02-14 11:57:04] sp0cksbeard: nm. found it. "driver.execute('sendKeysToActiveElement', {'value': ['\n']})"
 [2013-02-14 12:00:55] admc, quitting. (Quit: Leaving.)
+[2013-02-14 12:08:11] toks: hmm
+[2013-02-14 12:08:38] toks: well good times :)
