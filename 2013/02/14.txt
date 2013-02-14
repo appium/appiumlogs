@@ -89,3 +89,7 @@
 [2013-02-14 12:00:55] admc, quitting. (Quit: Leaving.)
 [2013-02-14 12:08:11] toks: hmm
 [2013-02-14 12:08:38] toks: well good times :)
+[2013-02-14 12:19:45] github-appium, joining. (#appium)
+[2013-02-14 12:19:46] github-appium: [appium] jlipps pushed 1 new commit to master: http://git.io/Mg2QCQ
+[2013-02-14 12:19:46] github-appium: appium/master d7ff5c0 Jonathan Lipps: backwards compatibility fix for pyappium
+[2013-02-14 12:19:46] github-appium, leaving. (#appium)
