@@ -53,3 +53,11 @@
 [2013-02-14 10:40:41] smccarthy2, joining. (#appium)
 [2013-02-14 10:40:47] smccarthy, quitting. (Read error: Connection reset by peer)
 [2013-02-14 10:47:05] santiycr, joining. (#appium)
+[2013-02-14 11:00:07] jcarr, joining. (#appium)
+[2013-02-14 11:01:21] alexglow, quitting. (Ping timeout: 248 seconds)
+[2013-02-14 11:01:27] sp0cksbeard: might be slightly off-topic, but how do you configure appium to launch on startup on your CI boxes?
+[2013-02-14 11:02:14] sp0cksbeard: i've been trying to launch it via "launchctl", but I've been running into appium not being able to launch the iPhone simulator
+[2013-02-14 11:03:04] sassda: we've been having some pb on our side to launch the simulator headlessly
+[2013-02-14 11:03:10] alexglow, joining. (#appium)
+[2013-02-14 11:03:59] sp0cksbeard: in our case it's not a headless box, and it seems to run fine if I start the simulator manually and then launch appium via the command-line (as opposed to via launchctl)
+[2013-02-14 11:04:58] sp0cksbeard: also in my case there are a few space characters in the full path to the iphone simulator (i've also tried passing it via the "--app" option)
