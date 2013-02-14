@@ -350,3 +350,7 @@
 [2013-02-14 15:34:11] jlipps: berni1: mlai_ actually i don't think we've implemented sendkeys yet in web frame
 [2013-02-14 15:34:20] jlipps: so berni1's workaround may be the only way in a webview for now
 [2013-02-14 15:34:47] mlai_: hmm, i'll give that a try. I didn't know you could execute js in the python execute. neat
+[2013-02-14 15:36:33] jlipps: mlai_: using driver.execute_script(), not driver.execute()
+[2013-02-14 15:37:25] jlipps: driver.execute is (i believe) a purely internal thing to python bindings
+[2013-02-14 15:37:41] jlipps: driver.execute_script is the implementation of selenium POST /execute method
+[2013-02-14 15:39:57] toks: o.o
