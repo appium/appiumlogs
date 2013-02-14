@@ -98,3 +98,9 @@
 [2013-02-14 12:58:39] admc, joining. (#appium)
 [2013-02-14 13:07:09] rodericj1, joining. (#appium)
 [2013-02-14 13:07:09] rodericj, quitting. (Read error: Connection reset by peer)
+[2013-02-14 13:18:36] github-appium, joining. (#appium)
+[2013-02-14 13:18:36] github-appium: [appium] jlipps pushed 2 new commits to master: http://git.io/WELsrQ
+[2013-02-14 13:18:36] github-appium: appium/master 64714f3 bootstraponline: Remove commented code
+[2013-02-14 13:18:36] github-appium: appium/master 4df0974 Jonathan Lipps: Merge pull request #189 from bootstraponline/comment...
+[2013-02-14 13:18:36] github-appium, leaving. (#appium)
+[2013-02-14 13:19:09] jlipps: mlai_: that is possible. one of our devs as proof-of-concepted this, he's not in irc right now though
