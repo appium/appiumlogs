@@ -314,3 +314,6 @@
 [2013-02-14 15:05:54] toks: oh, hmm
 [2013-02-14 15:06:15] toks: this is like.... HTML-extended or something
 [2013-02-14 15:06:24] toks: okay, and now I know markdown :)
+[2013-02-14 15:12:37] jlipps: markdown is kind a way of writing html that makes sense when it's not rendered
+[2013-02-14 15:12:43] jlipps: but can be rendered as html easily
+[2013-02-14 15:12:56] jlipps: it's what github uses to display readme, docs
