@@ -478,3 +478,5 @@
 [2013-02-13 19:12:11] github-appium: appium/master 743e243 Jonathan Lipps: bump version for npm publish
 [2013-02-13 19:12:11] github-appium, leaving. (#appium)
 [2013-02-13 19:12:40] *jlipps published appium@0.0.13'
+[2013-02-13 19:15:58] sourishkrout, quitting. (Quit: Leaving.)
+[2013-02-13 19:16:28] admc, quitting. (Quit: Leaving.)
