@@ -433,3 +433,5 @@
 [2013-02-13 17:47:08] toks: no matter what I sent it
 [2013-02-13 17:48:47] *toks looks at appium sorce'
 [2013-02-13 17:49:53] sourishkrout, quitting. (Quit: Leaving.)
+[2013-02-13 17:50:27] jcarr, quitting. (Quit: Leaving.)
+[2013-02-13 17:51:23] sourishkrout, joining. (#appium)
