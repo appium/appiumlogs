@@ -234,3 +234,14 @@
 [2013-02-14 14:29:21] jlipps: or 'UIAActivityIndicator'? not sure what those are
 [2013-02-14 14:29:26] *toks checks driver.page_source again...'
 [2013-02-14 14:29:49] toks: it is none of those things, appium doesn't see it.
+[2013-02-14 14:30:03] toks: I think I need to go back to mobile:tap
+[2013-02-14 14:30:29] toks: since mobile:tap apparently works from wd.js, just not python... I will make a custom HTTP POST to make it work from my scripts
+[2013-02-14 14:30:50] toks: after wireshark'ing what is sent by wd.js
+[2013-02-14 14:31:04] sassda: why don't you use raw UIA command?
+[2013-02-14 14:31:21] berni1: toks: how does the requests differ?
+[2013-02-14 14:31:28] toks: checking
+[2013-02-14 14:31:41] toks: I just know you said it works from wd.js, but it definitely doesn't work for me
+[2013-02-14 14:31:44] toks: (in python)
+[2013-02-14 14:32:12] berni1: yeah
+[2013-02-14 14:32:23] santiycr, quitting. (Quit: Leaving.)
+[2013-02-14 14:32:48] santiycr, joining. (#appium)
