@@ -284,3 +284,17 @@
 [2013-02-14 14:53:38] toks: make sure python and wd.js are sending the same thing
 [2013-02-14 14:54:39] jlipps: toks, i bet python has (script, *args)
 [2013-02-14 14:54:43] jlipps: in the execute_script definition
+[2013-02-14 14:55:01] jlipps: and then *args is just JSON'ed as args
+[2013-02-14 14:55:35] jlipps: hey, toks, why don't you add this wonderful knowledge to https://github.com/appium/appium/wiki/Automating-mobile-gestures, kk? ^_^
+[2013-02-14 14:56:50] toks: o.o
+[2013-02-14 14:57:21] jlipps: (in the examples section)
+[2013-02-14 14:57:48] toks: oh
+[2013-02-14 14:58:10] toks: so, I need to fork that repo and submit a pull request after modding that page?
+[2013-02-14 14:58:35] jlipps: no, you can just modify wiki pages in place
+[2013-02-14 14:58:39] jlipps: using github's UI
+[2013-02-14 14:58:43] toks: really? o.o
+[2013-02-14 14:58:43] jlipps: they're not in source
+[2013-02-14 14:58:45] *toks tries'
+[2013-02-14 14:58:55] jlipps: use markdown!
+[2013-02-14 14:59:29] toks: I need to look up that term
+[2013-02-14 14:59:35] toks: I'm always hearing it on HN
