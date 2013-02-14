@@ -307,3 +307,4 @@
 [2013-02-13 16:42:12] toks: no workie
 [2013-02-13 16:42:20] toks: I see an error in server.js
 [2013-02-13 16:43:33] santiycr, quitting. (Ping timeout: 252 seconds)
+[2013-02-13 16:53:21] santiycr1, changing nick to santiycr.
