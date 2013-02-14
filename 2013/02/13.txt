@@ -243,3 +243,33 @@
 [2013-02-13 15:51:01] toks: .name not define for tablecell
 [2013-02-13 15:51:11] toks: and .text is string of length 0
 [2013-02-13 15:54:42] jlipps: toks i believe that's a known issue with tablecells. i guess tablecell elements get refreshed very quickly, so between the time you select one from webdriver and the time you try to get its name (or tap on it) the element no longer exists according to UIAuto
+[2013-02-13 15:55:04] toks: hmm
+[2013-02-13 15:55:25] toks: this UI is not moving though
+[2013-02-13 15:55:28] jlipps: so we're going to need to implement some kind of chaining mechanism where it seems like you're getting the element and clicking in two steps but it's actually one on the server side
+[2013-02-13 15:55:56] toks: does this apply even if I haven't click on anything yet
+[2013-02-13 15:55:59] jlipps: basically UIAuto is releasing references to the js elements, but the app element isn't changing
+[2013-02-13 15:56:11] toks: oh
+[2013-02-13 15:56:25] toks: ew =/
+[2013-02-13 15:56:33] stackedsax, quitting. (Read error: Connection reset by peer)
+[2013-02-13 15:56:39] jlipps: like i bet if you did driver.execute(au.getElementByTag('UIATableCell').name()) it would work
+[2013-02-13 15:56:47] toks: o.o
+[2013-02-13 15:56:51] stackedsax, joining. (#appium)
+[2013-02-13 15:56:52] toks: good enough for me!
+[2013-02-13 15:56:55] jlipps: (with the inner part in quotes)
+[2013-02-13 15:56:57] *toks tries that out'
+[2013-02-13 15:57:01] toks: right
+[2013-02-13 15:57:02] jlipps: but…. we are deprecating driver.execute for UIAutomation
+[2013-02-13 15:57:08] toks: .....
+[2013-02-13 15:57:14] toks:  (╯°□°）╯︵ ┻━┻
+[2013-02-13 15:57:17] jlipps: it's a nice thing to have for devving on appium
+[2013-02-13 15:57:23] jlipps: but we don't want users to write tests with it
+[2013-02-13 15:57:36] jlipps: so do it for now but we'll come up with a nice webdriver way to get around this problem
+[2013-02-13 15:57:46] toks: hmm
+[2013-02-13 15:58:10] toks: well, before you remove it completely please have a workaround for: driver.execute("sendKeysToActiveElement",{'value':list(newname)})
+[2013-02-13 15:58:27] jlipps: we're not going to remove it completely (see forthcoming email to appium-discuss)
+[2013-02-13 15:58:35] toks: ah
+[2013-02-13 15:58:39] jlipps: just make it an opt-in thing that generates warnings
+[2013-02-13 15:59:05] toks: cool... maybe label it driver.super_unsafe_unsupported_deprecated_execute()
+[2013-02-13 15:59:11] jlipps: toks what language are you using
+[2013-02-13 15:59:16] toks: py :)
+[2013-02-13 15:59:29] jlipps: brb
