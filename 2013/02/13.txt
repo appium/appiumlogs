@@ -441,3 +441,4 @@
 [2013-02-13 18:26:47] davidko: does anyone know the proper way to dismiss alerts?
 [2013-02-13 18:27:52] davidko: i can get the button to dismiss the alert
 [2013-02-13 18:28:18] davidko: but the click() method returns a web driver exception
+[2013-02-13 18:42:22] awilson820, quitting. (Quit: Leaving.)
