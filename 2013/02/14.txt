@@ -141,3 +141,25 @@
 [2013-02-14 13:59:41] berni1: 'document.querySelector("[name=email]").value = "' + login.email + '";'
 [2013-02-14 13:59:50] berni1: 'document.querySelector("[name=pass]").value = "' + login.password + '";'
 [2013-02-14 13:59:57] berni1: 'document.querySelector("[name=login]").click();'
+[2013-02-14 14:00:17] berni1: and on the next view there is a screen to auth the app
+[2013-02-14 14:00:17] berni1: 'document.querySelector("button[type=submit]").click();'
+[2013-02-14 14:00:18] berni1: ;-)
+[2013-02-14 14:00:32] berni1: I mean button, not screen
+[2013-02-14 14:00:59] toks: so.. driver.execute_script("mobile: tap",[{'x':2,'y':2}])
+[2013-02-14 14:01:10] toks: doesn't work; the value are ignored
+[2013-02-14 14:02:39] toks: anyone wanna confirm?
+[2013-02-14 14:02:40] toks: actually
+[2013-02-14 14:02:47] toks: I'm just gonna open an issue
+[2013-02-14 14:02:52] berni1: toks: you probably want to do:
+[2013-02-14 14:02:57] berni1: var tapOpts = {tapCount: 1 // how many taps
+[2013-02-14 14:02:57] berni1: , duration: 0.1 // how long
+[2013-02-14 14:02:58] berni1: , touchCount: 1 // how many fingers
+[2013-02-14 14:02:58] berni1: , x: 123, y: 456
+[2013-02-14 14:02:58] berni1: }
+[2013-02-14 14:03:04] berni1: driver.execute("mobile: tap", [tapOpts]);
+[2013-02-14 14:03:15] toks: I'm in python
+[2013-02-14 14:03:17] toks: but yeah
+[2013-02-14 14:03:25] toks: so you think I need to provide all values?
+[2013-02-14 14:03:35] toks: lemme try
+[2013-02-14 14:03:38] berni1: I'm not sure but you could give it a try
+[2013-02-14 14:03:55] berni1: jlipps: does it default to some values if you don't provide them?
