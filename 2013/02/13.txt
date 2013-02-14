@@ -425,3 +425,11 @@
 [2013-02-13 17:43:34] toks: so 2, will be a pixel representing upper left then?
 [2013-02-13 17:44:17] toks: no matter what I make x,y... it clicks the center of the screen
 [2013-02-13 17:44:29] toks: driver.execute_script("mobile: tap",[{'x':2,'y':2}]) is also hitting center
+[2013-02-13 17:45:57] toks: oh!
+[2013-02-13 17:46:01] toks: hey, the server.js log
+[2013-02-13 17:46:13] toks: ....wait
+[2013-02-13 17:46:32] toks: yeah... it's a bug
+[2013-02-13 17:46:44] toks: server.js log shows that x and y always equal 0.5
+[2013-02-13 17:47:08] toks: no matter what I sent it
+[2013-02-13 17:48:47] *toks looks at appium sorce'
+[2013-02-13 17:49:53] sourishkrout, quitting. (Quit: Leaving.)
