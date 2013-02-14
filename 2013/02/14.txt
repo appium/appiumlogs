@@ -255,3 +255,28 @@
 [2013-02-14 14:44:15] berni1: what's the thing?
 [2013-02-14 14:44:32] toks: so, nodejs... driver.execute('mobile: tap',[{'x':0.9,'y':0.9}]);
 [2013-02-14 14:44:43] toks: HTTP POST DATA = {"script":"mobile: tap","args":[{"x":0.9,"y":0.9}]}
+[2013-02-14 14:45:04] toks: python ....driver.execute_script("mobile: tap",[{"x":0.9,"y":0.9}])
+[2013-02-14 14:45:13] toks: {"sessionId": "4fd8ae87-7ed3-46f6-8d74-33639bfcdc01", "args": [[{"y": 0.90000000000000002, "x": 0.90000000000000002}]], "script": "mobile: tap"}
+[2013-02-14 14:45:17] toks: o_O;;;;;;;;;;;
+[2013-02-14 14:45:22] jlipps: lol
+[2013-02-14 14:45:29] toks: stupid python
+[2013-02-14 14:45:30] toks: well then
+[2013-02-14 14:45:40] jlipps: try passing in a string
+[2013-02-14 14:45:45] jlipps: i think i parse a float from it in appium server
+[2013-02-14 14:45:50] jlipps: so like "0.9"
+[2013-02-14 14:45:53] jlipps: might still work
+[2013-02-14 14:45:56] *toks tries'
+[2013-02-14 14:46:36] toks: python - d.execute_script("mobile: tap",[{"x":"0.9","y":"0.9"}])
+[2013-02-14 14:46:46] toks: d.execute_script("mobile: tap",[{"x":"0.9","y":"0.9"}])
+[2013-02-14 14:46:50] toks: so... the problem now is
+[2013-02-14 14:46:53] toks: those double [[
+[2013-02-14 14:47:11] toks: that's like an array within an array or something
+[2013-02-14 14:47:25] toks: I bet appium can't find the data in there
+[2013-02-14 14:48:22] toks: oh hey
+[2013-02-14 14:48:29] toks: if I remove my []
+[2013-02-14 14:48:34] toks: then it goes as normal
+[2013-02-14 14:48:55] toks: okay, this works: execute_script("mobile: tap",{"x":"0.9","y":"0.9"})
+[2013-02-14 14:48:56] toks: :)
+[2013-02-14 14:49:01] toks: thanks for playing
+[2013-02-14 14:49:03] toks: ^_^
+[2013-02-14 14:49:32] toks: probably should have just wireshark'ed this from the beginning :)
