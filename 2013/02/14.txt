@@ -317,3 +317,10 @@
 [2013-02-14 15:12:37] jlipps: markdown is kind a way of writing html that makes sense when it's not rendered
 [2013-02-14 15:12:43] jlipps: but can be rendered as html easily
 [2013-02-14 15:12:56] jlipps: it's what github uses to display readme, docs
+[2013-02-14 15:15:37] admc, quitting. (Quit: Leaving.)
+[2013-02-14 15:19:39] github-appium, joining. (#appium)
+[2013-02-14 15:19:39] github-appium: [appium] jlipps pushed 3 new commits to master: http://git.io/CF8VoQ
+[2013-02-14 15:19:39] github-appium: appium/master ed432ee Gaige B Paulsen: Fix #148 leaving domain sockets open...
+[2013-02-14 15:19:39] github-appium: appium/master 63bdcd2 Gaige B Paulsen: Fix #148 leaving domain sockets open...
+[2013-02-14 15:19:39] github-appium: appium/master 7bb3ee5 Jonathan Lipps: Merge pull request #190 from gaige/fdfix...
+[2013-02-14 15:19:39] github-appium, leaving. (#appium)
