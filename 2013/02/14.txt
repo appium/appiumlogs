@@ -48,3 +48,7 @@
 [2013-02-14 10:32:14] github-appium, leaving. (#appium)
 [2013-02-14 10:39:30] toks: so.... last episode
 [2013-02-14 10:39:54] toks: I found that "mobile: tap" always taps x=0.5,y=0.5 no matter what params you give it
+[2013-02-14 10:40:21] toks: ~/msg
+[2013-02-14 10:40:30] toks: oops
+[2013-02-14 10:40:41] smccarthy2, joining. (#appium)
+[2013-02-14 10:40:47] smccarthy, quitting. (Read error: Connection reset by peer)
