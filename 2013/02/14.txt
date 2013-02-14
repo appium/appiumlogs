@@ -21,3 +21,4 @@
 [2013-02-14 09:26:30] github-appium: [appium] jlipps pushed 1 new commit to master: http://git.io/JksY4A
 [2013-02-14 09:26:30] github-appium: appium/master aaa19e7 Jonathan Lipps: add style guide link to README
 [2013-02-14 09:26:31] github-appium, leaving. (#appium)
+[2013-02-14 09:34:39] sfbrian, joining. (#appium)
