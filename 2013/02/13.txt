@@ -438,3 +438,6 @@
 [2013-02-13 18:04:55] sassda, quitting. (Ping timeout: 260 seconds)
 [2013-02-13 18:07:49] santiycr, joining. (#appium)
 [2013-02-13 18:08:31] santiycr: I've been summoned
+[2013-02-13 18:26:47] davidko: does anyone know the proper way to dismiss alerts?
+[2013-02-13 18:27:52] davidko: i can get the button to dismiss the alert
+[2013-02-13 18:28:18] davidko: but the click() method returns a web driver exception
