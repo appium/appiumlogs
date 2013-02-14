@@ -76,3 +76,8 @@
 [2013-02-14 11:37:14] sp0cksbeard: i
 [2013-02-14 11:37:15] sp0cksbeard: sup
 [2013-02-14 11:37:34] sp0cksbeard: i suppose without logging in, the situation is the same as the headless one
+[2013-02-14 11:40:48] toks: hmm
+[2013-02-14 11:41:07] toks: what error do you get? It works for me
+[2013-02-14 11:41:09] sourishkrout, joining. (#appium)
+[2013-02-14 11:41:23] toks: though linux's vnc doesn't repaint the iOS simulator window properly
+[2013-02-14 11:41:31] toks: (but it is working)
