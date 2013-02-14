@@ -346,3 +346,12 @@
 [2013-02-13 17:23:31] toks: s/script/API/
 [2013-02-13 17:24:34] sassda: what part of the documentation specifically doesn't work for you toks/
 [2013-02-13 17:24:35] sassda: ?
+[2013-02-13 17:25:06] smccarthy, quitting. (Remote host closed the connection)
+[2013-02-13 17:25:16] toks: https://github.com/appium/appium/wiki/Automating-mobile-gestures
+[2013-02-13 17:25:21] toks: but... I'm using python
+[2013-02-13 17:25:48] toks: so that "mobile: tap" thing
+[2013-02-13 17:28:56] toks: ya know what would be helpful to me? The wireshark HTTP request that's sent for these APIs
+[2013-02-13 17:29:12] toks: in case there's no mapping in python, I can just write it.
+[2013-02-13 17:29:22] toks: in fact
+[2013-02-13 17:29:30] toks: ...I think I'll just start doing that
+[2013-02-13 17:29:47] nags: jlipps, is this from your company ? http://seleniumworkshop.eventbrite.com/
