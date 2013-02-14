@@ -133,3 +133,11 @@
 [2013-02-14 13:54:39] mlai_: thank you for the help!
 [2013-02-14 13:54:44] mlai_: sounds easy as pie.
 [2013-02-14 13:54:54] berni1: yeah shouldn't be that hard
+[2013-02-14 13:55:09] berni1: give it a try and let me know if you're stuck somewhere
+[2013-02-14 13:59:00] toks: oh yea, so....
+[2013-02-14 13:59:02] mlai_: berni1: would you happen to know the names of the 3 elements on the fb login page?
+[2013-02-14 13:59:31] toks: o_O
+[2013-02-14 13:59:41] berni1: sure
+[2013-02-14 13:59:41] berni1: 'document.querySelector("[name=email]").value = "' + login.email + '";'
+[2013-02-14 13:59:50] berni1: 'document.querySelector("[name=pass]").value = "' + login.password + '";'
+[2013-02-14 13:59:57] berni1: 'document.querySelector("[name=login]").click();'
