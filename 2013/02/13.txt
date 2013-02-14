@@ -403,3 +403,25 @@
 [2013-02-13 17:38:53] sassda: ok, cool
 [2013-02-13 17:39:35] toks: oooooohhhh, the x,y coords only range from 0.0 to 1.0 ...with 0.5 being center of the target
 [2013-02-13 17:39:38] toks: okay
+[2013-02-13 17:40:03] sassda: yes, this is mapped to the UIA api I guess
+[2013-02-13 17:40:19] jlipps: toks, or you can use values > 1 which are taken to be pixels. it's magic
+[2013-02-13 17:40:28] jlipps: just read the wiki :-)
+[2013-02-13 17:40:49] *toks continues reading'
+[2013-02-13 17:41:02] toks: hmm
+[2013-02-13 17:41:05] toks: if that's true
+[2013-02-13 17:41:18] santiycr, quitting. (Ping timeout: 252 seconds)
+[2013-02-13 17:41:31] toks: then, ....driver.execute_script("mobile: tap",[{'x':1,'y':1}])
+[2013-02-13 17:41:38] toks: should click the upper left corner of the screen
+[2013-02-13 17:41:51] toks: that's not what I'm seeing
+[2013-02-13 17:42:00] sassda: I think this would be bottom right
+[2013-02-13 17:42:06] toks: o_O
+[2013-02-13 17:42:10] sassda: lemme verify
+[2013-02-13 17:42:39] toks: I thought computer screens, 0,0 was upper left corner
+[2013-02-13 17:42:54] jlipps: yeah, well it has to be > 1
+[2013-02-13 17:43:02] jlipps: == 1 is 100%, 100% which is bottom right
+[2013-02-13 17:43:20] toks: ...oh
+[2013-02-13 17:43:24] jlipps: but you could do 2, 2
+[2013-02-13 17:43:25] jlipps: :-)
+[2013-02-13 17:43:34] toks: so 2, will be a pixel representing upper left then?
+[2013-02-13 17:44:17] toks: no matter what I make x,y... it clicks the center of the screen
+[2013-02-13 17:44:29] toks: driver.execute_script("mobile: tap",[{'x':2,'y':2}]) is also hitting center
