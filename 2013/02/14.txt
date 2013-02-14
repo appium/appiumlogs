@@ -110,3 +110,6 @@
 [2013-02-14 13:28:05] berni1, joining. (#appium)
 [2013-02-14 13:28:44] berni1: mlai_:  let me know when you're around. I did some fb login integration stuff
 [2013-02-14 13:33:30] mlai_: berni1: I'm around now! would love to hear details
+[2013-02-14 13:35:37] mlai_: berni1: actually, have a quick meeting. I'll be back around 2p.. would love to chat then
+[2013-02-14 13:37:38] berni1: ok
+[2013-02-14 13:37:43] berni1: just ping me when you're around
