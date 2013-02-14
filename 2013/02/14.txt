@@ -81,3 +81,5 @@
 [2013-02-14 11:41:09] sourishkrout, joining. (#appium)
 [2013-02-14 11:41:23] toks: though linux's vnc doesn't repaint the iOS simulator window properly
 [2013-02-14 11:41:31] toks: (but it is working)
+[2013-02-14 11:53:59] sp0cksbeard: yesterday there was a discussion about how to send the return key to the keyboard. does anyone recall what's the right way to do this?
+[2013-02-14 11:54:09] sp0cksbeard: I want to hit the enter button on my keyboard
