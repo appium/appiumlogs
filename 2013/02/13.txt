@@ -435,3 +435,4 @@
 [2013-02-13 17:49:53] sourishkrout, quitting. (Quit: Leaving.)
 [2013-02-13 17:50:27] jcarr, quitting. (Quit: Leaving.)
 [2013-02-13 17:51:23] sourishkrout, joining. (#appium)
+[2013-02-13 18:04:55] sassda, quitting. (Ping timeout: 260 seconds)
