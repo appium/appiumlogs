@@ -203,3 +203,16 @@
 [2013-02-14 14:19:32] berni1: ahh
 [2013-02-14 14:19:34] jlipps: self.driver.find_element_by_tag_name('alert') works
 [2013-02-14 14:19:54] jlipps: i wonder if self.driver.find_element_by_tag_name('actionsheet') works
+[2013-02-14 14:20:07] jlipps: and then you can look for buttons from that context
+[2013-02-14 14:20:16] toks: doesn't work for me
+[2013-02-14 14:20:27] jlipps: ok
+[2013-02-14 14:20:51] toks: it's a light grey, a bit transparent, overlay that slides up from the bottom
+[2013-02-14 14:20:56] berni1: toks: if you want to run the 'gesture' tests that you wd.js you just need to: 1. run grunt appium:UICatalog in apium dir, and 2. run mocha -t 70000 -R spec test/functional/uicatalog/gestures.js in second console window
+[2013-02-14 14:20:56] jlipps: what about UIAEditingMenu
+[2013-02-14 14:21:15] berni1: *that use
+[2013-02-14 14:21:20] jlipps: toks, try self.driver.find_element_by_tag_name('UIAEditingMenu')
+[2013-02-14 14:21:40] toks: not found
+[2013-02-14 14:23:09] mlai_: how about 'alertView'
+[2013-02-14 14:23:55] toks: is that  a tag name?
+[2013-02-14 14:24:00] mlai_: yes
+[2013-02-14 14:24:07] toks: not found
