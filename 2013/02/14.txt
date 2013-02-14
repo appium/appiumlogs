@@ -43,3 +43,6 @@
 [2013-02-14 10:20:57] nags, joining. (#appium)
 [2013-02-14 10:25:18] toks, joining. (#appium)
 [2013-02-14 10:28:16] sourishkrout, quitting. (Quit: Leaving.)
+[2013-02-14 10:32:14] github-appium, joining. (#appium)
+[2013-02-14 10:32:14] github-appium: [appium] bootstraponline opened pull request #189: Remove commented code (master...comment)  http://git.io/KUSHtQ
+[2013-02-14 10:32:14] github-appium, leaving. (#appium)
