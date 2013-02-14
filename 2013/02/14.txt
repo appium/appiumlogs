@@ -216,3 +216,21 @@
 [2013-02-14 14:23:55] toks: is that  a tag name?
 [2013-02-14 14:24:00] mlai_: yes
 [2013-02-14 14:24:07] toks: not found
+[2013-02-14 14:25:39] mlai_: hmm, another try… self.driver.find_element_by_name('<title text of alert>')?
+[2013-02-14 14:25:56] toks: it's not an alert
+[2013-02-14 14:26:21] mlai_: oh- sorry, the button on the alert? is that what you're looking for?
+[2013-02-14 14:26:41] toks: there's no alert on screen
+[2013-02-14 14:26:46] toks: it's an overlay
+[2013-02-14 14:27:19] jlipps: like the thing that slides up from the bottom that has delete/cancel/share via twitter type actions?
+[2013-02-14 14:27:28] toks: indeed
+[2013-02-14 14:27:33] jlipps: toks, if it's a custom control, it won't work at all
+[2013-02-14 14:27:40] sp0cksbeard, quitting. (Quit: sp0cksbeard)
+[2013-02-14 14:27:48] mlai_: ah. okay. #nohelp
+[2013-02-14 14:27:58] jlipps: the "bit transparent" part makes me think it might be custom?
+[2013-02-14 14:28:21] berni1: looking at UICatalog app in Alerts > UIActionSheet
+[2013-02-14 14:28:31] berni1: it looks that it has a transparent bg too
+[2013-02-14 14:29:00] jlipps: ok cool, so maybe it is the action sheet. are you trying to find it when it is displayeD?
+[2013-02-14 14:29:12] jlipps: or maybe toks it is 'UIAActivityView'?
+[2013-02-14 14:29:21] jlipps: or 'UIAActivityIndicator'? not sure what those are
+[2013-02-14 14:29:26] *toks checks driver.page_source again...'
+[2013-02-14 14:29:49] toks: it is none of those things, appium doesn't see it.
