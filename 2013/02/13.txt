@@ -480,3 +480,4 @@
 [2013-02-13 19:12:40] *jlipps published appium@0.0.13'
 [2013-02-13 19:15:58] sourishkrout, quitting. (Quit: Leaving.)
 [2013-02-13 19:16:28] admc, quitting. (Quit: Leaving.)
+[2013-02-13 19:33:48] rodericj, quitting. (Quit: Leaving.)
