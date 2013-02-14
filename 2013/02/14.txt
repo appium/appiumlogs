@@ -24,3 +24,17 @@
 [2013-02-14 09:34:39] sfbrian, joining. (#appium)
 [2013-02-14 10:11:53] rodericj, joining. (#appium)
 [2013-02-14 10:11:57] admc, joining. (#appium)
+[2013-02-14 10:15:08] github-appium, joining. (#appium)
+[2013-02-14 10:15:08] github-appium: [appium] jlipps opened pull request #188: handle when app can't be built better (master...master)  http://git.io/5e5IZg
+[2013-02-14 10:15:08] github-appium, leaving. (#appium)
+[2013-02-14 10:16:37] github-appium, joining. (#appium)
+[2013-02-14 10:16:37] github-appium: [appium] admc pushed 2 new commits to master: http://git.io/JRjY1Q
+[2013-02-14 10:16:37] github-appium: appium/master a01da08 Jonathan Lipps: better handling of building app that doesn't exist
+[2013-02-14 10:16:37] github-appium: appium/master 01e316a Adam Christian: Merge pull request #188 from jlipps/master...
+[2013-02-14 10:16:37] github-appium, leaving. (#appium)
+[2013-02-14 10:17:05] github-appium, joining. (#appium)
+[2013-02-14 10:17:05] github-appium: [appium] jlipps pushed 5 new commits to master: http://git.io/7vZQYA
+[2013-02-14 10:17:05] github-appium: appium/master 7d0e2c2 Gaige B Paulsen: Change /value to send keys as per spec when used with text fields
+[2013-02-14 10:17:05] github-appium: appium/master 8ce29bb Gaige B Paulsen: Object leak removal, and some work at removing the file descriptor leaks coming from the unix domain sockets.
+[2013-02-14 10:17:05] github-appium: appium/master ba033c3 Gaige B Paulsen: Add support for setValueImmediate...
+[2013-02-14 10:17:05] github-appium, leaving. (#appium)
