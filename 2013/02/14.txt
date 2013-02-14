@@ -94,3 +94,4 @@
 [2013-02-14 12:19:46] github-appium: appium/master d7ff5c0 Jonathan Lipps: backwards compatibility fix for pyappium
 [2013-02-14 12:19:46] github-appium, leaving. (#appium)
 [2013-02-14 12:44:29] mlai_: hi all.. question about transitions between native app views and web. Is it possible? I'd love to be able to try log gin in via Facebook, but it kicks off a web view to login. Could I create another appium connection to send requests to mobile safari, then wait for my app to foreground again?
+[2013-02-14 12:45:33] mlai_: food for thought.. i'm dashing for lunch.. bbl
