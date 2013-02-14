@@ -284,3 +284,6 @@
 [2013-02-13 16:03:03] toks: driver.execute_script apparently :p
 [2013-02-13 16:03:34] toks: and I get undefined is not a function
 [2013-02-13 16:04:11] awilson8201, joining. (#appium)
+[2013-02-13 16:05:12] toks:  undefined is not a function (evaluating 'au.getElementByTag('UIATableCell')')
+[2013-02-13 16:05:35] toks: where are you getting that au object anyway?
+[2013-02-13 16:07:38] awilson820, quitting. (Ping timeout: 252 seconds)
