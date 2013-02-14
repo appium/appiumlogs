@@ -330,3 +330,23 @@
 [2013-02-14 15:20:27] jlipps: and end with ```
 [2013-02-14 15:28:43] davidko_, joining. (#appium)
 [2013-02-14 15:29:41] davidko_, quitting. (Client Quit)
+[2013-02-14 15:30:23] mlai_: jlipps: i'm having the worst time sending keys after switching windows to do an fb login.. berni1 worked around this by using javascript. Is there such a workaround for python?   File "/Library/Python/2.7/site-packages/selenium/webdriver/remote/webelement.py", line 159, in send_keys
+[2013-02-14 15:30:24] mlai_:     self._execute(Command.SEND_KEYS_TO_ELEMENT, {'value': typing})
+[2013-02-14 15:31:05] berni1: mlai_:  I believe you can use JS too
+[2013-02-14 15:31:06] admc, joining. (#appium)
+[2013-02-14 15:31:27] jlipps: mlai_: self.execute
+[2013-02-14 15:31:37] jlipps: not self._execute
+[2013-02-14 15:31:41] jlipps: and typing may need to be an array
+[2013-02-14 15:31:51] berni1: like driver.execute_script('document.querySelector("[name=pass]").value = "whatever"')
+[2013-02-14 15:32:04] davidko, quitting. (Ping timeout: 256 seconds)
+[2013-02-14 15:32:06] jlipps: bern1, she's trying to do something different
+[2013-02-14 15:32:19] jlipps: oh sorry i'm out of context
+[2013-02-14 15:32:22] jlipps: please continue
+[2013-02-14 15:32:49] jlipps: berni's right that execute_script will execute JS in the web frame
+[2013-02-14 15:32:55] jlipps: no matter what webdriver language you're usiong
+[2013-02-14 15:33:12] mlai_: hmm, so, something like the 'submit' workaround, like self.wd.execute(Command.SEND_KEYS_TO_ACTIVE_ELEMENT, { "value":["m","l","a","i","@",...]})
+[2013-02-14 15:33:36] berni1: jlipps: does sending keys to an active element work now for web frames?
+[2013-02-14 15:33:53] berni1: I was using JS workaround when I wrote mine part using Safari
+[2013-02-14 15:34:11] jlipps: berni1: mlai_ actually i don't think we've implemented sendkeys yet in web frame
+[2013-02-14 15:34:20] jlipps: so berni1's workaround may be the only way in a webview for now
+[2013-02-14 15:34:47] mlai_: hmm, i'll give that a try. I didn't know you could execute js in the python execute. neat
