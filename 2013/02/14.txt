@@ -355,3 +355,5 @@
 [2013-02-14 15:37:41] jlipps: driver.execute_script is the implementation of selenium POST /execute method
 [2013-02-14 15:39:57] toks: o.o
 [2013-02-14 15:40:56] toks: I have to do this to type on the iOS keyboard...  driver.execute("sendKeysToActiveElement",{'value':list(servername)})
+[2013-02-14 15:48:23] mlai_: hm, i'm trying this: self.wd.execute_script('document.querySelector("[name=pass]").value = "blah"') and the server shows: info: Responding to client with error: {"status":7,"value":{"message":"An element could not be located on the page using the given search parameters."},"sessionId":"e4dbc284-a754-4435-be4a-576750d12827"}
+[2013-02-14 15:48:40] mlai_: but i've verified the name of those elements are indeed name, pass, login.
