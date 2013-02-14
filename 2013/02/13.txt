@@ -308,3 +308,10 @@
 [2013-02-13 16:42:20] toks: I see an error in server.js
 [2013-02-13 16:43:33] santiycr, quitting. (Ping timeout: 252 seconds)
 [2013-02-13 16:53:21] santiycr1, changing nick to santiycr.
+[2013-02-13 17:02:01] santiycr, quitting. (Quit: Leaving.)
+[2013-02-13 17:03:08] toks: ;_;
+[2013-02-13 17:03:11] toks: so...
+[2013-02-13 17:03:39] toks: I have a popup/scroll-up window in my app with a button
+[2013-02-13 17:04:16] nags, joining. (#appium)
+[2013-02-13 17:04:16] nags, quitting. (Changing host)
+[2013-02-13 17:04:16] nags, joining. (#appium)
