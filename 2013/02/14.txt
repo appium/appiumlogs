@@ -52,3 +52,4 @@
 [2013-02-14 10:40:30] toks: oops
 [2013-02-14 10:40:41] smccarthy2, joining. (#appium)
 [2013-02-14 10:40:47] smccarthy, quitting. (Read error: Connection reset by peer)
+[2013-02-14 10:47:05] santiycr, joining. (#appium)
