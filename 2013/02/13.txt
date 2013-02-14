@@ -473,3 +473,8 @@
 [2013-02-13 19:08:46] github-appium: [appium] jlipps pushed 1 new commit to master: http://git.io/LUupIw
 [2013-02-13 19:08:46] github-appium: appium/master 9191e80 Jonathan Lipps: make sure no logs ever show up in git
 [2013-02-13 19:08:46] github-appium, leaving. (#appium)
+[2013-02-13 19:12:11] github-appium, joining. (#appium)
+[2013-02-13 19:12:11] github-appium: [appium] jlipps pushed 1 new commit to master: http://git.io/uycHgg
+[2013-02-13 19:12:11] github-appium: appium/master 743e243 Jonathan Lipps: bump version for npm publish
+[2013-02-13 19:12:11] github-appium, leaving. (#appium)
+[2013-02-13 19:12:40] *jlipps published appium@0.0.13'
