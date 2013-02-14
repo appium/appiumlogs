@@ -442,3 +442,12 @@
 [2013-02-13 18:27:52] davidko: i can get the button to dismiss the alert
 [2013-02-13 18:28:18] davidko: but the click() method returns a web driver exception
 [2013-02-13 18:42:22] awilson820, quitting. (Quit: Leaving.)
+[2013-02-13 18:45:50] toks, quitting. (Ping timeout: 255 seconds)
+[2013-02-13 18:47:30] github-appium, joining. (#appium)
+[2013-02-13 18:47:30] github-appium: [appium] jlipps opened pull request #185: hideKeyboard method (master...master)  http://git.io/izYrhw
+[2013-02-13 18:47:30] github-appium, leaving. (#appium)
+[2013-02-13 18:48:24] github-appium, joining. (#appium)
+[2013-02-13 18:48:24] github-appium: [appium] sourishkrout pushed 2 new commits to master: http://git.io/NbVP-A
+[2013-02-13 18:48:24] github-appium: appium/master 388baad Jonathan Lipps: add mobile: hideKeyboard method for hiding keyboard based on key name
+[2013-02-13 18:48:24] github-appium: appium/master 21e9dba Sebastian Tiedtke: Merge pull request #185 from jlipps/master...
+[2013-02-13 18:48:24] github-appium, leaving. (#appium)
