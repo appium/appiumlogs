@@ -245,3 +245,13 @@
 [2013-02-14 14:32:12] berni1: yeah
 [2013-02-14 14:32:23] santiycr, quitting. (Quit: Leaving.)
 [2013-02-14 14:32:48] santiycr, joining. (#appium)
+[2013-02-14 14:40:45] toks: hmm
+[2013-02-14 14:40:47] toks: yeah...
+[2013-02-14 14:40:58] toks: okay, server.js log shows the right thing from nodejs
+[2013-02-14 14:41:02] toks: checking for diff
+[2013-02-14 14:43:37] toks: lol
+[2013-02-14 14:43:40] toks: oh god
+[2013-02-14 14:44:06] toks: so okay.... freakin' python
+[2013-02-14 14:44:15] berni1: what's the thing?
+[2013-02-14 14:44:32] toks: so, nodejs... driver.execute('mobile: tap',[{'x':0.9,'y':0.9}]);
+[2013-02-14 14:44:43] toks: HTTP POST DATA = {"script":"mobile: tap","args":[{"x":0.9,"y":0.9}]}
