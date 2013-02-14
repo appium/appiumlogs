@@ -7,3 +7,4 @@
 [2013-02-14 07:46:17] github-appium, joining. (#appium)
 [2013-02-14 07:46:17] github-appium: [appium] bootstraponline opened pull request #187: Fix 186 (master...fix_186)  http://git.io/Z_Affg
 [2013-02-14 07:46:17] github-appium, leaving. (#appium)
+[2013-02-14 08:02:32] jlipps, joining. (#appium)
