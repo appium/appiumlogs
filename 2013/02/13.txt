@@ -299,3 +299,11 @@
 [2013-02-13 16:39:35] toks: hmm
 [2013-02-13 16:39:39] toks: so, scrolling in iOS
 [2013-02-13 16:39:52] santiycr1, joining. (#appium)
+[2013-02-13 16:40:04] toks: I'd like to flick the window to see stuff that's on the bottom
+[2013-02-13 16:40:22] toks: when I use the flick metho
+[2013-02-13 16:40:23] toks: d
+[2013-02-13 16:40:30] toks: ...it seems to behave like a click
+[2013-02-13 16:42:09] toks: Element.location_once_scrolled_into_view
+[2013-02-13 16:42:12] toks: no workie
+[2013-02-13 16:42:20] toks: I see an error in server.js
+[2013-02-13 16:43:33] santiycr, quitting. (Ping timeout: 252 seconds)
