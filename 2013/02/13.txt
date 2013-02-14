@@ -383,3 +383,23 @@
 [2013-02-13 17:34:36] toks: awesome :)
 [2013-02-13 17:34:45] toks: okay now I can start using those functions, gracias!
 [2013-02-13 17:34:49] nags: jlipps, FYI I have opened a bug with apple to automate multiple app, let us see what they say
+[2013-02-13 17:35:02] smccarthy, joining. (#appium)
+[2013-02-13 17:35:05] nags: santiycr, Hello
+[2013-02-13 17:35:17] jlipps: thanks nags, sounds good!
+[2013-02-13 17:36:00] nags: jlipps, wow ! the session covers "- Appium for mobile testing"
+[2013-02-13 17:36:22] nags: let me book my slot, I have recommended 4 other friends
+[2013-02-13 17:36:46] nags: this link was sent in internal VMware announcement with a recommendation to attend :-)
+[2013-02-13 17:36:56] sassda: oh by the way, any work on android? :)
+[2013-02-13 17:37:08] jlipps: sassda: i'm digging into research now
+[2013-02-13 17:37:20] jlipps: sassda: we've heard of a project coming out soon that could have most of the work already done
+[2013-02-13 17:37:29] jlipps: so it'd be nice to integrate that (it's open source)
+[2013-02-13 17:37:40] sourishkrout: nags: as far as our planning goes we'll only touch on appium a little bit
+[2013-02-13 17:37:57] sourishkrout: it's mostly an event for test automation newbies
+[2013-02-13 17:37:59] nags: sourishkrout, that's fine :-)
+[2013-02-13 17:38:08] sassda: which one is it? in my company right now different teams have used different ones, but nothing solid for now
+[2013-02-13 17:38:24] sourishkrout: nags: you're obviously still welcome to attend. i'm sure there's cake!
+[2013-02-13 17:38:32] nags: sourishkrout, :-D
+[2013-02-13 17:38:39] jlipps: sassda: i don't honestly know what the name is and don't think it's publicized yet but "should be soon"
+[2013-02-13 17:38:53] sassda: ok, cool
+[2013-02-13 17:39:35] toks: oooooohhhh, the x,y coords only range from 0.0 to 1.0 ...with 0.5 being center of the target
+[2013-02-13 17:39:38] toks: okay
