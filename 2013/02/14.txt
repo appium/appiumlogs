@@ -280,3 +280,7 @@
 [2013-02-14 14:49:01] toks: thanks for playing
 [2013-02-14 14:49:03] toks: ^_^
 [2013-02-14 14:49:32] toks: probably should have just wireshark'ed this from the beginning :)
+[2013-02-14 14:53:20] toks: but now I know if something doesn't work, try it with wd.js first :)
+[2013-02-14 14:53:38] toks: make sure python and wd.js are sending the same thing
+[2013-02-14 14:54:39] jlipps: toks, i bet python has (script, *args)
+[2013-02-14 14:54:43] jlipps: in the execute_script definition
