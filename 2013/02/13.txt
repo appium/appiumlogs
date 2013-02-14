@@ -486,3 +486,5 @@
 [2013-02-13 21:05:05] santiycr, quitting. (Quit: Leaving.)
 [2013-02-13 21:16:29] admc, joining. (#appium)
 [2013-02-13 21:22:07] stackedsax, joining. (#appium)
+[2013-02-13 22:07:59] nags, quitting. (Quit: Cross Platform GUI Testing - http://ldtp.freedesktop.org)
+[2013-02-13 22:09:07] alexglow, joining. (#appium)
