@@ -121,3 +121,15 @@
 [2013-02-14 13:48:46] berni1: you have to wait for Safari to go into foreground
 [2013-02-14 13:49:06] berni1: and then get window handler (using wd.js you use function windowHandles() )
 [2013-02-14 13:49:52] berni1: when you've got them you just switch to the 'safari' window (wd.js browser.window(handles[0]) )
+[2013-02-14 13:50:09] berni1: then all your commands are sent to Safari
+[2013-02-14 13:50:40] berni1: you can for example make some javascript calls there like browser.eval('document.querySelector("[name=login]").click();')
+[2013-02-14 13:51:12] berni1: and when you're done jsut swtich back to app with (wd.js) browser.frame(null);
+[2013-02-14 13:51:41] mlai_: interesting… okay.. i can give this a try. I'm writing in python but I'm guessing there are similar methods
+[2013-02-14 13:51:42] berni1: are you using JavaScript webdriver or some other one?
+[2013-02-14 13:52:30] berni1: yeah it's all compliant with JSON Wire protocol specification so they should be all the same
+[2013-02-14 13:52:54] mlai_: looks like 'window_handles' does the same… http://selenium.googlecode.com/svn/trunk/docs/api/py/webdriver_remote/selenium.webdriver.remote.webdriver.html#selenium.webdriver.remote.webdriver.WebDriver.window_handles
+[2013-02-14 13:53:22] berni1: yeah and than switch_to_window
+[2013-02-14 13:53:39] berni1: should work :-)
+[2013-02-14 13:54:39] mlai_: thank you for the help!
+[2013-02-14 13:54:44] mlai_: sounds easy as pie.
+[2013-02-14 13:54:54] berni1: yeah shouldn't be that hard
