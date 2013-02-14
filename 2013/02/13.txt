@@ -436,3 +436,5 @@
 [2013-02-13 17:50:27] jcarr, quitting. (Quit: Leaving.)
 [2013-02-13 17:51:23] sourishkrout, joining. (#appium)
 [2013-02-13 18:04:55] sassda, quitting. (Ping timeout: 260 seconds)
+[2013-02-13 18:07:49] santiycr, joining. (#appium)
+[2013-02-13 18:08:31] santiycr: I've been summoned
