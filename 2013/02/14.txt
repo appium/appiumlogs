@@ -9,3 +9,7 @@
 [2013-02-14 07:46:17] github-appium, leaving. (#appium)
 [2013-02-14 08:02:32] jlipps, joining. (#appium)
 [2013-02-14 08:41:13] smccarthy, joining. (#appium)
+[2013-02-14 08:45:23] alexglow, joining. (#appium)
+[2013-02-14 08:47:04] nags, joining. (#appium)
+[2013-02-14 08:47:04] nags, quitting. (Changing host)
+[2013-02-14 08:47:04] nags, joining. (#appium)
