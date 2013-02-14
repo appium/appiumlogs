@@ -298,3 +298,10 @@
 [2013-02-14 14:58:55] jlipps: use markdown!
 [2013-02-14 14:59:29] toks: I need to look up that term
 [2013-02-14 14:59:35] toks: I'm always hearing it on HN
+[2013-02-14 15:03:49] *jlipps wonders if toks is trolling'
+[2013-02-14 15:04:01] toks: not even trolling :(
+[2013-02-14 15:04:11] toks: there are holes in my knowledge =/
+[2013-02-14 15:04:17] jlipps: toks http://daringfireball.net/projects/markdown/syntax
+[2013-02-14 15:04:21] toks: I also have never seen starwars
+[2013-02-14 15:04:33] jlipps: don't believe that
+[2013-02-14 15:04:51] toks: it's true :(
