@@ -315,3 +315,14 @@
 [2013-02-13 17:04:16] nags, joining. (#appium)
 [2013-02-13 17:04:16] nags, quitting. (Changing host)
 [2013-02-13 17:04:16] nags, joining. (#appium)
+[2013-02-13 17:05:31] github-appium, joining. (#appium)
+[2013-02-13 17:05:31] github-appium: [appium] jlipps opened pull request #184: basic 'reset' script (master...master)  http://git.io/joj2jg
+[2013-02-13 17:05:31] github-appium, leaving. (#appium)
+[2013-02-13 17:07:25] jlipps: back toks
+[2013-02-13 17:07:42] jlipps: toks, "driver.find_element_by_name('some text').name" is actually two calls
+[2013-02-13 17:07:55] jlipps: and i'm saying the element referred to "disappears" in between
+[2013-02-13 17:08:06] jlipps: two http + instruments calls
+[2013-02-13 17:08:34] jlipps: toks, what method are you using for flick?
+[2013-02-13 17:08:45] jlipps: have you seen https://github.com/appium/appium/wiki/Automating-mobile-gestures
+[2013-02-13 17:08:56] toks: o.o
+[2013-02-13 17:09:51] sfbrian, quitting. (Ping timeout: 256 seconds)
