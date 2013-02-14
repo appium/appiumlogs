@@ -16,3 +16,4 @@
 [2013-02-14 08:57:50] sassda, joining. (#appium)
 [2013-02-14 09:00:15] sourishkrout, joining. (#appium)
 [2013-02-14 09:01:56] nags, quitting. (Quit: Cross Platform GUI Testing - http://ldtp.freedesktop.org)
+[2013-02-14 09:17:26] davidko, joining. (#appium)
