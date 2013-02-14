@@ -292,3 +292,5 @@
 [2013-02-13 16:14:16] toks: and it'll find the tablecell that matches it
 [2013-02-13 16:14:44] toks: and yet, driver.find_element_by_name('some text').name is undefined
 [2013-02-13 16:14:49] toks: which seems odd
+[2013-02-13 16:15:02] toks: and .text is 0 length string
+[2013-02-13 16:19:57] stackedsax, quitting. (Quit: Leaving.)
