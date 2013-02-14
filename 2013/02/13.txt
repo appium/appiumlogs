@@ -482,3 +482,4 @@
 [2013-02-13 19:16:28] admc, quitting. (Quit: Leaving.)
 [2013-02-13 19:33:48] rodericj, quitting. (Quit: Leaving.)
 [2013-02-13 19:43:30] jlipps, quitting. (Quit: jlipps)
+[2013-02-13 19:53:59] smccarthy, quitting. (Remote host closed the connection)
