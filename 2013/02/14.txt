@@ -61,3 +61,9 @@
 [2013-02-14 11:03:10] alexglow, joining. (#appium)
 [2013-02-14 11:03:59] sp0cksbeard: in our case it's not a headless box, and it seems to run fine if I start the simulator manually and then launch appium via the command-line (as opposed to via launchctl)
 [2013-02-14 11:04:58] sp0cksbeard: also in my case there are a few space characters in the full path to the iphone simulator (i've also tried passing it via the "--app" option)
+[2013-02-14 11:30:12] toks: -l launch
+[2013-02-14 11:30:33] toks: node server.js -l launch.... will start the iOS app immediately
+[2013-02-14 11:30:35] mlai_, joining. (#appium)
+[2013-02-14 11:30:57] mlai_, quitting. (Client Quit)
+[2013-02-14 11:31:17] mlai_, joining. (#appium)
+[2013-02-14 11:31:39] sp0cksbeard: toks: I've tried that too
