@@ -38,3 +38,6 @@
 [2013-02-14 10:17:05] github-appium: appium/master 8ce29bb Gaige B Paulsen: Object leak removal, and some work at removing the file descriptor leaks coming from the unix domain sockets.
 [2013-02-14 10:17:05] github-appium: appium/master ba033c3 Gaige B Paulsen: Add support for setValueImmediate...
 [2013-02-14 10:17:05] github-appium, leaving. (#appium)
+[2013-02-14 10:20:57] nags, joining. (#appium)
+[2013-02-14 10:20:57] nags, quitting. (Changing host)
+[2013-02-14 10:20:57] nags, joining. (#appium)
