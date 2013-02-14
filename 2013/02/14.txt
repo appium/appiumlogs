@@ -104,3 +104,6 @@
 [2013-02-14 13:18:36] github-appium: appium/master 4df0974 Jonathan Lipps: Merge pull request #189 from bootstraponline/comment...
 [2013-02-14 13:18:36] github-appium, leaving. (#appium)
 [2013-02-14 13:19:09] jlipps: mlai_: that is possible. one of our devs as proof-of-concepted this, he's not in irc right now though
+[2013-02-14 13:21:55] toks: lies!
+[2013-02-14 13:22:01] toks: j/k
+[2013-02-14 13:22:08] *toks runs around in circles'
