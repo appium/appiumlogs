@@ -17,3 +17,7 @@
 [2013-02-14 09:00:15] sourishkrout, joining. (#appium)
 [2013-02-14 09:01:56] nags, quitting. (Quit: Cross Platform GUI Testing - http://ldtp.freedesktop.org)
 [2013-02-14 09:17:26] davidko, joining. (#appium)
+[2013-02-14 09:26:30] github-appium, joining. (#appium)
+[2013-02-14 09:26:30] github-appium: [appium] jlipps pushed 1 new commit to master: http://git.io/JksY4A
+[2013-02-14 09:26:30] github-appium: appium/master aaa19e7 Jonathan Lipps: add style guide link to README
+[2013-02-14 09:26:31] github-appium, leaving. (#appium)
