@@ -328,3 +328,5 @@
 [2013-02-14 15:20:18] jlipps: to write python code
 [2013-02-14 15:20:25] jlipps: you can start a block with ```py
 [2013-02-14 15:20:27] jlipps: and end with ```
+[2013-02-14 15:28:43] davidko_, joining. (#appium)
+[2013-02-14 15:29:41] davidko_, quitting. (Client Quit)
