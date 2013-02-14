@@ -169,3 +169,12 @@
 [2013-02-14 14:08:38] toks: well, now I'm just getting some kind of syntax error
 [2013-02-14 14:08:39] toks: hold
 [2013-02-14 14:08:40] toks: on
+[2013-02-14 14:10:24] toks: okay, yeah
+[2013-02-14 14:10:47] toks: no matter what I do, server.js logs says it got x:0.5,y:0.5
+[2013-02-14 14:13:49] berni1: weird, works as expected with wd.js
+[2013-02-14 14:13:54] alexglow, joining. (#appium)
+[2013-02-14 14:13:58] berni1: yeah create an issue for that
+[2013-02-14 14:14:16] toks: ....what
+[2013-02-14 14:14:20] toks: works in wd?
+[2013-02-14 14:14:49] berni1: yeah in javascript implementation of webdriver:  https://github.com/admc/wd
+[2013-02-14 14:14:57] toks: hmm
