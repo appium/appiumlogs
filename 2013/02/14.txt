@@ -4,3 +4,6 @@
 [2013-02-14 05:44:54] github-appium, joining. (#appium)
 [2013-02-14 05:44:54] github-appium: [appium] gaige opened pull request #186: Partial #152 and #148 (master...master)  http://git.io/sPoGMg
 [2013-02-14 05:44:54] github-appium, leaving. (#appium)
+[2013-02-14 07:46:17] github-appium, joining. (#appium)
+[2013-02-14 07:46:17] github-appium: [appium] bootstraponline opened pull request #187: Fix 186 (master...fix_186)  http://git.io/Z_Affg
+[2013-02-14 07:46:17] github-appium, leaving. (#appium)
