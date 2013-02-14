@@ -67,3 +67,12 @@
 [2013-02-14 11:30:57] mlai_, quitting. (Client Quit)
 [2013-02-14 11:31:17] mlai_, joining. (#appium)
 [2013-02-14 11:31:39] sp0cksbeard: toks: I've tried that too
+[2013-02-14 11:35:23] toks: o_O
+[2013-02-14 11:35:44] toks: oh... hmm
+[2013-02-14 11:35:59] toks: so, appium doesn't work if there isn't a UI session going
+[2013-02-14 11:36:34] toks: I tried running appium on a remote macmini, it would not start the simulator until I first VNC'ed into the box and logged in
+[2013-02-14 11:37:06] sp0cksbeard: that's the setup i've here too
+[2013-02-14 11:37:13] sp0cksbeard: i'm signed into the box via vnc
+[2013-02-14 11:37:14] sp0cksbeard: i
+[2013-02-14 11:37:15] sp0cksbeard: sup
+[2013-02-14 11:37:34] sp0cksbeard: i suppose without logging in, the situation is the same as the headless one
