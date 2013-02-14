@@ -354,3 +354,4 @@
 [2013-02-14 15:37:25] jlipps: driver.execute is (i believe) a purely internal thing to python bindings
 [2013-02-14 15:37:41] jlipps: driver.execute_script is the implementation of selenium POST /execute method
 [2013-02-14 15:39:57] toks: o.o
+[2013-02-14 15:40:56] toks: I have to do this to type on the iOS keyboard...  driver.execute("sendKeysToActiveElement",{'value':list(servername)})
