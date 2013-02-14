@@ -490,3 +490,5 @@
 [2013-02-13 22:09:07] alexglow, joining. (#appium)
 [2013-02-13 22:12:01] davidko, joining. (#appium)
 [2013-02-13 22:39:56] davidko, quitting. (Quit: davidko)
+[2013-02-13 22:40:26] admc, quitting. (Quit: Leaving.)
+[2013-02-13 22:40:52] admc, joining. (#appium)
