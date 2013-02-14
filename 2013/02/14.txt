@@ -305,3 +305,12 @@
 [2013-02-14 15:04:21] toks: I also have never seen starwars
 [2013-02-14 15:04:33] jlipps: don't believe that
 [2013-02-14 15:04:51] toks: it's true :(
+[2013-02-14 15:05:04] toks: in some ways I'm geeky, but in others... I should have my nerd card revoked
+[2013-02-14 15:05:26] github-appium, joining. (#appium)
+[2013-02-14 15:05:26] github-appium: [appium] gaige opened pull request #190: Fix #148 leaving domain sockets open (master...fdfix)  http://git.io/LeDjvA
+[2013-02-14 15:05:26] github-appium, leaving. (#appium)
+[2013-02-14 15:05:28] toks: this is markdown?
+[2013-02-14 15:05:31] toks: this is regular HTML
+[2013-02-14 15:05:54] toks: oh, hmm
+[2013-02-14 15:06:15] toks: this is like.... HTML-extended or something
+[2013-02-14 15:06:24] toks: okay, and now I know markdown :)
