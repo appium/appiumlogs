@@ -493,3 +493,4 @@
 [2013-02-13 22:40:26] admc, quitting. (Quit: Leaving.)
 [2013-02-13 22:40:52] admc, joining. (#appium)
 [2013-02-13 22:58:06] alexglow, quitting. (Ping timeout: 252 seconds)
+[2013-02-13 23:12:59] alexglow, joining. (#appium)
