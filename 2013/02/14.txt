@@ -178,3 +178,28 @@
 [2013-02-14 14:14:20] toks: works in wd?
 [2013-02-14 14:14:49] berni1: yeah in javascript implementation of webdriver:  https://github.com/admc/wd
 [2013-02-14 14:14:57] toks: hmm
+[2013-02-14 14:15:02] toks: do you have wireshark? :)
+[2013-02-14 14:15:11] toks: I'd like to compare what goes over the wire :p
+[2013-02-14 14:15:26] berni1: we're using it for writing tests for appium
+[2013-02-14 14:15:32] berni1: nope, but I can download it ;-)
+[2013-02-14 14:16:18] berni1: in fact you can even run them yourself I guess
+[2013-02-14 14:16:25] berni1: as you've already got Appium
+[2013-02-14 14:16:26] berni1: https://github.com/appium/appium/blob/master/test/functional/uicatalog/gestures.js
+[2013-02-14 14:16:26] toks: oh yeah
+[2013-02-14 14:17:40] berni1: what you need to do is:
+[2013-02-14 14:17:43] toks: before I go too far into that, the only reason I needed mobile:tap was because the iOS app I'm testing has a confirmation button that slides onto the screen
+[2013-02-14 14:17:57] toks: that button is not visible in driver.page_source it seems
+[2013-02-14 14:18:28] berni1: yeah I had that problem too - and that's why I was using tap for that too ;-)
+[2013-02-14 14:18:35] toks: ah
+[2013-02-14 14:18:36] toks: :)
+[2013-02-14 14:18:49] berni1: some UI elements are just not listed by UIAutomation
+[2013-02-14 14:18:53] jlipps: toks, berni1 i think we have access to that confirmation button
+[2013-02-14 14:19:01] toks: lies!
+[2013-02-14 14:19:18] jlipps: i think it might be called the 'actionSheet'
+[2013-02-14 14:19:22] toks: o_O
+[2013-02-14 14:19:24] jlipps: similar to how alerts don't show up in the page source
+[2013-02-14 14:19:26] *toks checks'
+[2013-02-14 14:19:27] jlipps: but you can query them
+[2013-02-14 14:19:32] berni1: ahh
+[2013-02-14 14:19:34] jlipps: self.driver.find_element_by_tag_name('alert') works
+[2013-02-14 14:19:54] jlipps: i wonder if self.driver.find_element_by_tag_name('actionsheet') works
