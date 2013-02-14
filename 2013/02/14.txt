@@ -357,3 +357,9 @@
 [2013-02-14 15:40:56] toks: I have to do this to type on the iOS keyboard...  driver.execute("sendKeysToActiveElement",{'value':list(servername)})
 [2013-02-14 15:48:23] mlai_: hm, i'm trying this: self.wd.execute_script('document.querySelector("[name=pass]").value = "blah"') and the server shows: info: Responding to client with error: {"status":7,"value":{"message":"An element could not be located on the page using the given search parameters."},"sessionId":"e4dbc284-a754-4435-be4a-576750d12827"}
 [2013-02-14 15:48:40] mlai_: but i've verified the name of those elements are indeed name, pass, login.
+[2013-02-14 15:50:07] berni1: that's strange cause you're not even locating an element .. you're just executing some JS
+[2013-02-14 15:50:21] berni1: are you sure you've copied the right console output?
+[2013-02-14 15:50:34] berni1: maybe this error happens later? or earlier?
+[2013-02-14 15:50:46] berni1: (with not being able to find an element)
+[2013-02-14 15:53:06] mlai_: I don't see any text getting injected.. and seems like that is aligning with those server responses. hrmm.
+[2013-02-14 15:53:55] mlai_: oh wait… i might have just gotten it to work… one sec
