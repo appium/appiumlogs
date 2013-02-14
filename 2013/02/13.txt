@@ -355,3 +355,31 @@
 [2013-02-13 17:29:22] toks: in fact
 [2013-02-13 17:29:30] toks: ...I think I'll just start doing that
 [2013-02-13 17:29:47] nags: jlipps, is this from your company ? http://seleniumworkshop.eventbrite.com/
+[2013-02-13 17:30:20] jlipps: nags, yes
+[2013-02-13 17:30:35] jlipps: toks, use driver.execute_script
+[2013-02-13 17:30:39] nags: jlipps, cool, can I neeI have an opportunity to meet you then ;-)
+[2013-02-13 17:30:40] awilson820, joining. (#appium)
+[2013-02-13 17:30:49] toks: doesn't work for me
+[2013-02-13 17:31:00] toks: (or I can't figure out the syntax to use)
+[2013-02-13 17:31:15] jlipps: nags, i don't think i'll be there! several colleagues who've worked heavily on appium will be though
+[2013-02-13 17:31:16] awilson8201, quitting. (Read error: Connection reset by peer)
+[2013-02-13 17:31:30] nags: jlipps, okay
+[2013-02-13 17:31:42] jlipps: toks, what about this
+[2013-02-13 17:32:03] jlipps: driver.execute_script("mobile: tap", [{x: 0.8, y: 0.3}])
+[2013-02-13 17:32:18] *toks tries'
+[2013-02-13 17:32:26] santiycr, joining. (#appium)
+[2013-02-13 17:32:27] jlipps: (or whatever your needs are… if you need to tap on an element, pass in 'element' with the element id [not sure how to get that from a python WebElement])
+[2013-02-13 17:33:18] toks: ...
+[2013-02-13 17:33:28] toks: what socerry is this
+[2013-02-13 17:33:37] toks: hold on
+[2013-02-13 17:33:38] jlipps: nags, santiycr will be there!
+[2013-02-13 17:33:53] toks: ooooohhhhhh
+[2013-02-13 17:33:56] toks: the brackets!
+[2013-02-13 17:33:58] jlipps: and sourishkrout
+[2013-02-13 17:34:01] nags: jlipps, cool
+[2013-02-13 17:34:05] jlipps: yees toks, "args" param is an array
+[2013-02-13 17:34:20] jlipps: of which the first value for these mobile commands is a dict of options
+[2013-02-13 17:34:31] jlipps: s/first value/first element
+[2013-02-13 17:34:36] toks: awesome :)
+[2013-02-13 17:34:45] toks: okay now I can start using those functions, gracias!
+[2013-02-13 17:34:49] nags: jlipps, FYI I have opened a bug with apple to automate multiple app, let us see what they say
