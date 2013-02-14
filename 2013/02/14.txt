@@ -107,3 +107,5 @@
 [2013-02-14 13:21:55] toks: lies!
 [2013-02-14 13:22:01] toks: j/k
 [2013-02-14 13:22:08] *toks runs around in circles'
+[2013-02-14 13:28:05] berni1, joining. (#appium)
+[2013-02-14 13:28:44] berni1: mlai_:  let me know when you're around. I did some fb login integration stuff
