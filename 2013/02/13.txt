@@ -465,3 +465,6 @@
 [2013-02-13 18:52:48] davidko: yup!
 [2013-02-13 18:53:17] davidko: thanks…all this work is awesome btw
 [2013-02-13 18:53:56] sourishkrout: cool. glad you're liking it.
+[2013-02-13 19:01:00] davidko_, joining. (#appium)
+[2013-02-13 19:01:14] davidko_, quitting. (Client Quit)
+[2013-02-13 19:03:42] alexglow, quitting. (Ping timeout: 264 seconds)
