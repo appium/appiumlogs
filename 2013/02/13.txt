@@ -335,3 +335,8 @@
 [2013-02-13 17:11:00] github-appium: appium/master 023a434 Jonathan Lipps: add reset to README
 [2013-02-13 17:11:00] github-appium, leaving. (#appium)
 [2013-02-13 17:14:03] toks: hmm
+[2013-02-13 17:15:20] toks: how do I call this from pytho
+[2013-02-13 17:15:41] *toks tries some stuff'
+[2013-02-13 17:16:56] jlipps: let me know if you can't figure out specific commands
+[2013-02-13 17:19:07] toks: driver.execute("mobile: tap", [tapOpts], function(err) {
+[2013-02-13 17:19:09] toks: from python
