@@ -468,3 +468,8 @@
 [2013-02-13 19:01:00] davidko_, joining. (#appium)
 [2013-02-13 19:01:14] davidko_, quitting. (Client Quit)
 [2013-02-13 19:03:42] alexglow, quitting. (Ping timeout: 264 seconds)
+[2013-02-13 19:05:11] davidko, quitting. (Ping timeout: 260 seconds)
+[2013-02-13 19:08:46] github-appium, joining. (#appium)
+[2013-02-13 19:08:46] github-appium: [appium] jlipps pushed 1 new commit to master: http://git.io/LUupIw
+[2013-02-13 19:08:46] github-appium: appium/master 9191e80 Jonathan Lipps: make sure no logs ever show up in git
+[2013-02-13 19:08:46] github-appium, leaving. (#appium)
