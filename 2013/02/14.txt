@@ -444,3 +444,5 @@
 [2013-02-14 16:36:04] mlai_: thanks for all the help today berni1. really appreciate it
 [2013-02-14 16:58:28] jlipps, quitting. (Quit: jlipps)
 [2013-02-14 17:20:08] sfbrian, quitting. (Ping timeout: 252 seconds)
+[2013-02-14 17:25:38] sassda, quitting. (Ping timeout: 256 seconds)
+[2013-02-14 17:28:34] mlai_, quitting. (Quit: mlai_)
