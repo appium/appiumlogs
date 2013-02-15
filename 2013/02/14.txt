@@ -367,3 +367,5 @@
 [2013-02-14 15:57:56] toks: s/rest/reset/
 [2013-02-14 15:59:34] berni1: agreed - that would be sweet
 [2013-02-14 15:59:47] berni1: mlai_:  workin?
+[2013-02-14 16:00:43] mlai_: errrr, not quite :\ still poking at it
+[2013-02-14 16:01:21] berni1: show us what you're sending and some console logs
