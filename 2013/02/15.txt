@@ -45,3 +45,10 @@
 [2013-02-15 15:03:15] sassda, quitting. (Ping timeout: 260 seconds)
 [2013-02-15 15:04:00] toks: so...
 [2013-02-15 15:04:08] toks: if I want to test a physical iPad
+[2013-02-15 15:05:22] toks: I tried : node server.js --app /path/to/Release-iphoneos/myapp.app -V 1 -a 0.0.0.0
+[2013-02-15 15:05:46] toks: I get "posix spawn failure"
+[2013-02-15 15:06:02] toks: this makes me think appium is trying to start the arm-compiled binary on the macbook itself
+[2013-02-15 15:06:12] toks: rather than sending to the USB connected, dev-provisioned iPad
+[2013-02-15 15:08:41] toks: ....oh....http://assertselenium.com/2013/01/17/appium-for-automating-native-ios-apps/
+[2013-02-15 15:08:52] toks: according to that link, it's dSYM
+[2013-02-15 15:08:56] toks: not the .app
