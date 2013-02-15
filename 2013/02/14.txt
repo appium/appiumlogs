@@ -399,3 +399,6 @@
 [2013-02-14 16:12:25] berni1: you should have an URL of the webpage appium/safari is showing in console log
 [2013-02-14 16:12:50] berni1: just paste it to the browser and you should be able to get that element using firebug/webkit inspector
 [2013-02-14 16:13:41] berni1: best way is to just open the page with a normal browser and check what are name elmenets there
+[2013-02-14 16:15:03] mlai_: berni1: clever.. really helps
+[2013-02-14 16:18:06] nags, quitting. (Quit: Cross Platform GUI Testing - http://ldtp.freedesktop.org)
+[2013-02-14 16:19:13] sassda: hum, if I remember correctly, I think safari gives you the ability to display a webkit inspector of safari running in the simulator
