@@ -3,3 +3,5 @@
 [2013-02-15 01:11:02] smccarthy, quitting. (Remote host closed the connection)
 [2013-02-15 01:36:07] alexglow, joining. (#appium)
 [2013-02-15 01:45:26] alexglow, quitting. (Ping timeout: 245 seconds)
+[2013-02-15 02:35:46] berni, joining. (#appium)
+[2013-02-15 02:35:46] berni1, quitting. (Read error: Connection reset by peer)
