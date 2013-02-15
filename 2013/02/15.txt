@@ -41,3 +41,7 @@
 [2013-02-15 14:37:52] alexglow, joining. (#appium)
 [2013-02-15 14:45:49] sourishkrout, joining. (#appium)
 [2013-02-15 14:46:19] santiycr, quitting. (Quit: Leaving.)
+[2013-02-15 15:00:39] sassda1, joining. (#appium)
+[2013-02-15 15:03:15] sassda, quitting. (Ping timeout: 260 seconds)
+[2013-02-15 15:04:00] toks: so...
+[2013-02-15 15:04:08] toks: if I want to test a physical iPad
