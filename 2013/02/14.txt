@@ -422,3 +422,21 @@
 [2013-02-14 16:29:38] berni1: best to check what selector you can use with Tools > Developer Tools
 [2013-02-14 16:29:52] mlai_: huh.. that's odd that you get auth'ed
 [2013-02-14 16:30:00] berni1: Cmd + Alt + i
+[2013-02-14 16:30:46] berni1: cancel button has name=cancel_clicked
+[2013-02-14 16:30:57] berni1: and id=cancel_clicked
+[2013-02-14 16:31:24] berni1: so you could just do:
+[2013-02-14 16:31:25] berni1: document.querySelector("button[id=cancel_clicked]").click();
+[2013-02-14 16:31:27] berni1: or
+[2013-02-14 16:31:38] mlai_: i can't get to the page that's loading in my sim… http://cl.ly/image/0z3L3J3g0H0H
+[2013-02-14 16:31:43] berni1: document.querySelector("#cancel_clicked").click();
+[2013-02-14 16:32:06] mlai_: so strange. definitely the first time i've ever seen this page.
+[2013-02-14 16:32:13] berni1: I was seeing this only couple days ago when FB OAuth was down
+[2013-02-14 16:32:21] mlai_: huh...
+[2013-02-14 16:32:22] berni1: maybe some login limits
+[2013-02-14 16:32:34] berni1: try to reset the emu
+[2013-02-14 16:32:45] mlai_: yeah did that several times
+[2013-02-14 16:32:46] berni1: and login to the FB with safaru
+[2013-02-14 16:32:48] berni1: safari
+[2013-02-14 16:32:52] mlai_: okay, i'll try
+[2013-02-14 16:32:52] berni1: without running appiu,
+[2013-02-14 16:33:17] berni1: if won't work I guess that's sth about auth limits / FB in general
