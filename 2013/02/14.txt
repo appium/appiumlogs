@@ -448,3 +448,4 @@
 [2013-02-14 17:28:34] mlai_, quitting. (Quit: mlai_)
 [2013-02-14 17:58:34] nags, joining. (#appium)
 [2013-02-14 18:23:58] sourishkrout, quitting. (Quit: Leaving.)
+[2013-02-14 18:26:43] admc, quitting. (Quit: Leaving.)
