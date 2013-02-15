@@ -455,3 +455,4 @@
 [2013-02-14 19:13:53] rodericj1, quitting. (Quit: Leaving.)
 [2013-02-14 19:17:54] alexglow, joining. (#appium)
 [2013-02-14 19:31:51] alexglow, quitting. (Ping timeout: 276 seconds)
+[2013-02-14 21:02:29] jlipps, joining. (#appium)
