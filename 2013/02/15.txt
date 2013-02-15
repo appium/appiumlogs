@@ -32,3 +32,5 @@
 [2013-02-15 13:08:48] davidko, joining. (#appium)
 [2013-02-15 13:21:02] admc, joining. (#appium)
 [2013-02-15 13:26:58] sourishkrout, quitting. (Quit: Leaving.)
+[2013-02-15 14:01:19] santiycr1, quitting. (Quit: Leaving.)
+[2013-02-15 14:01:42] santiycr, joining. (#appium)
