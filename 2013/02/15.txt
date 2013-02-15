@@ -18,3 +18,4 @@
 [2013-02-15 10:23:25] jlipps, joining. (#appium)
 [2013-02-15 10:27:25] toks, joining. (#appium)
 [2013-02-15 10:29:32] alexglow, joining. (#appium)
+[2013-02-15 10:34:28] *toks runs around in circles'
