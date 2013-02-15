@@ -402,3 +402,23 @@
 [2013-02-14 16:15:03] mlai_: berni1: clever.. really helps
 [2013-02-14 16:18:06] nags, quitting. (Quit: Cross Platform GUI Testing - http://ldtp.freedesktop.org)
 [2013-02-14 16:19:13] sassda: hum, if I remember correctly, I think safari gives you the ability to display a webkit inspector of safari running in the simulator
+[2013-02-14 16:25:16] mlai_: bites.. i keep getting this in the server log: WIRURLKey: 'https://m.facebook.com/dialog/oauth?type=user_agent&display=touch&redirect_uri=fb423421184384741%3A%2F%2Fauthorize&sdk=ios&scope=email&client_id=423421184384741',
+[2013-02-14 16:25:16] mlai_:            WIRTitleKey: 'Error',
+[2013-02-14 16:25:17] mlai_:            WIRPageIdentifierKey: 1 } } } }
+[2013-02-14 16:25:40] mlai_: but going to that page just gives me the normal login
+[2013-02-14 16:25:58] mlai_: (in real browser)
+[2013-02-14 16:26:09] toks: hmm
+[2013-02-14 16:26:34] toks: does your real browser redirect you away from m.facebook?
+[2013-02-14 16:26:40] toks: that's what I'd expect to happen
+[2013-02-14 16:26:48] mlai_: well, not if i set my user agent to be ios
+[2013-02-14 16:26:53] toks: ah
+[2013-02-14 16:26:56] jcarr, quitting. (Quit: Leaving.)
+[2013-02-14 16:27:14] toks: then.... I dunno =/
+[2013-02-14 16:28:14] berni1: I'm getting mobile page
+[2013-02-14 16:28:31] mlai_: 'document.querySelector("button[type=submit]").click();'  would you hazard a guess that the selector for a hyperlink might be "link[name="Back to home"]?
+[2013-02-14 16:28:40] berni1: using chrome
+[2013-02-14 16:28:56] berni1: http://cl.ly/image/1E1m3V1e2A1t
+[2013-02-14 16:28:57] mlai_: yeah, i get the mobile page just fine in chrome
+[2013-02-14 16:29:38] berni1: best to check what selector you can use with Tools > Developer Tools
+[2013-02-14 16:29:52] mlai_: huh.. that's odd that you get auth'ed
+[2013-02-14 16:30:00] berni1: Cmd + Alt + i
