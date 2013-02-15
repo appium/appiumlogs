@@ -369,3 +369,25 @@
 [2013-02-14 15:59:47] berni1: mlai_:  workin?
 [2013-02-14 16:00:43] mlai_: errrr, not quite :\ still poking at it
 [2013-02-14 16:01:21] berni1: show us what you're sending and some console logs
+[2013-02-14 16:05:56] mlai_: hmm, the fb page that loads suddenly has a new "not logged in" page that i need to click "back to home" tried resetting sim and it still goes there
+[2013-02-14 16:06:15] toks: ya know what else would be nice? ruby has rspec+parallel_tests ....python has behave+[UNDEFINED] !
+[2013-02-14 16:06:36] toks: (off topic)
+[2013-02-14 16:06:55] berni1: mlai_:  that's strange I always had the same state after going to iOS Simulator > Reset content ...
+[2013-02-14 16:07:52] mlai_: berni1: hm, maybe it's fb's way of thwarting too many login attempts..
+[2013-02-14 16:07:57] toks: ^
+[2013-02-14 16:08:02] jlipps: toks, nose has --processes
+[2013-02-14 16:08:07] toks: indeed it does
+[2013-02-14 16:08:11] toks: but, it doesn't have BDD
+[2013-02-14 16:08:12] jlipps: that's what we use :-)
+[2013-02-14 16:08:18] jlipps: BDD:
+[2013-02-14 16:08:31] jlipps: "as a silly user, i want to get something done, using some buttons lol"
+[2013-02-14 16:08:36] toks: ^
+[2013-02-14 16:08:37] toks: yup
+[2013-02-14 16:08:51] toks: it's actually kinda nice to be honest. I thought it was just going to be a pain
+[2013-02-14 16:09:05] jlipps: yeah i'm joking a bit. i like rspec a lot
+[2013-02-14 16:09:31] jlipps: and we're using mocha for appium
+[2013-02-14 16:09:34] jlipps: sort of bdd-lite
+[2013-02-14 16:09:39] toks: one idea I'm toying with though, is to write my own parallels_behave
+[2013-02-14 16:09:49] jlipps: that could be really awesome
+[2013-02-14 16:09:56] jlipps: parallel support is the hardest thing in any test lib
+[2013-02-14 16:09:56] toks: because "behave -d" will give you a list of all the test it _would_ have ran
