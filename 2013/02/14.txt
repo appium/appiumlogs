@@ -391,3 +391,11 @@
 [2013-02-14 16:09:49] jlipps: that could be really awesome
 [2013-02-14 16:09:56] jlipps: parallel support is the hardest thing in any test lib
 [2013-02-14 16:09:56] toks: because "behave -d" will give you a list of all the test it _would_ have ran
+[2013-02-14 16:10:10] jlipps: yeah you could write a wrapper
+[2013-02-14 16:10:15] jlipps: native support would be nice though :-)
+[2013-02-14 16:10:19] toks: truth
+[2013-02-14 16:10:44] toks: and my solution would create threads/processes that won't share the "context" object between tests
+[2013-02-14 16:11:15] mlai_: berni1: what selector would i have to send to click on the hyperlinks "Back to home"?
+[2013-02-14 16:12:25] berni1: you should have an URL of the webpage appium/safari is showing in console log
+[2013-02-14 16:12:50] berni1: just paste it to the browser and you should be able to get that element using firebug/webkit inspector
+[2013-02-14 16:13:41] berni1: best way is to just open the page with a normal browser and check what are name elmenets there
