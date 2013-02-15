@@ -457,3 +457,4 @@
 [2013-02-14 19:31:51] alexglow, quitting. (Ping timeout: 276 seconds)
 [2013-02-14 21:02:29] jlipps, joining. (#appium)
 [2013-02-14 21:25:44] jlipps, quitting. (Quit: jlipps)
+[2013-02-14 21:36:17] smccarthy, joining. (#appium)
