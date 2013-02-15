@@ -66,3 +66,6 @@
 [2013-02-15 15:20:02] admc, joining. (#appium)
 [2013-02-15 15:22:19] admc, quitting. (Client Quit)
 [2013-02-15 15:23:55] toks: if I want to test a physical iPad
+[2013-02-15 15:27:00] toks: okay
+[2013-02-15 15:27:10] toks: so I see the UUID flag to server.js
+[2013-02-15 15:27:39] santiycr, joining. (#appium)
