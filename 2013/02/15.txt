@@ -2,3 +2,4 @@
 [2013-02-15 01:10:27] admc, quitting. (Quit: Leaving.)
 [2013-02-15 01:11:02] smccarthy, quitting. (Remote host closed the connection)
 [2013-02-15 01:36:07] alexglow, joining. (#appium)
+[2013-02-15 01:45:26] alexglow, quitting. (Ping timeout: 245 seconds)
