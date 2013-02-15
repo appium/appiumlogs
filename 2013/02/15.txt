@@ -55,3 +55,11 @@
 [2013-02-15 15:10:14] toks: ....hmm... that didn't work
 [2013-02-15 15:10:24] admc, quitting. (Quit: Leaving.)
 [2013-02-15 15:13:52] nags, quitting. (Quit: Cross Platform GUI Testing - http://ldtp.freedesktop.org)
+[2013-02-15 15:16:28] sourishkrout1, joining. (#appium)
+[2013-02-15 15:16:29] sourishkrout1, quitting. (Client Quit)
+[2013-02-15 15:16:40] alexglow, quitting. (Ping timeout: 256 seconds)
+[2013-02-15 15:16:44] jlipps, quitting. (Read error: Connection reset by peer)
+[2013-02-15 15:16:51] toks: anyone know how to make appium use physical iPad?
+[2013-02-15 15:16:54] toks: :(
+[2013-02-15 15:16:55] sourishkrout, quitting. (Read error: Connection reset by peer)
+[2013-02-15 15:18:40] alexglow, joining. (#appium)
