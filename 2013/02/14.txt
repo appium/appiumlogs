@@ -440,3 +440,5 @@
 [2013-02-14 16:32:52] mlai_: okay, i'll try
 [2013-02-14 16:32:52] berni1: without running appiu,
 [2013-02-14 16:33:17] berni1: if won't work I guess that's sth about auth limits / FB in general
+[2013-02-14 16:35:47] berni1: need to get some sleep, ping me if there are some other problems and I'll re when I'm back
+[2013-02-14 16:36:04] mlai_: thanks for all the help today berni1. really appreciate it
