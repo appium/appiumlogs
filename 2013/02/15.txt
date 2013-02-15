@@ -63,3 +63,6 @@
 [2013-02-15 15:16:54] toks: :(
 [2013-02-15 15:16:55] sourishkrout, quitting. (Read error: Connection reset by peer)
 [2013-02-15 15:18:40] alexglow, joining. (#appium)
+[2013-02-15 15:20:02] admc, joining. (#appium)
+[2013-02-15 15:22:19] admc, quitting. (Client Quit)
+[2013-02-15 15:23:55] toks: if I want to test a physical iPad
