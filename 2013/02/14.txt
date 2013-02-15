@@ -460,3 +460,4 @@
 [2013-02-14 21:36:17] smccarthy, joining. (#appium)
 [2013-02-14 21:44:39] nags, quitting. (Quit: Cross Platform GUI Testing - http://ldtp.freedesktop.org)
 [2013-02-14 22:33:17] admc, joining. (#appium)
+[2013-02-14 23:26:48] smccarthy, quitting. (Remote host closed the connection)
