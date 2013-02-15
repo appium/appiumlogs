@@ -447,3 +447,4 @@
 [2013-02-14 17:25:38] sassda, quitting. (Ping timeout: 256 seconds)
 [2013-02-14 17:28:34] mlai_, quitting. (Quit: mlai_)
 [2013-02-14 17:58:34] nags, joining. (#appium)
+[2013-02-14 18:23:58] sourishkrout, quitting. (Quit: Leaving.)
