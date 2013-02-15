@@ -7,3 +7,4 @@
 [2013-02-15 02:35:46] berni1, quitting. (Read error: Connection reset by peer)
 [2013-02-15 04:10:01] smccarthy, joining. (#appium)
 [2013-02-15 05:28:56] sp0cksbeard, joining. (#appium)
+[2013-02-15 07:02:35] smccarthy, quitting. (Remote host closed the connection)
