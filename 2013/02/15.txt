@@ -9,3 +9,4 @@
 [2013-02-15 05:28:56] sp0cksbeard, joining. (#appium)
 [2013-02-15 07:02:35] smccarthy, quitting. (Remote host closed the connection)
 [2013-02-15 08:30:55] alexglow, joining. (#appium)
+[2013-02-15 08:59:07] sassda, joining. (#appium)
