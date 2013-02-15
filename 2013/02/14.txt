@@ -449,3 +449,4 @@
 [2013-02-14 17:58:34] nags, joining. (#appium)
 [2013-02-14 18:23:58] sourishkrout, quitting. (Quit: Leaving.)
 [2013-02-14 18:26:43] admc, quitting. (Quit: Leaving.)
+[2013-02-14 18:35:39] toks, quitting. (Ping timeout: 252 seconds)
