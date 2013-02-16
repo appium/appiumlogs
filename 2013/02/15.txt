@@ -104,3 +104,12 @@
 [2013-02-15 16:44:19] github-appium, joining. (#appium)
 [2013-02-15 16:44:19] github-appium: [appium] jlipps opened pull request #194: add xpath support (master...master)  http://git.io/PikaGw
 [2013-02-15 16:44:19] github-appium, leaving. (#appium)
+[2013-02-15 16:46:41] github-appium, joining. (#appium)
+[2013-02-15 16:46:41] github-appium: [appium] sourishkrout pushed 9 new commits to master: http://git.io/4xXtZA
+[2013-02-15 16:46:41] github-appium: appium/master a063ac9 Jonathan Lipps: initial work getting xpath regexes working
+[2013-02-15 16:46:41] github-appium: appium/master 50dfbae Jonathan Lipps: more xpath parsing and unit tests for it
+[2013-02-15 16:46:41] github-appium: appium/master bd5e069 Jonathan Lipps: test organization
+[2013-02-15 16:46:41] github-appium, leaving. (#appium)
+[2013-02-15 16:49:44] jlipps, joining. (#appium)
+[2013-02-15 16:49:54] jlipps: boom xpath
+[2013-02-15 16:49:57] jlipps: i'm out, have a great weekend all
