@@ -116,3 +116,4 @@
 [2013-02-15 16:51:07] jlipps, quitting. (Client Quit)
 [2013-02-15 17:18:38] toks, quitting. (Ping timeout: 255 seconds)
 [2013-02-15 17:20:24] sfbrian, quitting. (Ping timeout: 252 seconds)
+[2013-02-15 17:32:07] alexglow, quitting. (Ping timeout: 260 seconds)
