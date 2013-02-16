@@ -101,3 +101,6 @@
 [2013-02-15 16:15:00] berni: going for some sleep, have a great weekend toks!
 [2013-02-15 16:31:50] toks: :)
 [2013-02-15 16:31:56] toks: U2 ^_^
+[2013-02-15 16:44:19] github-appium, joining. (#appium)
+[2013-02-15 16:44:19] github-appium: [appium] jlipps opened pull request #194: add xpath support (master...master)  http://git.io/PikaGw
+[2013-02-15 16:44:19] github-appium, leaving. (#appium)
