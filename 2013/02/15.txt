@@ -130,3 +130,4 @@
 [2013-02-15 20:25:36] rodericj, quitting. (Quit: Leaving.)
 [2013-02-15 20:32:07] rodericj, joining. (#appium)
 [2013-02-15 20:32:26] rodericj, quitting. (Client Quit)
+[2013-02-15 22:40:53] stackedsax, joining. (#appium)
