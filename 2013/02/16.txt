@@ -21,3 +21,4 @@
 [2013-02-16 15:19:21] stackedsax, joining. (#appium)
 [2013-02-16 15:19:51] stackedsax, quitting. (Client Quit)
 [2013-02-16 15:21:12] sassda, joining. (#appium)
+[2013-02-16 15:40:09] admc, quitting. (Quit: Leaving.)
