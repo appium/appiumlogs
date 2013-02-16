@@ -126,3 +126,4 @@
 [2013-02-15 19:23:53] rodericj, quitting. (Quit: Leaving.)
 [2013-02-15 19:39:05] rodericj, joining. (#appium)
 [2013-02-15 19:42:22] rodericj, quitting. (Client Quit)
+[2013-02-15 19:55:34] rodericj, joining. (#appium)
