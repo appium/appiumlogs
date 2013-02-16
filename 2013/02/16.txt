@@ -17,3 +17,4 @@
 [2013-02-16 13:55:45] alexglow, quitting. (Ping timeout: 248 seconds)
 [2013-02-16 14:16:22] stackedsax, quitting. (Quit: Leaving.)
 [2013-02-16 14:43:46] alexglow, joining. (#appium)
+[2013-02-16 14:48:31] alexglow, quitting. (Ping timeout: 256 seconds)
