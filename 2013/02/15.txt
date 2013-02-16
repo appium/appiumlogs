@@ -73,3 +73,25 @@
 [2013-02-15 16:04:35] toks: well.. nobody is even here
 [2013-02-15 16:04:38] toks: so I'm talking to myself
 [2013-02-15 16:04:49] toks: but, I see the -U flag
+[2013-02-15 16:05:12] toks: that did allow me to control a physical iPad with iOS 6.1
+[2013-02-15 16:05:25] toks: an iphone5 with iOS 6.0.2 hangs
+[2013-02-15 16:05:50] toks: but when we checked for update, that iphone does have a software upgrade to 6.1 available
+[2013-02-15 16:06:26] berni: I've heard that running against physical devices is not an easy task
+[2013-02-15 16:06:30] toks: I assume you guys don't care for appium bugs related to older iOS versions if upgrading is available
+[2013-02-15 16:06:35] toks: heh
+[2013-02-15 16:06:41] toks: it does work though
+[2013-02-15 16:06:52] toks: device has to be provisioned by an apple dev id
+[2013-02-15 16:06:53] toks: or something
+[2013-02-15 16:07:03] toks: but after all that, I get the UUID from xcode's organizer
+[2013-02-15 16:07:07] berni: yep, don't know much about that process
+[2013-02-15 16:07:10] toks: give it to the -U flag for node server.js
+[2013-02-15 16:07:12] toks: and off it goes
+[2013-02-15 16:07:16] berni: but heard that's painful
+[2013-02-15 16:07:21] toks: hmm
+[2013-02-15 16:07:39] toks: the provisioning stuff I guess is a drag, but that's a one-time cost per physical device
+[2013-02-15 16:07:55] toks: there is one blocker though
+[2013-02-15 16:08:06] toks: in that the app seems to need being installed before the test
+[2013-02-15 16:08:09] berni: yeah unfortunately never done that so I won't be much of a help :<
+[2013-02-15 16:08:18] toks: ;_;
+[2013-02-15 16:08:40] berni: you could file an issue on that
+[2013-02-15 16:08:53] berni: maybe someone will be able to throw sth on that
