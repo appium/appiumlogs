@@ -9,3 +9,4 @@
 [2013-02-16 06:34:41] stackedsax, quitting. (Ping timeout: 255 seconds)
 [2013-02-16 10:10:24] smccarthy, joining. (#appium)
 [2013-02-16 10:42:34] smccarthy, quitting. (Remote host closed the connection)
+[2013-02-16 10:58:01] smccarthy, joining. (#appium)
