@@ -70,3 +70,6 @@
 [2013-02-15 15:27:10] toks: so I see the UUID flag to server.js
 [2013-02-15 15:27:39] santiycr, joining. (#appium)
 [2013-02-15 15:40:05] santiycr, quitting. (Ping timeout: 255 seconds)
+[2013-02-15 16:04:35] toks: well.. nobody is even here
+[2013-02-15 16:04:38] toks: so I'm talking to myself
+[2013-02-15 16:04:49] toks: but, I see the -U flag
