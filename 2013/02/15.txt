@@ -113,3 +113,4 @@
 [2013-02-15 16:49:44] jlipps, joining. (#appium)
 [2013-02-15 16:49:54] jlipps: boom xpath
 [2013-02-15 16:49:57] jlipps: i'm out, have a great weekend all
+[2013-02-15 16:51:07] jlipps, quitting. (Client Quit)
