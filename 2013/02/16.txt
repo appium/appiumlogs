@@ -29,3 +29,4 @@
 [2013-02-16 18:52:06] sassda, quitting. (Quit: Leaving.)
 [2013-02-16 19:27:22] admc, joining. (#appium)
 [2013-02-16 19:32:10] rodericj, joining. (#appium)
+[2013-02-16 19:43:33] rodericj, quitting. (Quit: Leaving.)
