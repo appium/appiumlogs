@@ -34,3 +34,4 @@
 [2013-02-16 20:12:37] admc, joining. (#appium)
 [2013-02-16 20:56:10] rodericj, joining. (#appium)
 [2013-02-16 21:07:44] smccarthy, joining. (#appium)
+[2013-02-16 23:03:27] admc, quitting. (Quit: Leaving.)
