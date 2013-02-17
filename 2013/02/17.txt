@@ -41,3 +41,4 @@
 [2013-02-17 14:15:31] davidko, joining. (#appium)
 [2013-02-17 14:27:11] smccarthy, quitting. (Remote host closed the connection)
 [2013-02-17 14:59:45] alexglow, quitting. (Ping timeout: 252 seconds)
+[2013-02-17 15:01:10] davidko, quitting. (Quit: davidko)
