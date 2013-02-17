@@ -28,3 +28,5 @@
 [2013-02-17 09:43:41] admc, quitting. (Ping timeout: 244 seconds)
 [2013-02-17 10:09:45] admc, joining. (#appium)
 [2013-02-17 10:14:10] admc, quitting. (Ping timeout: 240 seconds)
+[2013-02-17 11:05:19] smccarthy, quitting. (Remote host closed the connection)
+[2013-02-17 11:06:14] smccarthy, joining. (#appium)
