@@ -38,3 +38,4 @@
 [2013-02-16 23:27:49] smccarthy, quitting. (Remote host closed the connection)
 [2013-02-16 23:28:35] berni, quitting. (Read error: Connection reset by peer)
 [2013-02-16 23:33:45] admc, joining. (#appium)
+[2013-02-16 23:42:27] admc, quitting. (Ping timeout: 248 seconds)
