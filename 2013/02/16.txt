@@ -27,3 +27,4 @@
 [2013-02-16 17:45:02] alexglow, quitting. (Ping timeout: 256 seconds)
 [2013-02-16 18:22:16] sassda, joining. (#appium)
 [2013-02-16 18:52:06] sassda, quitting. (Quit: Leaving.)
+[2013-02-16 19:27:22] admc, joining. (#appium)
