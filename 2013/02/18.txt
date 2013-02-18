@@ -30,3 +30,4 @@
 [2013-02-18 12:12:49] davidko, joining. (#appium)
 [2013-02-18 12:18:04] davidko, quitting. (Quit: davidko)
 [2013-02-18 13:08:26] toks, joining. (#appium)
+[2013-02-18 13:22:38] davidko, joining. (#appium)
