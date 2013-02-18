@@ -53,3 +53,6 @@
 [2013-02-18 14:43:24] toks: This one looks more maintainhttps://github.com/ghughes/fruitstrap
 [2013-02-18 14:43:30] toks: This one looks more maintained https://github.com/ghughes/fruitstrap
 [2013-02-18 14:43:42] toks: The dev submitted a pull request 14 days ago
+[2013-02-18 14:45:04] mlai: yeah, there were definitely a few potholes along the way
+[2013-02-18 14:45:38] mlai: some of it due to the latest mountain lion having different directory structures.. hopefully the latest pull resolved that
+[2013-02-18 14:46:10] toks: ah, indeed
