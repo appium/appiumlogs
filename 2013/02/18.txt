@@ -9,3 +9,4 @@
 [2013-02-18 09:31:05] github-appium: [appium] bootstraponline opened pull request #195: Fix null check (master...fix_null)  https://github.com/appium/appium/pull/195
 [2013-02-18 09:31:05] github-appium, leaving. (#appium)
 [2013-02-18 09:36:08] alexglow, joining. (#appium)
+[2013-02-18 09:59:13] sassda, joining. (#appium)
