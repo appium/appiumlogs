@@ -33,3 +33,5 @@
 [2013-02-18 13:22:38] davidko, joining. (#appium)
 [2013-02-18 13:38:44] admc, quitting. (Quit: Leaving.)
 [2013-02-18 13:48:35] davidko, quitting. (Quit: davidko)
+[2013-02-18 14:24:11] mlai: Hi folks.. I am able to build for a device target, and also launch my app (and appium) once it is already on my device. I'm just unsure of how to install my app onto a device. Is this documented somewhere?
+[2013-02-18 14:24:53] mlai: i mean, is there a NON-manual way
