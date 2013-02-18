@@ -42,3 +42,14 @@
 [2013-02-18 14:37:58] toks: ^_^
 [2013-02-18 14:38:52] toks: I'm actually in the middle of the same kinda project; automating installs of apps into an iPad/iPhone in a closet somewhere and run automated tests https://itunes.apple.com/us/app/apple-configurator/id434433123?mt=12
 [2013-02-18 14:39:52] mlai: can the iPhone configuration utility do the same?
+[2013-02-18 14:40:05] toks: hmm
+[2013-02-18 14:40:09] toks: maybe?
+[2013-02-18 14:41:17] toks: Also, I'm about to look into this https://github.com/ghughes/fruitstrap
+[2013-02-18 14:41:49] mlai: oh.. funny, i did work before with fruitstrap
+[2013-02-18 14:42:06] mlai: it did work, but i was using it with calabash… maybe i should resurrect it
+[2013-02-18 14:42:52] toks: :)
+[2013-02-18 14:42:57] mlai: that's an idea. Thank you :) if you want pointers, lemme know
+[2013-02-18 14:43:15] toks: I just might ^_^
+[2013-02-18 14:43:24] toks: This one looks more maintainhttps://github.com/ghughes/fruitstrap
+[2013-02-18 14:43:30] toks: This one looks more maintained https://github.com/ghughes/fruitstrap
+[2013-02-18 14:43:42] toks: The dev submitted a pull request 14 days ago
