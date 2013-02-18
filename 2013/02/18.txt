@@ -11,3 +11,4 @@
 [2013-02-18 09:36:08] alexglow, joining. (#appium)
 [2013-02-18 09:59:13] sassda, joining. (#appium)
 [2013-02-18 10:09:20] sassda, quitting. (Quit: Leaving.)
+[2013-02-18 10:19:25] davidko, joining. (#appium)
