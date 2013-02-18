@@ -35,3 +35,10 @@
 [2013-02-18 13:48:35] davidko, quitting. (Quit: davidko)
 [2013-02-18 14:24:11] mlai: Hi folks.. I am able to build for a device target, and also launch my app (and appium) once it is already on my device. I'm just unsure of how to install my app onto a device. Is this documented somewhere?
 [2013-02-18 14:24:53] mlai: i mean, is there a NON-manual way
+[2013-02-18 14:37:01] toks: o.o
+[2013-02-18 14:37:09] toks: ah
+[2013-02-18 14:37:11] toks: yeah...
+[2013-02-18 14:37:56] toks: http://stackoverflow.com/questions/10682690/silent-install-of-apps-ipa-to-ipad
+[2013-02-18 14:37:58] toks: ^_^
+[2013-02-18 14:38:52] toks: I'm actually in the middle of the same kinda project; automating installs of apps into an iPad/iPhone in a closet somewhere and run automated tests https://itunes.apple.com/us/app/apple-configurator/id434433123?mt=12
+[2013-02-18 14:39:52] mlai: can the iPhone configuration utility do the same?
