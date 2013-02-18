@@ -19,3 +19,7 @@
 [2013-02-18 10:57:51] github-appium: appium/master 2a9c75d bootstraponline: Fix null check...
 [2013-02-18 10:57:51] github-appium: appium/master c584ff2 Jonathan Lipps: Merge pull request #195 from bootstraponline/fix_null...
 [2013-02-18 10:57:51] github-appium, leaving. (#appium)
+[2013-02-18 11:02:18] rodericj, joining. (#appium)
+[2013-02-18 11:03:38] github-appium, joining. (#appium)
+[2013-02-18 11:03:38] github-appium: [appium] bootstraponline opened pull request #196: Fix null value (master...fix_null)  http://git.io/7nsJnA
+[2013-02-18 11:03:38] github-appium, leaving. (#appium)
