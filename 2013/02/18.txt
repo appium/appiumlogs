@@ -56,3 +56,5 @@
 [2013-02-18 14:45:04] mlai: yeah, there were definitely a few potholes along the way
 [2013-02-18 14:45:38] mlai: some of it due to the latest mountain lion having different directory structures.. hopefully the latest pull resolved that
 [2013-02-18 14:46:10] toks: ah, indeed
+[2013-02-18 14:50:22] mlai: i've been following the 'unprompted' fork.. i see he's recently made some commits. Even though his fork was 5 months old, it solved some issues I couldn't get around
+[2013-02-18 14:52:31] toks: :)
