@@ -57,3 +57,4 @@
 [2013-02-17 20:14:17] rodericj, quitting. (Quit: Leaving.)
 [2013-02-17 21:12:19] smccarthy, quitting. (Remote host closed the connection)
 [2013-02-17 21:14:38] rodericj, joining. (#appium)
+[2013-02-17 21:22:16] rodericj, quitting. (Ping timeout: 276 seconds)
