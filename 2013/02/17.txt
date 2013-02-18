@@ -54,3 +54,4 @@
 [2013-02-17 18:32:33] smccarthy, quitting. (Ping timeout: 248 seconds)
 [2013-02-17 18:54:32] smccarthy, joining. (#appium)
 [2013-02-17 19:39:03] alexglow, joining. (#appium)
+[2013-02-17 20:14:17] rodericj, quitting. (Quit: Leaving.)
