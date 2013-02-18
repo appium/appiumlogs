@@ -5,3 +5,6 @@
 [2013-02-18 06:12:11] aluclinux, joining. (#appium)
 [2013-02-18 06:24:34] aluclinux, leaving. (#appium)
 [2013-02-18 06:37:25] smccarthy, joining. (#appium)
+[2013-02-18 09:31:04] github-appium, joining. (#appium)
+[2013-02-18 09:31:05] github-appium: [appium] bootstraponline opened pull request #195: Fix null check (master...fix_null)  https://github.com/appium/appium/pull/195
+[2013-02-18 09:31:05] github-appium, leaving. (#appium)
