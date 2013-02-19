@@ -144,3 +144,29 @@
 [2013-02-19 15:09:39] toks: Well, toks is short for Tokunbo, my Nigerian name
 [2013-02-19 15:09:52] jlipps: i see
 [2013-02-19 15:09:57] toks: ^_^
+[2013-02-19 15:10:16] jlipps: i guess i'll never know if it was you or not
+[2013-02-19 15:10:26] toks: When I run around in circles, it means either a very strange issue or bug has happened and I'm trying to get to the bottom of it
+[2013-02-19 15:10:30] toks: or
+[2013-02-19 15:11:01] toks: My brain lost traction for a second and I'm just spinning my wheels trying to remember what I was doing
+[2013-02-19 15:11:25] toks: (a context-switching with part of RAM corrupted)
+[2013-02-19 15:11:27] toks: ;)
+[2013-02-19 15:11:50] jlipps: nice, now i know!
+[2013-02-19 15:11:53] toks: oh, was I talking to you about making python's BDD behave parallelized?
+[2013-02-19 15:12:26] toks: on friday?
+[2013-02-19 15:12:28] *jlipps wonders what this would be: :log | grep "runs around in circles" | wc -l'
+[2013-02-19 15:12:48] toks: appiumbot_: convienent :)
+[2013-02-19 15:13:15] toks: d'oh, doesn't go back to friday
+[2013-02-19 15:13:16] jlipps: 3!
+[2013-02-19 15:13:35] toks: 3?
+[2013-02-19 15:13:36] jlipps: and you only tripped once
+[2013-02-19 15:13:44] toks: heh
+[2013-02-19 15:13:46] jlipps: cat ~/Desktop/temp.txt| grep "runs around in"
+[2013-02-19 15:13:46] jlipps: [2013-02-19 10:27:48] *toks runs around in circles'
+[2013-02-19 15:13:47] jlipps: [2013-02-19 13:18:26] *toks runs around in circles'
+[2013-02-19 15:13:48] jlipps: [2013-02-19 13:57:52] *toks runs around in circl - *trips!*'
+[2013-02-19 15:14:01] toks: lol
+[2013-02-19 15:14:12] toks: did you really take the time to copypaste that?
+[2013-02-19 15:14:24] toks: do you have direct access to that file to grep?
+[2013-02-19 15:14:38] jlipps: yes i copypasted it
+[2013-02-19 15:14:43] jlipps: the data will out
+[2013-02-19 15:14:58] toks: :-o
