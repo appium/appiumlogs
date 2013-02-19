@@ -126,3 +126,5 @@
 [2013-02-19 13:22:04] smccarthy2, quitting. (Ping timeout: 276 seconds)
 [2013-02-19 13:42:42] santiycr, quitting. (Quit: Leaving.)
 [2013-02-19 13:46:54] santiycr, joining. (#appium)
+[2013-02-19 13:57:52] *toks runs around in circl - *trips!*'
+[2013-02-19 13:57:56] toks: x_X
