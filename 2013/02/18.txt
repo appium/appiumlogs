@@ -75,3 +75,4 @@
 [2013-02-18 21:36:01] sassda, quitting. (Quit: Leaving.)
 [2013-02-18 21:38:22] sassda, joining. (#appium)
 [2013-02-18 21:43:58] sassda, quitting. (Quit: Leaving.)
+[2013-02-18 22:14:09] sassda, joining. (#appium)
