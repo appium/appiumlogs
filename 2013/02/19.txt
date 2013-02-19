@@ -108,3 +108,5 @@
 [2013-02-19 11:49:18] davidko: i tried that, but instruments doesn't seem to like it
 [2013-02-19 11:49:27] davidko: i can't start the simulator once i changed the name
 [2013-02-19 11:49:58] toks: hmm
+[2013-02-19 11:50:28] toks: I recommend then renaming the app and compile it with the plain-ascii name to see if that's the issue
+[2013-02-19 11:52:18] davidko: k
