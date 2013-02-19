@@ -112,3 +112,6 @@
 [2013-02-19 11:52:18] davidko: k
 [2013-02-19 12:14:29] davidko: @toks: Yea, once I renamed the app, it could connect, but the simulator doesn't work with the modified app name
 [2013-02-19 12:14:52] davidko: and i'm told it's not trivial to change the name
+[2013-02-19 12:19:01] admc, joining. (#appium)
+[2013-02-19 12:19:26] admc, quitting. (Read error: Connection reset by peer)
+[2013-02-19 12:19:27] admc1, joining. (#appium)
