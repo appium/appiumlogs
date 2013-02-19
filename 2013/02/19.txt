@@ -96,3 +96,15 @@
 [2013-02-19 11:04:18] jlipps, joining. (#appium)
 [2013-02-19 11:17:46] toks: ^_^
 [2013-02-19 11:33:44] alexglow, quitting. (Ping timeout: 272 seconds)
+[2013-02-19 11:47:00] davidko: are there any known issues with spaces or non-standard characters in the app name?
+[2013-02-19 11:47:15] davidko: we have a test app called "Attendee β.app"
+[2013-02-19 11:47:24] toks: what
+[2013-02-19 11:47:31] toks: why would you do that? :)
+[2013-02-19 11:47:55] davidko: it's our test app that points to our QA environment
+[2013-02-19 11:48:02] davidko: which we want to use for automation
+[2013-02-19 11:48:09] davidko: info: [INST STDERR] 2013-02-19 11:35:36.663 instruments[40808:1603] -[NSAlert alertWithError:] called with nil NSError. A generic error message will be displayed, but the user deserves better.
+[2013-02-19 11:48:25] toks: hmm
+[2013-02-19 11:48:51] toks: try renaming the app to plain ASCII and see if that works? :)
+[2013-02-19 11:49:18] davidko: i tried that, but instruments doesn't seem to like it
+[2013-02-19 11:49:27] davidko: i can't start the simulator once i changed the name
+[2013-02-19 11:49:58] toks: hmm
