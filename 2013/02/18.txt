@@ -79,3 +79,4 @@
 [2013-02-18 22:21:26] sassda, quitting. (Ping timeout: 252 seconds)
 [2013-02-18 22:47:59] sassda, joining. (#appium)
 [2013-02-18 22:55:41] sassda, quitting. (Ping timeout: 255 seconds)
+[2013-02-18 23:09:41] hugs, joining. (#appium)
