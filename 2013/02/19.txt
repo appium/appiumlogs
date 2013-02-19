@@ -189,3 +189,4 @@
 [2013-02-19 15:33:25] smccarthy, joining. (#appium)
 [2013-02-19 15:38:03] smccarthy, quitting. (Ping timeout: 252 seconds)
 [2013-02-19 15:41:17] smccarthy, joining. (#appium)
+[2013-02-19 15:46:54] smccarthy, quitting. (Remote host closed the connection)
