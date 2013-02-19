@@ -71,3 +71,4 @@
 [2013-02-18 20:48:45] sassda, joining. (#appium)
 [2013-02-18 21:09:14] hugs, quitting. (Ping timeout: 272 seconds)
 [2013-02-18 21:09:50] jmathes_, quitting. (Ping timeout: 255 seconds)
+[2013-02-18 21:10:36] sahazel, quitting. (Ping timeout: 276 seconds)
