@@ -48,3 +48,5 @@
 [2013-02-19 06:05:40] sassda, joining. (#appium)
 [2013-02-19 06:09:09] sp0cksbeard, joining. (#appium)
 [2013-02-19 06:19:25] admc, joining. (#appium)
+[2013-02-19 06:20:32] sassda, quitting. (Ping timeout: 256 seconds)
+[2013-02-19 06:23:32] admc, quitting. (Read error: Operation timed out)
