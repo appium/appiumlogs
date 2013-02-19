@@ -187,3 +187,4 @@
 [2013-02-19 15:29:28] jcarr, joining. (#appium)
 [2013-02-19 15:32:52] smccarthy, quitting. (Remote host closed the connection)
 [2013-02-19 15:33:25] smccarthy, joining. (#appium)
+[2013-02-19 15:38:03] smccarthy, quitting. (Ping timeout: 252 seconds)
