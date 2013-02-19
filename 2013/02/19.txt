@@ -82,3 +82,6 @@
 [2013-02-19 10:25:22] admc, joining. (#appium)
 [2013-02-19 10:27:48] *toks runs around in circles'
 [2013-02-19 10:29:37] admc, quitting. (Ping timeout: 240 seconds)
+[2013-02-19 10:40:41] santiycr, joining. (#appium)
+[2013-02-19 10:41:16] davidko, joining. (#appium)
+[2013-02-19 10:42:49] knorrium, quitting. (Ping timeout: 276 seconds)
