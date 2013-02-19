@@ -68,3 +68,4 @@
 [2013-02-18 19:48:48] mlai, quitting. (Quit: mlai)
 [2013-02-18 20:02:23] mlai, joining. (#appium)
 [2013-02-18 20:10:25] admc, joining. (#appium)
+[2013-02-18 20:48:45] sassda, joining. (#appium)
