@@ -190,3 +190,4 @@
 [2013-02-19 15:38:03] smccarthy, quitting. (Ping timeout: 252 seconds)
 [2013-02-19 15:41:17] smccarthy, joining. (#appium)
 [2013-02-19 15:46:54] smccarthy, quitting. (Remote host closed the connection)
+[2013-02-19 15:54:57] toks: I need a smooth way to automate putting ipas onto physical apple devices
