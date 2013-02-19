@@ -59,3 +59,4 @@
 [2013-02-18 14:50:22] mlai: i've been following the 'unprompted' fork.. i see he's recently made some commits. Even though his fork was 5 months old, it solved some issues I couldn't get around
 [2013-02-18 14:52:31] toks: :)
 [2013-02-18 15:41:36] alexglow, joining. (#appium)
+[2013-02-18 17:41:11] alexglow, quitting. (Ping timeout: 256 seconds)
