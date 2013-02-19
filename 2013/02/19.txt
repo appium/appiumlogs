@@ -130,3 +130,5 @@
 [2013-02-19 13:57:56] toks: x_X
 [2013-02-19 14:53:43] jlipps: toks what is actually going on IRL while you run around in circles
 [2013-02-19 14:54:01] jlipps: also i was walking around SF the other day and saw 'TOKS' graffitied on the sidewalk. are you a gangsta?
+[2013-02-19 14:56:41] santiycr1, joining. (#appium)
+[2013-02-19 14:56:42] santiycr, quitting. (Read error: Connection reset by peer)
