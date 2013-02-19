@@ -123,3 +123,4 @@
 [2013-02-19 13:11:21] santiycr, joining. (#appium)
 [2013-02-19 13:18:26] *toks runs around in circles'
 [2013-02-19 13:18:30] smccarthy, joining. (#appium)
+[2013-02-19 13:22:04] smccarthy2, quitting. (Ping timeout: 276 seconds)
