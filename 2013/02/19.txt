@@ -170,3 +170,15 @@
 [2013-02-19 15:14:38] jlipps: yes i copypasted it
 [2013-02-19 15:14:43] jlipps: the data will out
 [2013-02-19 15:14:58] toks: :-o
+[2013-02-19 15:15:40] toks: who did I talk to about behave, hmm
+[2013-02-19 15:15:47] jlipps: i don't think me
+[2013-02-19 15:15:53] toks: :o
+[2013-02-19 15:16:01] toks: maybe that amdc guy or something
+[2013-02-19 15:16:03] jlipps: but that's a good idea, you should parallelize it
+[2013-02-19 15:16:10] toks: well
+[2013-02-19 15:16:13] toks: check this out!
+[2013-02-19 15:16:18] toks: https://github.com/tokunbo/behave-parallel
+[2013-02-19 15:16:19] jlipps: maybe admc, he's not that big into python
+[2013-02-19 15:16:49] toks: ah
+[2013-02-19 15:16:59] jlipps: looks great!
+[2013-02-19 15:17:46] toks: \o/
