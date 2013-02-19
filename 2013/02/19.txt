@@ -78,3 +78,7 @@
 [2013-02-19 09:55:02] sfbrian, joining. (#appium)
 [2013-02-19 09:57:55] rodericj, quitting. (Ping timeout: 248 seconds)
 [2013-02-19 09:58:37] admc, quitting. (Ping timeout: 240 seconds)
+[2013-02-19 10:25:16] toks, joining. (#appium)
+[2013-02-19 10:25:22] admc, joining. (#appium)
+[2013-02-19 10:27:48] *toks runs around in circles'
+[2013-02-19 10:29:37] admc, quitting. (Ping timeout: 240 seconds)
