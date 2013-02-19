@@ -64,3 +64,4 @@
 [2013-02-19 08:02:30] rodericj, quitting. (Ping timeout: 264 seconds)
 [2013-02-19 08:22:05] admc, joining. (#appium)
 [2013-02-19 08:26:24] admc, quitting. (Ping timeout: 252 seconds)
+[2013-02-19 08:49:22] alexglow, joining. (#appium)
