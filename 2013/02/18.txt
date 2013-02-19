@@ -66,3 +66,4 @@
 [2013-02-18 19:29:12] rodericj, joining. (#appium)
 [2013-02-18 19:36:39] smccarthy, quitting. (Remote host closed the connection)
 [2013-02-18 19:48:48] mlai, quitting. (Quit: mlai)
+[2013-02-18 20:02:23] mlai, joining. (#appium)
