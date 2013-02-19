@@ -115,3 +115,5 @@
 [2013-02-19 12:19:01] admc, joining. (#appium)
 [2013-02-19 12:19:26] admc, quitting. (Read error: Connection reset by peer)
 [2013-02-19 12:19:27] admc1, joining. (#appium)
+[2013-02-19 12:35:24] alexglow, joining. (#appium)
+[2013-02-19 12:39:19] smccarthy2, joining. (#appium)
