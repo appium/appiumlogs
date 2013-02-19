@@ -87,3 +87,10 @@
 [2013-02-19 10:42:49] knorrium, quitting. (Ping timeout: 276 seconds)
 [2013-02-19 10:56:06] admc, joining. (#appium)
 [2013-02-19 10:59:51] rodericj, joining. (#appium)
+[2013-02-19 11:00:30] admc, quitting. (Ping timeout: 252 seconds)
+[2013-02-19 11:03:00] github-appium, joining. (#appium)
+[2013-02-19 11:03:00] github-appium: [appium] jlipps pushed 2 new commits to master: http://git.io/mLel4g
+[2013-02-19 11:03:00] github-appium: appium/master 2c47fa2 bootstraponline: Fix null value...
+[2013-02-19 11:03:00] github-appium: appium/master e1c9a62 Jonathan Lipps: Merge pull request #196 from bootstraponline/fix_null...
+[2013-02-19 11:03:00] github-appium, leaving. (#appium)
+[2013-02-19 11:04:18] jlipps, joining. (#appium)
