@@ -241,3 +241,5 @@
 [2013-02-19 17:14:34] mlai:              x.find_element_by_name(locators["mymenu.button"]))
 [2013-02-19 17:14:51] mlai:  from selenium.webdriver.support.ui import WebDriverWait
 [2013-02-19 17:15:33] toks: apparently that violates a python zen thing :)
+[2013-02-19 17:22:44] sfbrian: what's up mlai
+[2013-02-19 17:23:21] mlai: hey hey sfbrian :) how was beerfesting
