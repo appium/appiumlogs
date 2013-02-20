@@ -26,3 +26,5 @@
 [2013-02-20 10:25:49] rodericj, joining. (#appium)
 [2013-02-20 10:32:32] toks, joining. (#appium)
 [2013-02-20 10:44:49] *toks runs around in circles'
+[2013-02-20 10:45:01] stackedsax, joining. (#appium)
+[2013-02-20 10:45:36] toks: okay, so there's this thing out there called appium - you guys heard of it? ;)
