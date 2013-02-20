@@ -272,3 +272,4 @@
 [2013-02-19 21:44:11] jcarr, quitting. (Quit: Leaving.)
 [2013-02-19 21:47:42] admc, joining. (#appium)
 [2013-02-19 22:26:12] davidko, joining. (#appium)
+[2013-02-19 23:16:52] rodericj, quitting. (Quit: Leaving.)
