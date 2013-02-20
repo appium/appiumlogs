@@ -63,3 +63,4 @@
 [2013-02-20 13:48:22] github-appium: appium/master 3970d68 Jonathan Lipps: update what grunt tasks travis runs, it's not a mac!
 [2013-02-20 13:48:22] github-appium, leaving. (#appium)
 [2013-02-20 14:24:47] sfbrian: toks: what's appium?
+[2013-02-20 14:28:22] admc: appium? I hear thats the bomb
