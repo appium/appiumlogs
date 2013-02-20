@@ -244,3 +244,7 @@
 [2013-02-19 17:22:44] sfbrian: what's up mlai
 [2013-02-19 17:23:21] mlai: hey hey sfbrian :) how was beerfesting
 [2013-02-19 17:44:56] alexglow, quitting. (Ping timeout: 252 seconds)
+[2013-02-19 17:45:51] alexglow, joining. (#appium)
+[2013-02-19 17:48:25] mlai: toks: i use it sparingly to minimize disturbance in the natural order
+[2013-02-19 17:48:45] toks: ^_^;
+[2013-02-19 17:48:46] jlipps, quitting. (Quit: jlipps)
