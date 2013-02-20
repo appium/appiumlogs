@@ -3,3 +3,4 @@
 [2013-02-20 00:39:56] stackedsax, quitting. (Client Quit)
 [2013-02-20 01:12:48] mlai, quitting. (Ping timeout: 252 seconds)
 [2013-02-20 01:27:48] admc, quitting. (Quit: Leaving.)
+[2013-02-20 03:38:57] mlai_, joining. (#appium)
