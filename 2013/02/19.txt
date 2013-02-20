@@ -235,3 +235,8 @@
 [2013-02-19 17:02:02] toks: santiycr: I disagree!
 [2013-02-19 17:02:09] santiycr: rofl
 [2013-02-19 17:09:50] mlai: toks: i just wrote up my 2cents: https://github.com/appium/appium/wiki/Deploying-Your-App-to-a-Device
+[2013-02-19 17:11:59] toks: o_O
+[2013-02-19 17:14:15] mlai: also i've been using the WebDriverWait and it's pretty robust. Something like:
+[2013-02-19 17:14:34] mlai: WebDriverWait(self.driver, 3).until(lambda x:
+[2013-02-19 17:14:34] mlai:              x.find_element_by_name(locators["mymenu.button"]))
+[2013-02-19 17:14:51] mlai:  from selenium.webdriver.support.ui import WebDriverWait
