@@ -251,3 +251,5 @@
 [2013-02-19 17:51:07] smccarthy, joining. (#appium)
 [2013-02-19 17:55:54] sfbrian, quitting. (Ping timeout: 264 seconds)
 [2013-02-19 17:59:35] sassda, quitting. (Ping timeout: 255 seconds)
+[2013-02-19 18:11:36] alexglow, quitting. (Ping timeout: 240 seconds)
+[2013-02-19 18:14:00] davidko, quitting. (Ping timeout: 272 seconds)
