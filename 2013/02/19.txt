@@ -225,3 +225,12 @@
 [2013-02-19 16:59:38] santiycr: 90% of the times, implicit are good enough and way cleaner :)
 [2013-02-19 16:59:47] sassda: +1 on this :D
 [2013-02-19 16:59:50] santiycr: which is very hard to say, considering I'm a big python guy
+[2013-02-19 17:00:13] sfbrian: santiycr: +1 implicit > explicit
+[2013-02-19 17:00:23] santiycr: #2 in the Zen of python:  "Explicit is better than implicit."
+[2013-02-19 17:00:27] santiycr: LOL :)
+[2013-02-19 17:00:36] santiycr: http://www.python.org/dev/peps/pep-0020/
+[2013-02-19 17:00:40] toks: o_o
+[2013-02-19 17:01:14] santiycr: but you know what, principles are made to be disagreed upon
+[2013-02-19 17:01:56] sfbrian: rules are meant to be broken
+[2013-02-19 17:02:02] toks: santiycr: I disagree!
+[2013-02-19 17:02:09] santiycr: rofl
