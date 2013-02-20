@@ -68,3 +68,11 @@
 [2013-02-20 14:46:32] toks: maybe it's a new action movie
 [2013-02-20 14:53:13] admc, quitting. (Quit: Leaving.)
 [2013-02-20 14:54:07] admc, joining. (#appium)
+[2013-02-20 15:03:03] smccarthy, joining. (#appium)
+[2013-02-20 15:03:41] github-appium, joining. (#appium)
+[2013-02-20 15:03:41] github-appium: [appium] jlipps pushed 2 new commits to master: http://git.io/8OYx_w
+[2013-02-20 15:03:41] github-appium: appium/master 7f2a27e bootstraponline: mobile: reset
+[2013-02-20 15:03:41] github-appium: appium/master c92b575 Jonathan Lipps: Merge pull request #203 from bootstraponline/reset...
+[2013-02-20 15:03:41] github-appium, leaving. (#appium)
+[2013-02-20 15:04:21] jlipps: sfbrian: get up to any beer week festivities last weekend?
+[2013-02-20 15:04:54] sfbrian: jlipps: I skipped out on saturday and sunday. I went hardcore every single day except for those
