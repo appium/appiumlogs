@@ -34,3 +34,10 @@
 [2013-02-20 11:35:53] github-appium, joining. (#appium)
 [2013-02-20 11:35:53] github-appium: [appium] jlipps opened pull request #201: migrate to grunt 0.4 (master...master)  http://git.io/651bFA
 [2013-02-20 11:35:54] github-appium, leaving. (#appium)
+[2013-02-20 11:40:44] github-appium, joining. (#appium)
+[2013-02-20 11:40:44] github-appium: [appium] sourishkrout pushed 8 new commits to master: http://git.io/HVgg2Q
+[2013-02-20 11:40:44] github-appium: appium/master f6153e5 Jonathan Lipps: more logging about UDID
+[2013-02-20 11:40:44] github-appium: appium/master 969ac8c Jonathan Lipps: update bundle id for app
+[2013-02-20 11:40:44] github-appium: appium/master c5312cc Jonathan Lipps: grunt helper for code signing an app
+[2013-02-20 11:40:44] github-appium, leaving. (#appium)
+[2013-02-20 11:42:28] admc, quitting. (Quit: Leaving.)
