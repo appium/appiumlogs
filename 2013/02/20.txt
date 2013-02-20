@@ -24,3 +24,4 @@
 [2013-02-20 10:10:16] github-appium: appium/master 9cd9907 Jonathan Lipps: Merge pull request #200 from bootstraponline/fix_undefined...
 [2013-02-20 10:10:17] github-appium, leaving. (#appium)
 [2013-02-20 10:25:49] rodericj, joining. (#appium)
+[2013-02-20 10:32:32] toks, joining. (#appium)
