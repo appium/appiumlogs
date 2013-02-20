@@ -5,3 +5,4 @@
 [2013-02-20 01:27:48] admc, quitting. (Quit: Leaving.)
 [2013-02-20 03:38:57] mlai_, joining. (#appium)
 [2013-02-20 08:01:50] sourishkrout, joining. (#appium)
+[2013-02-20 08:24:24] smccarthy, joining. (#appium)
