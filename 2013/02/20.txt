@@ -10,3 +10,6 @@
 [2013-02-20 09:19:16] sourishkrout, quitting. (Quit: Leaving.)
 [2013-02-20 09:24:24] sassda, joining. (#appium)
 [2013-02-20 09:44:29] jlipps, joining. (#appium)
+[2013-02-20 09:47:57] davidko, joining. (#appium)
+[2013-02-20 09:48:12] davidko, quitting. (Remote host closed the connection)
+[2013-02-20 09:48:22] davidko, joining. (#appium)
