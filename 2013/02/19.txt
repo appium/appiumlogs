@@ -265,3 +265,5 @@
 [2013-02-19 20:22:47] santiycr, quitting. (Quit: Leaving.)
 [2013-02-19 20:23:25] rodericj, joining. (#appium)
 [2013-02-19 20:28:44] sourishkrout, quitting. (Quit: Leaving.)
+[2013-02-19 20:36:37] jcarr, joining. (#appium)
+[2013-02-19 20:39:30] rodericj, quitting. (Quit: Leaving.)
