@@ -194,3 +194,4 @@
 [2013-02-19 15:55:51] toks: I need to try fruitstrap again
 [2013-02-19 16:25:01] davidko: is there a better way to wait for an element to be visible besides sleep? self.driver.implicitly_wait() doesn't seem to be implemented
 [2013-02-19 16:27:46] sassda: isn't appium using mechanic with a default timeout value to wait for an element to appear?
+[2013-02-19 16:45:00] toks: what
