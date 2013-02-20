@@ -258,3 +258,4 @@
 [2013-02-19 18:38:05] mlai, quitting. (Quit: mlai)
 [2013-02-19 18:47:15] toks, quitting. (Ping timeout: 252 seconds)
 [2013-02-19 18:51:35] rodericj, quitting. (Quit: Leaving.)
+[2013-02-19 19:07:17] santiycr, quitting. (Quit: Leaving.)
