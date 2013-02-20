@@ -31,3 +31,6 @@
 [2013-02-20 10:51:17] santiycr, joining. (#appium)
 [2013-02-20 10:58:58] admc, quitting. (Quit: Leaving.)
 [2013-02-20 11:00:12] admc, joining. (#appium)
+[2013-02-20 11:35:53] github-appium, joining. (#appium)
+[2013-02-20 11:35:53] github-appium: [appium] jlipps opened pull request #201: migrate to grunt 0.4 (master...master)  http://git.io/651bFA
+[2013-02-20 11:35:54] github-appium, leaving. (#appium)
