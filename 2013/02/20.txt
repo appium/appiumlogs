@@ -18,3 +18,8 @@
 [2013-02-20 10:08:57] github-appium, joining. (#appium)
 [2013-02-20 10:08:57] github-appium: [appium] bootstraponline opened pull request #200: Fix undefined issues (master...fix_undefined)  http://git.io/YBNp1g
 [2013-02-20 10:08:57] github-appium, leaving. (#appium)
+[2013-02-20 10:10:16] github-appium, joining. (#appium)
+[2013-02-20 10:10:16] github-appium: [appium] jlipps pushed 2 new commits to master: http://git.io/OiJITA
+[2013-02-20 10:10:16] github-appium: appium/master 57015e5 bootstraponline: Fix undefined issues...
+[2013-02-20 10:10:16] github-appium: appium/master 9cd9907 Jonathan Lipps: Merge pull request #200 from bootstraponline/fix_undefined...
+[2013-02-20 10:10:17] github-appium, leaving. (#appium)
