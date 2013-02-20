@@ -66,3 +66,5 @@
 [2013-02-20 14:28:22] admc: appium? I hear thats the bomb
 [2013-02-20 14:46:18] toks: that's what I heard too
 [2013-02-20 14:46:32] toks: maybe it's a new action movie
+[2013-02-20 14:53:13] admc, quitting. (Quit: Leaving.)
+[2013-02-20 14:54:07] admc, joining. (#appium)
