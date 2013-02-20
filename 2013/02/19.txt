@@ -270,3 +270,4 @@
 [2013-02-19 20:45:14] smccarthy, quitting. (Remote host closed the connection)
 [2013-02-19 21:06:29] rodericj, joining. (#appium)
 [2013-02-19 21:44:11] jcarr, quitting. (Quit: Leaving.)
+[2013-02-19 21:47:42] admc, joining. (#appium)
