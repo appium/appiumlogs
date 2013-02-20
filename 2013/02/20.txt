@@ -84,3 +84,8 @@
 [2013-02-20 15:33:50] sp0cksbeard, quitting. (Quit: sp0cksbeard)
 [2013-02-20 15:34:53] santiycr, joining. (#appium)
 [2013-02-20 15:39:04] admc1, joining. (#appium)
+[2013-02-20 15:41:19] santiycr1, joining. (#appium)
+[2013-02-20 15:42:06] admc, quitting. (Ping timeout: 244 seconds)
+[2013-02-20 15:43:05] santiycr, quitting. (Ping timeout: 240 seconds)
+[2013-02-20 15:44:39] sfbrian: jlipps: what did you hit up?
+[2013-02-20 15:44:56] jlipps: 21st, soma streat food park, city beer
