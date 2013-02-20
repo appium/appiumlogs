@@ -248,3 +248,4 @@
 [2013-02-19 17:48:25] mlai: toks: i use it sparingly to minimize disturbance in the natural order
 [2013-02-19 17:48:45] toks: ^_^;
 [2013-02-19 17:48:46] jlipps, quitting. (Quit: jlipps)
+[2013-02-19 17:51:07] smccarthy, joining. (#appium)
