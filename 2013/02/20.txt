@@ -29,3 +29,4 @@
 [2013-02-20 10:45:01] stackedsax, joining. (#appium)
 [2013-02-20 10:45:36] toks: okay, so there's this thing out there called appium - you guys heard of it? ;)
 [2013-02-20 10:51:17] santiycr, joining. (#appium)
+[2013-02-20 10:58:58] admc, quitting. (Quit: Leaving.)
