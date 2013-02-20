@@ -25,3 +25,4 @@
 [2013-02-20 10:10:17] github-appium, leaving. (#appium)
 [2013-02-20 10:25:49] rodericj, joining. (#appium)
 [2013-02-20 10:32:32] toks, joining. (#appium)
+[2013-02-20 10:44:49] *toks runs around in circles'
