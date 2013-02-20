@@ -56,3 +56,9 @@
 [2013-02-20 13:29:43] github-appium: [appium] jlipps pushed 1 new commit to master: http://git.io/289B1Q
 [2013-02-20 13:29:43] github-appium: appium/master ba0667f Jonathan Lipps: add grunt-cli to packages.json for travis
 [2013-02-20 13:29:43] github-appium, leaving. (#appium)
+[2013-02-20 13:45:53] santiycr, joining. (#appium)
+[2013-02-20 13:46:16] admc, joining. (#appium)
+[2013-02-20 13:48:22] github-appium, joining. (#appium)
+[2013-02-20 13:48:22] github-appium: [appium] jlipps pushed 1 new commit to master: http://git.io/UgoCDA
+[2013-02-20 13:48:22] github-appium: appium/master 3970d68 Jonathan Lipps: update what grunt tasks travis runs, it's not a mac!
+[2013-02-20 13:48:22] github-appium, leaving. (#appium)
