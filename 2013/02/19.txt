@@ -234,3 +234,4 @@
 [2013-02-19 17:01:56] sfbrian: rules are meant to be broken
 [2013-02-19 17:02:02] toks: santiycr: I disagree!
 [2013-02-19 17:02:09] santiycr: rofl
+[2013-02-19 17:09:50] mlai: toks: i just wrote up my 2cents: https://github.com/appium/appium/wiki/Deploying-Your-App-to-a-Device
