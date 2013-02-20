@@ -45,3 +45,6 @@
 [2013-02-20 12:26:41] alexglow, joining. (#appium)
 [2013-02-20 12:33:34] smccarthy, quitting. (Remote host closed the connection)
 [2013-02-20 12:45:01] santiycr, quitting. (Quit: Leaving.)
+[2013-02-20 13:12:26] github-appium, joining. (#appium)
+[2013-02-20 13:12:26] github-appium: [appium] bootstraponline opened pull request #203: mobile: reset (master...reset)  http://git.io/veRAkA
+[2013-02-20 13:12:26] github-appium, leaving. (#appium)
