@@ -1,0 +1,3 @@
+[2013-02-20 00:38:50] stackedsax1, quitting. (Quit: Leaving.)
+[2013-02-20 00:39:06] stackedsax, joining. (#appium)
+[2013-02-20 00:39:56] stackedsax, quitting. (Client Quit)
