@@ -48,3 +48,7 @@
 [2013-02-20 13:12:26] github-appium, joining. (#appium)
 [2013-02-20 13:12:26] github-appium: [appium] bootstraponline opened pull request #203: mobile: reset (master...reset)  http://git.io/veRAkA
 [2013-02-20 13:12:26] github-appium, leaving. (#appium)
+[2013-02-20 13:23:12] github-appium, joining. (#appium)
+[2013-02-20 13:23:12] github-appium: [appium] jlipps pushed 1 new commit to master: http://git.io/1iH9LQ
+[2013-02-20 13:23:12] github-appium: appium/master eb3d09f Jonathan Lipps: update readme to reflect change in grunt version
+[2013-02-20 13:23:12] github-appium, leaving. (#appium)
