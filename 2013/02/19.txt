@@ -255,3 +255,4 @@
 [2013-02-19 18:14:00] davidko, quitting. (Ping timeout: 272 seconds)
 [2013-02-19 18:19:26] jcarr, quitting. (Quit: Leaving.)
 [2013-02-19 18:34:10] admc1, quitting. (Quit: Leaving.)
+[2013-02-19 18:38:05] mlai, quitting. (Quit: mlai)
