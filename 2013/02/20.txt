@@ -15,3 +15,6 @@
 [2013-02-20 09:48:22] davidko, joining. (#appium)
 [2013-02-20 09:54:00] sfbrian, joining. (#appium)
 [2013-02-20 10:03:59] admc, joining. (#appium)
+[2013-02-20 10:08:57] github-appium, joining. (#appium)
+[2013-02-20 10:08:57] github-appium: [appium] bootstraponline opened pull request #200: Fix undefined issues (master...fix_undefined)  http://git.io/YBNp1g
+[2013-02-20 10:08:57] github-appium, leaving. (#appium)
