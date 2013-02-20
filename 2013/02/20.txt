@@ -83,3 +83,4 @@
 [2013-02-20 15:33:07] santiycr, quitting. (Client Quit)
 [2013-02-20 15:33:50] sp0cksbeard, quitting. (Quit: sp0cksbeard)
 [2013-02-20 15:34:53] santiycr, joining. (#appium)
+[2013-02-20 15:39:04] admc1, joining. (#appium)
