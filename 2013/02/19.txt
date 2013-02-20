@@ -197,3 +197,31 @@
 [2013-02-19 16:45:00] toks: what
 [2013-02-19 16:45:16] toks: driver.implicit_wait doesn't work?
 [2013-02-19 16:46:36] toks: lies!
+[2013-02-19 16:55:03] santiycr1, changing nick to santiycr.
+[2013-02-19 16:55:18] santiycr: toks: doesn't do what's supposed to
+[2013-02-19 16:55:43] santiycr: implicity_wait should make appium keep retrying for elements to appear if they are not there when you try to find them
+[2013-02-19 16:55:58] toks: o.o
+[2013-02-19 16:56:05] santiycr: right now, it just sets some instruments timeout, which is completely unrelated
+[2013-02-19 16:56:23] toks: madness
+[2013-02-19 16:56:26] toks: hmm
+[2013-02-19 16:56:27] santiycr: :)
+[2013-02-19 16:56:50] santiycr: easy test, set implicit wait to 30s, then try to find an unexisting element in the app
+[2013-02-19 16:57:09] santiycr: if the command fails faster than 30s in, it proves what I say
+[2013-02-19 16:57:41] toks: o_O
+[2013-02-19 16:57:42] toks: hmm
+[2013-02-19 16:57:46] santiycr: I did follow these steps when I read the code and got confused about what it did
+[2013-02-19 16:58:00] toks: what if you use the WaitFor object instead?
+[2013-02-19 16:58:04] toks: like...
+[2013-02-19 16:58:06] toks: http://stackoverflow.com/questions/9161773/how-can-i-get-selenium-web-driver-to-wait-for-an-element-to-be-accessible-not-j
+[2013-02-19 16:58:18] santiycr: yeah, that's another tool users have
+[2013-02-19 16:58:29] santiycr: doesn't mean we don't need to make implicity waits work as expected :)
+[2013-02-19 16:58:40] santiycr: er, implicit
+[2013-02-19 16:58:52] toks: heh, agreed. implicit_wait is broken
+[2013-02-19 16:58:59] santiycr: I'm a big fan of implicit waits, BTW
+[2013-02-19 16:59:07] santiycr: I like how cleaner they make the code
+[2013-02-19 16:59:09] toks: ah
+[2013-02-19 16:59:13] toks: :)
+[2013-02-19 16:59:16] santiycr: compared to explicit waits
+[2013-02-19 16:59:38] santiycr: 90% of the times, implicit are good enough and way cleaner :)
+[2013-02-19 16:59:47] sassda: +1 on this :D
+[2013-02-19 16:59:50] santiycr: which is very hard to say, considering I'm a big python guy
