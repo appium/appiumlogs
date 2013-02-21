@@ -49,3 +49,5 @@
 [2013-02-21 15:18:14] alexglow: wherefore the circle-running, dude?
 [2013-02-21 15:19:20] toks: good question
 [2013-02-21 15:22:26] smccarthy2, joining. (#appium)
+[2013-02-21 15:26:22] smccarthy, quitting. (Ping timeout: 276 seconds)
+[2013-02-21 15:27:06] davidko, joining. (#appium)
