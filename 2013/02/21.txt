@@ -18,3 +18,5 @@
 [2013-02-21 09:38:41] sassda, joining. (#appium)
 [2013-02-21 09:48:32] admc, quitting. (Quit: Leaving.)
 [2013-02-21 09:50:54] jlipps, joining. (#appium)
+[2013-02-21 09:55:30] jlipps: whoops mlai walked away from our conversation yesterday. circa looks awesome! and i work for sauce, who has generously allowed me to be almost full-time appium for the last bit :-)
+[2013-02-21 09:58:28] smccarthy, joining. (#appium)
