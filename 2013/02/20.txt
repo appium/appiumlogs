@@ -135,3 +135,9 @@
 [2013-02-20 17:55:20] mlai_: but i used to be with davidko & sfbrian over at eventbrite. hope they are not shy.
 [2013-02-20 17:55:31] mlai_: how about yourself? are you full time appium?
 [2013-02-20 18:12:30] sassda, quitting. (Ping timeout: 252 seconds)
+[2013-02-20 18:58:13] stackedsax, quitting. (Quit: Leaving.)
+[2013-02-20 18:58:22] github-appium, joining. (#appium)
+[2013-02-20 18:58:22] github-appium: [appium] jlipps pushed 1 new commit to master: http://git.io/4HafnQ
+[2013-02-20 18:58:22] github-appium: appium/master 4bf29e0 Jonathan Lipps: version bump for npm publish
+[2013-02-20 18:58:22] github-appium, leaving. (#appium)
+[2013-02-20 18:58:55] *jlipps published appium@0.0.14'
