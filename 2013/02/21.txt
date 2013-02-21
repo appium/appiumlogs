@@ -22,3 +22,8 @@
 [2013-02-21 09:58:28] smccarthy, joining. (#appium)
 [2013-02-21 10:07:03] jlipps, quitting. (Ping timeout: 240 seconds)
 [2013-02-21 10:13:21] alexglow, quitting. (Ping timeout: 248 seconds)
+[2013-02-21 10:16:10] mlai: jlipps: glad Circa makes a good first impression. Really thankful someone is allowed to be full time appium :) makes all our lives better.
+[2013-02-21 10:16:55] sfbrian: Circa, bah. We miss mlai at Eventbrite :)
+[2013-02-21 10:18:02] mlai: ah, shucks. well, we miss sfbrian at Circa. haha it's a tech love triangle
+[2013-02-21 10:18:30] mlai: maybe just a love line.
+[2013-02-21 10:18:52] sfbrian: haha
