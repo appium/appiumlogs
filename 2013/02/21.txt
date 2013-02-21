@@ -21,3 +21,4 @@
 [2013-02-21 09:55:30] jlipps: whoops mlai walked away from our conversation yesterday. circa looks awesome! and i work for sauce, who has generously allowed me to be almost full-time appium for the last bit :-)
 [2013-02-21 09:58:28] smccarthy, joining. (#appium)
 [2013-02-21 10:07:03] jlipps, quitting. (Ping timeout: 240 seconds)
+[2013-02-21 10:13:21] alexglow, quitting. (Ping timeout: 248 seconds)
