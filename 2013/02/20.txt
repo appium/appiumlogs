@@ -142,3 +142,6 @@
 [2013-02-20 18:58:22] github-appium, leaving. (#appium)
 [2013-02-20 18:58:55] *jlipps published appium@0.0.14'
 [2013-02-20 19:09:02] smccarthy, quitting. (Remote host closed the connection)
+[2013-02-20 19:12:34] alexglow, quitting. (Ping timeout: 240 seconds)
+[2013-02-20 19:12:35] toks, quitting. (Ping timeout: 260 seconds)
+[2013-02-20 19:14:34] davidko, quitting. (Quit: davidko)
