@@ -111,3 +111,9 @@
 [2013-02-20 16:54:25] jlipps: you pass in a bootstrap javascript file
 [2013-02-20 16:54:38] jlipps: which is UIAutomation
 [2013-02-20 16:55:01] sassda: cool, thanks
+[2013-02-20 17:06:43] github-appium, joining. (#appium)
+[2013-02-20 17:06:43] github-appium: [appium] sourishkrout pushed 4 new commits to master: http://git.io/-MdB6w
+[2013-02-20 17:06:43] github-appium: appium/master ebda1b2 Jonathan Lipps: separating concerns a bit here for reset app
+[2013-02-20 17:06:43] github-appium: appium/master 797441f Jonathan Lipps: make plist resetting a server flag
+[2013-02-20 17:06:43] github-appium: appium/master 77a3301 Jonathan Lipps: we want to reset in our own tests
+[2013-02-20 17:06:43] github-appium, leaving. (#appium)
