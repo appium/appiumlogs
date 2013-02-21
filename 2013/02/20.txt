@@ -146,3 +146,4 @@
 [2013-02-20 19:12:35] toks, quitting. (Ping timeout: 260 seconds)
 [2013-02-20 19:14:34] davidko, quitting. (Quit: davidko)
 [2013-02-20 19:16:39] mlai_, quitting. (Quit: mlai_)
+[2013-02-20 19:31:49] smccarthy, joining. (#appium)
