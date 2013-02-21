@@ -10,3 +10,4 @@
 [2013-02-21 08:29:34] admc, joining. (#appium)
 [2013-02-21 08:49:33] stackedsax, joining. (#appium)
 [2013-02-21 09:07:18] mlai, joining. (#appium)
+[2013-02-21 09:19:13] sfbrian, joining. (#appium)
