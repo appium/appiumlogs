@@ -46,3 +46,5 @@
 [2013-02-21 14:42:19] admc, joining. (#appium)
 [2013-02-21 14:56:08] *toks runs around in circles'
 [2013-02-21 15:12:37] rodericj, quitting. (Quit: Leaving.)
+[2013-02-21 15:18:14] alexglow: wherefore the circle-running, dude?
+[2013-02-21 15:19:20] toks: good question
