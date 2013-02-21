@@ -52,3 +52,5 @@
 [2013-02-21 15:26:22] smccarthy, quitting. (Ping timeout: 276 seconds)
 [2013-02-21 15:27:06] davidko, joining. (#appium)
 [2013-02-21 15:41:27] smccarthy2, quitting. (Remote host closed the connection)
+[2013-02-21 15:45:43] toks: pain
+[2013-02-21 15:45:50] toks: wrong channel ^^;
