@@ -91,3 +91,5 @@
 [2013-02-20 15:44:56] jlipps: 21st, soma streat food park, city beer
 [2013-02-20 15:46:09] jlipps: how about you sfbrian? i didn't venture outside of soma at all i guess
 [2013-02-20 15:51:12] sfbrian: jlipps: Opening Gala, Speakeasy, White Labs Tasting, Sour Sunday, Kern River Night, Alpine Night, SD Brewery Night, RR Night, Deschutes Night
+[2013-02-20 15:59:21] sfbrian: it was busy
+[2013-02-20 15:59:55] smccarthy, quitting. (Remote host closed the connection)
