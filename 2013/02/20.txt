@@ -97,3 +97,4 @@
 [2013-02-20 16:01:27] jlipps: yeah, surprised you made it to this week :-)
 [2013-02-20 16:03:43] *toks listens to sfbrian's liver scream in pain'
 [2013-02-20 16:04:35] admc1, quitting. (Ping timeout: 260 seconds)
+[2013-02-20 16:09:50] davidko_, joining. (#appium)
