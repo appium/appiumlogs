@@ -119,3 +119,4 @@
 [2013-02-20 17:06:43] github-appium, leaving. (#appium)
 [2013-02-20 17:13:13] admc, joining. (#appium)
 [2013-02-20 17:16:44] admc1, quitting. (Ping timeout: 255 seconds)
+[2013-02-20 17:25:21] sfbrian, quitting. (Ping timeout: 248 seconds)
