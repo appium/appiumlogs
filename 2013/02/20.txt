@@ -147,3 +147,4 @@
 [2013-02-20 19:14:34] davidko, quitting. (Quit: davidko)
 [2013-02-20 19:16:39] mlai_, quitting. (Quit: mlai_)
 [2013-02-20 19:31:49] smccarthy, joining. (#appium)
+[2013-02-20 19:37:04] santiycr, quitting. (Quit: Leaving.)
