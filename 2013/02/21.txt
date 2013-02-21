@@ -17,3 +17,4 @@
 [2013-02-21 09:31:56] smccarthy, quitting. (Remote host closed the connection)
 [2013-02-21 09:38:41] sassda, joining. (#appium)
 [2013-02-21 09:48:32] admc, quitting. (Quit: Leaving.)
+[2013-02-21 09:50:54] jlipps, joining. (#appium)
