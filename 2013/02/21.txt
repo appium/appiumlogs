@@ -35,3 +35,4 @@
 [2013-02-21 11:01:38] rodericj, joining. (#appium)
 [2013-02-21 12:00:23] admc, joining. (#appium)
 [2013-02-21 12:09:19] jlipps, joining. (#appium)
+[2013-02-21 12:22:27] jlipps, quitting. (Quit: jlipps)
