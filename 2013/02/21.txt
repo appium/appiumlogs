@@ -5,3 +5,4 @@
 [2013-02-21 02:23:02] santiycr, quitting. (Quit: Leaving.)
 [2013-02-21 05:59:02] sp0cksbeard, joining. (#appium)
 [2013-02-21 07:23:47] stackedsax, joining. (#appium)
+[2013-02-21 08:02:46] stackedsax, quitting. (Quit: Leaving.)
