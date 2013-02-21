@@ -110,3 +110,4 @@
 [2013-02-20 16:54:18] jlipps: sassda, you can take a look at how we run instruments in instruments.js
 [2013-02-20 16:54:25] jlipps: you pass in a bootstrap javascript file
 [2013-02-20 16:54:38] jlipps: which is UIAutomation
+[2013-02-20 16:55:01] sassda: cool, thanks
