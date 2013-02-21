@@ -40,3 +40,4 @@
 [2013-02-21 12:46:41] santiycr, joining. (#appium)
 [2013-02-21 12:53:44] admc, quitting. (Quit: Leaving.)
 [2013-02-21 13:08:57] toks, quitting. (Ping timeout: 256 seconds)
+[2013-02-21 13:18:14] toks, joining. (#appium)
