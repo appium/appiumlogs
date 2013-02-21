@@ -160,3 +160,4 @@
 [2013-02-20 21:28:01] mlai, quitting. (Quit: mlai)
 [2013-02-20 21:32:25] admc, quitting. (Quit: Leaving.)
 [2013-02-20 22:43:41] rodericj, quitting. (Quit: Leaving.)
+[2013-02-20 22:46:12] davidko, joining. (#appium)
