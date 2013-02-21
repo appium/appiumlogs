@@ -120,3 +120,8 @@
 [2013-02-20 17:13:13] admc, joining. (#appium)
 [2013-02-20 17:16:44] admc1, quitting. (Ping timeout: 255 seconds)
 [2013-02-20 17:25:21] sfbrian, quitting. (Ping timeout: 248 seconds)
+[2013-02-20 17:47:27] santiycr1, changing nick to santiycr.
+[2013-02-20 17:47:29] mlai_: sfbrian: "EXCUSE ME. That is not a "brown ale". That is a craft Farmhouse DoppelBock." https://www.facebook.com/MissionHipsterSays
+[2013-02-20 17:48:53] jlipps: mlai_: that's awesome
+[2013-02-20 17:49:31] smccarthy, joining. (#appium)
+[2013-02-20 17:49:44] mlai_: :) how unfitting sfbrian is Not in the mission.
