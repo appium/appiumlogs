@@ -152,3 +152,4 @@
 [2013-02-20 19:44:37] jlipps, quitting. (Quit: jlipps)
 [2013-02-20 19:47:19] admc, quitting. (Quit: Leaving.)
 [2013-02-20 19:54:35] smccarthy, joining. (#appium)
+[2013-02-20 19:56:22] alexglow, joining. (#appium)
