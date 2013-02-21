@@ -157,3 +157,4 @@
 [2013-02-20 20:40:41] smccarthy, quitting. (Remote host closed the connection)
 [2013-02-20 20:41:32] admc, joining. (#appium)
 [2013-02-20 21:07:10] mlai, joining. (#appium)
+[2013-02-20 21:28:01] mlai, quitting. (Quit: mlai)
