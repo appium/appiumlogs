@@ -158,3 +158,4 @@
 [2013-02-20 20:41:32] admc, joining. (#appium)
 [2013-02-20 21:07:10] mlai, joining. (#appium)
 [2013-02-20 21:28:01] mlai, quitting. (Quit: mlai)
+[2013-02-20 21:32:25] admc, quitting. (Quit: Leaving.)
