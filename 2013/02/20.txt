@@ -125,3 +125,10 @@
 [2013-02-20 17:48:53] jlipps: mlai_: that's awesome
 [2013-02-20 17:49:31] smccarthy, joining. (#appium)
 [2013-02-20 17:49:44] mlai_: :) how unfitting sfbrian is Not in the mission.
+[2013-02-20 17:51:44] jlipps: mlai_: do you guys work together?
+[2013-02-20 17:52:19] jlipps: oh and thanks for the wiki contrib btw
+[2013-02-20 17:52:29] mlai_: jlipps: used to.. but i work with one of sfbrian's old coworkers now (he hooked me up!)
+[2013-02-20 17:52:59] jlipps: mlai_: nice! care to share what you're trying to automate with appium? :-)
+[2013-02-20 17:53:00] mlai_: ah, you're welcome. It was just a small thing. I'd love to actually check in something flashy someday
+[2013-02-20 17:53:53] mlai_: Sure.. I'm working at Circa ( http://cir.ca ) we're trying to reinvent the newsroom
+[2013-02-20 17:54:49] mlai_: We're only 7 folks right now, so… my job is qa & support. Would love to make all my blackbox regression testing go away :)
