@@ -36,3 +36,4 @@
 [2013-02-21 12:00:23] admc, joining. (#appium)
 [2013-02-21 12:09:19] jlipps, joining. (#appium)
 [2013-02-21 12:22:27] jlipps, quitting. (Quit: jlipps)
+[2013-02-21 12:36:28] santiycr, quitting. (Quit: Leaving.)
