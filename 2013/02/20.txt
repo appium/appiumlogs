@@ -134,3 +134,4 @@
 [2013-02-20 17:54:49] mlai_: We're only 7 folks right now, so… my job is qa & support. Would love to make all my blackbox regression testing go away :)
 [2013-02-20 17:55:20] mlai_: but i used to be with davidko & sfbrian over at eventbrite. hope they are not shy.
 [2013-02-20 17:55:31] mlai_: how about yourself? are you full time appium?
+[2013-02-20 18:12:30] sassda, quitting. (Ping timeout: 252 seconds)
