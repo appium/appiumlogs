@@ -103,3 +103,10 @@
 [2013-02-20 16:21:27] admc1, joining. (#appium)
 [2013-02-20 16:25:40] admc, quitting. (Ping timeout: 256 seconds)
 [2013-02-20 16:48:15] sassda: hey guys, anyone here knows how to run a tests written in UIA through command line?
+[2013-02-20 16:52:56] github-appium, joining. (#appium)
+[2013-02-20 16:52:56] github-appium: [appium] jlipps opened pull request #204: mid-session app resetting refactoring, server flag (master...master)  http://git.io/4DQOSg
+[2013-02-20 16:52:56] github-appium, leaving. (#appium)
+[2013-02-20 16:54:08] toks: o.o
+[2013-02-20 16:54:18] jlipps: sassda, you can take a look at how we run instruments in instruments.js
+[2013-02-20 16:54:25] jlipps: you pass in a bootstrap javascript file
+[2013-02-20 16:54:38] jlipps: which is UIAutomation
