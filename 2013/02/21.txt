@@ -77,3 +77,7 @@
 [2013-02-21 17:39:55] mlai, quitting. (Quit: mlai)
 [2013-02-21 17:41:51] santiycr, quitting. (Quit: Leaving.)
 [2013-02-21 17:42:12] sassda: actually my questions were answered on the google groups, I thought no one answered since I didn't get any mail notification, probably something messed up in my groups conf
+[2013-02-21 17:46:55] santiycr, joining. (#appium)
+[2013-02-21 17:49:33] github-appium, joining. (#appium)
+[2013-02-21 17:49:33] github-appium: [appium] jlipps opened pull request #209: real implicit wait (master...master)  http://git.io/8zEIlw
+[2013-02-21 17:49:33] github-appium, leaving. (#appium)
