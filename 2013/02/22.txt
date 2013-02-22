@@ -31,3 +31,6 @@
 [2013-02-22 09:41:48] sassda, joining. (#appium)
 [2013-02-22 09:41:48] smccarthy, quitting. (Read error: Connection reset by peer)
 [2013-02-22 09:43:22] smccarthy, joining. (#appium)
+[2013-02-22 09:47:14] smccarthy, quitting. (Read error: Connection reset by peer)
+[2013-02-22 09:47:15] smccarthy2, joining. (#appium)
+[2013-02-22 09:49:29] admc, joining. (#appium)
