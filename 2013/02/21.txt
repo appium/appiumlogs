@@ -75,3 +75,5 @@
 [2013-02-21 17:38:39] github-appium: appium/master 51706a5 Jonathan Lipps: Merge pull request #208 from jlipps/master...
 [2013-02-21 17:38:39] github-appium, leaving. (#appium)
 [2013-02-21 17:39:55] mlai, quitting. (Quit: mlai)
+[2013-02-21 17:41:51] santiycr, quitting. (Quit: Leaving.)
+[2013-02-21 17:42:12] sassda: actually my questions were answered on the google groups, I thought no one answered since I didn't get any mail notification, probably something messed up in my groups conf
