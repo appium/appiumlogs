@@ -68,3 +68,4 @@
 [2013-02-21 17:10:06] github-appium, leaving. (#appium)
 [2013-02-21 17:24:12] santiycr, quitting. (Quit: Leaving.)
 [2013-02-21 17:28:49] santiycr, joining. (#appium)
+[2013-02-21 17:34:43] sfbrian, quitting. (Ping timeout: 256 seconds)
