@@ -120,3 +120,4 @@
 [2013-02-21 22:48:44] rodericj, joining. (#appium)
 [2013-02-21 22:57:30] rodericj, quitting. (Ping timeout: 252 seconds)
 [2013-02-21 23:08:32] davidko, quitting. (Quit: davidko)
+[2013-02-21 23:19:47] jcarr, quitting. (Quit: Leaving.)
