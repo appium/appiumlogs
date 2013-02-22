@@ -61,3 +61,4 @@
 [2013-02-21 15:59:06] sassda: is it possible to access your mechanic instance when using UIA commands? that would make it easier to select elements
 [2013-02-21 15:59:44] toks: o.o
 [2013-02-21 16:06:16] jcarr, quitting. (Quit: Leaving.)
+[2013-02-21 16:26:16] jlipps, joining. (#appium)
