@@ -42,3 +42,7 @@
 [2013-02-22 10:26:57] *toks runs around in circles'
 [2013-02-22 10:48:17] smccarthy, joining. (#appium)
 [2013-02-22 10:49:40] stackedsax, quitting. (Quit: Leaving.)
+[2013-02-22 10:50:28] smccarthy2, quitting. (Ping timeout: 248 seconds)
+[2013-02-22 10:51:11] santiycr, joining. (#appium)
+[2013-02-22 10:51:18] stackedsax, joining. (#appium)
+[2013-02-22 10:54:15] alexglow, joining. (#appium)
