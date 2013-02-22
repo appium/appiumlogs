@@ -40,3 +40,5 @@
 [2013-02-22 10:20:24] admc, quitting. (Quit: Leaving.)
 [2013-02-22 10:25:58] toks, joining. (#appium)
 [2013-02-22 10:26:57] *toks runs around in circles'
+[2013-02-22 10:48:17] smccarthy, joining. (#appium)
+[2013-02-22 10:49:40] stackedsax, quitting. (Quit: Leaving.)
