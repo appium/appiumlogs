@@ -69,3 +69,9 @@
 [2013-02-21 17:24:12] santiycr, quitting. (Quit: Leaving.)
 [2013-02-21 17:28:49] santiycr, joining. (#appium)
 [2013-02-21 17:34:43] sfbrian, quitting. (Ping timeout: 256 seconds)
+[2013-02-21 17:38:39] github-appium, joining. (#appium)
+[2013-02-21 17:38:39] github-appium: [appium] jlipps pushed 2 new commits to master: http://git.io/P6rbFw
+[2013-02-21 17:38:39] github-appium: appium/master 38f4e6c Jonathan Lipps: make xpath contains search case insensitive
+[2013-02-21 17:38:39] github-appium: appium/master 51706a5 Jonathan Lipps: Merge pull request #208 from jlipps/master...
+[2013-02-21 17:38:39] github-appium, leaving. (#appium)
+[2013-02-21 17:39:55] mlai, quitting. (Quit: mlai)
