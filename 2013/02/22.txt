@@ -22,3 +22,7 @@
 [2013-02-22 08:36:16] rodericj, quitting. (Ping timeout: 244 seconds)
 [2013-02-22 08:52:04] rodericj, joining. (#appium)
 [2013-02-22 08:55:50] rodericj, quitting. (Client Quit)
+[2013-02-22 09:06:00] mlai, joining. (#appium)
+[2013-02-22 09:06:35] alexglow, joining. (#appium)
+[2013-02-22 09:08:02] stackedsax, joining. (#appium)
+[2013-02-22 09:08:46] stackedsax, quitting. (Client Quit)
