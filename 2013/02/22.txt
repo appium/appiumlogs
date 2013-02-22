@@ -26,3 +26,5 @@
 [2013-02-22 09:06:35] alexglow, joining. (#appium)
 [2013-02-22 09:08:02] stackedsax, joining. (#appium)
 [2013-02-22 09:08:46] stackedsax, quitting. (Client Quit)
+[2013-02-22 09:17:38] jcarr, joining. (#appium)
+[2013-02-22 09:17:56] stackedsax, joining. (#appium)
