@@ -19,3 +19,4 @@
 [2013-02-22 07:52:29] rodericj, joining. (#appium)
 [2013-02-22 07:58:30] rodericj, quitting. (Ping timeout: 252 seconds)
 [2013-02-22 08:27:20] rodericj, joining. (#appium)
+[2013-02-22 08:36:16] rodericj, quitting. (Ping timeout: 244 seconds)
