@@ -47,3 +47,4 @@
 [2013-02-22 10:51:18] stackedsax, joining. (#appium)
 [2013-02-22 10:54:15] alexglow, joining. (#appium)
 [2013-02-22 10:57:50] rodericj, joining. (#appium)
+[2013-02-22 11:02:10] admc, joining. (#appium)
