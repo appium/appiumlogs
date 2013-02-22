@@ -81,3 +81,11 @@
 [2013-02-21 17:49:33] github-appium, joining. (#appium)
 [2013-02-21 17:49:33] github-appium: [appium] jlipps opened pull request #209: real implicit wait (master...master)  http://git.io/8zEIlw
 [2013-02-21 17:49:33] github-appium, leaving. (#appium)
+[2013-02-21 17:50:02] jlipps, quitting. (Quit: jlipps)
+[2013-02-21 17:50:34] stackedsax, quitting. (Quit: Leaving.)
+[2013-02-21 17:54:04] santiycr, quitting. (Quit: Leaving.)
+[2013-02-21 17:54:08] github-appium, joining. (#appium)
+[2013-02-21 17:54:08] github-appium: [appium] santiycr pushed 2 new commits to master: http://git.io/C7NG2Q
+[2013-02-21 17:54:08] github-appium: appium/master b8c2812 Jonathan Lipps: make implicit wait do what it should
+[2013-02-21 17:54:08] github-appium: appium/master 84efdd9 Santiago Suarez Ordoñez: Merge pull request #209 from jlipps/master...
+[2013-02-21 17:54:08] github-appium, leaving. (#appium)
