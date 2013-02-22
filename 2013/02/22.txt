@@ -75,3 +75,5 @@
 [2013-02-22 15:05:16] sassda, quitting. (Read error: Connection reset by peer)
 [2013-02-22 15:30:44] sp0cksbeard, quitting. (Quit: sp0cksbeard)
 [2013-02-22 15:35:29] sassda1, quitting. (Quit: Leaving.)
+[2013-02-22 15:42:50] admc1, joining. (#appium)
+[2013-02-22 15:44:54] sassda, joining. (#appium)
