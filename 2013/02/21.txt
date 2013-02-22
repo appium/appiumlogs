@@ -62,3 +62,4 @@
 [2013-02-21 15:59:44] toks: o.o
 [2013-02-21 16:06:16] jcarr, quitting. (Quit: Leaving.)
 [2013-02-21 16:26:16] jlipps, joining. (#appium)
+[2013-02-21 16:35:33] sahazel, joining. (#appium)
