@@ -55,3 +55,8 @@
 [2013-02-21 15:45:43] toks: pain
 [2013-02-21 15:45:50] toks: wrong channel ^^;
 [2013-02-21 15:55:01] sfbrian: you sure you weren't talking about appium toks?
+[2013-02-21 15:55:18] toks: ha
+[2013-02-21 15:55:32] toks: nah, appium works enough for me to do my tests now
+[2013-02-21 15:55:42] toks: esp. once I learned how to click anywhere on the screen
+[2013-02-21 15:59:06] sassda: is it possible to access your mechanic instance when using UIA commands? that would make it easier to select elements
+[2013-02-21 15:59:44] toks: o.o
