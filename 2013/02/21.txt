@@ -117,3 +117,4 @@
 [2013-02-21 22:26:48] jlipps, quitting. (Read error: Connection reset by peer)
 [2013-02-21 22:26:49] jlipps_, changing nick to jlipps.
 [2013-02-21 22:27:19] alexglow, joining. (#appium)
+[2013-02-21 22:48:44] rodericj, joining. (#appium)
