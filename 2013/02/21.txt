@@ -96,3 +96,4 @@
 [2013-02-21 18:22:09] alexglow, quitting. (Ping timeout: 276 seconds)
 [2013-02-21 18:34:13] davidko, quitting. (Quit: davidko)
 [2013-02-21 18:38:39] jcarr, joining. (#appium)
+[2013-02-21 18:54:03] toks, quitting. (Ping timeout: 256 seconds)
