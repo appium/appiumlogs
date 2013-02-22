@@ -93,3 +93,4 @@
 [2013-02-21 18:03:03] sassda, quitting. (Ping timeout: 252 seconds)
 [2013-02-21 18:06:17] rodericj, joining. (#appium)
 [2013-02-21 18:09:53] stackedsax, quitting. (Quit: Leaving.)
+[2013-02-21 18:22:09] alexglow, quitting. (Ping timeout: 276 seconds)
