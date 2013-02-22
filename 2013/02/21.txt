@@ -98,3 +98,5 @@
 [2013-02-21 18:38:39] jcarr, joining. (#appium)
 [2013-02-21 18:54:03] toks, quitting. (Ping timeout: 256 seconds)
 [2013-02-21 19:01:52] stackedsax, joining. (#appium)
+[2013-02-21 19:16:35] santiycr, joining. (#appium)
+[2013-02-21 19:19:13] santiycr1, joining. (#appium)
