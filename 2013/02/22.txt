@@ -71,3 +71,5 @@
 [2013-02-22 14:27:52] santiycr, joining. (#appium)
 [2013-02-22 14:49:41] rodericj, quitting. (Quit: Leaving.)
 [2013-02-22 14:55:41] santiycr, quitting. (Quit: Leaving.)
+[2013-02-22 15:05:15] sassda1, joining. (#appium)
+[2013-02-22 15:05:16] sassda, quitting. (Read error: Connection reset by peer)
