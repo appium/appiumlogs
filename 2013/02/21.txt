@@ -124,3 +124,4 @@
 [2013-02-21 23:20:17] jcarr, joining. (#appium)
 [2013-02-21 23:23:21] jcarr, quitting. (Client Quit)
 [2013-02-21 23:24:23] rodericj, joining. (#appium)
+[2013-02-21 23:34:42] rodericj, quitting. (Ping timeout: 252 seconds)
