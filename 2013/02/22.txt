@@ -66,3 +66,4 @@
 [2013-02-22 12:48:31] jcarr, leaving. (#appium)
 [2013-02-22 13:07:27] smccarthy, joining. (#appium)
 [2013-02-22 13:11:00] sassda, quitting. (Ping timeout: 264 seconds)
+[2013-02-22 13:17:18] sassda, joining. (#appium)
