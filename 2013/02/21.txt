@@ -108,3 +108,4 @@
 [2013-02-21 21:19:18] davidko, joining. (#appium)
 [2013-02-21 21:45:19] alexglow, joining. (#appium)
 [2013-02-21 21:49:27] jcarr, quitting. (Quit: Leaving.)
+[2013-02-21 22:12:40] jcarr, joining. (#appium)
