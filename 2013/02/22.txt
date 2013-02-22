@@ -38,3 +38,5 @@
 [2013-02-22 09:54:29] sfbrian, joining. (#appium)
 [2013-02-22 10:06:05] alexglow, quitting. (Ping timeout: 255 seconds)
 [2013-02-22 10:20:24] admc, quitting. (Quit: Leaving.)
+[2013-02-22 10:25:58] toks, joining. (#appium)
+[2013-02-22 10:26:57] *toks runs around in circles'
