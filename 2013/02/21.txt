@@ -89,3 +89,4 @@
 [2013-02-21 17:54:08] github-appium: appium/master b8c2812 Jonathan Lipps: make implicit wait do what it should
 [2013-02-21 17:54:08] github-appium: appium/master 84efdd9 Santiago Suarez Ordoñez: Merge pull request #209 from jlipps/master...
 [2013-02-21 17:54:08] github-appium, leaving. (#appium)
+[2013-02-21 17:59:11] stackedsax, joining. (#appium)
