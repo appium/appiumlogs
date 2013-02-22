@@ -63,3 +63,6 @@
 [2013-02-21 16:06:16] jcarr, quitting. (Quit: Leaving.)
 [2013-02-21 16:26:16] jlipps, joining. (#appium)
 [2013-02-21 16:35:33] sahazel, joining. (#appium)
+[2013-02-21 17:10:06] github-appium, joining. (#appium)
+[2013-02-21 17:10:06] github-appium: [appium] jlipps opened pull request #208: make xpath contains search case insensitive (master...master)  http://git.io/jT7GmQ
+[2013-02-21 17:10:06] github-appium, leaving. (#appium)
