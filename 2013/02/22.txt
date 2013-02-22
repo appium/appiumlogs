@@ -53,3 +53,4 @@
 [2013-02-22 11:40:53] santiycr, joining. (#appium)
 [2013-02-22 11:42:19] santiycr, quitting. (Client Quit)
 [2013-02-22 11:53:44] jcarr, quitting. (Ping timeout: 256 seconds)
+[2013-02-22 11:55:12] santiycr, joining. (#appium)
