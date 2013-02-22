@@ -91,3 +91,5 @@
 [2013-02-21 17:54:08] github-appium, leaving. (#appium)
 [2013-02-21 17:59:11] stackedsax, joining. (#appium)
 [2013-02-21 18:03:03] sassda, quitting. (Ping timeout: 252 seconds)
+[2013-02-21 18:06:17] rodericj, joining. (#appium)
+[2013-02-21 18:09:53] stackedsax, quitting. (Quit: Leaving.)
