@@ -57,3 +57,4 @@
 [2013-02-22 12:00:13] jcarr, joining. (#appium)
 [2013-02-22 12:05:15] santiycr, quitting. (Quit: Leaving.)
 [2013-02-22 12:07:23] santiycr, joining. (#appium)
+[2013-02-22 12:12:04] toks, quitting. (Ping timeout: 252 seconds)
