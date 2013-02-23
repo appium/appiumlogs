@@ -92,3 +92,4 @@
 [2013-02-22 17:02:53] davidko, quitting. (Ping timeout: 255 seconds)
 [2013-02-22 17:04:07] sfbrian, quitting. (Ping timeout: 260 seconds)
 [2013-02-22 17:08:08] alexglow, joining. (#appium)
+[2013-02-22 17:44:48] santiycr1, quitting. (Quit: Leaving.)
