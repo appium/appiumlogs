@@ -97,3 +97,4 @@
 [2013-02-22 17:58:11] santiycr, joining. (#appium)
 [2013-02-22 17:58:39] toks, joining. (#appium)
 [2013-02-22 17:58:47] sassda, quitting. (Quit: Leaving.)
+[2013-02-22 18:13:01] stackedsax, quitting. (Quit: Leaving.)
