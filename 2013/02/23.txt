@@ -8,3 +8,4 @@
 [2013-02-23 13:05:35] admc, joining. (#appium)
 [2013-02-23 13:23:30] davidko, quitting. (Quit: davidko)
 [2013-02-23 14:33:52] admc, quitting. (Quit: Leaving.)
+[2013-02-23 15:08:03] admc, joining. (#appium)
