@@ -88,3 +88,6 @@
 [2013-02-22 16:49:43] sassda, quitting. (Read error: Connection reset by peer)
 [2013-02-22 16:49:49] sassda, joining. (#appium)
 [2013-02-22 16:59:45] davidko_, joining. (#appium)
+[2013-02-22 17:00:19] davidko_, quitting. (Client Quit)
+[2013-02-22 17:02:53] davidko, quitting. (Ping timeout: 255 seconds)
+[2013-02-22 17:04:07] sfbrian, quitting. (Ping timeout: 260 seconds)
