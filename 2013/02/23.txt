@@ -3,3 +3,4 @@
 [2013-02-23 09:37:50] santiycr, quitting. (Client Quit)
 [2013-02-23 10:18:05] admc, joining. (#appium)
 [2013-02-23 11:33:38] smccarthy, quitting. (Remote host closed the connection)
+[2013-02-23 11:43:41] davidko, joining. (#appium)
