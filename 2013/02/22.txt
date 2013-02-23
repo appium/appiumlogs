@@ -101,3 +101,4 @@
 [2013-02-22 18:28:28] toks, quitting. (Ping timeout: 256 seconds)
 [2013-02-22 18:32:42] smccarthy, joining. (#appium)
 [2013-02-22 18:36:08] santiycr, quitting. (Quit: Leaving.)
+[2013-02-22 18:46:21] smccarthy, quitting. (Remote host closed the connection)
