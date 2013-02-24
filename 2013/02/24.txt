@@ -15,3 +15,4 @@
 [2013-02-24 04:03:36] admc, joining. (#appium)
 [2013-02-24 04:08:36] admc, quitting. (Ping timeout: 264 seconds)
 [2013-02-24 04:34:27] admc, joining. (#appium)
+[2013-02-24 04:39:12] admc, quitting. (Ping timeout: 252 seconds)
