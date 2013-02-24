@@ -41,3 +41,4 @@
 [2013-02-24 13:53:29] davidko, quitting. (Quit: davidko)
 [2013-02-24 14:13:34] davidko, joining. (#appium)
 [2013-02-24 15:20:41] admc, quitting. (Quit: Leaving.)
+[2013-02-24 15:25:46] davidko, quitting. (Quit: davidko)
