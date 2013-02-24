@@ -12,3 +12,4 @@
 [2013-02-23 15:33:01] admc, quitting. (Quit: Leaving.)
 [2013-02-23 15:34:51] admc, joining. (#appium)
 [2013-02-23 15:39:41] admc, quitting. (Client Quit)
+[2013-02-23 16:10:02] admc, joining. (#appium)
