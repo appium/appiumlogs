@@ -49,3 +49,4 @@
 [2013-02-24 19:30:45] davidko, joining. (#appium)
 [2013-02-24 19:34:05] davidko, quitting. (Client Quit)
 [2013-02-24 21:47:18] alexglow, joining. (#appium)
+[2013-02-24 22:48:12] admc, joining. (#appium)
