@@ -46,3 +46,5 @@
 [2013-02-24 16:08:50] sassda, joining. (#appium)
 [2013-02-24 16:30:54] sassda, quitting. (Quit: Leaving.)
 [2013-02-24 17:21:54] admc, quitting. (Quit: Leaving.)
+[2013-02-24 19:30:45] davidko, joining. (#appium)
+[2013-02-24 19:34:05] davidko, quitting. (Client Quit)
