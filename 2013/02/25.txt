@@ -5,3 +5,7 @@
 [2013-02-25 03:33:36] ddary, joining. (#appium)
 [2013-02-25 03:33:54] ddary, leaving. (#appium)
 [2013-02-25 04:16:03] ddary, joining. (#appium)
+[2013-02-25 04:45:20] knorrium, joining. (#appium)
+[2013-02-25 04:46:27] knorrium, quitting. (Client Quit)
+[2013-02-25 04:46:51] knorrium, joining. (#appium)
+[2013-02-25 04:46:53] ddary, quitting. (Quit: ddary)
