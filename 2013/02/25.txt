@@ -19,3 +19,6 @@
 [2013-02-25 09:55:40] davidko, joining. (#appium)
 [2013-02-25 10:33:58] toks, joining. (#appium)
 [2013-02-25 10:41:39] admc, joining. (#appium)
+[2013-02-25 11:06:55] *toks runs around in circles'
+[2013-02-25 11:07:16] toks: man, iOS app code signing
+[2013-02-25 11:07:25] toks: that was something else to get through
