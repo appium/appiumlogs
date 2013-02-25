@@ -30,3 +30,5 @@
 [2013-02-25 11:41:49] stackedsax, joining. (#appium)
 [2013-02-25 11:48:37] admc, quitting. (Quit: Leaving.)
 [2013-02-25 11:50:06] jlipps, joining. (#appium)
+[2013-02-25 12:02:22] jlipps, quitting. (Quit: jlipps)
+[2013-02-25 12:02:35] jlipps, joining. (#appium)
