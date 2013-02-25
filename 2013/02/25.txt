@@ -13,3 +13,4 @@
 [2013-02-25 08:04:58] smccarthy, joining. (#appium)
 [2013-02-25 09:02:25] alexglow, joining. (#appium)
 [2013-02-25 09:06:59] sfbrian, joining. (#appium)
+[2013-02-25 09:16:48] Rolken, quitting. (Ping timeout: 245 seconds)
