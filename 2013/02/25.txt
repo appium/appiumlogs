@@ -1,0 +1,2 @@
+[2013-02-25 00:10:57] davidko, joining. (#appium)
+[2013-02-25 00:14:44] davidko, quitting. (Client Quit)
