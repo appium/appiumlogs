@@ -25,3 +25,4 @@
 [2013-02-25 11:17:47] alexglow, quitting. (Ping timeout: 246 seconds)
 [2013-02-25 11:19:28] santiycr, joining. (#appium)
 [2013-02-25 11:22:24] sourishkrout, joining. (#appium)
+[2013-02-25 11:38:58] alexglow, joining. (#appium)
