@@ -4,3 +4,4 @@
 [2013-02-25 03:13:18] alexglow, quitting. (Ping timeout: 252 seconds)
 [2013-02-25 03:33:36] ddary, joining. (#appium)
 [2013-02-25 03:33:54] ddary, leaving. (#appium)
+[2013-02-25 04:16:03] ddary, joining. (#appium)
