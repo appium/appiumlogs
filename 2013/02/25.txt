@@ -22,3 +22,5 @@
 [2013-02-25 11:06:55] *toks runs around in circles'
 [2013-02-25 11:07:16] toks: man, iOS app code signing
 [2013-02-25 11:07:25] toks: that was something else to get through
+[2013-02-25 11:17:47] alexglow, quitting. (Ping timeout: 246 seconds)
+[2013-02-25 11:19:28] santiycr, joining. (#appium)
