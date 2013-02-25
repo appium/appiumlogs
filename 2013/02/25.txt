@@ -33,3 +33,4 @@
 [2013-02-25 12:02:22] jlipps, quitting. (Quit: jlipps)
 [2013-02-25 12:02:35] jlipps, joining. (#appium)
 [2013-02-25 12:26:52] sfbrian, quitting. (Remote host closed the connection)
+[2013-02-25 12:43:45] santiycr, quitting. (Quit: Leaving.)
