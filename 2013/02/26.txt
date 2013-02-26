@@ -40,3 +40,4 @@
 [2013-02-26 12:15:36] admc, quitting. (Quit: Leaving.)
 [2013-02-26 12:42:19] sfbrian, quitting. (Quit: sfbrian)
 [2013-02-26 12:42:34] sfbrian, joining. (#appium)
+[2013-02-26 13:07:16] admc, joining. (#appium)
