@@ -54,3 +54,5 @@
 [2013-02-25 18:48:19] davidko_, quitting. (Client Quit)
 [2013-02-25 18:50:27] alexglow, quitting. (Ping timeout: 260 seconds)
 [2013-02-25 18:51:56] davidko, quitting. (Ping timeout: 240 seconds)
+[2013-02-25 19:22:42] admc1, quitting. (Quit: Leaving.)
+[2013-02-25 19:23:46] sourishkrout, quitting. (Quit: Leaving.)
