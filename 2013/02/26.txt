@@ -17,3 +17,4 @@
 [2013-02-26 09:13:22] github-appium: appium/master ed5d5b9 Jonathan Lipps: move webview tests to use webview app
 [2013-02-26 09:13:22] github-appium: appium/master 48ffc98 Jonathan Lipps: enable orientation tests in webview app which supports them
 [2013-02-26 09:13:22] github-appium, leaving. (#appium)
+[2013-02-26 09:18:03] alexglow, joining. (#appium)
