@@ -56,3 +56,4 @@
 [2013-02-25 18:51:56] davidko, quitting. (Ping timeout: 240 seconds)
 [2013-02-25 19:22:42] admc1, quitting. (Quit: Leaving.)
 [2013-02-25 19:23:46] sourishkrout, quitting. (Quit: Leaving.)
+[2013-02-25 19:25:45] stackedsax, quitting. (Quit: Leaving.)
