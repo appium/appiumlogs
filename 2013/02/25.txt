@@ -50,3 +50,5 @@
 [2013-02-25 18:22:41] sassda, quitting. (Ping timeout: 246 seconds)
 [2013-02-25 18:35:17] stackedsax, joining. (#appium)
 [2013-02-25 18:41:16] toks, quitting. (Ping timeout: 256 seconds)
+[2013-02-25 18:48:19] davidko_, joining. (#appium)
+[2013-02-25 18:48:19] davidko_, quitting. (Client Quit)
