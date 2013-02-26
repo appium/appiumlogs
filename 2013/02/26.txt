@@ -4,3 +4,4 @@
 [2013-02-26 01:08:17] stackedsax, quitting. (Quit: Leaving.)
 [2013-02-26 02:09:42] alexglow, quitting. (Ping timeout: 264 seconds)
 [2013-02-26 07:34:09] jlipps, joining. (#appium)
+[2013-02-26 07:53:05] smccarthy, joining. (#appium)
