@@ -46,3 +46,4 @@
 [2013-02-26 13:36:15] sourishkrout1, quitting. (Client Quit)
 [2013-02-26 13:40:15] sourishkrout, quitting. (Ping timeout: 260 seconds)
 [2013-02-26 13:46:40] smccarthy, quitting. (Remote host closed the connection)
+[2013-02-26 13:52:58] smccarthy, joining. (#appium)
