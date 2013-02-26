@@ -47,3 +47,4 @@
 [2013-02-25 16:38:58] smccarthy, quitting. (Remote host closed the connection)
 [2013-02-25 17:02:44] sfbrian, quitting. (Ping timeout: 248 seconds)
 [2013-02-25 17:16:10] stackedsax, quitting. (Quit: Leaving.)
+[2013-02-25 18:22:41] sassda, quitting. (Ping timeout: 246 seconds)
