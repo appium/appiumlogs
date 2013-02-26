@@ -48,3 +48,4 @@
 [2013-02-26 13:46:40] smccarthy, quitting. (Remote host closed the connection)
 [2013-02-26 13:52:58] smccarthy, joining. (#appium)
 [2013-02-26 14:00:39] santiycr, joining. (#appium)
+[2013-02-26 14:33:47] santiycr, quitting. (Quit: Leaving.)
