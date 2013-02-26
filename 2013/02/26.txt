@@ -6,3 +6,5 @@
 [2013-02-26 07:34:09] jlipps, joining. (#appium)
 [2013-02-26 07:53:05] smccarthy, joining. (#appium)
 [2013-02-26 08:19:29] stackedsax, joining. (#appium)
+[2013-02-26 08:52:07] sourishkrout, joining. (#appium)
+[2013-02-26 08:54:07] stackedsax, quitting. (Quit: Leaving.)
