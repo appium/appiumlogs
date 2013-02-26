@@ -23,3 +23,6 @@
 [2013-02-26 09:27:04] manoj: how the getting involved can happen here ?
 [2013-02-26 09:32:08] sassda, joining. (#appium)
 [2013-02-26 09:34:55] davidko, joining. (#appium)
+[2013-02-26 09:35:38] stackedsax, joining. (#appium)
+[2013-02-26 09:37:05] stackedsax1, joining. (#appium)
+[2013-02-26 09:37:19] stackedsax, quitting. (Read error: Connection reset by peer)
