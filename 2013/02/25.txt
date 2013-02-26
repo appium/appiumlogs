@@ -60,3 +60,4 @@
 [2013-02-25 19:51:15] jlipps, quitting. (Quit: jlipps)
 [2013-02-25 21:29:37] santiycr, quitting. (Quit: Leaving.)
 [2013-02-25 22:27:51] stackedsax, joining. (#appium)
+[2013-02-25 22:58:14] admc, joining. (#appium)
