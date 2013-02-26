@@ -52,3 +52,5 @@
 [2013-02-25 18:41:16] toks, quitting. (Ping timeout: 256 seconds)
 [2013-02-25 18:48:19] davidko_, joining. (#appium)
 [2013-02-25 18:48:19] davidko_, quitting. (Client Quit)
+[2013-02-25 18:50:27] alexglow, quitting. (Ping timeout: 260 seconds)
+[2013-02-25 18:51:56] davidko, quitting. (Ping timeout: 240 seconds)
