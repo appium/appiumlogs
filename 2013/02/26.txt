@@ -31,3 +31,5 @@
 [2013-02-26 09:58:53] admc, joining. (#appium)
 [2013-02-26 10:04:30] manoj: any ?
 [2013-02-26 10:27:30] toks, joining. (#appium)
+[2013-02-26 10:30:48] manoj, quitting. (Ping timeout: 264 seconds)
+[2013-02-26 10:32:27] *toks runs around in c- *trip*'
