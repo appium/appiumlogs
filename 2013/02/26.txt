@@ -8,3 +8,12 @@
 [2013-02-26 08:19:29] stackedsax, joining. (#appium)
 [2013-02-26 08:52:07] sourishkrout, joining. (#appium)
 [2013-02-26 08:54:07] stackedsax, quitting. (Quit: Leaving.)
+[2013-02-26 09:10:46] github-appium, joining. (#appium)
+[2013-02-26 09:10:46] github-appium: [appium] jlipps opened pull request #211: Fix find context (master...fix-find-context)  http://git.io/jjSYVg
+[2013-02-26 09:10:46] github-appium, leaving. (#appium)
+[2013-02-26 09:13:22] github-appium, joining. (#appium)
+[2013-02-26 09:13:22] github-appium: [appium] sourishkrout pushed 4 new commits to master: http://git.io/uJ_sqw
+[2013-02-26 09:13:22] github-appium: appium/master adfbf9d Jonathan Lipps: use mainApp for context instead of mainWindow
+[2013-02-26 09:13:22] github-appium: appium/master ed5d5b9 Jonathan Lipps: move webview tests to use webview app
+[2013-02-26 09:13:22] github-appium: appium/master 48ffc98 Jonathan Lipps: enable orientation tests in webview app which supports them
+[2013-02-26 09:13:22] github-appium, leaving. (#appium)
