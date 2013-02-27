@@ -11,3 +11,5 @@
 [2013-02-27 09:03:58] stackedsax, quitting. (Client Quit)
 [2013-02-27 09:04:10] alexglow, quitting. (Ping timeout: 256 seconds)
 [2013-02-27 09:08:14] stackedsax, joining. (#appium)
+[2013-02-27 09:41:18] sfbrian, joining. (#appium)
+[2013-02-27 09:43:07] admc, joining. (#appium)
