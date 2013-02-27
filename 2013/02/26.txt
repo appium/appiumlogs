@@ -68,3 +68,4 @@
 [2013-02-26 17:37:39] sassda, quitting. (Ping timeout: 248 seconds)
 [2013-02-26 17:47:38] stackedsax, quitting. (Quit: Leaving.)
 [2013-02-26 17:48:30] stackedsax, joining. (#appium)
+[2013-02-26 18:07:51] stackedsax, quitting. (Quit: Leaving.)
