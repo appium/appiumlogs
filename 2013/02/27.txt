@@ -26,3 +26,20 @@
 [2013-02-27 10:44:51] admc: wow, toks - you should write a blog post about how to do that!!
 [2013-02-27 10:58:51] sassda: +1
 [2013-02-27 10:59:16] toks: lol
+[2013-02-27 11:00:07] toks: sassda: yeah, real device
+[2013-02-27 11:00:39] toks: there's a iphone5 with a cracked screen sitting in a closet USB-connected to the macmini that runs jenkins
+[2013-02-27 11:01:08] sassda: lol, I see, so you sign the app with your dev licence and then install?
+[2013-02-27 11:01:39] toks: yup
+[2013-02-27 11:02:08] toks: I use xcodebuild at the commandline
+[2013-02-27 11:02:18] toks: with all the args needed to sign the app properly
+[2013-02-27 11:02:32] toks: and the provision file that's on that mac is the same one I've already put into the phone
+[2013-02-27 11:03:04] toks: so fruitstrap can install it.... and appium can start it with: node appium -U $UUID_OF_PHONE --app com.rackspacecloud.iphone
+[2013-02-27 11:03:54] sassda: can't appium take care of the install?
+[2013-02-27 11:03:58] github-appium, joining. (#appium)
+[2013-02-27 11:03:58] github-appium: [appium] maudineormsby opened pull request #216: Timing fix for proxying through selenium (master...master)  http://git.io/mWssDg
+[2013-02-27 11:03:58] github-appium, leaving. (#appium)
+[2013-02-27 11:04:10] toks: on a physical device?
+[2013-02-27 11:04:16] toks: If it can, you'll blow my mind
+[2013-02-27 11:04:31] stackedsax, quitting. (Ping timeout: 260 seconds)
+[2013-02-27 11:04:35] toks: I know it can start the iOS Simulator and install
+[2013-02-27 11:04:55] toks: but as far as I know, putting an app onto an iOS device is a whole ordeal
