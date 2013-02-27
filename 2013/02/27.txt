@@ -48,3 +48,4 @@
 [2013-02-27 11:10:47] toks: but yeah, all 'n all... the hardest part was Apple's codesign requirement
 [2013-02-27 11:11:04] toks: everything else works exactly as documented
 [2013-02-27 11:13:10] stackedsax, joining. (#appium)
+[2013-02-27 11:31:54] admc, quitting. (Quit: Leaving.)
