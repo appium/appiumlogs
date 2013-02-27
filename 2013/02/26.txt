@@ -61,3 +61,4 @@
 [2013-02-26 16:32:47] davidko_, joining. (#appium)
 [2013-02-26 16:35:36] davidko, quitting. (Ping timeout: 276 seconds)
 [2013-02-26 16:35:36] davidko_, changing nick to davidko.
+[2013-02-26 16:58:49] santiycr1, quitting. (Quit: Leaving.)
