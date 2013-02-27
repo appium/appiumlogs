@@ -88,3 +88,5 @@
 [2013-02-26 22:18:39] santiycr, quitting. (Quit: Leaving.)
 [2013-02-26 22:51:26] santiycr, joining. (#appium)
 [2013-02-26 22:53:07] santiycr, quitting. (Client Quit)
+[2013-02-26 23:45:14] stackedsax, quitting. (Quit: Leaving.)
+[2013-02-26 23:50:00] admc, joining. (#appium)
