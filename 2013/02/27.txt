@@ -24,3 +24,5 @@
 [2013-02-27 10:39:28] toks: hardest part was apple's CodeSigning craziness
 [2013-02-27 10:42:05] sassda: oh, I am interested, you run on real device then?
 [2013-02-27 10:44:51] admc: wow, toks - you should write a blog post about how to do that!!
+[2013-02-27 10:58:51] sassda: +1
+[2013-02-27 10:59:16] toks: lol
