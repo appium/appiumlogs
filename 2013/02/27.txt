@@ -80,3 +80,4 @@
 [2013-02-27 14:58:13] github-appium: appium/master 668569c bootstraponline: Fix #215 escape loop
 [2013-02-27 14:58:13] github-appium: appium/master e2ed721 Jonathan Lipps: Merge pull request #217 from bootstraponline/fix_loop...
 [2013-02-27 14:58:13] github-appium, leaving. (#appium)
+[2013-02-27 15:03:48] toks, quitting. (Ping timeout: 264 seconds)
