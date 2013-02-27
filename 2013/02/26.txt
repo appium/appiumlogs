@@ -64,3 +64,4 @@
 [2013-02-26 16:58:49] santiycr1, quitting. (Quit: Leaving.)
 [2013-02-26 17:03:14] davidko, quitting. (Quit: davidko)
 [2013-02-26 17:04:19] santiycr, joining. (#appium)
+[2013-02-26 17:21:00] sfbrian, quitting. (Ping timeout: 244 seconds)
