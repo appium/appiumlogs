@@ -84,3 +84,4 @@
 [2013-02-27 15:05:29] stackedsax, joining. (#appium)
 [2013-02-27 15:08:19] stackedsax, quitting. (Client Quit)
 [2013-02-27 15:08:24] toks, joining. (#appium)
+[2013-02-27 15:11:07] stackedsax, joining. (#appium)
