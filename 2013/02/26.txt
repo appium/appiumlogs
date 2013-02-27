@@ -56,3 +56,5 @@
 [2013-02-26 15:57:53] smccarthy, quitting. (Remote host closed the connection)
 [2013-02-26 15:58:53] santiycr, joining. (#appium)
 [2013-02-26 16:00:25] stackedsax, joining. (#appium)
+[2013-02-26 16:25:21] santiycr1, joining. (#appium)
+[2013-02-26 16:25:21] santiycr, quitting. (Read error: Connection reset by peer)
