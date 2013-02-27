@@ -52,3 +52,6 @@
 [2013-02-26 14:52:02] santiycr, joining. (#appium)
 [2013-02-26 15:46:47] stackedsax1, quitting. (Quit: Leaving.)
 [2013-02-26 15:54:37] santiycr, quitting. (Quit: Leaving.)
+[2013-02-26 15:56:03] jlipps, quitting. (Quit: jlipps)
+[2013-02-26 15:57:53] smccarthy, quitting. (Remote host closed the connection)
+[2013-02-26 15:58:53] santiycr, joining. (#appium)
