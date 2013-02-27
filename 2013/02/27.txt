@@ -62,3 +62,4 @@
 [2013-02-27 12:20:40] santiycr1, joining. (#appium)
 [2013-02-27 12:34:36] jcarr, quitting. (Quit: Leaving.)
 [2013-02-27 12:35:29] santiycr1, changing nick to santiycr|lunch.
+[2013-02-27 12:54:23] santiycr|lunch, quitting. (Quit: Leaving.)
