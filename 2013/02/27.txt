@@ -65,3 +65,4 @@
 [2013-02-27 12:54:23] santiycr|lunch, quitting. (Quit: Leaving.)
 [2013-02-27 13:18:42] toks, quitting. (Ping timeout: 264 seconds)
 [2013-02-27 13:42:43] toks, joining. (#appium)
+[2013-02-27 13:59:55] santiycr, joining. (#appium)
