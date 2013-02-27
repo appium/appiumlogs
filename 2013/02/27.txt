@@ -85,3 +85,22 @@
 [2013-02-27 15:08:19] stackedsax, quitting. (Client Quit)
 [2013-02-27 15:08:24] toks, joining. (#appium)
 [2013-02-27 15:11:07] stackedsax, joining. (#appium)
+[2013-02-27 15:16:58] toks: so
+[2013-02-27 15:17:04] toks: I wanna chromebook
+[2013-02-27 15:17:10] toks: is that a mistake?
+[2013-02-27 15:17:11] toks: :)
+[2013-02-27 15:17:25] toks: (kinda off topic, but yeah)
+[2013-02-27 15:17:30] jlipps: nah
+[2013-02-27 15:17:39] jlipps: would be fun to play with
+[2013-02-27 15:17:57] toks: most of people in my office seem to think it's a bad idea
+[2013-02-27 15:18:11] jlipps: you mean using as your main machine?
+[2013-02-27 15:18:15] toks: I don't care about power as long as I can ssh to stuff and watch youtube vids, it's good enough
+[2013-02-27 15:18:43] toks: Just something that can handle a fullscreen terminal
+[2013-02-27 15:18:46] toks: :)
+[2013-02-27 15:19:00] sassda: an ipad can do that :P
+[2013-02-27 15:19:04] toks: ha
+[2013-02-27 15:19:17] jlipps: :-) i can't code without my full ergonomic setup
+[2013-02-27 15:19:17] toks: and it can't be apple
+[2013-02-27 15:19:28] toks: ah
+[2013-02-27 15:19:37] jlipps: once we migrate to 3d sensors for all input, i'll be happy that i can take my dev setup anywhere
+[2013-02-27 15:19:53] jlipps: but these days at least i need a desk, large monitor, split keyboard, etc...
