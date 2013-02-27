@@ -104,3 +104,6 @@
 [2013-02-27 15:19:28] toks: ah
 [2013-02-27 15:19:37] jlipps: once we migrate to 3d sensors for all input, i'll be happy that i can take my dev setup anywhere
 [2013-02-27 15:19:53] jlipps: but these days at least i need a desk, large monitor, split keyboard, etc...
+[2013-02-27 15:20:02] toks: ha
+[2013-02-27 15:20:07] toks: ah*
+[2013-02-27 15:20:08] toks: :p
