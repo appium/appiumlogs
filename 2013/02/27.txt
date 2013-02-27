@@ -43,3 +43,5 @@
 [2013-02-27 11:04:31] stackedsax, quitting. (Ping timeout: 260 seconds)
 [2013-02-27 11:04:35] toks: I know it can start the iOS Simulator and install
 [2013-02-27 11:04:55] toks: but as far as I know, putting an app onto an iOS device is a whole ordeal
+[2013-02-27 11:05:07] toks: requiring proper signing
+[2013-02-27 11:05:16] toks: and the args to appium seem to imply that the app already be there
