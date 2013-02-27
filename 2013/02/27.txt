@@ -117,3 +117,4 @@
 [2013-02-27 15:49:36] github-appium: appium/master df5103e Jason Carr: Semicolons. Fml.
 [2013-02-27 15:49:36] github-appium: appium/master 83cf986 Jonathan Lipps: Merge pull request #216 from maudineormsby/master...
 [2013-02-27 15:49:36] github-appium, leaving. (#appium)
+[2013-02-27 15:53:39] sassda: how do you pull in those third party in xcode?
