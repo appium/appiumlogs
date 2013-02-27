@@ -17,3 +17,8 @@
 [2013-02-27 10:10:57] santiycr, joining. (#appium)
 [2013-02-27 10:19:25] alexglow, joining. (#appium)
 [2013-02-27 10:27:07] toks, joining. (#appium)
+[2013-02-27 10:37:33] *toks runs around in .....triangles!'
+[2013-02-27 10:37:46] toks: yeah so, my dream has been realized
+[2013-02-27 10:38:46] toks: Finally, without any interaction from me... jenkins will git: pull, xcodebuild, testflightapp, fruitstrap, appium, run-tests
+[2013-02-27 10:39:12] sassda: very nice!
+[2013-02-27 10:39:28] toks: hardest part was apple's CodeSigning craziness
