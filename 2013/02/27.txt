@@ -107,3 +107,13 @@
 [2013-02-27 15:20:02] toks: ha
 [2013-02-27 15:20:07] toks: ah*
 [2013-02-27 15:20:08] toks: :p
+[2013-02-27 15:46:21] sp0cksbeard: if i want to test my app on an ios5.1 simulator but build my project using ios6.1 sdk , is that possible?
+[2013-02-27 15:46:34] sp0cksbeard: i'm using xcodebuild to build my app
+[2013-02-27 15:48:12] jcarr: sp0cksbeard: it's possible, but it's a pain. Basically you have to copy all the SDKs except the one you want to use out of the appropriate directory to somewhere else, then run your tests, then copy them all back. Not automated right now.
+[2013-02-27 15:49:19] sp0cksbeard: hmm. i'm running into an issue where some 3rd-party tools are not compiling via xcodebuild (they're via xcode) cause they use a different compiler
+[2013-02-27 15:49:36] github-appium, joining. (#appium)
+[2013-02-27 15:49:36] github-appium: [appium] jlipps pushed 3 new commits to master: http://git.io/tDPdCA
+[2013-02-27 15:49:36] github-appium: appium/master 24b0663 Jason Carr: Timing hack to make orientation changes work with selenium proxy.
+[2013-02-27 15:49:36] github-appium: appium/master df5103e Jason Carr: Semicolons. Fml.
+[2013-02-27 15:49:36] github-appium: appium/master 83cf986 Jonathan Lipps: Merge pull request #216 from maudineormsby/master...
+[2013-02-27 15:49:36] github-appium, leaving. (#appium)
