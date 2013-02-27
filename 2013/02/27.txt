@@ -75,3 +75,8 @@
 [2013-02-27 14:40:40] stackedsax1, joining. (#appium)
 [2013-02-27 14:41:59] stackedsax, quitting. (Ping timeout: 246 seconds)
 [2013-02-27 14:44:53] stackedsax1, quitting. (Ping timeout: 240 seconds)
+[2013-02-27 14:58:13] github-appium, joining. (#appium)
+[2013-02-27 14:58:13] github-appium: [appium] jlipps pushed 2 new commits to master: http://git.io/zHWsZQ
+[2013-02-27 14:58:13] github-appium: appium/master 668569c bootstraponline: Fix #215 escape loop
+[2013-02-27 14:58:13] github-appium: appium/master e2ed721 Jonathan Lipps: Merge pull request #217 from bootstraponline/fix_loop...
+[2013-02-27 14:58:13] github-appium, leaving. (#appium)
