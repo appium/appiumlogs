@@ -50,3 +50,5 @@
 [2013-02-27 11:13:10] stackedsax, joining. (#appium)
 [2013-02-27 11:31:54] admc, quitting. (Quit: Leaving.)
 [2013-02-27 11:37:07] jcarr, joining. (#appium)
+[2013-02-27 11:56:28] sp0cksbeard: toks: curious as i've a similar mac mini setup, how do you ensure that appium is always running? do you set it as a service using a daemon?
+[2013-02-27 11:57:13] sp0cksbeard: i'd some difficulties when I tried to do that as a startup daemon service
