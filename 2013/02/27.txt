@@ -81,3 +81,6 @@
 [2013-02-27 14:58:13] github-appium: appium/master e2ed721 Jonathan Lipps: Merge pull request #217 from bootstraponline/fix_loop...
 [2013-02-27 14:58:13] github-appium, leaving. (#appium)
 [2013-02-27 15:03:48] toks, quitting. (Ping timeout: 264 seconds)
+[2013-02-27 15:05:29] stackedsax, joining. (#appium)
+[2013-02-27 15:08:19] stackedsax, quitting. (Client Quit)
+[2013-02-27 15:08:24] toks, joining. (#appium)
