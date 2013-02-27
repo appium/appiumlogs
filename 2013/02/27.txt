@@ -57,3 +57,4 @@
 [2013-02-27 12:04:18] github-appium, joining. (#appium)
 [2013-02-27 12:04:18] github-appium: [appium] bootstraponline opened pull request #217: Fix #215 escape loop (master...fix_loop)  http://git.io/8cV1IA
 [2013-02-27 12:04:18] github-appium, leaving. (#appium)
+[2013-02-27 12:18:09] admc, joining. (#appium)
