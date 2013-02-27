@@ -55,3 +55,4 @@
 [2013-02-26 15:56:03] jlipps, quitting. (Quit: jlipps)
 [2013-02-26 15:57:53] smccarthy, quitting. (Remote host closed the connection)
 [2013-02-26 15:58:53] santiycr, joining. (#appium)
+[2013-02-26 16:00:25] stackedsax, joining. (#appium)
