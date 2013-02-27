@@ -59,3 +59,5 @@
 [2013-02-26 16:25:21] santiycr1, joining. (#appium)
 [2013-02-26 16:25:21] santiycr, quitting. (Read error: Connection reset by peer)
 [2013-02-26 16:32:47] davidko_, joining. (#appium)
+[2013-02-26 16:35:36] davidko, quitting. (Ping timeout: 276 seconds)
+[2013-02-26 16:35:36] davidko_, changing nick to davidko.
