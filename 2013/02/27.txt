@@ -2,3 +2,4 @@
 [2013-02-27 01:17:34] alexglow, joining. (#appium)
 [2013-02-27 03:43:04] alexglow, quitting. (Ping timeout: 244 seconds)
 [2013-02-27 06:30:29] stackedsax, joining. (#appium)
+[2013-02-27 06:35:06] stackedsax, quitting. (Ping timeout: 257 seconds)
