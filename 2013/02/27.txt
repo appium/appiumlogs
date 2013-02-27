@@ -45,3 +45,6 @@
 [2013-02-27 11:04:55] toks: but as far as I know, putting an app onto an iOS device is a whole ordeal
 [2013-02-27 11:05:07] toks: requiring proper signing
 [2013-02-27 11:05:16] toks: and the args to appium seem to imply that the app already be there
+[2013-02-27 11:10:47] toks: but yeah, all 'n all... the hardest part was Apple's codesign requirement
+[2013-02-27 11:11:04] toks: everything else works exactly as documented
+[2013-02-27 11:13:10] stackedsax, joining. (#appium)
