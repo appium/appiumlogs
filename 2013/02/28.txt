@@ -36,3 +36,11 @@
 [2013-02-28 13:13:46] santiycr1, quitting. (Quit: Leaving.)
 [2013-02-28 13:41:44] sp0cksbeard, joining. (#appium)
 [2013-02-28 13:55:20] smccarthy, quitting. (Remote host closed the connection)
+[2013-02-28 15:13:14] github-appium, joining. (#appium)
+[2013-02-28 15:13:14] github-appium: [appium] jlipps pushed 1 new commit to master: http://git.io/3igVRw
+[2013-02-28 15:13:14] github-appium: appium/master e64917e Jonathan Lipps: bump version for publish
+[2013-02-28 15:13:14] github-appium, leaving. (#appium)
+[2013-02-28 15:13:35] *jlipps published appium@0.0.15'
+[2013-02-28 15:13:36] admc, joining. (#appium)
+[2013-02-28 15:14:05] jlipps: toks, shouldn't be too hard to come up with a pull request that takes a server flag that turns off console colors :-)
+[2013-02-28 15:14:17] jlipps: or maybe just does that if the logfile flag is set
