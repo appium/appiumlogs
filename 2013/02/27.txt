@@ -188,3 +188,4 @@
 [2013-02-27 21:25:30] davidko, joining. (#appium)
 [2013-02-27 21:56:33] rodericj, joining. (#appium)
 [2013-02-27 22:19:11] davidko, quitting. (Quit: davidko)
+[2013-02-27 22:22:22] stackedsax, joining. (#appium)
