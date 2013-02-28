@@ -127,3 +127,4 @@
 [2013-02-27 16:26:59] toks: ctrl+b !
 [2013-02-27 16:35:33] toks: ...wrong channel
 [2013-02-27 16:36:01] toks: (I should have said "wrong app", making you wonder what kind of app needs me to actually type out Ctrl+B)
+[2013-02-27 16:42:01] smccarthy, quitting. (Remote host closed the connection)
