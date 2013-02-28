@@ -175,3 +175,5 @@
 [2013-02-27 18:07:24] davidko, quitting. (Ping timeout: 252 seconds)
 [2013-02-27 18:10:44] rodericj, quitting. (Quit: Leaving.)
 [2013-02-27 18:41:43] admc, quitting. (Quit: Leaving.)
+[2013-02-27 18:46:27] santiycr, quitting. (Quit: Leaving.)
+[2013-02-27 18:47:49] toks, quitting. (Read error: Operation timed out)
