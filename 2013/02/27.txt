@@ -168,3 +168,4 @@
 [2013-02-27 17:36:50] sp0cksbeard: jlipps: this looks promising (looks like it's working for my case ATM): https://github.com/phonegap/ios-sim#readme
 [2013-02-27 17:37:30] jlipps: very cool, keep us updated sp0cksbeard
 [2013-02-27 17:37:38] sp0cksbeard: yup
+[2013-02-27 17:40:08] sfbrian, quitting. (Ping timeout: 272 seconds)
