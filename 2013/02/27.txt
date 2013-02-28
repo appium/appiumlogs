@@ -153,3 +153,14 @@
 [2013-02-27 17:29:09] sp0cksbeard: jlipps: any clues? ^ :-)
 [2013-02-27 17:29:45] sp0cksbeard: to summarize: how can I tell appium to launch a specific version of the ios simulator (5.1 or 6.1)?
 [2013-02-27 17:29:54] jlipps: yeah sp0cksbeard it's a known issue that instruments always launches latest version of simulator
+[2013-02-27 17:30:06] sp0cksbeard: i see
+[2013-02-27 17:30:13] jlipps: i think the only way around it is moving SDKs out of directories so that instruments doesn't think they exist
+[2013-02-27 17:30:23] jlipps: i.e., fake-delete 6.1 for the duration of the test so instruments uses 5.1
+[2013-02-27 17:30:26] jlipps: at least that's what i've heard
+[2013-02-27 17:30:32] sp0cksbeard: ok
+[2013-02-27 17:30:33] sassda: woh
+[2013-02-27 17:30:34] jlipps: we want to find a way to automate this in appium so we don't need to do this
+[2013-02-27 17:30:54] sp0cksbeard: it would be great if you could do this using the desired capabilites specs
+[2013-02-27 17:30:55] jlipps: but haven't got around to it yet. let us know if you find another less dramatic way of doing this, outside of appium even!
+[2013-02-27 17:31:04] sp0cksbeard: definitely!
+[2013-02-27 17:31:05] jlipps: once we can do it reliably somehow, we'll build it into desired caps
