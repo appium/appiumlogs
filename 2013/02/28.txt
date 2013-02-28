@@ -20,3 +20,4 @@
 [2013-02-28 09:39:48] stackedsax, joining. (#appium)
 [2013-02-28 09:43:00] jlipps, joining. (#appium)
 [2013-02-28 10:00:20] alexglow, joining. (#appium)
+[2013-02-28 10:07:22] alexglow, quitting. (Ping timeout: 240 seconds)
