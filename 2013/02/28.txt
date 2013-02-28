@@ -8,3 +8,4 @@
 [2013-02-28 06:30:49] github-appium: [appium] DylanLacey opened pull request #218: Added correct pass/failure for Sauce Ruby Example (master...master)  http://git.io/w326CA
 [2013-02-28 06:30:49] github-appium, leaving. (#appium)
 [2013-02-28 06:34:50] stackedsax, quitting. (Ping timeout: 252 seconds)
+[2013-02-28 07:49:53] smccarthy, joining. (#appium)
