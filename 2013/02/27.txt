@@ -172,3 +172,4 @@
 [2013-02-27 17:46:38] sp0cksbeard, quitting. (Quit: sp0cksbeard)
 [2013-02-27 18:04:48] davidko_, joining. (#appium)
 [2013-02-27 18:04:48] davidko_, quitting. (Client Quit)
+[2013-02-27 18:07:24] davidko, quitting. (Ping timeout: 252 seconds)
