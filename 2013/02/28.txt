@@ -44,3 +44,4 @@
 [2013-02-28 15:13:36] admc, joining. (#appium)
 [2013-02-28 15:14:05] jlipps: toks, shouldn't be too hard to come up with a pull request that takes a server flag that turns off console colors :-)
 [2013-02-28 15:14:17] jlipps: or maybe just does that if the logfile flag is set
+[2013-02-28 15:27:39] sp0cksbeard, quitting. (Quit: sp0cksbeard)
