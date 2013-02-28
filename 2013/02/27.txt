@@ -191,3 +191,7 @@
 [2013-02-27 22:22:22] stackedsax, joining. (#appium)
 [2013-02-27 22:43:57] stackedsax1, joining. (#appium)
 [2013-02-27 22:43:57] stackedsax, quitting. (Read error: Connection reset by peer)
+[2013-02-27 22:45:03] stackedsax1, quitting. (Read error: Connection reset by peer)
+[2013-02-27 22:45:27] stackedsax, joining. (#appium)
+[2013-02-27 22:47:56] stackedsax1, joining. (#appium)
+[2013-02-27 22:48:23] stackedsax, quitting. (Read error: Connection reset by peer)
