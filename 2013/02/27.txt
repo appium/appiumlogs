@@ -186,3 +186,4 @@
 [2013-02-27 21:24:44] davidko, joining. (#appium)
 [2013-02-27 21:25:18] davidko, quitting. (Remote host closed the connection)
 [2013-02-27 21:25:30] davidko, joining. (#appium)
+[2013-02-27 21:56:33] rodericj, joining. (#appium)
