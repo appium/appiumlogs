@@ -164,3 +164,7 @@
 [2013-02-27 17:30:55] jlipps: but haven't got around to it yet. let us know if you find another less dramatic way of doing this, outside of appium even!
 [2013-02-27 17:31:04] sp0cksbeard: definitely!
 [2013-02-27 17:31:05] jlipps: once we can do it reliably somehow, we'll build it into desired caps
+[2013-02-27 17:36:29] sassda, quitting. (Quit: Leaving.)
+[2013-02-27 17:36:50] sp0cksbeard: jlipps: this looks promising (looks like it's working for my case ATM): https://github.com/phonegap/ios-sim#readme
+[2013-02-27 17:37:30] jlipps: very cool, keep us updated sp0cksbeard
+[2013-02-27 17:37:38] sp0cksbeard: yup
