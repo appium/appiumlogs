@@ -170,3 +170,5 @@
 [2013-02-27 17:37:38] sp0cksbeard: yup
 [2013-02-27 17:40:08] sfbrian, quitting. (Ping timeout: 272 seconds)
 [2013-02-27 17:46:38] sp0cksbeard, quitting. (Quit: sp0cksbeard)
+[2013-02-27 18:04:48] davidko_, joining. (#appium)
+[2013-02-27 18:04:48] davidko_, quitting. (Client Quit)
