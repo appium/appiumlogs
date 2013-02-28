@@ -18,3 +18,4 @@
 [2013-02-28 09:35:06] davidko, joining. (#appium)
 [2013-02-28 09:39:33] rodericj, joining. (#appium)
 [2013-02-28 09:39:48] stackedsax, joining. (#appium)
+[2013-02-28 09:43:00] jlipps, joining. (#appium)
