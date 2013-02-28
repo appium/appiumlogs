@@ -144,3 +144,5 @@
 [2013-02-27 17:18:56] sp0cksbeard: do you build using xcodebuild?
 [2013-02-27 17:19:45] sp0cksbeard: how do you tell appium which simulator to use?
 [2013-02-27 17:20:01] sp0cksbeard: using desired_capabilities?
+[2013-02-27 17:21:01] sassda: lemme check
+[2013-02-27 17:21:37] sp0cksbeard: thanks
