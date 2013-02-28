@@ -29,3 +29,4 @@
 [2013-02-28 11:36:07] toks: (the control-chars for terminal colors)
 [2013-02-28 12:18:12] santiycr1, joining. (#appium)
 [2013-02-28 12:18:50] santiycr, quitting. (Ping timeout: 255 seconds)
+[2013-02-28 12:28:45] admc, quitting. (Quit: Leaving.)
