@@ -35,3 +35,4 @@
 [2013-02-28 12:58:28] stackedsax, joining. (#appium)
 [2013-02-28 13:13:46] santiycr1, quitting. (Quit: Leaving.)
 [2013-02-28 13:41:44] sp0cksbeard, joining. (#appium)
+[2013-02-28 13:55:20] smccarthy, quitting. (Remote host closed the connection)
