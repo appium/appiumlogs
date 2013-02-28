@@ -136,3 +136,4 @@
 [2013-02-27 16:53:06] sp0cksbeard: it doesn't seem to show me the option to. it doesn't even appear in the list of available sdks in base
 [2013-02-27 17:04:03] sassda: that is ok, but if you look in the info of your project, you should see iOS deployement target
 [2013-02-27 17:04:59] sassda: I also have only 6.1 in base SDK, but I can still run my app on 5.1 devices because I specified that deplpyment target
+[2013-02-27 17:14:15] stackedsax, quitting. (Quit: Leaving.)
