@@ -27,3 +27,5 @@
 [2013-02-28 11:35:47] toks: ya know what appium needs? It's logging not to have control-chars
 [2013-02-28 11:35:58] toks: because in jenkins, it looks all crazy
 [2013-02-28 11:36:07] toks: (the control-chars for terminal colors)
+[2013-02-28 12:18:12] santiycr1, joining. (#appium)
+[2013-02-28 12:18:50] santiycr, quitting. (Ping timeout: 255 seconds)
