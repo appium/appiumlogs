@@ -119,3 +119,5 @@
 [2013-02-27 15:49:36] github-appium, leaving. (#appium)
 [2013-02-27 15:53:39] sassda: how do you pull in those third party in xcode?
 [2013-02-27 16:07:46] jcarr, quitting. (Ping timeout: 252 seconds)
+[2013-02-27 16:13:55] sp0cksbeard: sassda: http://cocoapods.org/
+[2013-02-27 16:14:50] sp0cksbeard: the modules are pulled the same way. i update cocopods, and get the workspace ready
