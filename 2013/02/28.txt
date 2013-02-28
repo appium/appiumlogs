@@ -15,3 +15,6 @@
 [2013-02-28 08:56:04] jlipps, quitting. (Quit: jlipps)
 [2013-02-28 09:20:23] sassda, joining. (#appium)
 [2013-02-28 09:33:21] sfbrian, joining. (#appium)
+[2013-02-28 09:35:06] davidko, joining. (#appium)
+[2013-02-28 09:39:33] rodericj, joining. (#appium)
+[2013-02-28 09:39:48] stackedsax, joining. (#appium)
