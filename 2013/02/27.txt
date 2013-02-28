@@ -125,3 +125,5 @@
 [2013-02-27 16:16:48] sp0cksbeard: i was able to get around some problems by adding stuff in precompiled headers (e.g. http://nshipster.com/ns_enum-ns_options/)
 [2013-02-27 16:16:53] sp0cksbeard: but not all
 [2013-02-27 16:26:59] toks: ctrl+b !
+[2013-02-27 16:35:33] toks: ...wrong channel
+[2013-02-27 16:36:01] toks: (I should have said "wrong app", making you wonder what kind of app needs me to actually type out Ctrl+B)
