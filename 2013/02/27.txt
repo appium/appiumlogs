@@ -182,3 +182,4 @@
 [2013-02-27 19:37:31] santiycr, quitting. (Quit: Leaving.)
 [2013-02-27 19:45:37] smccarthy, joining. (#appium)
 [2013-02-27 19:46:24] alexglow, quitting. (Ping timeout: 264 seconds)
+[2013-02-27 20:34:26] smccarthy, quitting. (Remote host closed the connection)
