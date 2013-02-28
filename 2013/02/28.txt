@@ -32,3 +32,4 @@
 [2013-02-28 12:28:45] admc, quitting. (Quit: Leaving.)
 [2013-02-28 12:53:08] stackedsax, quitting. (Ping timeout: 255 seconds)
 [2013-02-28 12:54:09] sp0cksbeard, quitting. (Quit: sp0cksbeard)
+[2013-02-28 12:58:28] stackedsax, joining. (#appium)
