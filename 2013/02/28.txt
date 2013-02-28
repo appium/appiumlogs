@@ -24,3 +24,6 @@
 [2013-02-28 10:26:43] toks, joining. (#appium)
 [2013-02-28 10:42:47] santiycr, joining. (#appium)
 [2013-02-28 11:05:12] admc, joining. (#appium)
+[2013-02-28 11:35:47] toks: ya know what appium needs? It's logging not to have control-chars
+[2013-02-28 11:35:58] toks: because in jenkins, it looks all crazy
+[2013-02-28 11:36:07] toks: (the control-chars for terminal colors)
