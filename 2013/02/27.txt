@@ -134,3 +134,5 @@
 [2013-02-27 16:48:05] sp0cksbeard: the pain he was referring to was for using the ios6 sdk but building for iphonesimulator5.1
 [2013-02-27 16:48:20] sassda: you don't have the option of building under 5.1 in xcode?
 [2013-02-27 16:53:06] sp0cksbeard: it doesn't seem to show me the option to. it doesn't even appear in the list of available sdks in base
+[2013-02-27 17:04:03] sassda: that is ok, but if you look in the info of your project, you should see iOS deployement target
+[2013-02-27 17:04:59] sassda: I also have only 6.1 in base SDK, but I can still run my app on 5.1 devices because I specified that deplpyment target
