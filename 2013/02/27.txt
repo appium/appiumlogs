@@ -137,3 +137,10 @@
 [2013-02-27 17:04:03] sassda: that is ok, but if you look in the info of your project, you should see iOS deployement target
 [2013-02-27 17:04:59] sassda: I also have only 6.1 in base SDK, but I can still run my app on 5.1 devices because I specified that deplpyment target
 [2013-02-27 17:14:15] stackedsax, quitting. (Quit: Leaving.)
+[2013-02-27 17:16:57] sp0cksbeard: sassda: that's what I do when I'm testing manually via xcode, build using 6 sdk, but using the simulator5.1 as the destination
+[2013-02-27 17:18:15] sp0cksbeard: sassda: do you run tests against both isimulator 5 and 6?
+[2013-02-27 17:18:22] sassda: yes
+[2013-02-27 17:18:49] sp0cksbeard: can you share some insight on how you manage automating those tests?
+[2013-02-27 17:18:56] sp0cksbeard: do you build using xcodebuild?
+[2013-02-27 17:19:45] sp0cksbeard: how do you tell appium which simulator to use?
+[2013-02-27 17:20:01] sp0cksbeard: using desired_capabilities?
