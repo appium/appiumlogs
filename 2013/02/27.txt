@@ -174,3 +174,4 @@
 [2013-02-27 18:04:48] davidko_, quitting. (Client Quit)
 [2013-02-27 18:07:24] davidko, quitting. (Ping timeout: 252 seconds)
 [2013-02-27 18:10:44] rodericj, quitting. (Quit: Leaving.)
+[2013-02-27 18:41:43] admc, quitting. (Quit: Leaving.)
