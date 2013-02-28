@@ -124,3 +124,4 @@
 [2013-02-27 16:16:11] sp0cksbeard: but for some reason these 3-rd party tools are using features not supported by the ios5.1 sdks
 [2013-02-27 16:16:48] sp0cksbeard: i was able to get around some problems by adding stuff in precompiled headers (e.g. http://nshipster.com/ns_enum-ns_options/)
 [2013-02-27 16:16:53] sp0cksbeard: but not all
+[2013-02-27 16:26:59] toks: ctrl+b !
