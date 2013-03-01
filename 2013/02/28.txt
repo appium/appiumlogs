@@ -47,3 +47,8 @@
 [2013-02-28 15:27:39] sp0cksbeard, quitting. (Quit: sp0cksbeard)
 [2013-02-28 16:06:46] santiycr, joining. (#appium)
 [2013-02-28 17:28:53] sfbrian, quitting. (Ping timeout: 245 seconds)
+[2013-02-28 17:47:54] toks: :p
+[2013-02-28 17:48:47] toks: jlipps: pull requests? They have those now? madness!
+[2013-02-28 17:49:05] jlipps: newfangled collaboration
+[2013-02-28 17:49:05] toks: and yet I'm still waiting on my flying car & hoverboard
+[2013-02-28 17:49:30] toks: (you have no idea how badly I wanted that hoverboard)
