@@ -6,3 +6,4 @@
 [2013-03-01 05:22:37] knorrium, quitting. (Ping timeout: 256 seconds)
 [2013-03-01 06:01:19] sp0cksbeard, joining. (#appium)
 [2013-03-01 06:17:30] knorrium, joining. (#appium)
+[2013-03-01 07:35:43] smccarthy, joining. (#appium)
