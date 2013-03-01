@@ -21,3 +21,5 @@
 [2013-03-01 13:56:39] admc, joining. (#appium)
 [2013-03-01 14:32:12] sp0cksbeard, quitting. (Quit: sp0cksbeard)
 [2013-03-01 14:37:04] jlipps: who wants android in appium?
+[2013-03-01 14:40:04] toks: o.o
+[2013-03-01 14:40:34] toks: We're using appdriver right now, but I wouldn't mind some appium
