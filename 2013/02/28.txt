@@ -57,3 +57,4 @@
 [2013-02-28 18:10:55] davidko_, joining. (#appium)
 [2013-02-28 18:10:55] davidko_, quitting. (Client Quit)
 [2013-02-28 18:13:46] davidko, quitting. (Ping timeout: 256 seconds)
+[2013-02-28 18:36:42] admc1, quitting. (Quit: Leaving.)
