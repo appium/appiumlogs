@@ -68,3 +68,4 @@
 [2013-02-28 20:18:48] stackedsax, quitting. (Quit: Leaving.)
 [2013-02-28 20:23:11] toks, joining. (#appium)
 [2013-02-28 21:29:45] stackedsax, joining. (#appium)
+[2013-02-28 21:33:05] sassda, joining. (#appium)
