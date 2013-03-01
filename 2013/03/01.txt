@@ -23,3 +23,4 @@
 [2013-03-01 14:37:04] jlipps: who wants android in appium?
 [2013-03-01 14:40:04] toks: o.o
 [2013-03-01 14:40:34] toks: We're using appdriver right now, but I wouldn't mind some appium
+[2013-03-01 15:09:46] smccarthy, quitting. (Remote host closed the connection)
