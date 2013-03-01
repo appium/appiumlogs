@@ -52,3 +52,5 @@
 [2013-02-28 17:49:05] jlipps: newfangled collaboration
 [2013-02-28 17:49:05] toks: and yet I'm still waiting on my flying car & hoverboard
 [2013-02-28 17:49:30] toks: (you have no idea how badly I wanted that hoverboard)
+[2013-02-28 17:57:25] admc1, joining. (#appium)
+[2013-02-28 17:59:48] admc, quitting. (Ping timeout: 248 seconds)
