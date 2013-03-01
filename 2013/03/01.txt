@@ -19,3 +19,4 @@
 [2013-03-01 12:10:07] toks, joining. (#appium)
 [2013-03-01 12:58:52] admc, quitting. (Quit: Leaving.)
 [2013-03-01 13:56:39] admc, joining. (#appium)
+[2013-03-01 14:32:12] sp0cksbeard, quitting. (Quit: sp0cksbeard)
