@@ -9,3 +9,4 @@
 [2013-03-01 07:35:43] smccarthy, joining. (#appium)
 [2013-03-01 08:46:07] jlipps, joining. (#appium)
 [2013-03-01 09:31:15] stackedsax, joining. (#appium)
+[2013-03-01 09:37:02] rodericj, joining. (#appium)
