@@ -70,3 +70,5 @@
 [2013-02-28 21:29:45] stackedsax, joining. (#appium)
 [2013-02-28 21:33:05] sassda, joining. (#appium)
 [2013-02-28 21:36:56] toks, quitting. (Ping timeout: 255 seconds)
+[2013-02-28 22:16:21] sassda, quitting. (Quit: Leaving.)
+[2013-02-28 22:16:49] rodericj, joining. (#appium)
