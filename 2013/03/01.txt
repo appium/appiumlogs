@@ -12,3 +12,4 @@
 [2013-03-01 09:37:02] rodericj, joining. (#appium)
 [2013-03-01 09:50:40] davidko, joining. (#appium)
 [2013-03-01 09:54:36] sfbrian, joining. (#appium)
+[2013-03-01 10:18:25] rodericj, quitting. (Quit: Leaving.)
