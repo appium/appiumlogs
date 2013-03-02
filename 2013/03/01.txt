@@ -50,3 +50,4 @@
 [2013-03-01 18:48:05] toks, quitting. (Ping timeout: 255 seconds)
 [2013-03-01 18:55:06] mlai_, quitting. (Quit: mlai_)
 [2013-03-01 18:59:27] mlai_, joining. (#appium)
+[2013-03-01 19:22:13] mlai_, quitting. (Quit: mlai_)
