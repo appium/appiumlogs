@@ -9,3 +9,4 @@
 [2013-03-02 14:30:51] smccarthy, quitting. (Remote host closed the connection)
 [2013-03-02 14:34:08] smccarthy2, joining. (#appium)
 [2013-03-02 14:34:51] rodericj, quitting. (Quit: Leaving.)
+[2013-03-02 14:55:56] smccarthy2, quitting. (Remote host closed the connection)
