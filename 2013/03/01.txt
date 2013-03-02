@@ -57,3 +57,4 @@
 [2013-03-01 22:34:49] sp0cksbeard, joining. (#appium)
 [2013-03-01 22:55:20] sp0cksbeard, quitting. (Quit: sp0cksbeard)
 [2013-03-01 23:08:12] stackedsax, quitting. (Quit: Leaving.)
+[2013-03-01 23:14:30] stackedsax, joining. (#appium)
