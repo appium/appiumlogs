@@ -37,3 +37,6 @@
 [2013-03-01 18:03:05] davidko_, quitting. (Ping timeout: 260 seconds)
 [2013-03-01 18:03:45] stackedsax: yo toks
 [2013-03-01 18:04:12] davidko, joining. (#appium)
+[2013-03-01 18:06:48] toks: :)
+[2013-03-01 18:07:08] *toks runs around in circles'
+[2013-03-01 18:08:23] davidko, quitting. (Ping timeout: 244 seconds)
