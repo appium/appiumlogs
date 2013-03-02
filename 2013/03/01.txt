@@ -55,3 +55,4 @@
 [2013-03-01 21:25:25] rodericj, joining. (#appium)
 [2013-03-01 22:31:21] rodericj, quitting. (Quit: Leaving.)
 [2013-03-01 22:34:49] sp0cksbeard, joining. (#appium)
+[2013-03-01 22:55:20] sp0cksbeard, quitting. (Quit: sp0cksbeard)
