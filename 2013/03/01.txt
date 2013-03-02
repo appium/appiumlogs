@@ -40,3 +40,9 @@
 [2013-03-01 18:06:48] toks: :)
 [2013-03-01 18:07:08] *toks runs around in circles'
 [2013-03-01 18:08:23] davidko, quitting. (Ping timeout: 244 seconds)
+[2013-03-01 18:10:58] toks: appium on android, eh?
+[2013-03-01 18:11:07] toks: 'guess I know what I'll be messing with this weekend
+[2013-03-01 18:14:09] *toks doesn't see any indication of jlipp's branch having android support'
+[2013-03-01 18:14:27] toks: oh wait
+[2013-03-01 18:14:55] toks: https://github.com/jlipps/appium/commits/master
+[2013-03-01 18:14:57] toks: okay
