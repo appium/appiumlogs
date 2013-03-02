@@ -46,3 +46,4 @@
 [2013-03-01 18:14:27] toks: oh wait
 [2013-03-01 18:14:55] toks: https://github.com/jlipps/appium/commits/master
 [2013-03-01 18:14:57] toks: okay
+[2013-03-01 18:15:08] toks: I'll be trying this out
