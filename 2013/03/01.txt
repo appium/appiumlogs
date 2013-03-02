@@ -52,3 +52,4 @@
 [2013-03-01 18:59:27] mlai_, joining. (#appium)
 [2013-03-01 19:22:13] mlai_, quitting. (Quit: mlai_)
 [2013-03-01 19:47:30] rodericj, quitting. (Quit: Leaving.)
+[2013-03-01 21:25:25] rodericj, joining. (#appium)
