@@ -27,3 +27,5 @@
 [2013-03-02 21:56:47] smccarthy, joining. (#appium)
 [2013-03-02 22:02:37] appiumbot__, joining. (#appium)
 [2013-03-02 22:04:37] appiumbot_, quitting. (Write error: Broken pipe)
+[2013-03-02 22:16:07] admc, joining. (#appium)
+[2013-03-02 22:18:07] rodericj, joining. (#appium)
