@@ -30,3 +30,4 @@
 [2013-03-02 22:16:07] admc, joining. (#appium)
 [2013-03-02 22:18:07] rodericj, joining. (#appium)
 [2013-03-02 23:24:58] smccarthy, quitting. (Remote host closed the connection)
+[2013-03-02 23:27:13] rodericj, quitting. (Quit: Leaving.)
