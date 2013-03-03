@@ -13,3 +13,4 @@
 [2013-03-03 12:24:39] smccarthy, quitting. (Remote host closed the connection)
 [2013-03-03 13:10:41] davidko, joining. (#appium)
 [2013-03-03 13:27:47] stackedsax, joining. (#appium)
+[2013-03-03 14:42:49] fpotter, joining. (#appium)
