@@ -15,3 +15,6 @@
 [2013-03-03 13:27:47] stackedsax, joining. (#appium)
 [2013-03-03 14:42:49] fpotter, joining. (#appium)
 [2013-03-03 15:07:25] davidko_, joining. (#appium)
+[2013-03-03 15:10:50] davidko, quitting. (Ping timeout: 250 seconds)
+[2013-03-03 15:10:51] davidko_, changing nick to davidko.
+[2013-03-03 15:10:53] davidko, quitting. (Client Quit)
