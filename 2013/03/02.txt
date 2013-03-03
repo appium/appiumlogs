@@ -12,3 +12,4 @@
 [2013-03-02 14:55:56] smccarthy2, quitting. (Remote host closed the connection)
 [2013-03-02 15:25:14] smccarthy, joining. (#appium)
 [2013-03-02 15:32:23] admc, quitting. (Quit: Leaving.)
+[2013-03-02 16:30:00] smccarthy, quitting. (Remote host closed the connection)
