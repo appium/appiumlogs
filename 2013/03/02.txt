@@ -17,3 +17,4 @@
 [2013-03-02 16:47:39] smccarthy, quitting. (Remote host closed the connection)
 [2013-03-02 16:55:00] mlai_, joining. (#appium)
 [2013-03-02 18:35:04] davidko, joining. (#appium)
+[2013-03-02 18:47:44] davidko, quitting. (Quit: davidko)
