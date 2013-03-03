@@ -22,3 +22,5 @@
 [2013-03-02 19:43:41] jlipps, quitting. (Client Quit)
 [2013-03-02 20:46:50] smccarthy, joining. (#appium)
 [2013-03-02 21:18:07] mlai_, quitting. (Quit: mlai_)
+[2013-03-02 21:51:05] smccarthy, quitting. (*.net *.split)
+[2013-03-02 21:51:43] jmathes_, quitting. (Ping timeout: 260 seconds)
