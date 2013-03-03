@@ -21,3 +21,4 @@
 [2013-03-02 19:42:23] jlipps, joining. (#appium)
 [2013-03-02 19:43:41] jlipps, quitting. (Client Quit)
 [2013-03-02 20:46:50] smccarthy, joining. (#appium)
+[2013-03-02 21:18:07] mlai_, quitting. (Quit: mlai_)
