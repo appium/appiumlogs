@@ -18,3 +18,5 @@
 [2013-03-02 16:55:00] mlai_, joining. (#appium)
 [2013-03-02 18:35:04] davidko, joining. (#appium)
 [2013-03-02 18:47:44] davidko, quitting. (Quit: davidko)
+[2013-03-02 19:42:23] jlipps, joining. (#appium)
+[2013-03-02 19:43:41] jlipps, quitting. (Client Quit)
