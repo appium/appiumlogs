@@ -219,3 +219,4 @@
 [2013-03-04 14:45:58] mlai: :) maybe everyone is off making their own right now.
 [2013-03-04 14:51:55] admc, joining. (#appium)
 [2013-03-04 14:53:38] sfbrian: jlipps: implicit wait doesn't work as expected
+[2013-03-04 14:56:16] admc, quitting. (Ping timeout: 245 seconds)
