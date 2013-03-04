@@ -172,3 +172,4 @@
 [2013-03-04 12:50:00] toks: well... I dunno
 [2013-03-04 12:50:04] toks: I can't build it
 [2013-03-04 12:51:10] admc, joining. (#appium)
+[2013-03-04 12:55:15] admc, quitting. (Ping timeout: 240 seconds)
