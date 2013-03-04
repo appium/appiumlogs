@@ -25,3 +25,4 @@
 [2013-03-04 09:08:10] stackedsax, quitting. (Quit: Leaving.)
 [2013-03-04 09:32:31] admc, quitting. (Quit: Leaving.)
 [2013-03-04 09:35:33] sfbrian, joining. (#appium)
+[2013-03-04 09:48:20] davidko, joining. (#appium)
