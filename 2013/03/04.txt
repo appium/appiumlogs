@@ -170,3 +170,5 @@
 [2013-03-04 12:47:27] toks: Fatal error: Command failed:
 [2013-03-04 12:48:35] toks: omg, http://stackoverflow.com/questions/12534424/why-does-grunt-not-add-itself-to-the-shell
 [2013-03-04 12:50:00] toks: well... I dunno
+[2013-03-04 12:50:04] toks: I can't build it
+[2013-03-04 12:51:10] admc, joining. (#appium)
