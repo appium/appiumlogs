@@ -109,3 +109,7 @@
 [2013-03-04 11:34:13] davidko_, joining. (#appium)
 [2013-03-04 11:34:26] sassda: oh i see, clever :)
 [2013-03-04 11:34:30] jlipps: i'll be investigating to see whether there's something similar in android
+[2013-03-04 11:35:15] sassda: I know calabash an robotium have support, but the implementation is a little hacky, like they swap the basic webchromeclient type by their own, I don't like that too much
+[2013-03-04 11:36:36] davidko, quitting. (Ping timeout: 252 seconds)
+[2013-03-04 11:36:36] davidko_, changing nick to davidko.
+[2013-03-04 11:40:00] jlipps: yeah that's the thing we don't like too
