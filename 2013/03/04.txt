@@ -125,3 +125,19 @@
 [2013-03-04 11:50:49] admc, joining. (#appium)
 [2013-03-04 11:50:57] smccarthy2, quitting. (Remote host closed the connection)
 [2013-03-04 11:53:56] admc2, joining. (#appium)
+[2013-03-04 11:55:26] admc, quitting. (Ping timeout: 255 seconds)
+[2013-03-04 11:57:47] admc1, quitting. (Ping timeout: 255 seconds)
+[2013-03-04 11:58:13] jlipps: toks what does appium log say
+[2013-03-04 11:58:29] jlipps: and toks, did you go through the steps in uiautomator/README.md
+[2013-03-04 11:58:30] toks: Failed to start an Appium session, err was: No app set; either start appium with --app or pass in an 'app' value in desired capabilities
+[2013-03-04 11:58:35] toks: README?
+[2013-03-04 11:58:40] toks: who reads readmes?
+[2013-03-04 11:58:43] jlipps: oh you still need --app /path/to/my/apk
+[2013-03-04 11:58:48] toks: ...oh
+[2013-03-04 11:58:51] jlipps: but yeah you'll need to build some javas too
+[2013-03-04 11:58:54] toks: but it's installed already
+[2013-03-04 11:58:55] jlipps: so read the readme
+[2013-03-04 11:58:58] toks: okay
+[2013-03-04 11:59:10] jlipps: appium tries to be smart. it uninstalls and reinstalls the app every time (for now)
+[2013-03-04 11:59:43] toks: I actually like that
+[2013-03-04 11:59:46] toks: does that happen for iOS?
