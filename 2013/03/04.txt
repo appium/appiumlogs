@@ -179,3 +179,8 @@
 [2013-03-04 13:51:33] admc, joining. (#appium)
 [2013-03-04 13:55:51] admc, quitting. (Ping timeout: 245 seconds)
 [2013-03-04 13:57:14] smccarthy2, quitting. (Remote host closed the connection)
+[2013-03-04 14:09:29] jlipps: toks, be patient! it'll be so awesome when it works!
+[2013-03-04 14:09:37] jlipps: also make sure you've updated to grunt 0.4
+[2013-03-04 14:09:45] jlipps: involves node install -g grunt-cli
+[2013-03-04 14:09:53] jlipps: etc
+[2013-03-04 14:09:54] jlipps: bbiab
