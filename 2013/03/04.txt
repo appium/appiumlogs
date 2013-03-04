@@ -220,3 +220,15 @@
 [2013-03-04 14:51:55] admc, joining. (#appium)
 [2013-03-04 14:53:38] sfbrian: jlipps: implicit wait doesn't work as expected
 [2013-03-04 14:56:16] admc, quitting. (Ping timeout: 245 seconds)
+[2013-03-04 15:05:32] jlipps: sbrian, how do you expect it to work
+[2013-03-04 15:06:44] mlai: jlipps: i can't seem to use the swipe() command for python, and it's not part of the sample-code.
+[2013-03-04 15:06:49] mlai: is it js only?
+[2013-03-04 15:06:58] jlipps: mlai, you need to use driver.execute_script
+[2013-03-04 15:07:10] jlipps: read the wiki article on mobile gestures
+[2013-03-04 15:07:21] jlipps: a slow swipe should work for a pull to refresh...
+[2013-03-04 15:07:31] mlai: ah
+[2013-03-04 15:07:54] mlai: that is so helpful.. i didn't realize i fell into the 'alternative access' needs
+[2013-03-04 15:08:10] mlai: thanks
+[2013-03-04 15:08:31] jlipps: yeah, eventually we want it to be part of selenium but there's nothing in jsonwp to handle those params right now
+[2013-03-04 15:08:41] jlipps: so we're using this "mobile: xxx" paradigm for those commands
+[2013-03-04 15:08:58] santiycr, quitting. (Quit: Leaving.)
