@@ -237,3 +237,11 @@
 [2013-03-04 15:13:03] sfbrian: but still getting "An element could not be located on the page using the given search parameters"
 [2013-03-04 15:13:35] jlipps: sfbrian, i believe implicit wait is defined as milliseconds, does the python lib convert before sending to selenium server?
 [2013-03-04 15:14:23] sfbrian: python / webdriver is in seconds, trying in milliseconds
+[2013-03-04 15:15:18] sfbrian: same problem with milliseconds
+[2013-03-04 15:16:06] jlipps: so it doesn't wait at all before throwing hte error
+[2013-03-04 15:16:14] jlipps: can you verify sbrian that appium log is showing a command setting
+[2013-03-04 15:16:29] jlipps: and you are working from a recent pull of master, right?
+[2013-03-04 15:19:29] mlai: jlipps: have you seen this issue before?
+[2013-03-04 15:19:30] mlai:     params['sessionId'] = self.session_id
+[2013-03-04 15:19:31] mlai: TypeError: list indices must be integers, not str
+[2013-03-04 15:19:43] mlai: i printed out the session_id, it's type unicode
