@@ -51,3 +51,5 @@
 [2013-03-04 10:46:10] toks: looks like a compile-in
 [2013-03-04 10:46:24] toks: I guess the androidSDK has something called: android-support-v4.jar
 [2013-03-04 10:47:55] toks: I'm currently using appdriver for android native apps
+[2013-03-04 10:50:29] admc, joining. (#appium)
+[2013-03-04 10:54:47] admc, quitting. (Ping timeout: 255 seconds)
