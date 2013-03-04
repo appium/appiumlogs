@@ -258,3 +258,8 @@
 [2013-03-04 15:29:37] mlai: (refreshed)
 [2013-03-04 15:29:44] jlipps: woohoo!!
 [2013-03-04 15:29:51] mlai: thank you.
+[2013-03-04 15:30:02] jlipps: mlai unlocks badge for first automated pull-to-refresh with appium :-)
+[2013-03-04 15:30:35] mlai: haha, and unlocks level one of "rtfm" ;)
+[2013-03-04 15:32:50] jlipps: yeah everyone gets a pass on rtfm in these early days :-)
+[2013-03-04 15:33:02] jlipps: instead of RTFM, it's please read the wiki and update it with more information!
+[2013-03-04 15:33:09] jlipps: which you have done, so it's all good
