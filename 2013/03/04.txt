@@ -154,3 +154,12 @@
 [2013-03-04 12:04:16] jlipps: i concat it to the package
 [2013-03-04 12:04:20] toks: O_o
 [2013-03-04 12:04:38] jlipps: O_o indeed!
+[2013-03-04 12:06:27] jlipps: oh toks
+[2013-03-04 12:06:32] jlipps: it's trying to launch an iphone session
+[2013-03-04 12:06:45] toks: o_O
+[2013-03-04 12:06:45] jlipps: you need to set browser or device to android in your desired capabilities
+[2013-03-04 12:06:46] sourishkrout, joining. (#appium)
+[2013-03-04 12:07:07] jlipps: you can see driverblock.js for the caps i'm passing in for my android tests
+[2013-03-04 12:07:09] *toks consults readme'
+[2013-03-04 12:07:16] toks: ah
+[2013-03-04 12:07:33] *jlipps needs to add that to readme still'
