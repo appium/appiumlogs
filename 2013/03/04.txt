@@ -53,3 +53,4 @@
 [2013-03-04 10:47:55] toks: I'm currently using appdriver for android native apps
 [2013-03-04 10:50:29] admc, joining. (#appium)
 [2013-03-04 10:54:47] admc, quitting. (Ping timeout: 255 seconds)
+[2013-03-04 11:03:49] santiycr, joining. (#appium)
