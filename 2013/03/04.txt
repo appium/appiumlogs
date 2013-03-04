@@ -199,3 +199,8 @@
 [2013-03-04 14:17:08] santiycr, quitting. (Ping timeout: 252 seconds)
 [2013-03-04 14:17:31] sfbrian: jlipps: it's a little late but I'm testing your implicit wait fix
 [2013-03-04 14:19:24] mlai, joining. (#appium)
+[2013-03-04 14:21:15] mlai: hi all…
+[2013-03-04 14:21:31] mlai: would anyone have a snippet for a pull-to-refresh in python?
+[2013-03-04 14:22:21] mlai: going left-to-right seems well supported, but i can't seem to figure out up-to-down or down-to-up beginning and ending on different elements
+[2013-03-04 14:23:33] mlai: oh right, there's swipe… let me try that
+[2013-03-04 14:24:20] sfbrian: answering your own questions?
