@@ -113,3 +113,4 @@
 [2013-03-04 11:36:36] davidko, quitting. (Ping timeout: 252 seconds)
 [2013-03-04 11:36:36] davidko_, changing nick to davidko.
 [2013-03-04 11:40:00] jlipps: yeah that's the thing we don't like too
+[2013-03-04 11:42:08] sassda: just a way to inject a js snippet to evaluate in the webview would already be something :D
