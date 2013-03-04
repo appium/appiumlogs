@@ -217,3 +217,5 @@
 [2013-03-04 14:44:37] sfbrian: haha
 [2013-03-04 14:44:46] sfbrian: everybody else on this channel is like… what??
 [2013-03-04 14:45:58] mlai: :) maybe everyone is off making their own right now.
+[2013-03-04 14:51:55] admc, joining. (#appium)
+[2013-03-04 14:53:38] sfbrian: jlipps: implicit wait doesn't work as expected
