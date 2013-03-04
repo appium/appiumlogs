@@ -31,3 +31,13 @@
 [2013-03-04 09:57:54] admc1, joining. (#appium)
 [2013-03-04 10:02:20] fpotter, joining. (#appium)
 [2013-03-04 10:12:41] rodericj, joining. (#appium)
+[2013-03-04 10:26:23] toks, joining. (#appium)
+[2013-03-04 10:26:38] *toks runs around in circles'
+[2013-03-04 10:27:03] toks: So... https://github.com/jlipps/appium
+[2013-03-04 10:27:05] toks: Android
+[2013-03-04 10:27:13] toks: How do I use it with android? :o
+[2013-03-04 10:27:41] toks: I don't see any documentation for it
+[2013-03-04 10:27:49] toks: Hmm... maybe I'll go swimming in the code
+[2013-03-04 10:29:18] toks: oh...
+[2013-03-04 10:29:21] toks: https://github.com/jlipps/appium/commit/a90b2d9de1af90ed84a2498418aaca95e36999cc
+[2013-03-04 10:29:30] toks: So you have to compile it into your app
