@@ -245,3 +245,12 @@
 [2013-03-04 15:19:30] mlai:     params['sessionId'] = self.session_id
 [2013-03-04 15:19:31] mlai: TypeError: list indices must be integers, not str
 [2013-03-04 15:19:43] mlai: i printed out the session_id, it's type unicode
+[2013-03-04 15:20:06] jlipps: what is params['sessionId'] from?
+[2013-03-04 15:20:17] mlai: self.driver
+[2013-03-04 15:20:28] mlai: er, driver. I'm trying to call driver.execute()
+[2013-03-04 15:20:52] jlipps: i think it should be driver.execute_script?
+[2013-03-04 15:20:56] jlipps: or no?
+[2013-03-04 15:21:01] jlipps: anyway, params is an arg which is a list
+[2013-03-04 15:21:08] jlipps: the first element of which should be a dict
+[2013-03-04 15:21:23] jlipps: so something like [{startX: 0, startY: 50, …}]
+[2013-03-04 15:21:43] mlai: i have the dictionary right. i think you're right, execute_script. i called execute. trying again...
