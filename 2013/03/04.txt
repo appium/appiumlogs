@@ -41,3 +41,6 @@
 [2013-03-04 10:29:18] toks: oh...
 [2013-03-04 10:29:21] toks: https://github.com/jlipps/appium/commit/a90b2d9de1af90ed84a2498418aaca95e36999cc
 [2013-03-04 10:29:30] toks: So you have to compile it into your app
+[2013-03-04 10:35:45] toks: ah...
+[2013-03-04 10:35:59] toks: node server.js -h
+[2013-03-04 10:36:00] toks: :-)
