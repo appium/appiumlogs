@@ -254,3 +254,7 @@
 [2013-03-04 15:21:08] jlipps: the first element of which should be a dict
 [2013-03-04 15:21:23] jlipps: so something like [{startX: 0, startY: 50, …}]
 [2013-03-04 15:21:43] mlai: i have the dictionary right. i think you're right, execute_script. i called execute. trying again...
+[2013-03-04 15:29:29] mlai: jlipps: my list view just refresh! *overthemoon* :) appium is so rad.
+[2013-03-04 15:29:37] mlai: (refreshed)
+[2013-03-04 15:29:44] jlipps: woohoo!!
+[2013-03-04 15:29:51] mlai: thank you.
