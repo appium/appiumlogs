@@ -164,3 +164,9 @@
 [2013-03-04 12:07:16] toks: ah
 [2013-03-04 12:07:33] *jlipps needs to add that to readme still'
 [2013-03-04 12:40:07] toks: ....
+[2013-03-04 12:45:10] toks: okay, I think I'll just wait for some docs
+[2013-03-04 12:47:26] toks: /home/toks/tmp3/appium/node_modules/.bin/grunt buildAndroidBootstrap
+[2013-03-04 12:47:27] toks: Running "buildAndroidBootstrap" task
+[2013-03-04 12:47:27] toks: Fatal error: Command failed:
+[2013-03-04 12:48:35] toks: omg, http://stackoverflow.com/questions/12534424/why-does-grunt-not-add-itself-to-the-shell
+[2013-03-04 12:50:00] toks: well... I dunno
