@@ -31,3 +31,4 @@
 [2013-03-03 21:22:51] fpotter, joining. (#appium)
 [2013-03-03 22:30:43] admc, joining. (#appium)
 [2013-03-03 23:00:06] admc, quitting. (Quit: Leaving.)
+[2013-03-03 23:44:39] admc, joining. (#appium)
