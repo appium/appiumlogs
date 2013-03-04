@@ -271,3 +271,9 @@
 [2013-03-04 15:38:56] sfbrian: jlipps: https://gist.github.com/sfbrian/2423a988b5e4409af1ce
 [2013-03-04 15:39:14] sfbrian: "Test Event for Conference Cell" is what i'm looking for
 [2013-03-04 15:39:43] jlipps: sbrian, i'm not seeing the implicit wait come in
+[2013-03-04 15:40:21] jlipps: jsonwp defines it as: POST /session/:sessionId/timeouts/implicit_wait
+[2013-03-04 15:40:28] jlipps: and i don't see a request to that endpoint in this log
+[2013-03-04 15:41:02] jlipps: makes me think it's something in python lib, or your use of it. could also be on appium controller end but i'm currently using that functionality and it seems to be working for me
+[2013-03-04 15:41:27] sfbrian: sorry, I didn't paste the whole log
+[2013-03-04 15:41:30] sfbrian: hold on
+[2013-03-04 15:41:59] jlipps: oh ok!
