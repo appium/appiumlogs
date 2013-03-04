@@ -21,3 +21,4 @@
 [2013-03-03 16:59:29] fpotter, quitting. (Ping timeout: 252 seconds)
 [2013-03-03 17:01:50] fpotter, joining. (#appium)
 [2013-03-03 19:20:56] smccarthy, joining. (#appium)
+[2013-03-03 19:37:40] rodericj, joining. (#appium)
