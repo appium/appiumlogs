@@ -90,3 +90,22 @@
 [2013-03-04 11:29:38] sassda: selendroid requires q special compilation right?
 [2013-03-04 11:29:40] sassda: q=a
 [2013-03-04 11:29:52] toks: hmm, if I have multiple physical android devices connected.. how do I tell appium which one to target? What's a "UUID" in the world of android?
+[2013-03-04 11:30:11] jlipps: sassda, yes, that's why we're not using it as our main approach here
+[2013-03-04 11:30:18] toks: (should be emulator/serial)
+[2013-03-04 11:30:27] jlipps: toks, selecting device will be pretty easy
+[2013-03-04 11:30:38] jlipps: if it's the only connected device adb can find, you don't need to do anything
+[2013-03-04 11:30:43] jlipps: otherwise, you'll pass in the port
+[2013-03-04 11:30:56] jlipps: or some kind of identifier that adb uses to talk to the device
+[2013-03-04 11:31:12] sassda: oh, also, in uiautomator there is no webview support :(
+[2013-03-04 11:31:13] toks: 'k
+[2013-03-04 11:31:17] jlipps: but if you're asking about right now, i haven't built that yet. but stop playing with my fork :-)
+[2013-03-04 11:31:34] jlipps: sassda, that's true, but there's none in apple's UIAutomation either
+[2013-03-04 11:31:37] jlipps: and yet we prevailed
+[2013-03-04 11:32:01] jlipps: but it perhaps won't work with android too
+[2013-03-04 11:32:10] jlipps: in which case we wait and lobby for uiautomator webview support
+[2013-03-04 11:32:36] sassda: ? there is a basic one in UIA, you can interact with element and wait for some labels
+[2013-03-04 11:33:53] jlipps: yeah but nothing selenium-level automatable
+[2013-03-04 11:34:12] jlipps: we do webview automating on the apple side by connecting to the remote webkit debugger on a special port
+[2013-03-04 11:34:13] davidko_, joining. (#appium)
+[2013-03-04 11:34:26] sassda: oh i see, clever :)
+[2013-03-04 11:34:30] jlipps: i'll be investigating to see whether there's something similar in android
