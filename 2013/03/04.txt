@@ -12,3 +12,4 @@
 [2013-03-04 05:11:59] stackedsax, joining. (#appium)
 [2013-03-04 06:01:48] sp0cksbeard, joining. (#appium)
 [2013-03-04 06:47:58] stackedsax, quitting. (Quit: Leaving.)
+[2013-03-04 07:36:22] fpotter, quitting. (Quit: Computer has gone to sleep.)
