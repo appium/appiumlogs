@@ -44,3 +44,5 @@
 [2013-03-04 10:35:45] toks: ah...
 [2013-03-04 10:35:59] toks: node server.js -h
 [2013-03-04 10:36:00] toks: :-)
+[2013-03-04 10:40:06] sassda: oh android support? whats under the hood for this?
+[2013-03-04 10:44:59] toks: let's see
