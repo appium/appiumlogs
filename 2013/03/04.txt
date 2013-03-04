@@ -62,3 +62,4 @@
 [2013-03-04 11:07:00] toks: and the subnets are not bridged, for security reasons I assume
 [2013-03-04 11:07:43] toks: So yeah... lemme try this out.
 [2013-03-04 11:08:48] toks: (I could get linux box, and use tcpbridge to do crazy hacky stuff.... but I don't wanna... :p)
+[2013-03-04 11:18:29] jcarr, joining. (#appium)
