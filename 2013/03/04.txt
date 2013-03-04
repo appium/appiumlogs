@@ -174,3 +174,4 @@
 [2013-03-04 12:51:10] admc, joining. (#appium)
 [2013-03-04 12:55:15] admc, quitting. (Ping timeout: 240 seconds)
 [2013-03-04 13:09:05] smccarthy2, joining. (#appium)
+[2013-03-04 13:49:36] jcarr, quitting. (Quit: Leaving.)
