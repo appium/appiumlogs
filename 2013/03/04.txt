@@ -195,3 +195,7 @@
 [2013-03-04 14:13:44] sfbrian: wondering if you guys finally changed that to something else
 [2013-03-04 14:13:50] jlipps: sfbrian, try "\n"
 [2013-03-04 14:13:58] jlipps: i think i decided i shouldn't force the user to double escape
+[2013-03-04 14:15:32] sfbrian: nice, that worked
+[2013-03-04 14:17:08] santiycr, quitting. (Ping timeout: 252 seconds)
+[2013-03-04 14:17:31] sfbrian: jlipps: it's a little late but I'm testing your implicit wait fix
+[2013-03-04 14:19:24] mlai, joining. (#appium)
