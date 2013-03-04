@@ -283,3 +283,10 @@
 [2013-03-04 15:48:26] jlipps: sfbrian, try calling driver.implicitly_wait(30)
 [2013-03-04 15:48:32] jlipps: (looking at http://docs.seleniumhq.org/docs/04_webdriver_advanced.jsp#implicit-waits)
 [2013-03-04 15:49:27] sfbrian: yeah, I just saw that too… not sure why I had =
+[2013-03-04 15:51:25] sfbrian: nice
+[2013-03-04 15:51:27] sfbrian: info: Set iOS implicit wait to 30000ms
+[2013-03-04 15:51:44] sfbrian: jlipps: i'm an idiot. Thanks for the help.
+[2013-03-04 15:52:10] admc, joining. (#appium)
+[2013-03-04 15:52:21] jlipps: awesome! glad its working
+[2013-03-04 15:52:42] sfbrian: me too. This is awesome
+[2013-03-04 15:53:40] sfbrian: no more sleeps
