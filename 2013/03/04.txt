@@ -46,3 +46,8 @@
 [2013-03-04 10:36:00] toks: :-)
 [2013-03-04 10:40:06] sassda: oh android support? whats under the hood for this?
 [2013-03-04 10:44:59] toks: let's see
+[2013-03-04 10:45:46] toks: This commit: https://github.com/jlipps/appium/commit/a90b2d9de1af90ed84a2498418aaca95e36999cc
+[2013-03-04 10:45:51] toks: Seems to have the most info
+[2013-03-04 10:46:10] toks: looks like a compile-in
+[2013-03-04 10:46:24] toks: I guess the androidSDK has something called: android-support-v4.jar
+[2013-03-04 10:47:55] toks: I'm currently using appdriver for android native apps
