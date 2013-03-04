@@ -184,3 +184,14 @@
 [2013-03-04 14:09:45] jlipps: involves node install -g grunt-cli
 [2013-03-04 14:09:53] jlipps: etc
 [2013-03-04 14:09:54] jlipps: bbiab
+[2013-03-04 14:11:33] sfbrian: do you guys have release notes somewhere?
+[2013-03-04 14:11:37] sourishkrout, joining. (#appium)
+[2013-03-04 14:12:51] jlipps: sfbrian you mean like a changelog?
+[2013-03-04 14:12:57] jlipps: or what info ar eyou after
+[2013-03-04 14:13:13] sfbrian: yeah, changelog
+[2013-03-04 14:13:29] jlipps: no, it's still too gangsta for a changelog in here
+[2013-03-04 14:13:34] sfbrian: \\n doesn't work anymore for the submit button
+[2013-03-04 14:13:38] santiycr1, joining. (#appium)
+[2013-03-04 14:13:44] sfbrian: wondering if you guys finally changed that to something else
+[2013-03-04 14:13:50] jlipps: sfbrian, try "\n"
+[2013-03-04 14:13:58] jlipps: i think i decided i shouldn't force the user to double escape
