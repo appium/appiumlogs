@@ -263,3 +263,11 @@
 [2013-03-04 15:32:50] jlipps: yeah everyone gets a pass on rtfm in these early days :-)
 [2013-03-04 15:33:02] jlipps: instead of RTFM, it's please read the wiki and update it with more information!
 [2013-03-04 15:33:09] jlipps: which you have done, so it's all good
+[2013-03-04 15:36:59] sfbrian: jlipps: yeah, it doesn't wait before throwing the error
+[2013-03-04 15:37:13] jlipps: tell me what appium log looks like!
+[2013-03-04 15:37:18] jlipps: or pastebin it or whatever
+[2013-03-04 15:37:19] sfbrian: i'm using 0.0.15
+[2013-03-04 15:37:30] jlipps: hmm. think implicit wait is in that rev.
+[2013-03-04 15:38:56] sfbrian: jlipps: https://gist.github.com/sfbrian/2423a988b5e4409af1ce
+[2013-03-04 15:39:14] sfbrian: "Test Event for Conference Cell" is what i'm looking for
+[2013-03-04 15:39:43] jlipps: sbrian, i'm not seeing the implicit wait come in
