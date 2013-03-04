@@ -232,3 +232,8 @@
 [2013-03-04 15:08:31] jlipps: yeah, eventually we want it to be part of selenium but there's nothing in jsonwp to handle those params right now
 [2013-03-04 15:08:41] jlipps: so we're using this "mobile: xxx" paradigm for those commands
 [2013-03-04 15:08:58] santiycr, quitting. (Quit: Leaving.)
+[2013-03-04 15:12:17] sfbrian: jlipps: any tips on implicit wait?
+[2013-03-04 15:12:51] sfbrian: i'm doing self.driver.implicitly_wait = 30
+[2013-03-04 15:13:03] sfbrian: but still getting "An element could not be located on the page using the given search parameters"
+[2013-03-04 15:13:35] jlipps: sfbrian, i believe implicit wait is defined as milliseconds, does the python lib convert before sending to selenium server?
+[2013-03-04 15:14:23] sfbrian: python / webdriver is in seconds, trying in milliseconds
