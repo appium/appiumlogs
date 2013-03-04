@@ -204,3 +204,5 @@
 [2013-03-04 14:22:21] mlai: going left-to-right seems well supported, but i can't seem to figure out up-to-down or down-to-up beginning and ending on different elements
 [2013-03-04 14:23:33] mlai: oh right, there's swipe… let me try that
 [2013-03-04 14:24:20] sfbrian: answering your own questions?
+[2013-03-04 14:25:50] mlai: ;) yeah, guess sometimes you just need a cardboard programmer or a rubber duck http://en.wikipedia.org/wiki/Rubber_duck_debugging
+[2013-03-04 14:28:57] sfbrian: mlai: do you miss cardboard Brian Gorby?
