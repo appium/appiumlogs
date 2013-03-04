@@ -29,3 +29,4 @@
 [2013-03-03 20:43:45] rodericj1, quitting. (Ping timeout: 256 seconds)
 [2013-03-03 20:52:28] fpotter, quitting. (Quit: Computer has gone to sleep.)
 [2013-03-03 21:22:51] fpotter, joining. (#appium)
+[2013-03-03 22:30:43] admc, joining. (#appium)
