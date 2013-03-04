@@ -120,3 +120,8 @@
 [2013-03-04 11:48:33] sassda: lucky, for me, we go way lower
 [2013-03-04 11:49:28] toks: o.o
 [2013-03-04 11:49:37] toks: ( https://github.com/rackspace/android-rackspacecloud )
+[2013-03-04 11:50:03] toks: I think I got everything correct, package-name and the activity that the app goes to first
+[2013-03-04 11:50:21] toks: I know adb sees my device, since adb install /path/to/apk works
+[2013-03-04 11:50:49] admc, joining. (#appium)
+[2013-03-04 11:50:57] smccarthy2, quitting. (Remote host closed the connection)
+[2013-03-04 11:53:56] admc2, joining. (#appium)
