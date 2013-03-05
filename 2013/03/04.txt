@@ -339,3 +339,4 @@
 [2013-03-04 20:06:57] hugs, quitting. (Ping timeout: 248 seconds)
 [2013-03-04 20:07:22] sahazel, quitting. (Ping timeout: 256 seconds)
 [2013-03-04 20:07:22] stackedsax, quitting. (Quit: Leaving.)
+[2013-03-04 20:23:10] mlai, joining. (#appium)
