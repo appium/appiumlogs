@@ -30,3 +30,4 @@
 [2013-03-05 08:35:17] github-appium: appium/master 3fcab93 Dylan Lacey: Pulled out groady Net::HTTP, replaced with rest-client\nUpdated Gemfile or rubygems freaks out and can't find RestClient
 [2013-03-05 08:35:17] github-appium: appium/master 49eb29b Dylan Lacey: Send is more lovely then @instance_variable_get
 [2013-03-05 08:35:17] github-appium, leaving. (#appium)
+[2013-03-05 08:41:23] rodericj, quitting. (Quit: Leaving.)
