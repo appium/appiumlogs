@@ -24,3 +24,9 @@
 [2013-03-05 08:11:28] stackedsax, joining. (#appium)
 [2013-03-05 08:15:45] rodericj, joining. (#appium)
 [2013-03-05 08:19:53] admc, joining. (#appium)
+[2013-03-05 08:35:17] github-appium, joining. (#appium)
+[2013-03-05 08:35:17] github-appium: [appium] jlipps pushed 4 new commits to master: http://git.io/b4Vayw
+[2013-03-05 08:35:17] github-appium: appium/master 53c00f1 Dylan Lacey: Added Sauce Labs API for passes and failures
+[2013-03-05 08:35:17] github-appium: appium/master 3fcab93 Dylan Lacey: Pulled out groady Net::HTTP, replaced with rest-client\nUpdated Gemfile or rubygems freaks out and can't find RestClient
+[2013-03-05 08:35:17] github-appium: appium/master 49eb29b Dylan Lacey: Send is more lovely then @instance_variable_get
+[2013-03-05 08:35:17] github-appium, leaving. (#appium)
