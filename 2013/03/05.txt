@@ -38,3 +38,4 @@
 [2013-03-05 08:54:14] fpotter, quitting. (Quit: Computer has gone to sleep.)
 [2013-03-05 08:57:57] admc1, joining. (#appium)
 [2013-03-05 09:02:26] admc1, quitting. (Ping timeout: 250 seconds)
+[2013-03-05 09:08:34] sassda, joining. (#appium)
