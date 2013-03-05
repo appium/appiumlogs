@@ -357,3 +357,5 @@
 [2013-03-04 22:48:23] admc, joining. (#appium)
 [2013-03-04 22:54:30] admc1, joining. (#appium)
 [2013-03-04 22:58:48] admc1, quitting. (Ping timeout: 250 seconds)
+[2013-03-04 23:21:34] santiycr, joining. (#appium)
+[2013-03-04 23:23:33] santiycr, quitting. (Client Quit)
