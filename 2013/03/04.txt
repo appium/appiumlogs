@@ -306,3 +306,7 @@
 [2013-03-04 16:04:37] mlai: appium seems to auto-scroll to the next screen just fine, for tableview elements that are off-screen
 [2013-03-04 16:04:44] mlai: but, i don't have anything hidden
 [2013-03-04 16:04:59] jlipps: mlai, thanks for contributing those python examples! i think you can use native double objects, like 0.5, rather than '0.5'. also, is it working with args as a dict rather than a list, like [args]?
+[2013-03-04 16:05:21] mlai: jlipps: yes, it wouldn't work with a list
+[2013-03-04 16:05:26] sfbrian: mlai: yeah it seems to work with TableView items just fine but with UIAButton objects it doesn't
+[2013-03-04 16:05:35] mlai: but there was some other example with just a dictionary. i'll try the double args
+[2013-03-04 16:06:59] jlipps: mlai interesting, i bet the function signature is "def execute_script(script, *args):" and so args becomes an array anyway
