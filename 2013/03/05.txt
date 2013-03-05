@@ -63,3 +63,4 @@
 [2013-03-05 11:26:08] rodericj1, quitting. (Client Quit)
 [2013-03-05 11:32:28] rodericj, joining. (#appium)
 [2013-03-05 11:58:56] admc1, joining. (#appium)
+[2013-03-05 12:03:20] admc1, quitting. (Ping timeout: 245 seconds)
