@@ -290,3 +290,10 @@
 [2013-03-04 15:52:21] jlipps: awesome! glad its working
 [2013-03-04 15:52:42] sfbrian: me too. This is awesome
 [2013-03-04 15:53:40] sfbrian: no more sleeps
+[2013-03-04 15:55:01] sfbrian: jlipps: also, the auto scroll to an element looks better
+[2013-03-04 15:56:39] admc, quitting. (Read error: Operation timed out)
+[2013-03-04 15:57:42] jlipps: sfbrian not sure what that is but i'm glad it looks better!
+[2013-03-04 15:58:12] sfbrian: so when you search for an element that isn't on the screen but on the page, it will auto scroll to where the element is before clicking it
+[2013-03-04 15:58:22] sfbrian: it sort of works
+[2013-03-04 15:58:58] sfbrian: same thing in webdriver, it has to be in view before interacting with it
+[2013-03-04 15:59:19] sfbrian: uses the command scrollToVisible()
