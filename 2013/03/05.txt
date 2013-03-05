@@ -31,3 +31,4 @@
 [2013-03-05 08:35:17] github-appium: appium/master 49eb29b Dylan Lacey: Send is more lovely then @instance_variable_get
 [2013-03-05 08:35:17] github-appium, leaving. (#appium)
 [2013-03-05 08:41:23] rodericj, quitting. (Quit: Leaving.)
+[2013-03-05 08:48:33] stackedsax, quitting. (Quit: Leaving.)
