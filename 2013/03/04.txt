@@ -312,3 +312,4 @@
 [2013-03-04 16:06:59] jlipps: mlai interesting, i bet the function signature is "def execute_script(script, *args):" and so args becomes an array anyway
 [2013-03-04 16:48:35] santiycr, joining. (#appium)
 [2013-03-04 16:52:32] admc, joining. (#appium)
+[2013-03-04 16:56:56] admc, quitting. (Ping timeout: 255 seconds)
