@@ -94,3 +94,4 @@
 [2013-03-05 14:23:54] toks: If I do go for lunch, a word of warning
 [2013-03-05 14:24:03] toks: I don't exactly look like the person on my github image
 [2013-03-05 14:24:06] toks: :)
+[2013-03-05 14:51:18] smccarthy2, joining. (#appium)
