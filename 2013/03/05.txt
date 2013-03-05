@@ -61,3 +61,4 @@
 [2013-03-05 11:19:22] sourishkrout, quitting. (Quit: Leaving.)
 [2013-03-05 11:23:03] rodericj1, joining. (#appium)
 [2013-03-05 11:26:08] rodericj1, quitting. (Client Quit)
+[2013-03-05 11:32:28] rodericj, joining. (#appium)
