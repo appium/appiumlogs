@@ -347,3 +347,5 @@
 [2013-03-04 21:40:38] santiycr, joining. (#appium)
 [2013-03-04 21:42:00] rodericj, joining. (#appium)
 [2013-03-04 21:45:28] jmathes_, joining. (#appium)
+[2013-03-04 21:54:13] admc, joining. (#appium)
+[2013-03-04 21:54:24] fpotter, joining. (#appium)
