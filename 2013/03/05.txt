@@ -41,3 +41,8 @@
 [2013-03-05 09:08:34] sassda, joining. (#appium)
 [2013-03-05 09:11:25] sourishkrout, joining. (#appium)
 [2013-03-05 09:23:40] sassda, quitting. (Read error: Connection reset by peer)
+[2013-03-05 09:25:03] sassda, joining. (#appium)
+[2013-03-05 09:26:33] sassda, quitting. (Read error: Connection reset by peer)
+[2013-03-05 09:27:14] sassda1, joining. (#appium)
+[2013-03-05 09:28:35] admc, quitting. (Quit: Leaving.)
+[2013-03-05 09:29:03] admc, joining. (#appium)
