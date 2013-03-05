@@ -332,3 +332,5 @@
 [2013-03-04 19:11:14] mlai, quitting. (Quit: mlai)
 [2013-03-04 19:13:09] davidko, quitting. (Quit: davidko)
 [2013-03-04 19:25:01] admc2, quitting. (Quit: Leaving.)
+[2013-03-04 19:50:47] jlipps, quitting. (Quit: jlipps)
+[2013-03-04 19:53:30] admc, joining. (#appium)
