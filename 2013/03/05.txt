@@ -80,3 +80,4 @@
 [2013-03-05 12:35:43] github-appium: appium/master f4f305d bootstraponline: HTTPS for rest API
 [2013-03-05 12:35:43] github-appium: appium/master f46232a Jonathan Lipps: Merge pull request #222 from bootstraponline/https...
 [2013-03-05 12:35:43] github-appium, leaving. (#appium)
+[2013-03-05 12:44:50] fpotter, quitting. (Quit: Textual IRC Client: www.textualapp.com)
