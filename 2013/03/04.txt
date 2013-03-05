@@ -310,3 +310,4 @@
 [2013-03-04 16:05:26] sfbrian: mlai: yeah it seems to work with TableView items just fine but with UIAButton objects it doesn't
 [2013-03-04 16:05:35] mlai: but there was some other example with just a dictionary. i'll try the double args
 [2013-03-04 16:06:59] jlipps: mlai interesting, i bet the function signature is "def execute_script(script, *args):" and so args becomes an array anyway
+[2013-03-04 16:48:35] santiycr, joining. (#appium)
