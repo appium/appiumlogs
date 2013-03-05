@@ -329,3 +329,5 @@
 [2013-03-04 19:00:09] sourishkrout1, joining. (#appium)
 [2013-03-04 19:00:09] sourishkrout, quitting. (Read error: Connection reset by peer)
 [2013-03-04 19:00:14] sourishkrout1, quitting. (Client Quit)
+[2013-03-04 19:11:14] mlai, quitting. (Quit: mlai)
+[2013-03-04 19:13:09] davidko, quitting. (Quit: davidko)
