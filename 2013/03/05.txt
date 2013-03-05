@@ -52,3 +52,4 @@
 [2013-03-05 09:55:07] davidko, joining. (#appium)
 [2013-03-05 09:58:16] admc, joining. (#appium)
 [2013-03-05 09:59:09] sfbrian, joining. (#appium)
+[2013-03-05 10:02:31] admc, quitting. (Ping timeout: 245 seconds)
