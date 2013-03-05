@@ -90,3 +90,7 @@
 [2013-03-05 13:19:35] smccarthy2, quitting. (Remote host closed the connection)
 [2013-03-05 14:01:48] stackedsax: jlipps, admc: Friday should work — it'll let me convince my boss that I should skip our 1:1…. thank you!
 [2013-03-05 14:03:11] admc: sounds good
+[2013-03-05 14:23:27] toks: O_o
+[2013-03-05 14:23:54] toks: If I do go for lunch, a word of warning
+[2013-03-05 14:24:03] toks: I don't exactly look like the person on my github image
+[2013-03-05 14:24:06] toks: :)
