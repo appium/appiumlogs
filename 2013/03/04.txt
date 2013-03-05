@@ -352,3 +352,4 @@
 [2013-03-04 21:56:52] hugs, joining. (#appium)
 [2013-03-04 21:57:04] sahazel, joining. (#appium)
 [2013-03-04 21:58:54] admc, quitting. (Ping timeout: 264 seconds)
+[2013-03-04 22:13:59] mlai, quitting. (Quit: mlai)
