@@ -297,3 +297,12 @@
 [2013-03-04 15:58:22] sfbrian: it sort of works
 [2013-03-04 15:58:58] sfbrian: same thing in webdriver, it has to be in view before interacting with it
 [2013-03-04 15:59:19] sfbrian: uses the command scrollToVisible()
+[2013-03-04 16:03:06] mlai: jlipps: wiki updated with a few snippets :) https://github.com/appium/appium/wiki/Finding-and-interacting-with-elements
+[2013-03-04 16:03:30] sfbrian: mlai: you rock
+[2013-03-04 16:03:47] sfbrian: jlipps: it works in one case and doesn't in another
+[2013-03-04 16:04:00] *mlai blushes'
+[2013-03-04 16:04:02] sfbrian: mlai: have you seen issues with the auto scroll function when trying to tap on an element that is below the fold?
+[2013-03-04 16:04:02] jlipps: sfbrian, cool, i don't remember implementing that
+[2013-03-04 16:04:37] mlai: appium seems to auto-scroll to the next screen just fine, for tableview elements that are off-screen
+[2013-03-04 16:04:44] mlai: but, i don't have anything hidden
+[2013-03-04 16:04:59] jlipps: mlai, thanks for contributing those python examples! i think you can use native double objects, like 0.5, rather than '0.5'. also, is it working with args as a dict rather than a list, like [args]?
