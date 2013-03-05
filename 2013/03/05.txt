@@ -32,3 +32,7 @@
 [2013-03-05 08:35:17] github-appium, leaving. (#appium)
 [2013-03-05 08:41:23] rodericj, quitting. (Quit: Leaving.)
 [2013-03-05 08:48:33] stackedsax, quitting. (Quit: Leaving.)
+[2013-03-05 08:53:35] github-appium, joining. (#appium)
+[2013-03-05 08:53:35] github-appium: [appium] bootstraponline opened pull request #222: HTTPS for rest API (master...https)  http://git.io/ETAhew
+[2013-03-05 08:53:35] github-appium, leaving. (#appium)
+[2013-03-05 08:54:14] fpotter, quitting. (Quit: Computer has gone to sleep.)
