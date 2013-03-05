@@ -97,3 +97,4 @@
 [2013-03-05 14:51:18] smccarthy2, joining. (#appium)
 [2013-03-05 14:58:16] admc, quitting. (Quit: Leaving.)
 [2013-03-05 14:59:52] admc, joining. (#appium)
+[2013-03-05 15:02:45] admc, quitting. (Read error: Operation timed out)
