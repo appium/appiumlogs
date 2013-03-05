@@ -316,3 +316,4 @@
 [2013-03-04 17:10:41] mlai: jlipps: you were right, double works just fine- updated wiki!
 [2013-03-04 17:10:55] jlipps: thx! just feels nicer with native json types
 [2013-03-04 17:18:28] mlai: agree!
+[2013-03-04 17:29:59] sfbrian, quitting. (Ping timeout: 245 seconds)
