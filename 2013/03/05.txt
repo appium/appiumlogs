@@ -87,3 +87,4 @@
 [2013-03-05 13:05:48] santiycr, joining. (#appium)
 [2013-03-05 13:05:58] sourishkrout, joining. (#appium)
 [2013-03-05 13:07:11] smccarthy2, joining. (#appium)
+[2013-03-05 13:19:35] smccarthy2, quitting. (Remote host closed the connection)
