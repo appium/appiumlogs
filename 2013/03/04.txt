@@ -318,3 +318,4 @@
 [2013-03-04 17:18:28] mlai: agree!
 [2013-03-04 17:29:59] sfbrian, quitting. (Ping timeout: 245 seconds)
 [2013-03-04 17:36:43] stackedsax, quitting. (Quit: Leaving.)
+[2013-03-04 17:42:20] sassda, quitting. (Ping timeout: 256 seconds)
