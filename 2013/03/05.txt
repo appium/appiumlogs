@@ -84,3 +84,6 @@
 [2013-03-05 12:59:18] admc1, joining. (#appium)
 [2013-03-05 13:03:02] smccarthy2, quitting. (Remote host closed the connection)
 [2013-03-05 13:03:37] admc1, quitting. (Ping timeout: 256 seconds)
+[2013-03-05 13:05:48] santiycr, joining. (#appium)
+[2013-03-05 13:05:58] sourishkrout, joining. (#appium)
+[2013-03-05 13:07:11] smccarthy2, joining. (#appium)
