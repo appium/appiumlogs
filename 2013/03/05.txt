@@ -82,3 +82,5 @@
 [2013-03-05 12:35:43] github-appium, leaving. (#appium)
 [2013-03-05 12:44:50] fpotter, quitting. (Quit: Textual IRC Client: www.textualapp.com)
 [2013-03-05 12:59:18] admc1, joining. (#appium)
+[2013-03-05 13:03:02] smccarthy2, quitting. (Remote host closed the connection)
+[2013-03-05 13:03:37] admc1, quitting. (Ping timeout: 256 seconds)
