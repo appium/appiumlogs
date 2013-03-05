@@ -334,3 +334,4 @@
 [2013-03-04 19:25:01] admc2, quitting. (Quit: Leaving.)
 [2013-03-04 19:50:47] jlipps, quitting. (Quit: jlipps)
 [2013-03-04 19:53:30] admc, joining. (#appium)
+[2013-03-04 19:57:55] admc, quitting. (Ping timeout: 245 seconds)
