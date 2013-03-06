@@ -100,3 +100,7 @@
 [2013-03-06 14:05:38] toks: oh
 [2013-03-06 14:05:41] toks: wait...
 [2013-03-06 14:05:54] toks: com.rackspace.cloud.android != com.rackspacecloud.android
+[2013-03-06 14:10:01] github-appium, joining. (#appium)
+[2013-03-06 14:10:01] github-appium: [appium] bootstraponline opened pull request #233: Map textfield to EditText (master...e)  http://git.io/M40pVw
+[2013-03-06 14:10:01] github-appium, leaving. (#appium)
+[2013-03-06 14:12:42] admc1, joining. (#appium)
