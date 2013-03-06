@@ -101,3 +101,6 @@
 [2013-03-05 16:00:14] admc, joining. (#appium)
 [2013-03-05 16:04:35] admc, quitting. (Ping timeout: 245 seconds)
 [2013-03-05 16:08:14] jlipps: toks what is your github
+[2013-03-05 16:11:09] toks: o.o
+[2013-03-05 16:11:26] toks: http://github.com/tokunbo
+[2013-03-05 16:12:19] *toks runs around in octagons'
