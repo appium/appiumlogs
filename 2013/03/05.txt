@@ -172,3 +172,10 @@
 [2013-03-05 16:39:30] toks: toks@ADET5442DT:~/tmp3/appium/uiautomator/bootstrap$ ~/rackspacework/apache-ant-1.8.4/bin/ant build
 [2013-03-05 16:39:34] toks: That's how I run it :)
 [2013-03-05 16:39:57] toks: good times
+[2013-03-05 16:40:55] toks: whoa, did the README just change?
+[2013-03-05 16:41:57] toks: ....
+[2013-03-05 16:42:03] toks: where did the instructions go
+[2013-03-05 16:42:07] admc, joining. (#appium)
+[2013-03-05 16:42:31] toks: you doing stuff
+[2013-03-05 16:44:39] toks: you're killin' me!
+[2013-03-05 16:44:57] toks: why you deleted the README.md text
