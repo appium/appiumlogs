@@ -88,3 +88,6 @@
 [2013-03-06 13:11:27] toks, joining. (#appium)
 [2013-03-06 13:12:22] admc1, joining. (#appium)
 [2013-03-06 13:17:03] admc1, quitting. (Ping timeout: 260 seconds)
+[2013-03-06 13:58:10] toks: so...
+[2013-03-06 13:58:17] toks: I'm to take it that if I see this: info: [ADB STDOUT] /system/bin/sh: uiautomator: not foun
+[2013-03-06 13:58:34] toks: my android device isn't capable of handling appium
