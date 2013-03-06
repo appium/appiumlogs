@@ -132,3 +132,11 @@
 [2013-03-06 14:27:09] toks: var cmd = this.adbCmd + " shell am start -n " + this.appPackage + "/" + this.appPackage + "." + this.appActivity;
 [2013-03-06 14:27:19] toks: Should not have this.appPackage twice
 [2013-03-06 14:27:29] *toks tries removing the 2nd one'
+[2013-03-06 14:31:00] github-appium, joining. (#appium)
+[2013-03-06 14:31:00] github-appium: [appium] jlipps opened pull request #234: better error messages for unsupported tag names (master...master)  http://git.io/H8MB3w
+[2013-03-06 14:31:00] github-appium, leaving. (#appium)
+[2013-03-06 14:31:45] github-appium, joining. (#appium)
+[2013-03-06 14:31:45] github-appium: [appium] jlipps pushed 2 new commits to master: http://git.io/dHe3rA
+[2013-03-06 14:31:45] github-appium: appium/master 4b6c710 bootstraponline: Map textfield to EditText...
+[2013-03-06 14:31:45] github-appium: appium/master 0e4486a Jonathan Lipps: Merge pull request #233 from bootstraponline/e...
+[2013-03-06 14:31:45] github-appium, leaving. (#appium)
