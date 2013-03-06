@@ -180,3 +180,12 @@
 [2013-03-05 16:44:39] toks: you're killin' me!
 [2013-03-05 16:44:57] toks: why you deleted the README.md text
 [2013-03-05 16:48:08] toks:  (╯°□°）╯︵ ┻━┻
+[2013-03-05 16:50:54] toks: that awkward moment when someone tells you github has history
+[2013-03-05 16:51:02] smccarthy2, quitting. (Remote host closed the connection)
+[2013-03-05 16:51:47] jlipps: toks yes
+[2013-03-05 16:51:50] toks: I don't even see it in history
+[2013-03-05 16:51:52] jlipps: toks it's all in the other doc files now
+[2013-03-05 16:51:57] toks: oh
+[2013-03-05 16:52:08] jlipps: and i deleted the file now :-)
+[2013-03-05 16:52:23] jlipps: toks take a look at the main README, it's been updated
+[2013-03-05 16:53:14] toks: o.o
