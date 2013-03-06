@@ -151,3 +151,24 @@
 [2013-03-05 16:30:26] toks: LOL, omg google... http://www.nxtab.co.uk/forum/topic/missing-developer-mode-4-2/
 [2013-03-05 16:30:44] toks: why in the world would they do that?
 [2013-03-05 16:32:28] sp0cksbeard, quitting. (Quit: sp0cksbeard)
+[2013-03-05 16:36:29] toks: this: http://www.nxtab.co.uk/forum/topic/missing-developer-mode-4-2/
+[2013-03-05 16:36:30] toks: er
+[2013-03-05 16:36:31] toks: ...
+[2013-03-05 16:36:34] toks: grunt buildAndroidBootstrap
+[2013-03-05 16:36:39] toks: gives me error
+[2013-03-05 16:36:46] toks: Fatal error: Command failed:
+[2013-03-05 16:36:50] toks: that's all
+[2013-03-05 16:37:02] toks: the grunt configAndroidBootstrap works fine
+[2013-03-05 16:37:34] jlipps: toks ok, go into uiautomator/bootstrap
+[2013-03-05 16:37:51] toks: o.o
+[2013-03-05 16:37:55] jlipps: and run "ant build"
+[2013-03-05 16:38:27] toks: build successful
+[2013-03-05 16:38:43] jlipps: hmm. that's all buildAndroidBootstrap does
+[2013-03-05 16:38:49] toks: o.o
+[2013-03-05 16:39:00] toks: ohhhhh
+[2013-03-05 16:39:01] toks: okay then
+[2013-03-05 16:39:09] toks: because ant cmd isn't in my path :D
+[2013-03-05 16:39:13] jlipps: ah yes
+[2013-03-05 16:39:30] toks: toks@ADET5442DT:~/tmp3/appium/uiautomator/bootstrap$ ~/rackspacework/apache-ant-1.8.4/bin/ant build
+[2013-03-05 16:39:34] toks: That's how I run it :)
+[2013-03-05 16:39:57] toks: good times
