@@ -176,3 +176,15 @@
 [2013-03-06 14:58:06] toks: hmm... closer I think
 [2013-03-06 14:58:20] *toks looks how to list all activities within a package'
 [2013-03-06 15:06:16] santiycr, joining. (#appium)
+[2013-03-06 15:12:35] toks: okay, so apparently it's not possible to use adb to give you all activities within an apk
+[2013-03-06 15:12:44] toks: so.. next thing... is to just start the app manually
+[2013-03-06 15:12:49] toks: I/ActivityManager(  477): START u0 {act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=com.rackspace.cloud.android/com.rackspacecloud.android.ListAccountsActivity} from pid 698
+[2013-03-06 15:13:01] admc1, joining. (#appium)
+[2013-03-06 15:13:04] toks: OOOOHHHHHH
+[2013-03-06 15:13:09] toks: look at that!
+[2013-03-06 15:13:16] toks: jlipps: see that logcat?
+[2013-03-06 15:13:31] toks: rackspace.cloud != rackspacecloud
+[2013-03-06 15:13:40] jlipps: lol
+[2013-03-06 15:14:04] jlipps: so fix your package id :-)
+[2013-03-06 15:14:40] toks: O_o
+[2013-03-06 15:15:00] toks: for academic reasons, let's say that I have no control over.
