@@ -253,3 +253,4 @@
 [2013-03-05 21:01:54] rodericj1, quitting. (Read error: Connection reset by peer)
 [2013-03-05 21:02:56] rodericj, quitting. (Ping timeout: 245 seconds)
 [2013-03-05 21:06:58] admc, quitting. (Quit: Leaving.)
+[2013-03-05 21:26:55] sp0cksbeard, quitting. (Quit: sp0cksbeard)
