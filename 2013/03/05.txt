@@ -193,3 +193,5 @@
 [2013-03-05 17:02:50] toks: ....
 [2013-03-05 17:03:11] *toks looking for an example of how to start server.js for android'
 [2013-03-05 17:04:53] toks: this link is broken (First, have a look at setting up your system for Appium Android support.)
+[2013-03-05 17:05:01] admc1, quitting. (Ping timeout: 245 seconds)
+[2013-03-05 17:06:56] toks: why do I have to give --app when I gave --skip-install?
