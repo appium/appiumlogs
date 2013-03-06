@@ -43,3 +43,12 @@
 [2013-03-06 10:07:13] github-appium: [appium] jlipps opened pull request #225: fix port typecasting issue (master...master)  http://git.io/lBsxJA
 [2013-03-06 10:07:13] github-appium, leaving. (#appium)
 [2013-03-06 10:09:12] sp0cksbeard, joining. (#appium)
+[2013-03-06 10:11:23] admc, joining. (#appium)
+[2013-03-06 10:12:33] santiycr, joining. (#appium)
+[2013-03-06 10:12:47] github-appium, joining. (#appium)
+[2013-03-06 10:12:47] github-appium: [appium] sourishkrout pushed 3 new commits to master: http://git.io/2E1O4Q
+[2013-03-06 10:12:47] github-appium: appium/master 8d6b061 Jonathan Lipps: make sure alternative ports get converted to int
+[2013-03-06 10:12:47] github-appium: appium/master bbe3d5c Jonathan Lipps: make sure alternative ports get converted to int
+[2013-03-06 10:12:47] github-appium: appium/master c4cfc3c Sebastian Tiedtke: Merge pull request #225 from jlipps/master...
+[2013-03-06 10:12:47] github-appium, leaving. (#appium)
+[2013-03-06 10:13:05] stackedsax, quitting. (Quit: Leaving.)
