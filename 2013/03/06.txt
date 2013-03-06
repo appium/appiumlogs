@@ -68,3 +68,5 @@
 [2013-03-06 11:54:27] santiycr, quitting. (Quit: Leaving.)
 [2013-03-06 12:03:26] jlipps, joining. (#appium)
 [2013-03-06 12:12:02] admc, joining. (#appium)
+[2013-03-06 12:16:54] admc, quitting. (Ping timeout: 264 seconds)
+[2013-03-06 12:16:54] smccarthy, quitting. (Read error: Connection reset by peer)
