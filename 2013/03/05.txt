@@ -226,3 +226,11 @@
 [2013-03-05 19:48:39] santiycr, joining. (#appium)
 [2013-03-05 19:50:34] santiycr, quitting. (Client Quit)
 [2013-03-05 19:54:41] stackedsax, quitting. (Quit: Leaving.)
+[2013-03-05 20:01:33] admc, joining. (#appium)
+[2013-03-05 20:02:50] github-appium, joining. (#appium)
+[2013-03-05 20:02:50] github-appium: [appium] jlipps pushed 94 new commits to master: http://git.io/DbTnRA
+[2013-03-05 20:02:50] github-appium: appium/master 2e3d97c Jonathan Lipps: start test for find+action
+[2013-03-05 20:02:50] github-appium: appium/master b33f198 Jonathan Lipps: add skeleton for android bootstrap
+[2013-03-05 20:02:50] github-appium: appium/master d477a8f Jonathan Lipps: don't think this should be in src
+[2013-03-05 20:02:50] github-appium, leaving. (#appium)
+[2013-03-05 20:03:09] jlipps: android wot
