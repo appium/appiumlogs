@@ -125,3 +125,10 @@
 [2013-03-06 14:19:45] toks: er
 [2013-03-06 14:19:50] toks: I guess I should try master first
 [2013-03-06 14:20:53] danc1: I need to update the appium.dmg on appium.github.com, do I need a copy of dmgcanvas to do that?
+[2013-03-06 14:25:50] toks: o.o
+[2013-03-06 14:26:03] toks: I say there's a bug.
+[2013-03-06 14:26:38] toks: adb.js on appium-master generates this cmd: /home/toks/rackspacework/android-sdk-linux/platform-tools/adb -s 015d21098258001a shell am start -n com.rackspacecloud.android/com.rackspacecloud.android.ListAccountsActivity
+[2013-03-06 14:27:06] toks: This line:
+[2013-03-06 14:27:09] toks: var cmd = this.adbCmd + " shell am start -n " + this.appPackage + "/" + this.appPackage + "." + this.appActivity;
+[2013-03-06 14:27:19] toks: Should not have this.appPackage twice
+[2013-03-06 14:27:29] *toks tries removing the 2nd one'
