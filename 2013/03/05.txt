@@ -270,3 +270,5 @@
 [2013-03-05 23:12:04] admc, quitting. (Ping timeout: 252 seconds)
 [2013-03-05 23:18:50] davidko, quitting. (Quit: davidko)
 [2013-03-05 23:37:19] henrikhodne, quitting. (Quit: IRCRelay - http://ircrelay.com)
+[2013-03-05 23:57:55] santiycr, joining. (#appium)
+[2013-03-05 23:58:13] santiycr, quitting. (Client Quit)
