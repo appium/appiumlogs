@@ -263,3 +263,4 @@
 [2013-03-05 22:30:39] davidko, joining. (#appium)
 [2013-03-05 22:32:32] davidko, quitting. (Remote host closed the connection)
 [2013-03-05 22:32:44] davidko, joining. (#appium)
+[2013-03-05 22:39:48] jlipps, quitting. (Ping timeout: 252 seconds)
