@@ -235,3 +235,7 @@
 [2013-03-05 20:02:50] github-appium, leaving. (#appium)
 [2013-03-05 20:03:09] jlipps: android wot
 [2013-03-05 20:05:56] admc, quitting. (Ping timeout: 255 seconds)
+[2013-03-05 20:11:33] github-appium, joining. (#appium)
+[2013-03-05 20:11:33] github-appium: [appium] jlipps pushed 1 new commit to master: http://git.io/xpXc3A
+[2013-03-05 20:11:33] github-appium: appium/master 1a4d87a Jonathan Lipps: return actual boolean values here
+[2013-03-05 20:11:33] github-appium, leaving. (#appium)
