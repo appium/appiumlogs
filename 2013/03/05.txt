@@ -147,3 +147,7 @@
 [2013-03-05 16:28:04] toks: okay
 [2013-03-05 16:28:46] stackedsax, quitting. (Quit: Leaving.)
 [2013-03-05 16:29:14] *toks tries real device'
+[2013-03-05 16:30:14] stackedsax, joining. (#appium)
+[2013-03-05 16:30:26] toks: LOL, omg google... http://www.nxtab.co.uk/forum/topic/missing-developer-mode-4-2/
+[2013-03-05 16:30:44] toks: why in the world would they do that?
+[2013-03-05 16:32:28] sp0cksbeard, quitting. (Quit: sp0cksbeard)
