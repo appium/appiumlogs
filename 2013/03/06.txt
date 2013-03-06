@@ -188,3 +188,7 @@
 [2013-03-06 15:14:04] jlipps: so fix your package id :-)
 [2013-03-06 15:14:40] toks: O_o
 [2013-03-06 15:15:00] toks: for academic reasons, let's say that I have no control over.
+[2013-03-06 15:15:05] toks: that.
+[2013-03-06 15:16:47] toks: and
+[2013-03-06 15:17:11] admc1, quitting. (Ping timeout: 240 seconds)
+[2013-03-06 15:17:14] toks: the fact that this is possible, that component apparently can be different from package id.... means other people could have this issue too right?
