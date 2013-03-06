@@ -98,3 +98,5 @@
 [2013-03-05 14:58:16] admc, quitting. (Quit: Leaving.)
 [2013-03-05 14:59:52] admc, joining. (#appium)
 [2013-03-05 15:02:45] admc, quitting. (Read error: Operation timed out)
+[2013-03-05 16:00:14] admc, joining. (#appium)
+[2013-03-05 16:04:35] admc, quitting. (Ping timeout: 245 seconds)
