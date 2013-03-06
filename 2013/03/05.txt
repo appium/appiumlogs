@@ -104,3 +104,16 @@
 [2013-03-05 16:11:09] toks: o.o
 [2013-03-05 16:11:26] toks: http://github.com/tokunbo
 [2013-03-05 16:12:19] *toks runs around in octagons'
+[2013-03-05 16:15:53] jlipps: so you are not an 8 year old girl toks?
+[2013-03-05 16:16:10] toks: last time I checked, no :)
+[2013-03-05 16:16:23] jlipps: also, everyone: android is here! check out https://groups.google.com/forum/#!topic/appium-discuss/rBHbfnLi6s4 -- another good reason to join appium-discuss list if you haven't already
+[2013-03-05 16:16:30] toks: O_o;;;
+[2013-03-05 16:17:10] jlipps: feedback welcome, will merge soon
+[2013-03-05 16:18:07] toks: hmm
+[2013-03-05 16:18:13] stackedsax, quitting. (Quit: Leaving.)
+[2013-03-05 16:18:16] github-appium, joining. (#appium)
+[2013-03-05 16:18:16] github-appium: [appium] jlipps opened pull request #223: Android (master...master)  http://git.io/2NDKVQ
+[2013-03-05 16:18:16] github-appium, leaving. (#appium)
+[2013-03-05 16:19:17] stackedsax, joining. (#appium)
+[2013-03-05 16:19:26] toks: the way appium talks to iOS through USB
+[2013-03-05 16:19:31] toks: does appium do the same with android?
