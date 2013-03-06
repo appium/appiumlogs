@@ -189,3 +189,7 @@
 [2013-03-05 16:52:08] jlipps: and i deleted the file now :-)
 [2013-03-05 16:52:23] jlipps: toks take a look at the main README, it's been updated
 [2013-03-05 16:53:14] toks: o.o
+[2013-03-05 17:00:35] admc1, joining. (#appium)
+[2013-03-05 17:02:50] toks: ....
+[2013-03-05 17:03:11] *toks looking for an example of how to start server.js for android'
+[2013-03-05 17:04:53] toks: this link is broken (First, have a look at setting up your system for Appium Android support.)
