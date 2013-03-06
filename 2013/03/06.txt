@@ -96,3 +96,7 @@
 [2013-03-06 14:02:30] toks: but I see no trace of it running
 [2013-03-06 14:03:47] toks: https://github.com/rackspace/android-rackspacecloud/blob/master/AndroidManifest.xml
 [2013-03-06 14:04:36] toks: <activity android:name="com.rackspacecloud.android.ListAccountsActivity">
+[2013-03-06 14:05:37] toks: ....
+[2013-03-06 14:05:38] toks: oh
+[2013-03-06 14:05:41] toks: wait...
+[2013-03-06 14:05:54] toks: com.rackspace.cloud.android != com.rackspacecloud.android
