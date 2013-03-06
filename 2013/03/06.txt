@@ -67,3 +67,4 @@
 [2013-03-06 11:30:13] toks, quitting. (Quit: leaving)
 [2013-03-06 11:54:27] santiycr, quitting. (Quit: Leaving.)
 [2013-03-06 12:03:26] jlipps, joining. (#appium)
+[2013-03-06 12:12:02] admc, joining. (#appium)
