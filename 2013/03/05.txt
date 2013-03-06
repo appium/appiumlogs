@@ -256,3 +256,4 @@
 [2013-03-05 21:26:55] sp0cksbeard, quitting. (Quit: sp0cksbeard)
 [2013-03-05 21:43:59] stackedsax, joining. (#appium)
 [2013-03-05 21:53:19] jlipps, joining. (#appium)
+[2013-03-05 21:55:27] fpotter, joining. (#appium)
