@@ -117,3 +117,12 @@
 [2013-03-05 16:19:17] stackedsax, joining. (#appium)
 [2013-03-05 16:19:26] toks: the way appium talks to iOS through USB
 [2013-03-05 16:19:31] toks: does appium do the same with android?
+[2013-03-05 16:21:14] jlipps: it talks to android via adb
+[2013-03-05 16:21:32] jlipps: which can talk to real devices
+[2013-03-05 16:21:40] jlipps: probably much more simply than iOS actually
+[2013-03-05 16:22:09] toks: o.O
+[2013-03-05 16:22:29] toks: \o/
+[2013-03-05 16:22:47] *toks git clones jlipps github'
+[2013-03-05 16:24:16] toks: oh yeah, I can't do that grunt step
+[2013-03-05 16:24:19] toks: =/
+[2013-03-05 16:24:28] fpotter, joining. (#appium)
