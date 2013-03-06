@@ -87,3 +87,4 @@
 [2013-03-06 13:05:40] github-appium, leaving. (#appium)
 [2013-03-06 13:11:27] toks, joining. (#appium)
 [2013-03-06 13:12:22] admc1, joining. (#appium)
+[2013-03-06 13:17:03] admc1, quitting. (Ping timeout: 260 seconds)
