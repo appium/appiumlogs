@@ -169,3 +169,9 @@
 [2013-03-06 14:54:26] toks: Error: Activity class {com.rackspacecloud.android/com.rackspacecloud.android.ListAccountsActivity} does not exist.
 [2013-03-06 14:54:30] toks: hmm
 [2013-03-06 14:54:51] *toks looks up how to list packages  & activities on android'
+[2013-03-06 14:57:07] toks: okay, so the package per adb shell pm list packages
+[2013-03-06 14:57:11] toks: package:com.rackspace.cloud.android
+[2013-03-06 14:57:40] toks: /home/toks/rackspacework/android-sdk-linux/platform-tools/adb -s 015d21098258001a shell am start -n com.rackspace.cloud.android/com.rackspace.cloud.android.ListAccountsActivity
+[2013-03-06 14:57:50] toks: Error: Activity class {com.rackspace.cloud.android/com.rackspace.cloud.android.ListAccountsActivity} does not exist.
+[2013-03-06 14:58:06] toks: hmm... closer I think
+[2013-03-06 14:58:20] *toks looks how to list all activities within a package'
