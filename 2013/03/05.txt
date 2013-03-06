@@ -212,3 +212,5 @@
 [2013-03-05 18:15:02] mlai, quitting. (Quit: mlai)
 [2013-03-05 18:39:14] davidko_, joining. (#appium)
 [2013-03-05 18:39:14] davidko_, quitting. (Client Quit)
+[2013-03-05 18:43:19] davidko, quitting. (Ping timeout: 245 seconds)
+[2013-03-05 18:44:43] sassda1, quitting. (Ping timeout: 240 seconds)
