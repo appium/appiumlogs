@@ -199,3 +199,4 @@
 [2013-03-05 17:20:06] fpotter, quitting. (Quit: Computer has gone to sleep.)
 [2013-03-05 17:21:37] toks: Hmm... I don't see anything telling me appium tried to start my activity
 [2013-03-05 17:21:43] toks: nothing in logcat
+[2013-03-05 17:26:47] santiycr, quitting. (Quit: Leaving.)
