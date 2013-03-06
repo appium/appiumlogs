@@ -265,3 +265,5 @@
 [2013-03-05 22:32:44] davidko, joining. (#appium)
 [2013-03-05 22:39:48] jlipps, quitting. (Ping timeout: 252 seconds)
 [2013-03-05 22:44:30] sassda, quitting. (Quit: Leaving.)
+[2013-03-05 23:07:38] admc, joining. (#appium)
+[2013-03-05 23:08:53] hugs, quitting. (Ping timeout: 252 seconds)
