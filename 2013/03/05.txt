@@ -260,3 +260,6 @@
 [2013-03-05 22:07:20] admc, joining. (#appium)
 [2013-03-05 22:11:32] admc, quitting. (Ping timeout: 250 seconds)
 [2013-03-05 22:24:04] sassda, joining. (#appium)
+[2013-03-05 22:30:39] davidko, joining. (#appium)
+[2013-03-05 22:32:32] davidko, quitting. (Remote host closed the connection)
+[2013-03-05 22:32:44] davidko, joining. (#appium)
