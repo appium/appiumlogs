@@ -245,3 +245,4 @@
 [2013-03-05 20:15:29] github-appium, leaving. (#appium)
 [2013-03-05 20:15:51] fpotter, quitting. (Quit: Computer has gone to sleep.)
 [2013-03-05 20:15:54] *jlipps published appium@0.1.0'
+[2013-03-05 20:22:40] rodericj, quitting. (Quit: Leaving.)
