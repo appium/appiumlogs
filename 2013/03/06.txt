@@ -33,3 +33,4 @@
 [2013-03-06 09:11:03] admc, joining. (#appium)
 [2013-03-06 09:15:47] admc, quitting. (Ping timeout: 260 seconds)
 [2013-03-06 09:32:10] sp0cksbeard, quitting. (Quit: sp0cksbeard)
+[2013-03-06 09:39:41] stackedsax, joining. (#appium)
