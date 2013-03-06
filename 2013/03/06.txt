@@ -70,3 +70,5 @@
 [2013-03-06 12:12:02] admc, joining. (#appium)
 [2013-03-06 12:16:54] admc, quitting. (Ping timeout: 264 seconds)
 [2013-03-06 12:16:54] smccarthy, quitting. (Read error: Connection reset by peer)
+[2013-03-06 12:25:13] admc, joining. (#appium)
+[2013-03-06 12:29:30] smccarthy, joining. (#appium)
