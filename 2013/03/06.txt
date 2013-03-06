@@ -160,3 +160,12 @@
 [2013-03-06 14:45:50] jlipps: i haven't tried this on physical devices
 [2013-03-06 14:45:59] jlipps: i assume "shell am start" works the same way
 [2013-03-06 14:46:00] toks: hmm
+[2013-03-06 14:50:03] *toks tries'
+[2013-03-06 14:50:22] toks: Okay, the error is probably on my side
+[2013-03-06 14:50:30] toks: because I don't know how to start my app with adb at all
+[2013-03-06 14:50:38] toks: first, I want to see that work before using appium
+[2013-03-06 14:51:06] toks: https://github.com/rackspace/android-rackspacecloud/blob/master/AndroidManifest.xml
+[2013-03-06 14:51:21] toks: Based on that, might you know what I'm suppose to give adb?
+[2013-03-06 14:54:26] toks: Error: Activity class {com.rackspacecloud.android/com.rackspacecloud.android.ListAccountsActivity} does not exist.
+[2013-03-06 14:54:30] toks: hmm
+[2013-03-06 14:54:51] *toks looks up how to list packages  & activities on android'
