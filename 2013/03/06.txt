@@ -193,3 +193,6 @@
 [2013-03-06 15:17:11] admc1, quitting. (Ping timeout: 240 seconds)
 [2013-03-06 15:17:14] toks: the fact that this is possible, that component apparently can be different from package id.... means other people could have this issue too right?
 [2013-03-06 15:23:06] smccarthy, quitting. (Remote host closed the connection)
+[2013-03-06 15:40:24] github-appium, joining. (#appium)
+[2013-03-06 15:40:24] github-appium: [appium] bootstraponline opened pull request #237: Add Android to reset (master...reset_android)  http://git.io/Bk3vlg
+[2013-03-06 15:40:24] github-appium, leaving. (#appium)
