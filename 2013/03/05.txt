@@ -269,3 +269,4 @@
 [2013-03-05 23:08:53] hugs, quitting. (Ping timeout: 252 seconds)
 [2013-03-05 23:12:04] admc, quitting. (Ping timeout: 252 seconds)
 [2013-03-05 23:18:50] davidko, quitting. (Quit: davidko)
+[2013-03-05 23:37:19] henrikhodne, quitting. (Quit: IRCRelay - http://ircrelay.com)
