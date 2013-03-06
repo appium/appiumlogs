@@ -126,3 +126,24 @@
 [2013-03-05 16:24:16] toks: oh yeah, I can't do that grunt step
 [2013-03-05 16:24:19] toks: =/
 [2013-03-05 16:24:28] fpotter, joining. (#appium)
+[2013-03-05 16:25:26] toks: uh.....
+[2013-03-05 16:25:29] toks: nvm
+[2013-03-05 16:25:34] toks: ^^;
+[2013-03-05 16:26:16] *jlipps prepares for some serious RTFMing :-)'
+[2013-03-05 16:26:19] toks: oh wait...
+[2013-03-05 16:26:24] toks: lol
+[2013-03-05 16:27:02] toks: what does: Make sure you have an AVD set to an android version > 4.1 mean?
+[2013-03-05 16:27:13] jlipps: do you know what an AVD is?
+[2013-03-05 16:27:13] toks: er
+[2013-03-05 16:27:17] toks: oh
+[2013-03-05 16:27:21] toks: oh.... dang it
+[2013-03-05 16:27:23] toks: nvm
+[2013-03-05 16:27:32] jlipps: or if you have a real device maybe that step is not important
+[2013-03-05 16:27:37] jlipps: as long as it is a new device
+[2013-03-05 16:27:44] toks: "new"?
+[2013-03-05 16:27:55] jlipps: i think uiautomator came out with api level 16
+[2013-03-05 16:28:01] jlipps: which is like 4.1 or 4.2 or 4.something
+[2013-03-05 16:28:03] toks: ah
+[2013-03-05 16:28:04] toks: okay
+[2013-03-05 16:28:46] stackedsax, quitting. (Quit: Leaving.)
+[2013-03-05 16:29:14] *toks tries real device'
