@@ -85,3 +85,5 @@
 [2013-03-06 13:05:40] github-appium: appium/master c430700 Jonathan Lipps: get attributes for android
 [2013-03-06 13:05:40] github-appium: appium/master 6b11b63 Jonathan Lipps: tests for more attributes
 [2013-03-06 13:05:40] github-appium, leaving. (#appium)
+[2013-03-06 13:11:27] toks, joining. (#appium)
+[2013-03-06 13:12:22] admc1, joining. (#appium)
