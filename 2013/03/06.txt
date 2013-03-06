@@ -60,3 +60,4 @@
 [2013-03-06 10:41:25] toks: so....
 [2013-03-06 10:41:35] toks:  /names
 [2013-03-06 10:41:45] toks: jlipps isn't here
+[2013-03-06 10:46:39] rodericj, joining. (#appium)
