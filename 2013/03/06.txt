@@ -175,3 +175,4 @@
 [2013-03-06 14:57:50] toks: Error: Activity class {com.rackspace.cloud.android/com.rackspace.cloud.android.ListAccountsActivity} does not exist.
 [2013-03-06 14:58:06] toks: hmm... closer I think
 [2013-03-06 14:58:20] *toks looks how to list all activities within a package'
+[2013-03-06 15:06:16] santiycr, joining. (#appium)
