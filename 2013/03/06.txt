@@ -144,3 +144,12 @@
 [2013-03-06 14:36:16] toks: okay...
 [2013-03-06 14:36:19] toks: that didn't work
 [2013-03-06 14:36:31] toks: lemme see if I can first figure out the adb command that starts my app
+[2013-03-06 14:41:17] github-appium, joining. (#appium)
+[2013-03-06 14:41:17] github-appium: [appium] sourishkrout pushed 2 new commits to master: http://git.io/U2SryA
+[2013-03-06 14:41:17] github-appium: appium/master 563bc59 Jonathan Lipps: don't let people find secure tags, give an error instead
+[2013-03-06 14:41:17] github-appium: appium/master 2869866 Sebastian Tiedtke: Merge pull request #234 from jlipps/master...
+[2013-03-06 14:41:17] github-appium, leaving. (#appium)
+[2013-03-06 14:41:17] santiycr, quitting. (Quit: Leaving.)
+[2013-03-06 14:44:06] jlipps: toks, that command is correct
+[2013-03-06 14:44:19] jlipps: the first half of the id is the package name, the second half (after the slash) is the classname of the activity
+[2013-03-06 14:44:56] toks: o.o
