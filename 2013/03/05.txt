@@ -239,3 +239,9 @@
 [2013-03-05 20:11:33] github-appium: [appium] jlipps pushed 1 new commit to master: http://git.io/xpXc3A
 [2013-03-05 20:11:33] github-appium: appium/master 1a4d87a Jonathan Lipps: return actual boolean values here
 [2013-03-05 20:11:33] github-appium, leaving. (#appium)
+[2013-03-05 20:15:29] github-appium, joining. (#appium)
+[2013-03-05 20:15:29] github-appium: [appium] jlipps pushed 1 new commit to master: http://git.io/9SiecA
+[2013-03-05 20:15:29] github-appium: appium/master df04ed2 Jonathan Lipps: bump to v0.1.0 for npm publish
+[2013-03-05 20:15:29] github-appium, leaving. (#appium)
+[2013-03-05 20:15:51] fpotter, quitting. (Quit: Computer has gone to sleep.)
+[2013-03-05 20:15:54] *jlipps published appium@0.1.0'
