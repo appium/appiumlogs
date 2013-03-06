@@ -153,3 +153,10 @@
 [2013-03-06 14:44:06] jlipps: toks, that command is correct
 [2013-03-06 14:44:19] jlipps: the first half of the id is the package name, the second half (after the slash) is the classname of the activity
 [2013-03-06 14:44:56] toks: o.o
+[2013-03-06 14:45:08] jlipps: which includes the package name again
+[2013-03-06 14:45:15] jlipps: did you try on the emulator?
+[2013-03-06 14:45:26] toks: on physical device
+[2013-03-06 14:45:30] jlipps: try without the "-s 016…."
+[2013-03-06 14:45:50] jlipps: i haven't tried this on physical devices
+[2013-03-06 14:45:59] jlipps: i assume "shell am start" works the same way
+[2013-03-06 14:46:00] toks: hmm
