@@ -202,3 +202,4 @@
 [2013-03-05 17:26:47] santiycr, quitting. (Quit: Leaving.)
 [2013-03-05 17:30:05] fpotter, joining. (#appium)
 [2013-03-05 17:34:18] stackedsax, quitting. (Quit: Leaving.)
+[2013-03-05 17:47:45] santiycr, joining. (#appium)
