@@ -196,3 +196,6 @@
 [2013-03-05 17:05:01] admc1, quitting. (Ping timeout: 245 seconds)
 [2013-03-05 17:06:56] toks: why do I have to give --app when I gave --skip-install?
 [2013-03-05 17:10:16] toks: okay.... whew
+[2013-03-05 17:20:06] fpotter, quitting. (Quit: Computer has gone to sleep.)
+[2013-03-05 17:21:37] toks: Hmm... I don't see anything telling me appium tried to start my activity
+[2013-03-05 17:21:43] toks: nothing in logcat
