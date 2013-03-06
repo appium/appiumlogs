@@ -224,3 +224,5 @@
 [2013-03-05 19:32:08] admc, quitting. (Client Quit)
 [2013-03-05 19:36:58] sp0cksbeard, joining. (#appium)
 [2013-03-05 19:48:39] santiycr, joining. (#appium)
+[2013-03-05 19:50:34] santiycr, quitting. (Client Quit)
+[2013-03-05 19:54:41] stackedsax, quitting. (Quit: Leaving.)
