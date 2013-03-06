@@ -57,3 +57,6 @@
 [2013-03-06 10:27:31] danc1, joining. (#appium)
 [2013-03-06 10:27:53] stackedsax, joining. (#appium)
 [2013-03-06 10:29:38] santiycr, quitting. (Quit: Leaving.)
+[2013-03-06 10:41:25] toks: so....
+[2013-03-06 10:41:35] toks:  /names
+[2013-03-06 10:41:45] toks: jlipps isn't here
