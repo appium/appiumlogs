@@ -52,3 +52,4 @@
 [2013-03-06 10:12:47] github-appium: appium/master c4cfc3c Sebastian Tiedtke: Merge pull request #225 from jlipps/master...
 [2013-03-06 10:12:47] github-appium, leaving. (#appium)
 [2013-03-06 10:13:05] stackedsax, quitting. (Quit: Leaving.)
+[2013-03-06 10:15:44] admc, quitting. (Ping timeout: 252 seconds)
