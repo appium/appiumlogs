@@ -79,3 +79,9 @@
 [2013-03-06 12:47:44] danc1: I just posted the dummy app
 [2013-03-06 12:47:46] danc1: https://dl.dropbox.com/u/46918906/tableViewTest.zip
 [2013-03-06 13:01:58] santiycr, joining. (#appium)
+[2013-03-06 13:05:39] github-appium, joining. (#appium)
+[2013-03-06 13:05:40] github-appium: [appium] sourishkrout pushed 4 new commits to master: http://git.io/bM-IBg
+[2013-03-06 13:05:40] github-appium: appium/master d0f2a9a Jonathan Lipps: pass not yet implemented through to client
+[2013-03-06 13:05:40] github-appium: appium/master c430700 Jonathan Lipps: get attributes for android
+[2013-03-06 13:05:40] github-appium: appium/master 6b11b63 Jonathan Lipps: tests for more attributes
+[2013-03-06 13:05:40] github-appium, leaving. (#appium)
