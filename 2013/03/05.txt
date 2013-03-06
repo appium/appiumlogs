@@ -209,3 +209,4 @@
 [2013-03-05 17:58:13] sourishkrout, quitting. (Ping timeout: 240 seconds)
 [2013-03-05 18:00:59] admc1, joining. (#appium)
 [2013-03-05 18:05:51] admc1, quitting. (Ping timeout: 276 seconds)
+[2013-03-05 18:15:02] mlai, quitting. (Quit: mlai)
