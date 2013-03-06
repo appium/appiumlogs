@@ -104,3 +104,23 @@
 [2013-03-06 14:10:01] github-appium: [appium] bootstraponline opened pull request #233: Map textfield to EditText (master...e)  http://git.io/M40pVw
 [2013-03-06 14:10:01] github-appium, leaving. (#appium)
 [2013-03-06 14:12:42] admc1, joining. (#appium)
+[2013-03-06 14:15:32] toks: okay... so looking at adb.js
+[2013-03-06 14:15:42] toks: This is the shell cmd it makes for me
+[2013-03-06 14:15:47] toks: /home/toks/rackspacework/android-sdk-linux/platform-tools/adb -s 015d21098258001a shell am start -n com.rackspacecloud.android.com.rackspacecloud.android.ListAccountsActivity
+[2013-03-06 14:15:58] toks: So, I can see why that doesn't work.
+[2013-03-06 14:16:13] toks: And here's how I start server.js
+[2013-03-06 14:16:17] toks: ANDROID_HOME=/home/toks/rackspacework/android-sdk-linux/ node server.js --app /home/toks/eclipse_workspace/rackspace_app/bin/rackspace_app.apk --app-pkg c.rackspacecloud.android  --app-activity ListAccountsActivity  -a 0.0.0.0 -V
+[2013-03-06 14:17:31] toks: Anyone see any reason I should open an issue for this?
+[2013-03-06 14:17:44] toks: s/should/shouldn't/
+[2013-03-06 14:17:45] admc1, quitting. (Ping timeout: 276 seconds)
+[2013-03-06 14:18:23] toks: And jlipps hasn't enabled issues on his appium fork =/
+[2013-03-06 14:18:43] jlipps: hey toks, android is in master now
+[2013-03-06 14:19:02] toks: oh
+[2013-03-06 14:19:08] toks: in adb.js
+[2013-03-06 14:19:10] toks:   var cmd = this.adbCmd + " shell am start -n " + this.appPackage + "." +
+[2013-03-06 14:19:10] toks:             this.appPackage + "." + this.appActivity;
+[2013-03-06 14:19:18] toks: I think that's a bug
+[2013-03-06 14:19:21] toks: and why it won't work for me
+[2013-03-06 14:19:26] toks: the double this.appPackage
+[2013-03-06 14:19:45] toks: er
+[2013-03-06 14:19:50] toks: I guess I should try master first
