@@ -91,3 +91,8 @@
 [2013-03-06 13:58:10] toks: so...
 [2013-03-06 13:58:17] toks: I'm to take it that if I see this: info: [ADB STDOUT] /system/bin/sh: uiautomator: not foun
 [2013-03-06 13:58:34] toks: my android device isn't capable of handling appium
+[2013-03-06 14:02:11] toks: okay, so to Nexus 7 4.2.2
+[2013-03-06 14:02:24] toks: info: [ADB] Starting app com.rackspace.cloud.android/ListAccountsActivity
+[2013-03-06 14:02:30] toks: but I see no trace of it running
+[2013-03-06 14:03:47] toks: https://github.com/rackspace/android-rackspacecloud/blob/master/AndroidManifest.xml
+[2013-03-06 14:04:36] toks: <activity android:name="com.rackspacecloud.android.ListAccountsActivity">
