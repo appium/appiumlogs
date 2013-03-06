@@ -124,3 +124,4 @@
 [2013-03-06 14:19:26] toks: the double this.appPackage
 [2013-03-06 14:19:45] toks: er
 [2013-03-06 14:19:50] toks: I guess I should try master first
+[2013-03-06 14:20:53] danc1: I need to update the appium.dmg on appium.github.com, do I need a copy of dmgcanvas to do that?
