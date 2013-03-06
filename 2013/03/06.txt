@@ -29,3 +29,4 @@
 [2013-03-06 08:10:44] admc, joining. (#appium)
 [2013-03-06 08:15:23] admc, quitting. (Ping timeout: 255 seconds)
 [2013-03-06 08:22:53] stackedsax, joining. (#appium)
+[2013-03-06 08:49:07] stackedsax, quitting. (Quit: Leaving.)
