@@ -200,3 +200,13 @@
 [2013-03-06 16:13:23] admc1, joining. (#appium)
 [2013-03-06 16:17:30] admc1, quitting. (Ping timeout: 245 seconds)
 [2013-03-06 16:19:32] fpotter, quitting. (Quit: Textual IRC Client: www.textualapp.com)
+[2013-03-06 16:21:10] santiycr1, joining. (#appium)
+[2013-03-06 16:22:58] github-appium, joining. (#appium)
+[2013-03-06 16:22:58] github-appium: [appium] jlipps pushed 2 new commits to master: http://git.io/462I9Q
+[2013-03-06 16:22:58] github-appium: appium/master 9c7316c bootstraponline: Add Android to reset
+[2013-03-06 16:22:58] github-appium: appium/master f07f8aa Jonathan Lipps: Merge pull request #237 from bootstraponline/reset_android...
+[2013-03-06 16:22:58] github-appium, leaving. (#appium)
+[2013-03-06 16:23:39] jlipps: toks that is weird
+[2013-03-06 16:24:12] jlipps: what if you just try com.rackspacecloud.android as package
+[2013-03-06 16:24:15] jlipps: in appium.
+[2013-03-06 16:24:36] jlipps: if you're right that those can be different, i guess we'll need to ask people to use the long version of the activity name in settings
