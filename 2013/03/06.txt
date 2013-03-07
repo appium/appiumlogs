@@ -261,3 +261,5 @@
 [2013-03-06 21:13:12] stackedsax, quitting. (Read error: Connection reset by peer)
 [2013-03-06 21:13:35] stackedsax, joining. (#appium)
 [2013-03-06 21:15:00] admc, joining. (#appium)
+[2013-03-06 21:18:18] stackedsax, quitting. (Ping timeout: 252 seconds)
+[2013-03-06 21:19:24] admc, quitting. (Ping timeout: 252 seconds)
