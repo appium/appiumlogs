@@ -83,3 +83,5 @@
 [2013-03-07 12:25:54] *toks git pulls'
 [2013-03-07 12:30:08] fpotter, quitting. (Quit: Computer has gone to sleep.)
 [2013-03-07 12:42:31] smccarthy, quitting. (Ping timeout: 245 seconds)
+[2013-03-07 12:51:00] stackedsax1, joining. (#appium)
+[2013-03-07 12:51:00] stackedsax, quitting. (Ping timeout: 248 seconds)
