@@ -105,3 +105,9 @@
 [2013-03-07 15:40:42] github-appium, joining. (#appium)
 [2013-03-07 15:40:42] github-appium: [appium] jlipps opened pull request #246: Mobile Safari as a first-class citizen (master...master)  http://git.io/AM7TOw
 [2013-03-07 15:40:42] github-appium, leaving. (#appium)
+[2013-03-07 15:48:03] github-appium, joining. (#appium)
+[2013-03-07 15:48:03] github-appium: [appium] sourishkrout pushed 9 new commits to master: http://git.io/sABYqg
+[2013-03-07 15:48:03] github-appium: appium/master c76c18a Jonathan Lipps: allow starting safari as a special 'app' with special launch behavior
+[2013-03-07 15:48:03] github-appium: appium/master 115a519 Jonathan Lipps: add --safari to parser
+[2013-03-07 15:48:03] github-appium: appium/master 28dbd5d Jonathan Lipps: fix logic bug that called invoke() 2x per session
+[2013-03-07 15:48:03] github-appium, leaving. (#appium)
