@@ -82,3 +82,4 @@
 [2013-03-07 12:24:30] admc, quitting. (Ping timeout: 260 seconds)
 [2013-03-07 12:25:54] *toks git pulls'
 [2013-03-07 12:30:08] fpotter, quitting. (Quit: Computer has gone to sleep.)
+[2013-03-07 12:42:31] smccarthy, quitting. (Ping timeout: 245 seconds)
