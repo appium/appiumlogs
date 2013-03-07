@@ -196,3 +196,4 @@
 [2013-03-06 15:40:24] github-appium, joining. (#appium)
 [2013-03-06 15:40:24] github-appium: [appium] bootstraponline opened pull request #237: Add Android to reset (master...reset_android)  http://git.io/Bk3vlg
 [2013-03-06 15:40:24] github-appium, leaving. (#appium)
+[2013-03-06 16:09:19] sp0cksbeard, quitting. (Quit: sp0cksbeard)
