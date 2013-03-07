@@ -53,3 +53,5 @@
 [2013-03-07 10:47:51] santiycr, joining. (#appium)
 [2013-03-07 10:59:45] sassda1, joining. (#appium)
 [2013-03-07 11:03:06] sassda, quitting. (Ping timeout: 264 seconds)
+[2013-03-07 11:09:06] stackedsax, quitting. (Quit: Leaving.)
+[2013-03-07 11:09:21] jlipps, quitting. (Ping timeout: 276 seconds)
