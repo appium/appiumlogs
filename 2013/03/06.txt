@@ -198,3 +198,5 @@
 [2013-03-06 15:40:24] github-appium, leaving. (#appium)
 [2013-03-06 16:09:19] sp0cksbeard, quitting. (Quit: sp0cksbeard)
 [2013-03-06 16:13:23] admc1, joining. (#appium)
+[2013-03-06 16:17:30] admc1, quitting. (Ping timeout: 245 seconds)
+[2013-03-06 16:19:32] fpotter, quitting. (Quit: Textual IRC Client: www.textualapp.com)
