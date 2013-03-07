@@ -80,3 +80,4 @@
 [2013-03-07 12:20:55] sourishkrout, joining. (#appium)
 [2013-03-07 12:21:11] sourishkrout, quitting. (Client Quit)
 [2013-03-07 12:24:30] admc, quitting. (Ping timeout: 260 seconds)
+[2013-03-07 12:25:54] *toks git pulls'
