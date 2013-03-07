@@ -95,3 +95,6 @@
 [2013-03-07 14:03:21] smccarthy, quitting. (Read error: Connection reset by peer)
 [2013-03-07 14:20:46] admc1, joining. (#appium)
 [2013-03-07 14:25:39] admc1, quitting. (Ping timeout: 276 seconds)
+[2013-03-07 14:35:13] knorrium, quitting. (Read error: Connection reset by peer)
+[2013-03-07 14:35:52] knorrium, joining. (#appium)
+[2013-03-07 14:39:57] smccarthy2, quitting. (Remote host closed the connection)
