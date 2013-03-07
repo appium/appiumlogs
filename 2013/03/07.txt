@@ -76,3 +76,7 @@
 [2013-03-07 12:15:26] github-appium: [appium] jlipps pushed 1 new commit to master: http://git.io/33ce7g
 [2013-03-07 12:15:26] github-appium: appium/master c1de952 Jonathan Lipps: add android app rebuilding and uicatalog downloading to reset.sh
 [2013-03-07 12:15:26] github-appium, leaving. (#appium)
+[2013-03-07 12:20:05] admc, joining. (#appium)
+[2013-03-07 12:20:55] sourishkrout, joining. (#appium)
+[2013-03-07 12:21:11] sourishkrout, quitting. (Client Quit)
+[2013-03-07 12:24:30] admc, quitting. (Ping timeout: 260 seconds)
