@@ -226,3 +226,4 @@
 [2013-03-06 16:43:24] github-appium: appium/master 592e146 Jonathan Lipps: allow custom activity string
 [2013-03-06 16:43:24] github-appium: appium/master 548308a Sebastian Tiedtke: Merge pull request #239 from jlipps/master...
 [2013-03-06 16:43:24] github-appium, leaving. (#appium)
+[2013-03-06 17:01:23] jlipps, quitting. (Quit: jlipps)
