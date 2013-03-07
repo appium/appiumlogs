@@ -38,3 +38,7 @@
 [2013-03-07 09:55:05] jlipps, joining. (#appium)
 [2013-03-07 09:56:24] mlai, joining. (#appium)
 [2013-03-07 09:57:34] admc, joining. (#appium)
+[2013-03-07 10:19:05] admc1, joining. (#appium)
+[2013-03-07 10:19:26] danc1: I'd like to setup a test of the auto-updating version of appium.app, are there any volunteers in here.
+[2013-03-07 10:19:29] admc2, joining. (#appium)
+[2013-03-07 10:19:52] danc1: Once I get enough I'll upload a small change to the app and your apps should tell you of the available upgrade
