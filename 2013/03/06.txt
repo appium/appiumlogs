@@ -210,3 +210,9 @@
 [2013-03-06 16:24:12] jlipps: what if you just try com.rackspacecloud.android as package
 [2013-03-06 16:24:15] jlipps: in appium.
 [2013-03-06 16:24:36] jlipps: if you're right that those can be different, i guess we'll need to ask people to use the long version of the activity name in settings
+[2013-03-06 16:25:03] santiycr, quitting. (Ping timeout: 252 seconds)
+[2013-03-06 16:26:34] toks: then can be different.
+[2013-03-06 16:26:53] toks: they*
+[2013-03-06 16:26:55] toks: /home/toks/rackspacework/android-sdk-linux/platform-tools/adb -s 015d21098258001a shell am start -n com.rackspace.cloud.android/com.rackspacecloud.android.ListAccountsActivity
+[2013-03-06 16:27:06] toks: that's the only way I can start the app
+[2013-03-06 16:29:38] toks: https://github.com/appium/appium/issues/238
