@@ -231,3 +231,4 @@
 [2013-03-06 17:18:08] admc1, quitting. (Ping timeout: 252 seconds)
 [2013-03-06 17:19:53] knorrium, quitting. (Ping timeout: 255 seconds)
 [2013-03-06 17:30:41] sfbrian, quitting. (Ping timeout: 248 seconds)
+[2013-03-06 17:37:18] stackedsax, quitting. (Quit: Leaving.)
