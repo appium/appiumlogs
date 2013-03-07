@@ -51,3 +51,4 @@
 [2013-03-07 10:43:21] mlai, quitting. (Read error: Connection reset by peer)
 [2013-03-07 10:44:14] sourishkrout, joining. (#appium)
 [2013-03-07 10:47:51] santiycr, joining. (#appium)
+[2013-03-07 10:59:45] sassda1, joining. (#appium)
