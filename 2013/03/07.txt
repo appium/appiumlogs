@@ -1,3 +1,4 @@
 [2013-03-07 00:16:04] admc1, joining. (#appium)
 [2013-03-07 00:20:04] admc1, quitting. (Read error: Operation timed out)
 [2013-03-07 00:45:16] admc, quitting. (Quit: Leaving.)
+[2013-03-07 00:53:14] rodericj2, quitting. (Quit: Leaving.)
