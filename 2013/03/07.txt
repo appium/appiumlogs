@@ -52,3 +52,4 @@
 [2013-03-07 10:44:14] sourishkrout, joining. (#appium)
 [2013-03-07 10:47:51] santiycr, joining. (#appium)
 [2013-03-07 10:59:45] sassda1, joining. (#appium)
+[2013-03-07 11:03:06] sassda, quitting. (Ping timeout: 264 seconds)
