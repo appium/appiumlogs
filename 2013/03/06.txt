@@ -216,3 +216,13 @@
 [2013-03-06 16:26:55] toks: /home/toks/rackspacework/android-sdk-linux/platform-tools/adb -s 015d21098258001a shell am start -n com.rackspace.cloud.android/com.rackspacecloud.android.ListAccountsActivity
 [2013-03-06 16:27:06] toks: that's the only way I can start the app
 [2013-03-06 16:29:38] toks: https://github.com/appium/appium/issues/238
+[2013-03-06 16:40:24] github-appium, joining. (#appium)
+[2013-03-06 16:40:24] github-appium: [appium] jlipps opened pull request #239: allow custom activity string for android (master...master)  http://git.io/Ola2TQ
+[2013-03-06 16:40:24] github-appium, leaving. (#appium)
+[2013-03-06 16:40:31] jlipps: ok toks there's your fix
+[2013-03-06 16:42:31] toks: ^_^
+[2013-03-06 16:43:24] github-appium, joining. (#appium)
+[2013-03-06 16:43:24] github-appium: [appium] sourishkrout pushed 2 new commits to master: http://git.io/ii0lgA
+[2013-03-06 16:43:24] github-appium: appium/master 592e146 Jonathan Lipps: allow custom activity string
+[2013-03-06 16:43:24] github-appium: appium/master 548308a Sebastian Tiedtke: Merge pull request #239 from jlipps/master...
+[2013-03-06 16:43:24] github-appium, leaving. (#appium)
