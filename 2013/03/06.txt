@@ -228,3 +228,5 @@
 [2013-03-06 16:43:24] github-appium, leaving. (#appium)
 [2013-03-06 17:01:23] jlipps, quitting. (Quit: jlipps)
 [2013-03-06 17:13:39] admc1, joining. (#appium)
+[2013-03-06 17:18:08] admc1, quitting. (Ping timeout: 252 seconds)
+[2013-03-06 17:19:53] knorrium, quitting. (Ping timeout: 255 seconds)
