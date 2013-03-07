@@ -48,3 +48,5 @@
 [2013-03-07 10:24:30] admc2, quitting. (Ping timeout: 276 seconds)
 [2013-03-07 10:37:04] stackedsax, joining. (#appium)
 [2013-03-07 10:38:47] toks, joining. (#appium)
+[2013-03-07 10:43:21] mlai, quitting. (Read error: Connection reset by peer)
+[2013-03-07 10:44:14] sourishkrout, joining. (#appium)
