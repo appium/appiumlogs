@@ -244,3 +244,4 @@
 [2013-03-06 19:02:49] admc, quitting. (Quit: Leaving.)
 [2013-03-06 19:12:42] toks, joining. (#appium)
 [2013-03-06 19:14:21] admc, joining. (#appium)
+[2013-03-06 19:18:46] admc, quitting. (Ping timeout: 245 seconds)
