@@ -273,3 +273,6 @@
 [2013-03-06 22:51:32] rodericj, joining. (#appium)
 [2013-03-06 22:57:26] davidko, quitting. (Quit: davidko)
 [2013-03-06 23:15:43] admc, joining. (#appium)
+[2013-03-06 23:20:02] admc, quitting. (Ping timeout: 252 seconds)
+[2013-03-06 23:21:24] rodericj1, joining. (#appium)
+[2013-03-06 23:23:46] rodericj, quitting. (Ping timeout: 245 seconds)
