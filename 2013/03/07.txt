@@ -29,3 +29,4 @@
 [2013-03-07 09:24:06] admc1, quitting. (Ping timeout: 264 seconds)
 [2013-03-07 09:29:22] stackedsax, quitting. (Quit: Leaving.)
 [2013-03-07 09:31:13] rodericj, joining. (#appium)
+[2013-03-07 09:43:26] fpotter, joining. (#appium)
