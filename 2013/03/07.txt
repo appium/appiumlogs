@@ -35,3 +35,6 @@
 [2013-03-07 09:53:04] admc, quitting. (Quit: Leaving.)
 [2013-03-07 09:54:27] smccarthy, joining. (#appium)
 [2013-03-07 09:54:35] davidko, joining. (#appium)
+[2013-03-07 09:55:05] jlipps, joining. (#appium)
+[2013-03-07 09:56:24] mlai, joining. (#appium)
+[2013-03-07 09:57:34] admc, joining. (#appium)
