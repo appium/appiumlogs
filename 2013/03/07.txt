@@ -30,3 +30,5 @@
 [2013-03-07 09:29:22] stackedsax, quitting. (Quit: Leaving.)
 [2013-03-07 09:31:13] rodericj, joining. (#appium)
 [2013-03-07 09:43:26] fpotter, joining. (#appium)
+[2013-03-07 09:47:02] sfbrian, joining. (#appium)
+[2013-03-07 09:47:23] sassda, joining. (#appium)
