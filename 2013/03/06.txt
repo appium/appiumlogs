@@ -266,3 +266,4 @@
 [2013-03-06 21:36:54] stackedsax, joining. (#appium)
 [2013-03-06 21:53:15] stackedsax, quitting. (Quit: Leaving.)
 [2013-03-06 21:54:25] stackedsax, joining. (#appium)
+[2013-03-06 21:58:37] davidko, joining. (#appium)
