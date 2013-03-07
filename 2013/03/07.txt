@@ -46,3 +46,5 @@
 [2013-03-07 10:20:30] danc1: In a few hours, if anyone volunteers we'll try the test
 [2013-03-07 10:20:51] admc, quitting. (Ping timeout: 245 seconds)
 [2013-03-07 10:24:30] admc2, quitting. (Ping timeout: 276 seconds)
+[2013-03-07 10:37:04] stackedsax, joining. (#appium)
+[2013-03-07 10:38:47] toks, joining. (#appium)
