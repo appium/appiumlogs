@@ -27,3 +27,4 @@
 [2013-03-07 09:09:47] danc1, joining. (#appium)
 [2013-03-07 09:19:09] admc1, joining. (#appium)
 [2013-03-07 09:24:06] admc1, quitting. (Ping timeout: 264 seconds)
+[2013-03-07 09:29:22] stackedsax, quitting. (Quit: Leaving.)
