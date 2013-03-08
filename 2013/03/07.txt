@@ -115,3 +115,4 @@
 [2013-03-07 16:02:23] santiycr, joining. (#appium)
 [2013-03-07 16:19:06] santiycr, quitting. (Read error: Connection reset by peer)
 [2013-03-07 16:19:30] santiycr, joining. (#appium)
+[2013-03-07 16:21:26] admc1, joining. (#appium)
