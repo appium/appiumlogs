@@ -112,3 +112,4 @@
 [2013-03-07 15:48:03] github-appium: appium/master 28dbd5d Jonathan Lipps: fix logic bug that called invoke() 2x per session
 [2013-03-07 15:48:03] github-appium, leaving. (#appium)
 [2013-03-07 15:50:28] sp0cksbeard, quitting. (Quit: sp0cksbeard)
+[2013-03-07 16:02:23] santiycr, joining. (#appium)
