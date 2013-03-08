@@ -68,3 +68,8 @@
 [2013-03-08 13:01:16] github-appium, joining. (#appium)
 [2013-03-08 13:01:17] github-appium: [appium] sah opened pull request #251: README updates re: Android support (master...master)  http://git.io/D9FHSQ
 [2013-03-08 13:01:17] github-appium, leaving. (#appium)
+[2013-03-08 13:11:25] github-appium, joining. (#appium)
+[2013-03-08 13:11:25] github-appium: [appium] jlipps pushed 2 new commits to master: http://git.io/nebRZA
+[2013-03-08 13:11:25] github-appium: appium/master 70e782b Steven Hazel: updated iOS-specific text to mention Android support
+[2013-03-08 13:11:25] github-appium: appium/master 791139f Jonathan Lipps: Merge pull request #251 from sah/master...
+[2013-03-08 13:11:25] github-appium, leaving. (#appium)
