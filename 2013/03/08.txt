@@ -41,3 +41,10 @@
 [2013-03-08 10:30:12] github-appium: [appium] jlipps opened pull request #249: sendKeys for hybrid (master...master)  http://git.io/-EycVQ
 [2013-03-08 10:30:12] github-appium, leaving. (#appium)
 [2013-03-08 10:31:38] admc1, quitting. (Ping timeout: 240 seconds)
+[2013-03-08 10:35:56] github-appium, joining. (#appium)
+[2013-03-08 10:35:57] github-appium: [appium] sourishkrout pushed 4 new commits to master: http://git.io/dYfThw
+[2013-03-08 10:35:57] github-appium: appium/master 8c5f8bb Jonathan Lipps: working on getting new iosatom working
+[2013-03-08 10:35:57] github-appium: appium/master e8578cc Jonathan Lipps: fix misuse of argparse with nargs=1
+[2013-03-08 10:35:57] github-appium: appium/master 3eb453d Jonathan Lipps: make sendKeys method work for mobile safari
+[2013-03-08 10:35:57] github-appium, leaving. (#appium)
+[2013-03-08 10:38:45] toks, joining. (#appium)
