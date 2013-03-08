@@ -117,3 +117,4 @@
 [2013-03-07 16:19:30] santiycr, joining. (#appium)
 [2013-03-07 16:21:26] admc1, joining. (#appium)
 [2013-03-07 16:25:56] admc1, quitting. (Ping timeout: 248 seconds)
+[2013-03-07 16:30:18] stackedsax1, quitting. (*.net *.split)
