@@ -148,3 +148,5 @@
 [2013-03-07 19:07:22] github-appium, joining. (#appium)
 [2013-03-07 19:07:22] github-appium: [appium] penguinho opened pull request #248: I believe this fixes #247 (master...master)  http://git.io/Z1XNZQ
 [2013-03-07 19:07:22] github-appium, leaving. (#appium)
+[2013-03-07 19:22:26] admc1, joining. (#appium)
+[2013-03-07 19:24:48] admc, quitting. (Quit: Leaving.)
