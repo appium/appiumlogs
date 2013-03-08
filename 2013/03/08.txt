@@ -58,3 +58,9 @@
 [2013-03-08 12:46:16] github-appium, joining. (#appium)
 [2013-03-08 12:46:16] github-appium: [appium] jlipps opened pull request #250: example of automating preferences.app (master...master)  http://git.io/c9RlLw
 [2013-03-08 12:46:17] github-appium, leaving. (#appium)
+[2013-03-08 12:51:04] github-appium, joining. (#appium)
+[2013-03-08 12:51:04] github-appium: [appium] jlipps pushed 5 new commits to master: http://git.io/GZvrsA
+[2013-03-08 12:51:04] github-appium: appium/master 128d6c2 Jonathan Lipps: add function to get built in app dir
+[2013-03-08 12:51:04] github-appium: appium/master 14509a1 Jonathan Lipps: add test and example of automating Preferences.app
+[2013-03-08 12:51:04] github-appium: appium/master 71dc07a Jonathan Lipps: note to warn people about this test
+[2013-03-08 12:51:04] github-appium, leaving. (#appium)
