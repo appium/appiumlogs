@@ -2,3 +2,5 @@
 [2013-03-08 00:28:36] admc1, quitting. (Ping timeout: 248 seconds)
 [2013-03-08 01:03:36] stackedsax, quitting. (Quit: Leaving.)
 [2013-03-08 01:24:26] admc1, joining. (#appium)
+[2013-03-08 01:25:35] admc, quitting. (Quit: Leaving.)
+[2013-03-08 01:29:04] admc1, quitting. (Ping timeout: 250 seconds)
