@@ -113,3 +113,5 @@
 [2013-03-07 15:48:03] github-appium, leaving. (#appium)
 [2013-03-07 15:50:28] sp0cksbeard, quitting. (Quit: sp0cksbeard)
 [2013-03-07 16:02:23] santiycr, joining. (#appium)
+[2013-03-07 16:19:06] santiycr, quitting. (Read error: Connection reset by peer)
+[2013-03-07 16:19:30] santiycr, joining. (#appium)
