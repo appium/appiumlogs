@@ -130,3 +130,4 @@
 [2013-03-07 17:28:29] stackedsax1, quitting. (Quit: Leaving.)
 [2013-03-07 17:29:26] stackedsax, joining. (#appium)
 [2013-03-07 17:29:30] sfbrian, quitting. (Ping timeout: 264 seconds)
+[2013-03-07 17:32:11] stackedsax, quitting. (Client Quit)
