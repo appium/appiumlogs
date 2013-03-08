@@ -24,3 +24,4 @@
 [2013-03-08 08:38:08] fpotter, quitting. (Quit: Computer has gone to sleep.)
 [2013-03-08 08:41:33] rodericj, joining. (#appium)
 [2013-03-08 08:49:10] jlipps, joining. (#appium)
+[2013-03-08 09:01:48] sassda, joining. (#appium)
