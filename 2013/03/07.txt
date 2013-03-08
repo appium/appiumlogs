@@ -158,3 +158,4 @@
 [2013-03-07 21:27:16] admc, quitting. (Ping timeout: 248 seconds)
 [2013-03-07 21:58:36] davidko, joining. (#appium)
 [2013-03-07 21:59:12] davidko, quitting. (Client Quit)
+[2013-03-07 22:18:09] stackedsax, quitting. (Quit: Leaving.)
