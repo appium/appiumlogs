@@ -50,3 +50,4 @@
 [2013-03-08 10:38:45] toks, joining. (#appium)
 [2013-03-08 11:02:38] stackedsax, quitting. (Quit: Leaving.)
 [2013-03-08 11:03:32] stackedsax, joining. (#appium)
+[2013-03-08 11:07:59] danc1, joining. (#appium)
