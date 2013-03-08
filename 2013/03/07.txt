@@ -145,3 +145,6 @@
 [2013-03-07 18:42:12] toks, quitting. (Ping timeout: 264 seconds)
 [2013-03-07 18:54:59] santiycr, quitting. (Quit: Leaving.)
 [2013-03-07 19:00:39] sassda1, quitting. (Quit: Leaving.)
+[2013-03-07 19:07:22] github-appium, joining. (#appium)
+[2013-03-07 19:07:22] github-appium: [appium] penguinho opened pull request #248: I believe this fixes #247 (master...master)  http://git.io/Z1XNZQ
+[2013-03-07 19:07:22] github-appium, leaving. (#appium)
