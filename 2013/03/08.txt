@@ -55,3 +55,6 @@
 [2013-03-08 11:10:51] smccarthy, joining. (#appium)
 [2013-03-08 11:20:03] sp0cksbeard, quitting. (Quit: sp0cksbeard)
 [2013-03-08 11:47:56] admc, quitting. (Quit: Leaving.)
+[2013-03-08 12:46:16] github-appium, joining. (#appium)
+[2013-03-08 12:46:16] github-appium: [appium] jlipps opened pull request #250: example of automating preferences.app (master...master)  http://git.io/c9RlLw
+[2013-03-08 12:46:17] github-appium, leaving. (#appium)
