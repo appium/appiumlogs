@@ -165,3 +165,5 @@
 [2013-03-07 23:05:55] stackedsax, quitting. (Quit: Leaving.)
 [2013-03-07 23:23:46] admc, joining. (#appium)
 [2013-03-07 23:28:20] admc, quitting. (Ping timeout: 256 seconds)
+[2013-03-07 23:35:45] smccarthy, quitting. (Remote host closed the connection)
+[2013-03-07 23:38:12] stackedsax, joining. (#appium)
