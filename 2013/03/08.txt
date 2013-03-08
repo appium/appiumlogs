@@ -37,3 +37,7 @@
 [2013-03-08 10:01:42] rodericj, joining. (#appium)
 [2013-03-08 10:21:19] stackedsax, joining. (#appium)
 [2013-03-08 10:27:27] admc1, joining. (#appium)
+[2013-03-08 10:30:11] github-appium, joining. (#appium)
+[2013-03-08 10:30:12] github-appium: [appium] jlipps opened pull request #249: sendKeys for hybrid (master...master)  http://git.io/-EycVQ
+[2013-03-08 10:30:12] github-appium, leaving. (#appium)
+[2013-03-08 10:31:38] admc1, quitting. (Ping timeout: 240 seconds)
