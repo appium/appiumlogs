@@ -21,3 +21,4 @@
 [2013-03-08 08:14:10] stackedsax, joining. (#appium)
 [2013-03-08 08:26:51] admc, joining. (#appium)
 [2013-03-08 08:31:48] admc, quitting. (Ping timeout: 276 seconds)
+[2013-03-08 08:38:08] fpotter, quitting. (Quit: Computer has gone to sleep.)
