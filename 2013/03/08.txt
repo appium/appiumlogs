@@ -79,3 +79,4 @@
 [2013-03-08 13:53:26] admc, quitting. (Ping timeout: 255 seconds)
 [2013-03-08 14:22:21] fpotter, joining. (#appium)
 [2013-03-08 14:54:28] sourishkrout, joining. (#appium)
+[2013-03-08 15:45:27] *toks runs around in circles'
