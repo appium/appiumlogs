@@ -54,3 +54,4 @@
 [2013-03-08 11:10:05] smccarthy, quitting. (Read error: Connection reset by peer)
 [2013-03-08 11:10:51] smccarthy, joining. (#appium)
 [2013-03-08 11:20:03] sp0cksbeard, quitting. (Quit: sp0cksbeard)
+[2013-03-08 11:47:56] admc, quitting. (Quit: Leaving.)
