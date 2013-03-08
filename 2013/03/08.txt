@@ -73,3 +73,4 @@
 [2013-03-08 13:11:25] github-appium: appium/master 70e782b Steven Hazel: updated iOS-specific text to mention Android support
 [2013-03-08 13:11:25] github-appium: appium/master 791139f Jonathan Lipps: Merge pull request #251 from sah/master...
 [2013-03-08 13:11:25] github-appium, leaving. (#appium)
+[2013-03-08 13:19:13] fpotter, quitting. (Quit: Computer has gone to sleep.)
