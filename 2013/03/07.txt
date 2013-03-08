@@ -126,3 +126,7 @@
 [2013-03-07 17:09:47] github-appium: appium/master d9db983 Jonathan Lipps: support pre-launching safari
 [2013-03-07 17:09:47] github-appium, leaving. (#appium)
 [2013-03-07 17:21:45] admc1, joining. (#appium)
+[2013-03-07 17:26:23] admc1, quitting. (Ping timeout: 260 seconds)
+[2013-03-07 17:28:29] stackedsax1, quitting. (Quit: Leaving.)
+[2013-03-07 17:29:26] stackedsax, joining. (#appium)
+[2013-03-07 17:29:30] sfbrian, quitting. (Ping timeout: 264 seconds)
