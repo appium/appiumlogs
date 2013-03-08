@@ -154,3 +154,5 @@
 [2013-03-07 20:22:46] admc, joining. (#appium)
 [2013-03-07 20:27:00] admc, quitting. (Ping timeout: 248 seconds)
 [2013-03-07 21:23:05] admc, joining. (#appium)
+[2013-03-07 21:25:38] fpotter, joining. (#appium)
+[2013-03-07 21:27:16] admc, quitting. (Ping timeout: 248 seconds)
