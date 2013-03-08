@@ -48,3 +48,5 @@
 [2013-03-08 10:35:57] github-appium: appium/master 3eb453d Jonathan Lipps: make sendKeys method work for mobile safari
 [2013-03-08 10:35:57] github-appium, leaving. (#appium)
 [2013-03-08 10:38:45] toks, joining. (#appium)
+[2013-03-08 11:02:38] stackedsax, quitting. (Quit: Leaving.)
+[2013-03-08 11:03:32] stackedsax, joining. (#appium)
