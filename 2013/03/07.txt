@@ -125,3 +125,4 @@
 [2013-03-07 17:09:47] github-appium: [appium] jlipps pushed 1 new commit to master: http://git.io/FPURDA
 [2013-03-07 17:09:47] github-appium: appium/master d9db983 Jonathan Lipps: support pre-launching safari
 [2013-03-07 17:09:47] github-appium, leaving. (#appium)
+[2013-03-07 17:21:45] admc1, joining. (#appium)
