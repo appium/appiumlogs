@@ -139,3 +139,4 @@
 [2013-03-07 18:13:19] davidko_, quitting. (Ping timeout: 245 seconds)
 [2013-03-07 18:13:23] jlipps, quitting. (Quit: jlipps)
 [2013-03-07 18:19:18] santiycr, joining. (#appium)
+[2013-03-07 18:22:06] admc1, joining. (#appium)
