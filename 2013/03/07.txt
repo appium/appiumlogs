@@ -159,3 +159,4 @@
 [2013-03-07 21:58:36] davidko, joining. (#appium)
 [2013-03-07 21:59:12] davidko, quitting. (Client Quit)
 [2013-03-07 22:18:09] stackedsax, quitting. (Quit: Leaving.)
+[2013-03-07 22:23:23] admc, joining. (#appium)
