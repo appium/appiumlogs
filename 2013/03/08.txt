@@ -121,3 +121,6 @@
 [2013-03-08 18:51:04] admc, quitting. (Quit: Leaving.)
 [2013-03-08 18:52:10] admc, joining. (#appium)
 [2013-03-08 19:06:35] stackedsax, joining. (#appium)
+[2013-03-08 19:22:20] sourishkrout, quitting. (Quit: Leaving.)
+[2013-03-08 19:23:47] admc, quitting. (Quit: Leaving.)
+[2013-03-08 19:24:43] fpotter, quitting. (Quit: Computer has gone to sleep.)
