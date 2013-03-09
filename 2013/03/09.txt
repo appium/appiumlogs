@@ -5,3 +5,4 @@
 [2013-03-09 09:13:58] appiumbot___, joining. (#appium)
 [2013-03-09 11:14:30] fpotter, joining. (#appium)
 [2013-03-09 12:46:02] sassda, joining. (#appium)
+[2013-03-09 13:00:41] stackedsax1, joining. (#appium)
