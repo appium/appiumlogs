@@ -97,3 +97,9 @@
 [2013-03-08 17:04:25] github-appium: appium/master f0ba098 Dan Cuellar: Fixing #247 the correct way, this time
 [2013-03-08 17:04:26] github-appium: appium/master 9bee0b5 Jonathan Lipps: Merge pull request #248 from penguinho/master...
 [2013-03-08 17:04:26] github-appium, leaving. (#appium)
+[2013-03-08 17:05:43] github-appium, joining. (#appium)
+[2013-03-08 17:05:43] github-appium: [appium] jlipps pushed 1 new commit to master: http://git.io/C9RC2A
+[2013-03-08 17:05:43] github-appium, leaving. (#appium)
+[2013-03-08 17:05:43] github-appium: appium/master e7a8496 Jonathan Lipps: version bump for npm publish
+[2013-03-08 17:06:13] *jlipps published appium@0.1.1'
+[2013-03-08 17:07:20] fpotter, quitting. (Quit: Computer has gone to sleep.)
