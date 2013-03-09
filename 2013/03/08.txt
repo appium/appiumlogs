@@ -118,3 +118,5 @@
 [2013-03-08 17:57:10] fpotter, joining. (#appium)
 [2013-03-08 18:18:17] sassda, quitting. (Ping timeout: 256 seconds)
 [2013-03-08 18:22:03] toks, quitting. (Ping timeout: 260 seconds)
+[2013-03-08 18:51:04] admc, quitting. (Quit: Leaving.)
+[2013-03-08 18:52:10] admc, joining. (#appium)
