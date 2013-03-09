@@ -103,3 +103,5 @@
 [2013-03-08 17:05:43] github-appium: appium/master e7a8496 Jonathan Lipps: version bump for npm publish
 [2013-03-08 17:06:13] *jlipps published appium@0.1.1'
 [2013-03-08 17:07:20] fpotter, quitting. (Quit: Computer has gone to sleep.)
+[2013-03-08 17:11:30] danc1: HOORAY!
+[2013-03-08 17:12:10] danc1: I need to add a progress dialog for when this happens in the ap, right now you just geta  beachball til the node module update finishes
