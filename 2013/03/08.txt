@@ -80,3 +80,4 @@
 [2013-03-08 14:22:21] fpotter, joining. (#appium)
 [2013-03-08 14:54:28] sourishkrout, joining. (#appium)
 [2013-03-08 15:45:27] *toks runs around in circles'
+[2013-03-08 16:29:38] admc1, changing nick to admc.
