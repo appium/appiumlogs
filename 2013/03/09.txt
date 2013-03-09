@@ -9,3 +9,6 @@
 [2013-03-09 13:07:06] stackedsax1, quitting. (Ping timeout: 240 seconds)
 [2013-03-09 13:30:51] stackedsax, joining. (#appium)
 [2013-03-09 14:44:22] stackedsax, quitting. (Quit: Leaving.)
+[2013-03-09 15:18:22] admc, joining. (#appium)
+[2013-03-09 15:18:22] admc, quitting. (Client Quit)
+[2013-03-09 15:19:25] admc, joining. (#appium)
