@@ -105,3 +105,8 @@
 [2013-03-08 17:07:20] fpotter, quitting. (Quit: Computer has gone to sleep.)
 [2013-03-08 17:11:30] danc1: HOORAY!
 [2013-03-08 17:12:10] danc1: I need to add a progress dialog for when this happens in the ap, right now you just geta  beachball til the node module update finishes
+[2013-03-08 17:15:58] davidko_, joining. (#appium)
+[2013-03-08 17:16:32] davidko_, quitting. (Remote host closed the connection)
+[2013-03-08 17:16:42] davidko_, joining. (#appium)
+[2013-03-08 17:18:02] davidko, joining. (#appium)
+[2013-03-08 17:18:53] davidko, quitting. (Read error: Connection reset by peer)
