@@ -111,3 +111,7 @@
 [2013-03-08 17:18:02] davidko, joining. (#appium)
 [2013-03-08 17:18:53] davidko, quitting. (Read error: Connection reset by peer)
 [2013-03-08 17:21:51] davidko_, quitting. (Ping timeout: 276 seconds)
+[2013-03-08 17:36:51] danc1, leaving. (#appium)
+[2013-03-08 17:37:36] jlipps: ya :-)
+[2013-03-08 17:37:42] jlipps: have a great weekend all
+[2013-03-08 17:37:47] jlipps, quitting. (Quit: jlipps)
