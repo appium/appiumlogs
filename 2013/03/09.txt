@@ -2,3 +2,4 @@
 [2013-03-09 03:41:01] stackedsax, quitting. (Quit: Leaving.)
 [2013-03-09 07:08:15] sp0cksbeard, joining. (#appium)
 [2013-03-09 08:52:56] sp0cksbeard, quitting. (Quit: sp0cksbeard)
+[2013-03-09 09:13:58] appiumbot___, joining. (#appium)
