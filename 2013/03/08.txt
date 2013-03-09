@@ -85,3 +85,15 @@
 [2013-03-08 16:53:24] github-appium, joining. (#appium)
 [2013-03-08 16:53:24] github-appium: [appium] jlipps opened pull request #252: choose between iphone / ipad simulator (master...master)  http://git.io/LLwXYg
 [2013-03-08 16:53:24] github-appium, leaving. (#appium)
+[2013-03-08 17:03:38] github-appium, joining. (#appium)
+[2013-03-08 17:03:38] github-appium: [appium] admc pushed 7 new commits to master: http://git.io/Zxw3gg
+[2013-03-08 17:03:38] github-appium: appium/master 5e0786f Jonathan Lipps: don't need mobileSafari grunt command now that it's built in to appium
+[2013-03-08 17:03:38] github-appium: appium/master cfd323d Jonathan Lipps: move ios args into an object for sanity
+[2013-03-08 17:03:38] github-appium: appium/master 199541b Jonathan Lipps: force instruments to launch app by iphone/ipad
+[2013-03-08 17:03:38] github-appium, leaving. (#appium)
+[2013-03-08 17:04:25] github-appium, joining. (#appium)
+[2013-03-08 17:04:25] github-appium: [appium] jlipps pushed 3 new commits to master: http://git.io/NniWdQ
+[2013-03-08 17:04:25] github-appium: appium/master cc141a1 Dan Cuellar: I believe this fixed #247
+[2013-03-08 17:04:25] github-appium: appium/master f0ba098 Dan Cuellar: Fixing #247 the correct way, this time
+[2013-03-08 17:04:26] github-appium: appium/master 9bee0b5 Jonathan Lipps: Merge pull request #248 from penguinho/master...
+[2013-03-08 17:04:26] github-appium, leaving. (#appium)
