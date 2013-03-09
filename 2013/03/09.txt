@@ -7,3 +7,4 @@
 [2013-03-09 12:46:02] sassda, joining. (#appium)
 [2013-03-09 13:00:41] stackedsax1, joining. (#appium)
 [2013-03-09 13:07:06] stackedsax1, quitting. (Ping timeout: 240 seconds)
+[2013-03-09 13:30:51] stackedsax, joining. (#appium)
