@@ -116,3 +116,4 @@
 [2013-03-08 17:37:42] jlipps: have a great weekend all
 [2013-03-08 17:37:47] jlipps, quitting. (Quit: jlipps)
 [2013-03-08 17:57:10] fpotter, joining. (#appium)
+[2013-03-08 18:18:17] sassda, quitting. (Ping timeout: 256 seconds)
