@@ -18,3 +18,5 @@
 [2013-03-10 10:52:16] fpotter, quitting. (Quit: Computer has gone to sleep.)
 [2013-03-10 10:53:57] admc, joining. (#appium)
 [2013-03-10 11:25:44] fpotter, joining. (#appium)
+[2013-03-10 11:52:13] admc, quitting. (Quit: Leaving.)
+[2013-03-10 11:53:32] admc, joining. (#appium)
