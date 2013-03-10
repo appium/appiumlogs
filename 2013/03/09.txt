@@ -13,3 +13,4 @@
 [2013-03-09 15:18:22] admc, quitting. (Client Quit)
 [2013-03-09 15:19:25] admc, joining. (#appium)
 [2013-03-09 15:25:41] rodericj, joining. (#appium)
+[2013-03-09 16:02:37] rodericj, quitting. (Quit: Leaving.)
