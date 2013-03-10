@@ -16,3 +16,4 @@
 [2013-03-09 16:02:37] rodericj, quitting. (Quit: Leaving.)
 [2013-03-09 16:26:22] fpotter, quitting. (Quit: Computer has gone to sleep.)
 [2013-03-09 17:29:37] admc, quitting. (Quit: Leaving.)
+[2013-03-09 17:38:11] fpotter, joining. (#appium)
