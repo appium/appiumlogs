@@ -22,3 +22,4 @@
 [2013-03-09 19:18:40] stackedsax, quitting. (Quit: Leaving.)
 [2013-03-09 19:47:56] sassda, quitting. (Quit: Leaving.)
 [2013-03-09 21:05:09] davidko, joining. (#appium)
+[2013-03-09 21:21:57] davidko, quitting. (Quit: davidko)
