@@ -20,3 +20,4 @@
 [2013-03-09 18:05:51] knorrium, quitting. (Ping timeout: 260 seconds)
 [2013-03-09 18:45:00] stackedsax, joining. (#appium)
 [2013-03-09 19:18:40] stackedsax, quitting. (Quit: Leaving.)
+[2013-03-09 19:47:56] sassda, quitting. (Quit: Leaving.)
