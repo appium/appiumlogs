@@ -14,3 +14,4 @@
 [2013-03-09 15:19:25] admc, joining. (#appium)
 [2013-03-09 15:25:41] rodericj, joining. (#appium)
 [2013-03-09 16:02:37] rodericj, quitting. (Quit: Leaving.)
+[2013-03-09 16:26:22] fpotter, quitting. (Quit: Computer has gone to sleep.)
