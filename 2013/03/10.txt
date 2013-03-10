@@ -12,3 +12,4 @@
 [2013-03-10 09:42:58] stackedsax, joining. (#appium)
 [2013-03-10 09:48:12] stackedsax, quitting. (Ping timeout: 276 seconds)
 [2013-03-10 10:07:10] smccarthy, joining. (#appium)
+[2013-03-10 10:11:17] stackedsax, joining. (#appium)
