@@ -30,3 +30,5 @@
 [2013-03-11 12:17:16] sourishkrout, quitting. (Ping timeout: 252 seconds)
 [2013-03-11 12:43:02] stackedsax, joining. (#appium)
 [2013-03-11 12:47:29] santiycr, quitting. (Quit: Leaving.)
+[2013-03-11 12:59:26] davidko_, joining. (#appium)
+[2013-03-11 12:59:26] davidko_, quitting. (Client Quit)
