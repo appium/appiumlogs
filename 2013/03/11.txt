@@ -27,3 +27,4 @@
 [2013-03-11 12:04:30] toks, joining. (#appium)
 [2013-03-11 12:13:59] sourishkrout1, joining. (#appium)
 [2013-03-11 12:14:07] sourishkrout1, quitting. (Client Quit)
+[2013-03-11 12:17:16] sourishkrout, quitting. (Ping timeout: 252 seconds)
