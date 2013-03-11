@@ -38,3 +38,5 @@
 [2013-03-11 13:14:30] toks: That's my only major issue with nodejs
 [2013-03-11 13:27:31] santiycr, joining. (#appium)
 [2013-03-11 13:28:51] santiycr, quitting. (Client Quit)
+[2013-03-11 13:32:02] santiycr, joining. (#appium)
+[2013-03-11 13:33:03] fpotter, joining. (#appium)
