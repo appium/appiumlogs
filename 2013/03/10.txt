@@ -33,3 +33,4 @@
 [2013-03-10 19:32:05] admc, quitting. (Quit: Leaving.)
 [2013-03-10 19:53:18] stackedsax, quitting. (Quit: Leaving.)
 [2013-03-10 21:17:10] davidko, quitting. (Quit: davidko)
+[2013-03-10 21:45:17] davidko, joining. (#appium)
