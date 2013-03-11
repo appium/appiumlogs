@@ -6,3 +6,4 @@
 [2013-03-11 07:31:24] hugs, joining. (#appium)
 [2013-03-11 08:04:00] fpotter, quitting. (Quit: Computer has gone to sleep.)
 [2013-03-11 08:37:52] smccarthy, joining. (#appium)
+[2013-03-11 09:14:35] fpotter, joining. (#appium)
