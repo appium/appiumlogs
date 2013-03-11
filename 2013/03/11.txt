@@ -10,3 +10,6 @@
 [2013-03-11 09:44:24] fpotter, quitting. (Read error: Connection reset by peer)
 [2013-03-11 09:44:44] davidko, joining. (#appium)
 [2013-03-11 09:50:14] admc, joining. (#appium)
+[2013-03-11 09:58:29] knorrium, quitting. (Read error: Connection reset by peer)
+[2013-03-11 09:58:33] toks, joining. (#appium)
+[2013-03-11 09:59:43] sfbrian, joining. (#appium)
