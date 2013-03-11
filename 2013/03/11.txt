@@ -50,3 +50,4 @@
 [2013-03-11 15:12:56] toks, joining. (#appium)
 [2013-03-11 15:19:24] stackedsax, joining. (#appium)
 [2013-03-11 15:32:01] davidko_, joining. (#appium)
+[2013-03-11 15:36:45] santiycr, quitting. (Quit: Leaving.)
