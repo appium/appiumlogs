@@ -57,3 +57,12 @@
 [2013-03-11 15:51:16] Lance, joining. (#appium)
 [2013-03-11 15:51:40] Lance, changing nick to Guest21831.
 [2013-03-11 15:59:22] Guest21831, leaving. (#appium)
+[2013-03-11 16:00:10] lmorrison, joining. (#appium)
+[2013-03-11 16:00:49] davidko, joining. (#appium)
+[2013-03-11 16:01:25] lmorrison: hello .. i'm new to this.  i am wanting to contact Jonathan Lipps here
+[2013-03-11 16:03:01] sassda1: its jlipps
+[2013-03-11 16:03:12] jlipps: oh hi lmorrison
+[2013-03-11 16:03:43] jlipps: toks: so you don't like the sliding pyramids?
+[2013-03-11 16:03:53] jlipps: lmorrison: how can i help?
+[2013-03-11 16:04:22] lmorrison: i wrote you an email about helping me get started with Appium
+[2013-03-11 16:04:40] lmorrison: can we go to a private channel?
