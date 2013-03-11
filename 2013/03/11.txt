@@ -56,3 +56,4 @@
 [2013-03-11 15:49:36] Graeme, quitting. (Client Quit)
 [2013-03-11 15:51:16] Lance, joining. (#appium)
 [2013-03-11 15:51:40] Lance, changing nick to Guest21831.
+[2013-03-11 15:59:22] Guest21831, leaving. (#appium)
