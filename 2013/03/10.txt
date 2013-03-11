@@ -32,3 +32,4 @@
 [2013-03-10 19:06:14] smccarthy, quitting. (Remote host closed the connection)
 [2013-03-10 19:32:05] admc, quitting. (Quit: Leaving.)
 [2013-03-10 19:53:18] stackedsax, quitting. (Quit: Leaving.)
+[2013-03-10 21:17:10] davidko, quitting. (Quit: davidko)
