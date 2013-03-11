@@ -83,3 +83,8 @@
 [2013-03-11 16:14:46] jcarr: an example would be something like this:
 [2013-03-11 16:14:48] jcarr: xcodebuild -sdk iphonesimulator6.0 TARGETED_DEVICE_FAMILY=1
 [2013-03-11 16:23:14] davidko, joining. (#appium)
+[2013-03-11 16:25:22] jlipps: jcarr: you can set which device you want to launch on in desiredCaps now too
+[2013-03-11 16:26:39] larryg: jlipps i haven't found an example of that. right now i just have browserName, platform, version, app
+[2013-03-11 16:27:03] jlipps: set 'device' to be either 'iPhone Simulator' or 'iPad Simulator'
+[2013-03-11 16:27:10] jlipps: and make sure you're running on appium/master
+[2013-03-11 16:28:10] jcarr: jlipps: stop making things awesome so fast, I can't keep up!
