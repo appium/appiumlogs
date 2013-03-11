@@ -20,3 +20,4 @@
 [2013-03-11 10:43:53] jlipps, joining. (#appium)
 [2013-03-11 11:03:33] jlipps, quitting. (Read error: Connection reset by peer)
 [2013-03-11 11:04:00] jlipps, joining. (#appium)
+[2013-03-11 11:12:30] admc, joining. (#appium)
