@@ -40,3 +40,4 @@
 [2013-03-11 13:28:51] santiycr, quitting. (Client Quit)
 [2013-03-11 13:32:02] santiycr, joining. (#appium)
 [2013-03-11 13:33:03] fpotter, joining. (#appium)
+[2013-03-11 13:40:01] admc1, joining. (#appium)
