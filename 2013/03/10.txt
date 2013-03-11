@@ -26,3 +26,5 @@
 [2013-03-10 17:45:09] fpotter, joining. (#appium)
 [2013-03-10 18:24:32] fpotter, quitting. (Quit: Computer has gone to sleep.)
 [2013-03-10 18:32:18] davidko, joining. (#appium)
+[2013-03-10 18:39:17] davidko, quitting. (Remote host closed the connection)
+[2013-03-10 18:39:29] davidko, joining. (#appium)
