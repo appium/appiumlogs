@@ -41,3 +41,5 @@
 [2013-03-11 13:32:02] santiycr, joining. (#appium)
 [2013-03-11 13:33:03] fpotter, joining. (#appium)
 [2013-03-11 13:40:01] admc1, joining. (#appium)
+[2013-03-11 13:40:05] fpotter, quitting. (Ping timeout: 260 seconds)
+[2013-03-11 13:43:27] admc, quitting. (Ping timeout: 256 seconds)
