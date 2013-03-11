@@ -25,3 +25,5 @@
 [2013-03-11 11:42:50] sassda1, joining. (#appium)
 [2013-03-11 12:02:04] sourishkrout, joining. (#appium)
 [2013-03-11 12:04:30] toks, joining. (#appium)
+[2013-03-11 12:13:59] sourishkrout1, joining. (#appium)
+[2013-03-11 12:14:07] sourishkrout1, quitting. (Client Quit)
