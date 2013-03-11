@@ -47,3 +47,4 @@
 [2013-03-11 14:11:53] davidko, quitting. (Quit: davidko)
 [2013-03-11 14:41:22] stackedsax, quitting. (Quit: Leaving.)
 [2013-03-11 14:47:32] toks, quitting. (Ping timeout: 252 seconds)
+[2013-03-11 15:12:56] toks, joining. (#appium)
