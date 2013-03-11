@@ -34,3 +34,5 @@
 [2013-03-11 12:59:26] davidko_, quitting. (Client Quit)
 [2013-03-11 13:02:38] davidko, quitting. (Ping timeout: 245 seconds)
 [2013-03-11 13:03:30] davidko, joining. (#appium)
+[2013-03-11 13:14:17] toks: I lol'd when I saw this... https://github.com/appium/appium/blob/master/uiautomator/adb.js#L62
+[2013-03-11 13:14:30] toks: That's my only major issue with nodejs
