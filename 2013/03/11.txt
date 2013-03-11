@@ -88,3 +88,6 @@
 [2013-03-11 16:27:03] jlipps: set 'device' to be either 'iPhone Simulator' or 'iPad Simulator'
 [2013-03-11 16:27:10] jlipps: and make sure you're running on appium/master
 [2013-03-11 16:28:10] jcarr: jlipps: stop making things awesome so fast, I can't keep up!
+[2013-03-11 16:30:02] larryg: 'device': 'iPad Simulator' worked for me. thx!
+[2013-03-11 16:32:26] larryg: sfbrian does your experience in social news shed any light on my question?
+[2013-03-11 16:33:43] sfbrian: larryg: which question
