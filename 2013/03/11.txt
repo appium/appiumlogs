@@ -36,3 +36,5 @@
 [2013-03-11 13:03:30] davidko, joining. (#appium)
 [2013-03-11 13:14:17] toks: I lol'd when I saw this... https://github.com/appium/appium/blob/master/uiautomator/adb.js#L62
 [2013-03-11 13:14:30] toks: That's my only major issue with nodejs
+[2013-03-11 13:27:31] santiycr, joining. (#appium)
+[2013-03-11 13:28:51] santiycr, quitting. (Client Quit)
