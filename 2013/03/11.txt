@@ -9,3 +9,4 @@
 [2013-03-11 09:14:35] fpotter, joining. (#appium)
 [2013-03-11 09:44:24] fpotter, quitting. (Read error: Connection reset by peer)
 [2013-03-11 09:44:44] davidko, joining. (#appium)
+[2013-03-11 09:50:14] admc, joining. (#appium)
