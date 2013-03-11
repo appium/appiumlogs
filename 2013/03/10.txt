@@ -28,3 +28,4 @@
 [2013-03-10 18:32:18] davidko, joining. (#appium)
 [2013-03-10 18:39:17] davidko, quitting. (Remote host closed the connection)
 [2013-03-10 18:39:29] davidko, joining. (#appium)
+[2013-03-10 18:40:18] stackedsax, joining. (#appium)
