@@ -23,3 +23,5 @@
 [2013-03-11 11:12:30] admc, joining. (#appium)
 [2013-03-11 11:23:06] santiycr, joining. (#appium)
 [2013-03-11 11:42:50] sassda1, joining. (#appium)
+[2013-03-11 12:02:04] sourishkrout, joining. (#appium)
+[2013-03-11 12:04:30] toks, joining. (#appium)
