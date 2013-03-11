@@ -2,3 +2,5 @@
 [2013-03-11 06:23:45] fpotter, joining. (#appium)
 [2013-03-11 06:48:40] sp0cksbeard, joining. (#appium)
 [2013-03-11 07:14:05] knorrium, joining. (#appium)
+[2013-03-11 07:30:56] hugs, quitting. (*.net *.split)
+[2013-03-11 07:31:24] hugs, joining. (#appium)
