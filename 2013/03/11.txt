@@ -13,3 +13,4 @@
 [2013-03-11 09:58:29] knorrium, quitting. (Read error: Connection reset by peer)
 [2013-03-11 09:58:33] toks, joining. (#appium)
 [2013-03-11 09:59:43] sfbrian, joining. (#appium)
+[2013-03-11 10:00:55] knorrium, joining. (#appium)
