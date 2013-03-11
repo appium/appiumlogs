@@ -16,3 +16,5 @@
 [2013-03-11 10:00:55] knorrium, joining. (#appium)
 [2013-03-11 10:12:37] admc, quitting. (Quit: Leaving.)
 [2013-03-11 10:24:31] toks, quitting. (Quit: leaving)
+[2013-03-11 10:40:24] jcarr, joining. (#appium)
+[2013-03-11 10:43:53] jlipps, joining. (#appium)
