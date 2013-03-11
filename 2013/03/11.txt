@@ -71,3 +71,14 @@
 [2013-03-11 16:09:36] larryg, joining. (#appium)
 [2013-03-11 16:09:36] jlipps, quitting. (Read error: Connection reset by peer)
 [2013-03-11 16:09:44] jlipps_, joining. (#appium)
+[2013-03-11 16:11:26] larryg: hey folks. newbie here. question for you all: why would my ipad app launch with the iphone simulator instead of the ipad simulator?
+[2013-03-11 16:11:50] jlipps_, quitting. (Client Quit)
+[2013-03-11 16:12:03] jlipps, joining. (#appium)
+[2013-03-11 16:12:10] jcarr: hi larryg
+[2013-03-11 16:12:31] jcarr: the simulator that it uses is determined by how the app is compiled
+[2013-03-11 16:13:14] santiycr, joining. (#appium)
+[2013-03-11 16:13:14] jcarr: so when you do your xcodebuild, you can add 'TARGETED_DEVICE_FAMILY=2' for ipad, or 'TARGETED_DEVICE_FAMILY=1' for iphone
+[2013-03-11 16:14:04] larryg: thanks jcarr. will double check that i've done that.
+[2013-03-11 16:14:35] jcarr: no problem!
+[2013-03-11 16:14:46] jcarr: an example would be something like this:
+[2013-03-11 16:14:48] jcarr: xcodebuild -sdk iphonesimulator6.0 TARGETED_DEVICE_FAMILY=1
