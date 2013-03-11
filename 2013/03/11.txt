@@ -82,3 +82,4 @@
 [2013-03-11 16:14:35] jcarr: no problem!
 [2013-03-11 16:14:46] jcarr: an example would be something like this:
 [2013-03-11 16:14:48] jcarr: xcodebuild -sdk iphonesimulator6.0 TARGETED_DEVICE_FAMILY=1
+[2013-03-11 16:23:14] davidko, joining. (#appium)
