@@ -17,3 +17,4 @@
 [2013-03-12 09:17:42] davidko, joining. (#appium)
 [2013-03-12 09:29:29] sassda, joining. (#appium)
 [2013-03-12 09:33:06] stackedsax, quitting. (Quit: Leaving.)
+[2013-03-12 09:42:03] sfbrian, joining. (#appium)
