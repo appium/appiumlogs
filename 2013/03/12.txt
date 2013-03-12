@@ -51,3 +51,5 @@
 [2013-03-12 14:11:52] admc, joining. (#appium)
 [2013-03-12 14:26:01] smccarthy, quitting. (Remote host closed the connection)
 [2013-03-12 14:28:54] smccarthy, joining. (#appium)
+[2013-03-12 14:30:19] smccarthy, quitting. (Remote host closed the connection)
+[2013-03-12 14:32:22] smccarthy, joining. (#appium)
