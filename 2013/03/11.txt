@@ -98,3 +98,4 @@
 [2013-03-11 17:08:16] stackedsax, quitting. (Quit: Leaving.)
 [2013-03-11 17:08:31] larryg, leaving. (#appium)
 [2013-03-11 17:19:07] fpotter, quitting. (Quit: Computer has gone to sleep.)
+[2013-03-11 17:22:01] santiycr, joining. (#appium)
