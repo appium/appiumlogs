@@ -135,3 +135,7 @@
 [2013-03-11 19:35:52] fpotter, joining. (#appium)
 [2013-03-11 19:37:46] fpotter, quitting. (Client Quit)
 [2013-03-11 19:47:30] santiycr, quitting. (Quit: Leaving.)
+[2013-03-11 19:50:52] github-appium, joining. (#appium)
+[2013-03-11 19:50:52] github-appium: [appium] sah opened pull request #257: switch to the main instruments-without-delay repo (master...master)  http://git.io/KJrriA
+[2013-03-11 19:50:52] github-appium, leaving. (#appium)
+[2013-03-11 19:52:47] fpotter, joining. (#appium)
