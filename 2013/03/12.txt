@@ -62,3 +62,4 @@
 [2013-03-12 15:01:00] jlipps_, joining. (#appium)
 [2013-03-12 15:01:00] jlipps_, changing nick to jlipps.
 [2013-03-12 15:02:48] sahazel: fpotter: oh hey. yeah, making instruments start with a specific SDK would be neat.
+[2013-03-12 15:06:18] admc, joining. (#appium)
