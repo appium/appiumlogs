@@ -13,3 +13,5 @@
 [2013-03-12 08:51:47] sp0cksbeard_, joining. (#appium)
 [2013-03-12 08:53:50] sp0cksbeard, quitting. (Ping timeout: 264 seconds)
 [2013-03-12 08:53:51] sp0cksbeard_, changing nick to sp0cksbeard.
+[2013-03-12 09:16:48] fpotter, quitting. (Quit: Computer has gone to sleep.)
+[2013-03-12 09:17:42] davidko, joining. (#appium)
