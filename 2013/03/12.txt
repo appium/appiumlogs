@@ -53,3 +53,5 @@
 [2013-03-12 14:28:54] smccarthy, joining. (#appium)
 [2013-03-12 14:30:19] smccarthy, quitting. (Remote host closed the connection)
 [2013-03-12 14:32:22] smccarthy, joining. (#appium)
+[2013-03-12 14:42:01] fpotter, quitting. (Quit: Computer has gone to sleep.)
+[2013-03-12 14:42:57] fpotter, joining. (#appium)
