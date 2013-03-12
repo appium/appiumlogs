@@ -49,3 +49,5 @@
 [2013-03-12 13:45:54] toks: so, that's kinda become a blocker for me in android land
 [2013-03-12 13:53:48] *toks tests appium'
 [2013-03-12 14:11:52] admc, joining. (#appium)
+[2013-03-12 14:26:01] smccarthy, quitting. (Remote host closed the connection)
+[2013-03-12 14:28:54] smccarthy, joining. (#appium)
