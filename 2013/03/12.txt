@@ -8,3 +8,4 @@
 [2013-03-12 06:34:32] stackedsax, quitting. (Ping timeout: 240 seconds)
 [2013-03-12 08:00:11] stackedsax, joining. (#appium)
 [2013-03-12 08:00:29] stackedsax, quitting. (Client Quit)
+[2013-03-12 08:18:09] stackedsax, joining. (#appium)
