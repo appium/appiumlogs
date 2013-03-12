@@ -108,3 +108,4 @@
 [2013-03-11 17:42:01] github-appium: appium/master d69cba4 Jason Carr: Android python example
 [2013-03-11 17:42:01] github-appium: appium/master e9e786d Jonathan Lipps: Merge pull request #255 from maudineormsby/master...
 [2013-03-11 17:42:01] github-appium, leaving. (#appium)
+[2013-03-11 17:54:11] lmorrison, quitting. (Quit: Page closed)
