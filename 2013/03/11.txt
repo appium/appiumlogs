@@ -121,3 +121,4 @@
 [2013-03-11 18:32:10] sahazel: pull request #256!
 [2013-03-11 18:32:40] sahazel: achievement unlocked: 16-bit pull request
 [2013-03-11 18:33:24] sahazel: also, it's an exciting one. makes appium much faster for iOS.
+[2013-03-11 18:54:28] toks, quitting. (Ping timeout: 248 seconds)
