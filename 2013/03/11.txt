@@ -103,3 +103,8 @@
 [2013-03-11 17:27:38] github-appium: [appium] maudineormsby opened pull request #255: Android example (master...master)  http://git.io/iDwYrg
 [2013-03-11 17:27:38] github-appium, leaving. (#appium)
 [2013-03-11 17:36:56] sfbrian, quitting. (Ping timeout: 252 seconds)
+[2013-03-11 17:42:01] github-appium, joining. (#appium)
+[2013-03-11 17:42:01] github-appium: [appium] jlipps pushed 2 new commits to master: http://git.io/BD-Puw
+[2013-03-11 17:42:01] github-appium: appium/master d69cba4 Jason Carr: Android python example
+[2013-03-11 17:42:01] github-appium: appium/master e9e786d Jonathan Lipps: Merge pull request #255 from maudineormsby/master...
+[2013-03-11 17:42:01] github-appium, leaving. (#appium)
