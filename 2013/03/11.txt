@@ -112,3 +112,6 @@
 [2013-03-11 18:04:33] jcarr, quitting. (Quit: Leaving.)
 [2013-03-11 18:08:55] stackedsax, joining. (#appium)
 [2013-03-11 18:09:29] davidko, quitting. (Ping timeout: 256 seconds)
+[2013-03-11 18:14:39] github-appium, joining. (#appium)
+[2013-03-11 18:14:40] github-appium: [appium] sah opened pull request #256: adding --without-delay, to use the awesome instruments-without-delay! (master...without-delay)  http://git.io/_byOyg
+[2013-03-11 18:14:40] github-appium, leaving. (#appium)
