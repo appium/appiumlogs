@@ -27,3 +27,4 @@
 [2013-03-12 09:59:20] stackedsax2, quitting. (Read error: Connection reset by peer)
 [2013-03-12 10:00:28] stackedsax1, quitting. (Ping timeout: 250 seconds)
 [2013-03-12 10:01:33] fpotter, joining. (#appium)
+[2013-03-12 10:19:41] larryg, joining. (#appium)
