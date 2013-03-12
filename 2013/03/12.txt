@@ -9,3 +9,4 @@
 [2013-03-12 08:00:11] stackedsax, joining. (#appium)
 [2013-03-12 08:00:29] stackedsax, quitting. (Client Quit)
 [2013-03-12 08:18:09] stackedsax, joining. (#appium)
+[2013-03-12 08:26:46] smccarthy, joining. (#appium)
