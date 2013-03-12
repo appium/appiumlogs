@@ -10,3 +10,6 @@
 [2013-03-12 08:00:29] stackedsax, quitting. (Client Quit)
 [2013-03-12 08:18:09] stackedsax, joining. (#appium)
 [2013-03-12 08:26:46] smccarthy, joining. (#appium)
+[2013-03-12 08:51:47] sp0cksbeard_, joining. (#appium)
+[2013-03-12 08:53:50] sp0cksbeard, quitting. (Ping timeout: 264 seconds)
+[2013-03-12 08:53:51] sp0cksbeard_, changing nick to sp0cksbeard.
