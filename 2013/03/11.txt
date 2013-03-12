@@ -139,3 +139,9 @@
 [2013-03-11 19:50:52] github-appium: [appium] sah opened pull request #257: switch to the main instruments-without-delay repo (master...master)  http://git.io/KJrriA
 [2013-03-11 19:50:52] github-appium, leaving. (#appium)
 [2013-03-11 19:52:47] fpotter, joining. (#appium)
+[2013-03-11 19:55:11] fpotter: sahazel: thanks again for the patch!  we should stay in touch.  was going to try and figure out how to make it start with a specific SDK sometime soon.  Is that a problem you guys have, too?
+[2013-03-11 19:57:29] github-appium, joining. (#appium)
+[2013-03-11 19:57:29] github-appium: [appium] jlipps pushed 2 new commits to master: http://git.io/Av7pkw
+[2013-03-11 19:57:29] github-appium: appium/master 88e6f36 Steven Hazel: switch to the main instruments-without-delay repo, now that the fix for appium is merged
+[2013-03-11 19:57:29] github-appium: appium/master b17bc33 Jonathan Lipps: Merge pull request #257 from sah/master...
+[2013-03-11 19:57:29] github-appium, leaving. (#appium)
