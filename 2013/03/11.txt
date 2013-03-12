@@ -150,3 +150,4 @@
 [2013-03-11 21:40:22] fpotter, joining. (#appium)
 [2013-03-11 21:44:20] jlipps, quitting. (Read error: Operation timed out)
 [2013-03-11 22:07:27] fpotter, quitting. (Quit: Computer has gone to sleep.)
+[2013-03-11 22:31:12] fpotter, joining. (#appium)
