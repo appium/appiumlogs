@@ -2,3 +2,4 @@
 [2013-03-12 01:42:50] admc, quitting. (Quit: Leaving.)
 [2013-03-12 02:41:10] stackedsax, quitting. (Quit: Leaving.)
 [2013-03-12 04:36:23] jmathes__, joining. (#appium)
+[2013-03-12 04:43:47] jmathes_, quitting. (*.net *.split)
