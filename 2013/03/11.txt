@@ -124,3 +124,10 @@
 [2013-03-11 18:54:28] toks, quitting. (Ping timeout: 248 seconds)
 [2013-03-11 19:05:46] fpotter, quitting. (Quit: Computer has gone to sleep.)
 [2013-03-11 19:14:05] admc, quitting. (Quit: Leaving.)
+[2013-03-11 19:18:29] fpotter, joining. (#appium)
+[2013-03-11 19:18:45] github-appium, joining. (#appium)
+[2013-03-11 19:18:45] github-appium: [appium] jlipps pushed 6 new commits to master: http://git.io/YYcGrQ
+[2013-03-11 19:18:45] github-appium: appium/master dbd35d1 Steven Hazel: adding --without-delay, to use the awesome instruments-without-delay!
+[2013-03-11 19:18:45] github-appium: appium/master 90eb7c1 Steven Hazel: oops, use the public git URL
+[2013-03-11 19:18:45] github-appium: appium/master 6cb36a6 Steven Hazel: a better way to clone the environment
+[2013-03-11 19:18:45] github-appium, leaving. (#appium)
