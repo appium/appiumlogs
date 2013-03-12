@@ -58,3 +58,7 @@
 [2013-03-12 14:48:49] admc, quitting. (Quit: Leaving.)
 [2013-03-12 14:56:35] smccarthy, quitting. (Remote host closed the connection)
 [2013-03-12 14:58:13] smccarthy, joining. (#appium)
+[2013-03-12 15:01:00] jlipps, quitting. (Read error: Connection reset by peer)
+[2013-03-12 15:01:00] jlipps_, joining. (#appium)
+[2013-03-12 15:01:00] jlipps_, changing nick to jlipps.
+[2013-03-12 15:02:48] sahazel: fpotter: oh hey. yeah, making instruments start with a specific SDK would be neat.
