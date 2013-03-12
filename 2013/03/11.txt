@@ -145,3 +145,4 @@
 [2013-03-11 19:57:29] github-appium: appium/master 88e6f36 Steven Hazel: switch to the main instruments-without-delay repo, now that the fix for appium is merged
 [2013-03-11 19:57:29] github-appium: appium/master b17bc33 Jonathan Lipps: Merge pull request #257 from sah/master...
 [2013-03-11 19:57:29] github-appium, leaving. (#appium)
+[2013-03-11 20:26:04] stackedsax, quitting. (Quit: Leaving.)
