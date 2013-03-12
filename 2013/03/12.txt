@@ -64,3 +64,9 @@
 [2013-03-12 15:02:48] sahazel: fpotter: oh hey. yeah, making instruments start with a specific SDK would be neat.
 [2013-03-12 15:06:18] admc, joining. (#appium)
 [2013-03-12 15:19:53] sp0cksbeard, quitting. (Quit: sp0cksbeard)
+[2013-03-12 15:58:58] github-appium, joining. (#appium)
+[2013-03-12 15:58:59] github-appium: [appium] jlipps pushed 13 new commits to master: http://git.io/dL_6_Q
+[2013-03-12 15:58:59] github-appium: appium/master 92da9e4 bootstraponline: --fast-reset...
+[2013-03-12 15:58:59] github-appium: appium/master e90389b bootstraponline: Remove console.log
+[2013-03-12 15:58:59] github-appium: appium/master 3349d44 bootstraponline: Update help text
+[2013-03-12 15:58:59] github-appium, leaving. (#appium)
