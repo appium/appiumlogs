@@ -132,3 +132,5 @@
 [2013-03-11 19:18:45] github-appium: appium/master 6cb36a6 Steven Hazel: a better way to clone the environment
 [2013-03-11 19:18:45] github-appium, leaving. (#appium)
 [2013-03-11 19:28:59] fpotter, quitting. (Quit: Computer has gone to sleep.)
+[2013-03-11 19:35:52] fpotter, joining. (#appium)
+[2013-03-11 19:37:46] fpotter, quitting. (Client Quit)
