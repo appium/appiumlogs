@@ -47,3 +47,4 @@
 [2013-03-12 13:45:16] toks: but, corp policy devides the subnets of our wireless & wired network
 [2013-03-12 13:45:28] toks: and does not allow them to communicate
 [2013-03-12 13:45:54] toks: so, that's kinda become a blocker for me in android land
+[2013-03-12 13:53:48] *toks tests appium'
