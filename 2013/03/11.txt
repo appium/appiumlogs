@@ -152,3 +152,4 @@
 [2013-03-11 22:07:27] fpotter, quitting. (Quit: Computer has gone to sleep.)
 [2013-03-11 22:31:12] fpotter, joining. (#appium)
 [2013-03-11 23:03:10] fpotter, quitting. (Quit: Computer has gone to sleep.)
+[2013-03-11 23:09:07] fpotter, joining. (#appium)
