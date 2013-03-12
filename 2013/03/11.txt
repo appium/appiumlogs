@@ -147,3 +147,5 @@
 [2013-03-11 19:57:29] github-appium, leaving. (#appium)
 [2013-03-11 20:26:04] stackedsax, quitting. (Quit: Leaving.)
 [2013-03-11 21:39:36] fpotter, quitting. (Quit: Computer has gone to sleep.)
+[2013-03-11 21:40:22] fpotter, joining. (#appium)
+[2013-03-11 21:44:20] jlipps, quitting. (Read error: Operation timed out)
