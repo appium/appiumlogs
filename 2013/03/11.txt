@@ -123,3 +123,4 @@
 [2013-03-11 18:33:24] sahazel: also, it's an exciting one. makes appium much faster for iOS.
 [2013-03-11 18:54:28] toks, quitting. (Ping timeout: 248 seconds)
 [2013-03-11 19:05:46] fpotter, quitting. (Quit: Computer has gone to sleep.)
+[2013-03-11 19:14:05] admc, quitting. (Quit: Leaving.)
