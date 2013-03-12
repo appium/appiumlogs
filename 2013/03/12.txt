@@ -36,3 +36,4 @@
 [2013-03-12 12:09:19] github-appium, joining. (#appium)
 [2013-03-12 12:09:19] github-appium: [appium] bootstraponline opened pull request #259: Fast reset (master...master)  http://git.io/EF4AfQ
 [2013-03-12 12:09:19] github-appium, leaving. (#appium)
+[2013-03-12 12:14:11] santiycr, joining. (#appium)
