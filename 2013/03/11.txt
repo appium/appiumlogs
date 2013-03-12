@@ -99,3 +99,6 @@
 [2013-03-11 17:08:31] larryg, leaving. (#appium)
 [2013-03-11 17:19:07] fpotter, quitting. (Quit: Computer has gone to sleep.)
 [2013-03-11 17:22:01] santiycr, joining. (#appium)
+[2013-03-11 17:27:38] github-appium, joining. (#appium)
+[2013-03-11 17:27:38] github-appium: [appium] maudineormsby opened pull request #255: Android example (master...master)  http://git.io/iDwYrg
+[2013-03-11 17:27:38] github-appium, leaving. (#appium)
