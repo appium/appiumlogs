@@ -77,3 +77,4 @@
 [2013-03-12 17:32:30] davidko, quitting. (Ping timeout: 264 seconds)
 [2013-03-12 17:32:30] davidko_, changing nick to davidko.
 [2013-03-12 17:34:31] davidko, quitting. (Client Quit)
+[2013-03-12 17:35:52] larryg, quitting. (Read error: Operation timed out)
