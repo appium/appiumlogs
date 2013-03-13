@@ -101,3 +101,4 @@
 [2013-03-12 21:10:53] github-appium: appium/master 8250fe4 Jonathan Lipps: use spinWait for this test that now goes faster
 [2013-03-12 21:10:53] github-appium, leaving. (#appium)
 [2013-03-12 21:19:33] fpotter, joining. (#appium)
+[2013-03-12 21:26:47] sassda, joining. (#appium)
