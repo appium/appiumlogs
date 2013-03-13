@@ -60,3 +60,11 @@
 [2013-03-13 10:34:34] github-appium: appium/master fd37bd5 Jason Carr: Semicolons. Aaaaaah.
 [2013-03-13 10:34:34] github-appium, leaving. (#appium)
 [2013-03-13 11:04:28] admc, joining. (#appium)
+[2013-03-13 11:26:30] stackedsax1: heya jlipps — you have recovered?
+[2013-03-13 11:27:06] jlipps: stackedsax1: strangely enough i'm still feeling pretty bad. out of the woods for sure, but it's taken a while
+[2013-03-13 11:27:25] jlipps: i could make our lunch but i don't think you would be getting the Best Jlipps
+[2013-03-13 11:27:52] sahazel, quitting. (Ping timeout: 252 seconds)
+[2013-03-13 11:28:30] jmathes_, quitting. (Ping timeout: 240 seconds)
+[2013-03-13 11:29:04] jlipps: thoughts? i guess i'm feeling ambivalent
+[2013-03-13 11:29:37] stackedsax1: we can reschedule — no sense in making you come all the way in if you're ill
+[2013-03-13 11:29:56] stackedsax1: we'll still be needing lunch next week :)
