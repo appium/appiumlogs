@@ -102,3 +102,4 @@
 [2013-03-12 21:10:53] github-appium, leaving. (#appium)
 [2013-03-12 21:19:33] fpotter, joining. (#appium)
 [2013-03-12 21:26:47] sassda, joining. (#appium)
+[2013-03-12 22:44:43] sassda, quitting. (Quit: Leaving.)
