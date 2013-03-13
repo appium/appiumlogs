@@ -8,3 +8,4 @@
 [2013-03-13 03:52:57] knorrium_, joining. (#appium)
 [2013-03-13 03:53:12] knorrium, quitting. (Ping timeout: 252 seconds)
 [2013-03-13 03:53:13] knorrium_, changing nick to knorrium.
+[2013-03-13 04:15:45] knorrium, quitting. (Ping timeout: 252 seconds)
