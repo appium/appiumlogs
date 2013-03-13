@@ -88,3 +88,4 @@
 [2013-03-13 13:27:38] jmathes__, joining. (#appium)
 [2013-03-13 13:30:07] sahazel, joining. (#appium)
 [2013-03-13 14:40:25] admc, quitting. (Quit: Leaving.)
+[2013-03-13 14:48:19] santiycr, joining. (#appium)
