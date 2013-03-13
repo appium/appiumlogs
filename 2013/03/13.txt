@@ -82,3 +82,5 @@
 [2013-03-13 12:09:51] github-appium: appium/master d929ca8 Jonathan Lipps: remove orientation test in appiumutils, it's redundant
 [2013-03-13 12:09:51] github-appium: appium/master b8a29c5 Jonathan Lipps: add pickerwheel support
 [2013-03-13 12:09:51] github-appium, leaving. (#appium)
+[2013-03-13 12:22:20] admc, quitting. (Quit: Leaving.)
+[2013-03-13 12:22:31] jlipps, quitting. (Ping timeout: 256 seconds)
