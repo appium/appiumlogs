@@ -74,3 +74,4 @@
 [2013-03-13 11:32:37] stackedsax1: for sure — jlipps at sauce?
 [2013-03-13 11:32:47] jlipps: ya
 [2013-03-13 11:35:58] santiycr, quitting. (Quit: Leaving.)
+[2013-03-13 11:53:53] santiycr, joining. (#appium)
