@@ -74,3 +74,6 @@
 [2013-03-12 16:43:02] smccarthy, quitting. (Remote host closed the connection)
 [2013-03-12 17:13:23] sfbrian, quitting. (Ping timeout: 255 seconds)
 [2013-03-12 17:29:39] davidko_, joining. (#appium)
+[2013-03-12 17:32:30] davidko, quitting. (Ping timeout: 264 seconds)
+[2013-03-12 17:32:30] davidko_, changing nick to davidko.
+[2013-03-12 17:34:31] davidko, quitting. (Client Quit)
