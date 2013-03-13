@@ -10,3 +10,5 @@
 [2013-03-13 03:53:13] knorrium_, changing nick to knorrium.
 [2013-03-13 04:15:45] knorrium, quitting. (Ping timeout: 252 seconds)
 [2013-03-13 06:12:41] sp0cksbeard, joining. (#appium)
+[2013-03-13 06:30:31] stackedsax, joining. (#appium)
+[2013-03-13 06:34:54] stackedsax, quitting. (Ping timeout: 264 seconds)
