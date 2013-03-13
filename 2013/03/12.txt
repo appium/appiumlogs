@@ -93,3 +93,4 @@
 [2013-03-12 20:40:26] github-appium: [appium] jlipps opened pull request #261: misc fixes (master...master)  http://git.io/P5e-pA
 [2013-03-12 20:40:26] github-appium, leaving. (#appium)
 [2013-03-12 20:46:37] stackedsax, joining. (#appium)
+[2013-03-12 20:58:55] fpotter, quitting. (Quit: Computer has gone to sleep.)
