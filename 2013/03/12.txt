@@ -105,3 +105,4 @@
 [2013-03-12 22:44:43] sassda, quitting. (Quit: Leaving.)
 [2013-03-12 23:02:38] fpotter, quitting. (Quit: Computer has gone to sleep.)
 [2013-03-12 23:03:03] fpotter, joining. (#appium)
+[2013-03-12 23:16:56] fpotter, quitting. (Quit: Computer has gone to sleep.)
