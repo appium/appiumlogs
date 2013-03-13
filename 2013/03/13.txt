@@ -97,3 +97,4 @@
 [2013-03-13 16:07:41] santiycr, quitting. (Ping timeout: 255 seconds)
 [2013-03-13 16:09:43] larryg, quitting. (Quit: Leaving.)
 [2013-03-13 16:10:48] larryg, joining. (#appium)
+[2013-03-13 16:24:03] admc, joining. (#appium)
