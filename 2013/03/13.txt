@@ -75,3 +75,4 @@
 [2013-03-13 11:32:47] jlipps: ya
 [2013-03-13 11:35:58] santiycr, quitting. (Quit: Leaving.)
 [2013-03-13 11:53:53] santiycr, joining. (#appium)
+[2013-03-13 12:00:12] santiycr, quitting. (Quit: Leaving.)
