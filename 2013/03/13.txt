@@ -52,3 +52,10 @@
 [2013-03-13 10:18:51] larryg, joining. (#appium)
 [2013-03-13 10:24:19] toks, joining. (#appium)
 [2013-03-13 10:25:28] santiycr, joining. (#appium)
+[2013-03-13 10:31:48] jlipps, joining. (#appium)
+[2013-03-13 10:34:34] github-appium, joining. (#appium)
+[2013-03-13 10:34:34] github-appium: [appium] jlipps pushed 4 new commits to master: http://git.io/UpSlQw
+[2013-03-13 10:34:34] github-appium: appium/master 5894388 Jason Carr: Add elementDisplayed and test for remote debugger.
+[2013-03-13 10:34:34] github-appium: appium/master 79fba00 Jason Carr: isEnabled and test for remote.
+[2013-03-13 10:34:34] github-appium: appium/master fd37bd5 Jason Carr: Semicolons. Aaaaaah.
+[2013-03-13 10:34:34] github-appium, leaving. (#appium)
