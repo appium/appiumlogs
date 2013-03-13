@@ -84,3 +84,4 @@
 [2013-03-13 12:09:51] github-appium, leaving. (#appium)
 [2013-03-13 12:22:20] admc, quitting. (Quit: Leaving.)
 [2013-03-13 12:22:31] jlipps, quitting. (Ping timeout: 256 seconds)
+[2013-03-13 13:15:07] admc, joining. (#appium)
