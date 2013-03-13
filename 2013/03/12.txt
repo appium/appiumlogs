@@ -78,3 +78,4 @@
 [2013-03-12 17:32:30] davidko_, changing nick to davidko.
 [2013-03-12 17:34:31] davidko, quitting. (Client Quit)
 [2013-03-12 17:35:52] larryg, quitting. (Read error: Operation timed out)
+[2013-03-12 18:08:58] fpotter, quitting. (Quit: Computer has gone to sleep.)
