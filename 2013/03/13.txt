@@ -29,3 +29,5 @@
 [2013-03-13 08:44:50] stackedsax, quitting. (Quit: Leaving.)
 [2013-03-13 08:49:25] smccarthy, joining. (#appium)
 [2013-03-13 09:14:20] stackedsax, joining. (#appium)
+[2013-03-13 09:15:40] stackedsax, quitting. (Read error: Connection reset by peer)
+[2013-03-13 09:18:18] stackedsax, joining. (#appium)
