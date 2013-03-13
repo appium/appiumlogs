@@ -15,3 +15,6 @@
 [2013-03-13 07:13:53] Guest71177, joining. (#appium)
 [2013-03-13 07:14:45] *Guest71177 rakesh'
 [2013-03-13 07:15:00] Guest71177: is anyone alive here , or is it too late?
+[2013-03-13 07:16:43] Guest71177, quitting. (Client Quit)
+[2013-03-13 07:16:50] rakeshcherian, joining. (#appium)
+[2013-03-13 07:17:15] rakeshcherian: I would like to get help on appium running on iOs,
