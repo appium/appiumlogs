@@ -19,3 +19,4 @@
 [2013-03-13 07:16:50] rakeshcherian, joining. (#appium)
 [2013-03-13 07:17:15] rakeshcherian: I would like to get help on appium running on iOs,
 [2013-03-13 07:24:21] sp0cksbeard: you might need to be more specific to get help
+[2013-03-13 07:54:53] sdaniel, joining. (#appium)
