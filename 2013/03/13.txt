@@ -20,3 +20,8 @@
 [2013-03-13 07:17:15] rakeshcherian: I would like to get help on appium running on iOs,
 [2013-03-13 07:24:21] sp0cksbeard: you might need to be more specific to get help
 [2013-03-13 07:54:53] sdaniel, joining. (#appium)
+[2013-03-13 07:57:54] rakeshcherian: ah sorry sp0cksbeard
+[2013-03-13 07:58:21] rakeshcherian: https://groups.google.com/forum/?fromgroups=#!topic/appium-discuss/6eieJV5uVrQ
+[2013-03-13 07:58:24] rakeshcherian: thats my issue.
+[2013-03-13 07:58:32] rakeshcherian: still stuck :'(
+[2013-03-13 07:58:50] sdaniel, quitting. (Client Quit)
