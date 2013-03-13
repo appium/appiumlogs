@@ -91,3 +91,5 @@
 [2013-03-13 14:48:19] santiycr, joining. (#appium)
 [2013-03-13 15:23:43] larryg, quitting. (Quit: Leaving.)
 [2013-03-13 15:31:49] larryg, joining. (#appium)
+[2013-03-13 15:55:29] santiycr, quitting. (Quit: Leaving.)
+[2013-03-13 16:00:00] santiycr, joining. (#appium)
