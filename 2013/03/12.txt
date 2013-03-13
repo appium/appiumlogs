@@ -88,3 +88,4 @@
 [2013-03-12 20:28:09] santiycr, quitting. (Quit: Leaving.)
 [2013-03-12 20:30:45] admc1, joining. (#appium)
 [2013-03-12 20:31:20] admc1, leaving. (#appium)
+[2013-03-12 20:35:59] fpotter, joining. (#appium)
