@@ -81,3 +81,4 @@
 [2013-03-12 18:08:58] fpotter, quitting. (Quit: Computer has gone to sleep.)
 [2013-03-12 18:41:34] stackedsax, quitting. (Quit: Leaving.)
 [2013-03-12 18:53:34] sdaniel, quitting. (Quit: Leaving.)
+[2013-03-12 18:55:55] toks, quitting. (Ping timeout: 260 seconds)
