@@ -1,0 +1,3 @@
+[2013-03-13 00:01:02] github-appium, joining. (#appium)
+[2013-03-13 00:01:02] github-appium: [appium] maudineormsby opened pull request #262: Add isEnabled and isDisplayed for the remote protocol, plus tests (master...master)  http://git.io/WR-zag
+[2013-03-13 00:01:02] github-appium, leaving. (#appium)
