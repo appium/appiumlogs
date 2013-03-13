@@ -51,3 +51,4 @@
 [2013-03-13 10:13:13] sdaniel, joining. (#appium)
 [2013-03-13 10:18:51] larryg, joining. (#appium)
 [2013-03-13 10:24:19] toks, joining. (#appium)
+[2013-03-13 10:25:28] santiycr, joining. (#appium)
