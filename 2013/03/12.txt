@@ -89,3 +89,6 @@
 [2013-03-12 20:30:45] admc1, joining. (#appium)
 [2013-03-12 20:31:20] admc1, leaving. (#appium)
 [2013-03-12 20:35:59] fpotter, joining. (#appium)
+[2013-03-12 20:40:26] github-appium, joining. (#appium)
+[2013-03-12 20:40:26] github-appium: [appium] jlipps opened pull request #261: misc fixes (master...master)  http://git.io/P5e-pA
+[2013-03-12 20:40:26] github-appium, leaving. (#appium)
