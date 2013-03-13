@@ -94,3 +94,9 @@
 [2013-03-12 20:40:26] github-appium, leaving. (#appium)
 [2013-03-12 20:46:37] stackedsax, joining. (#appium)
 [2013-03-12 20:58:55] fpotter, quitting. (Quit: Computer has gone to sleep.)
+[2013-03-12 21:10:53] github-appium, joining. (#appium)
+[2013-03-12 21:10:53] github-appium: [appium] maudineormsby pushed 6 new commits to master: http://git.io/2YZyBw
+[2013-03-12 21:10:53] github-appium: appium/master 2d0e3dd Jonathan Lipps: fix text with correct displayed behavior
+[2013-03-12 21:10:53] github-appium: appium/master bcc50ad Jonathan Lipps: stub out spin helpers
+[2013-03-12 21:10:53] github-appium: appium/master 8250fe4 Jonathan Lipps: use spinWait for this test that now goes faster
+[2013-03-12 21:10:53] github-appium, leaving. (#appium)
