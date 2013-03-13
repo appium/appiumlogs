@@ -82,3 +82,4 @@
 [2013-03-12 18:41:34] stackedsax, quitting. (Quit: Leaving.)
 [2013-03-12 18:53:34] sdaniel, quitting. (Quit: Leaving.)
 [2013-03-12 18:55:55] toks, quitting. (Ping timeout: 260 seconds)
+[2013-03-12 19:12:56] sassda, quitting. (Ping timeout: 245 seconds)
