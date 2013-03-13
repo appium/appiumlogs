@@ -50,3 +50,4 @@
 [2013-03-13 09:53:33] sfbrian, joining. (#appium)
 [2013-03-13 10:13:13] sdaniel, joining. (#appium)
 [2013-03-13 10:18:51] larryg, joining. (#appium)
+[2013-03-13 10:24:19] toks, joining. (#appium)
