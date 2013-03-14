@@ -103,3 +103,13 @@
 [2013-03-14 14:44:15] toks: let's see... what else is different about standalone firefox
 [2013-03-14 14:44:24] toks: location has the full url
 [2013-03-14 14:47:50] toks: testing...
+[2013-03-14 14:50:07] toks: hmm
+[2013-03-14 14:51:40] toks: okay...err
+[2013-03-14 14:51:53] toks: so changing the controller to give full path in Location worked
+[2013-03-14 14:52:01] toks: and the 302
+[2013-03-14 14:52:57] toks: now...
+[2013-03-14 14:53:31] toks: erm
+[2013-03-14 14:53:51] toks: so I need to figure out how to see the Referer for the createSession request
+[2013-03-14 14:54:08] toks: because I had to patch in the location of where the request came from into the URL
+[2013-03-14 14:54:19] toks: (manually)
+[2013-03-14 14:54:49] toks: in my case, machine 1 was doing the driver=webdriver.Remote() .....and it was running selenium grid
