@@ -126,3 +126,5 @@
 [2013-03-13 18:40:09] stackedsax, quitting. (Client Quit)
 [2013-03-13 19:11:17] toks, quitting. (Ping timeout: 246 seconds)
 [2013-03-13 19:19:21] santiycr1, quitting. (Quit: Leaving.)
+[2013-03-13 19:52:30] stackedsax, joining. (#appium)
+[2013-03-13 19:53:49] admc, quitting. (Quit: Leaving.)
