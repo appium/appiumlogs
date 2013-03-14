@@ -138,3 +138,4 @@
 [2013-03-13 21:18:06] fpotter, quitting. (Quit: Computer has gone to sleep.)
 [2013-03-13 21:20:25] sdaniel1, joining. (#appium)
 [2013-03-13 21:22:36] sdaniel, quitting. (Ping timeout: 276 seconds)
+[2013-03-13 21:42:13] fpotter, joining. (#appium)
