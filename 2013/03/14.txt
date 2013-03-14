@@ -22,3 +22,11 @@
 [2013-03-14 10:13:05] admc, joining. (#appium)
 [2013-03-14 10:18:20] larryg, joining. (#appium)
 [2013-03-14 10:40:38] toks, joining. (#appium)
+[2013-03-14 10:51:21] toks: so...
+[2013-03-14 10:51:21] sdaniel, joining. (#appium)
+[2013-03-14 10:51:28] toks: ....no jlipps
+[2013-03-14 10:51:35] toks: okay, I guess I'll open an issue
+[2013-03-14 10:51:48] toks: but appium doesn't seem to be happy with selenium grid
+[2013-03-14 10:52:08] toks: the app starts, but no other commands seem to make it
+[2013-03-14 10:52:14] toks: gonna wireshark it now
+[2013-03-14 10:52:56] toks: try to see the difference between talking to server.js directly versus through the grid
