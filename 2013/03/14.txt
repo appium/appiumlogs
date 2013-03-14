@@ -134,3 +134,8 @@
 [2013-03-14 15:48:11] toks: I can't start appium from the repo
 [2013-03-14 15:48:30] toks: keeps telling me File not found <bundleID>/Info.plist
 [2013-03-14 15:48:42] toks: but the system installed appium works fine
+[2013-03-14 15:50:54] danc1, leaving. (#appium)
+[2013-03-14 15:50:59] danc1, joining. (#appium)
+[2013-03-14 15:54:19] toks: readme doesn't work anymore
+[2013-03-14 15:54:29] toks: can't clone appium then run "node server.js"
+[2013-03-14 15:54:40] toks: you'll get an Info.plist not found error
