@@ -139,3 +139,10 @@
 [2013-03-14 15:54:19] toks: readme doesn't work anymore
 [2013-03-14 15:54:29] toks: can't clone appium then run "node server.js"
 [2013-03-14 15:54:40] toks: you'll get an Info.plist not found error
+[2013-03-14 16:02:01] toks: ....heh
+[2013-03-14 16:02:02] toks: hey
+[2013-03-14 16:02:57] toks: now that I've refreshed my repo and everything
+[2013-03-14 16:03:05] toks: and reinstalled appium globally
+[2013-03-14 16:03:27] toks: I keep getting bundleID/Info.plist not found
+[2013-03-14 16:04:03] toks: yeah, now I can't use appium for iOS at all
+[2013-03-14 16:04:24] stackedsax1, joining. (#appium)
