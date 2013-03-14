@@ -121,3 +121,4 @@
 [2013-03-14 14:56:47] toks: then you'll reject it showing me how very wrong I was.
 [2013-03-14 14:56:55] toks: and give me the proper solution ;)
 [2013-03-14 14:57:12] larryg, joining. (#appium)
+[2013-03-14 15:19:01] stackedsax, joining. (#appium)
