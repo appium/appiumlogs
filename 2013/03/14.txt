@@ -19,3 +19,4 @@
 [2013-03-14 09:59:33] fpotter, joining. (#appium)
 [2013-03-14 10:03:00] stackedsax1, joining. (#appium)
 [2013-03-14 10:05:26] stackedsax, quitting. (Ping timeout: 245 seconds)
+[2013-03-14 10:13:05] admc, joining. (#appium)
