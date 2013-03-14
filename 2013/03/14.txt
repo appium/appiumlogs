@@ -49,3 +49,4 @@
 [2013-03-14 12:55:21] santiycr, joining. (#appium)
 [2013-03-14 13:10:13] santiycr, quitting. (Quit: Leaving.)
 [2013-03-14 13:14:53] santiycr, joining. (#appium)
+[2013-03-14 13:39:30] sassda, quitting. (Quit: Leaving.)
