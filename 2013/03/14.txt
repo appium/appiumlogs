@@ -94,3 +94,11 @@
 [2013-03-14 14:35:56] larryg1, quitting. (Quit: Leaving.)
 [2013-03-14 14:39:39] toks: hmm
 [2013-03-14 14:39:46] toks: er
+[2013-03-14 14:40:06] toks: having trouble starting the github build
+[2013-03-14 14:40:14] toks: but I know it's on my side
+[2013-03-14 14:40:16] toks: hold on
+[2013-03-14 14:41:20] toks: whatever... changing global install of appium
+[2013-03-14 14:42:57] toks: hmmm
+[2013-03-14 14:43:02] toks: didn't work!
+[2013-03-14 14:44:15] toks: let's see... what else is different about standalone firefox
+[2013-03-14 14:44:24] toks: location has the full url
