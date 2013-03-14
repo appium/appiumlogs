@@ -82,3 +82,12 @@
 [2013-03-14 14:29:25] *toks spots ./app/routing.js'
 [2013-03-14 14:29:36] toks: controller.createSession
 [2013-03-14 14:29:39] toks: ...ok
+[2013-03-14 14:30:24] toks: located
+[2013-03-14 14:30:30] toks: changing and testing....
+[2013-03-14 14:30:44] toks: (line 135 of controller.js)
+[2013-03-14 14:32:16] jlipps: toks doesn't selenium spec require a 303?
+[2013-03-14 14:32:43] smccarthy, quitting. (Read error: Connection reset by peer)
+[2013-03-14 14:32:56] toks: doesn't seem that way
+[2013-03-14 14:33:08] smccarthy, joining. (#appium)
+[2013-03-14 14:33:09] toks: check out my ticket, selenium standalone is sending 302
+[2013-03-14 14:33:16] toks: I'm testing now...
