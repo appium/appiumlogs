@@ -76,3 +76,9 @@
 [2013-03-14 14:23:54] toks: so, now that you're all settled in .... ;)
 [2013-03-14 14:23:55] toks: https://github.com/appium/appium/issues/271
 [2013-03-14 14:24:14] toks: I needz me some selgrid action!
+[2013-03-14 14:25:04] toks: I'm searching appium's code for when/how it replies 303 to the /wd/hub/session
+[2013-03-14 14:25:16] toks: wanna make it 302
+[2013-03-14 14:29:21] stackedsax, quitting. (Quit: Leaving.)
+[2013-03-14 14:29:25] *toks spots ./app/routing.js'
+[2013-03-14 14:29:36] toks: controller.createSession
+[2013-03-14 14:29:39] toks: ...ok
