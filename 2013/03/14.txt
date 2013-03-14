@@ -129,3 +129,8 @@
 [2013-03-14 15:34:55] admc, joining. (#appium)
 [2013-03-14 15:35:44] toks: okay got it
 [2013-03-14 15:37:24] toks: pull request is incoming
+[2013-03-14 15:48:05] toks: argu
+[2013-03-14 15:48:06] toks: argh
+[2013-03-14 15:48:11] toks: I can't start appium from the repo
+[2013-03-14 15:48:30] toks: keeps telling me File not found <bundleID>/Info.plist
+[2013-03-14 15:48:42] toks: but the system installed appium works fine
