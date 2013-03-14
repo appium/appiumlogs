@@ -62,3 +62,7 @@
 [2013-03-14 14:11:41] stackedsax, quitting. (Ping timeout: 245 seconds)
 [2013-03-14 14:12:26] stackedsax, joining. (#appium)
 [2013-03-14 14:14:21] toks: appium & grid! https://github.com/appium/appium/issues/271
+[2013-03-14 14:15:21] toks: My guess is if appium responded 302 to Grid, things would be okay
+[2013-03-14 14:15:46] toks: gonna try patching it myself and see whu huppunz
+[2013-03-14 14:16:57] toks: The python selenium driver can probably handle both 302 & 303, but the grid can only handle 302.... is my guess
+[2013-03-14 14:17:16] *toks tires stuff....'
