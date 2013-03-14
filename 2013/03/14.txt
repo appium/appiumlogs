@@ -146,3 +146,6 @@
 [2013-03-14 16:03:27] toks: I keep getting bundleID/Info.plist not found
 [2013-03-14 16:04:03] toks: yeah, now I can't use appium for iOS at all
 [2013-03-14 16:04:24] stackedsax1, joining. (#appium)
+[2013-03-14 16:05:05] toks: anyone there?
+[2013-03-14 16:05:25] toks: :(
+[2013-03-14 16:06:31] stackedsax, quitting. (Ping timeout: 264 seconds)
