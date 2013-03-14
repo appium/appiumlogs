@@ -127,3 +127,5 @@
 [2013-03-14 15:30:24] sp0cksbeard, quitting. (Quit: sp0cksbeard)
 [2013-03-14 15:34:43] sassda, joining. (#appium)
 [2013-03-14 15:34:55] admc, joining. (#appium)
+[2013-03-14 15:35:44] toks: okay got it
+[2013-03-14 15:37:24] toks: pull request is incoming
