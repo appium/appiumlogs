@@ -52,3 +52,4 @@
 [2013-03-14 13:39:30] sassda, quitting. (Quit: Leaving.)
 [2013-03-14 13:44:19] sassda, joining. (#appium)
 [2013-03-14 13:45:33] stackedsax, joining. (#appium)
+[2013-03-14 13:53:34] admc, quitting. (Quit: Leaving.)
