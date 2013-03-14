@@ -139,3 +139,6 @@
 [2013-03-13 21:20:25] sdaniel1, joining. (#appium)
 [2013-03-13 21:22:36] sdaniel, quitting. (Ping timeout: 276 seconds)
 [2013-03-13 21:42:13] fpotter, joining. (#appium)
+[2013-03-13 22:09:09] github-appium, joining. (#appium)
+[2013-03-13 22:09:09] github-appium: [appium] maudineormsby opened pull request #266: Make appium accept selenium's args for execute script (master...master)  https://github.com/appium/appium/pull/266
+[2013-03-13 22:09:09] github-appium, leaving. (#appium)
