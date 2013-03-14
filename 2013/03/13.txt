@@ -128,3 +128,9 @@
 [2013-03-13 19:19:21] santiycr1, quitting. (Quit: Leaving.)
 [2013-03-13 19:52:30] stackedsax, joining. (#appium)
 [2013-03-13 19:53:49] admc, quitting. (Quit: Leaving.)
+[2013-03-13 21:12:18] github-appium, joining. (#appium)
+[2013-03-13 21:12:19] github-appium: [appium] Rorosha opened pull request #265: Updated sauce.py example to include pass/fail reporting. (master...master)  http://git.io/E03A0A
+[2013-03-13 21:12:19] github-appium, leaving. (#appium)
+[2013-03-13 21:13:09] sp0cksbeard_, joining. (#appium)
+[2013-03-13 21:13:14] sp0cksbeard, quitting. (Read error: Connection reset by peer)
+[2013-03-13 21:13:15] sp0cksbeard_, changing nick to sp0cksbeard.
