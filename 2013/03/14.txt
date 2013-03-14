@@ -56,3 +56,6 @@
 [2013-03-14 13:58:26] toks: okay
 [2013-03-14 13:58:28] toks: so...
 [2013-03-14 13:58:35] toks: appium + grid, no go
+[2013-03-14 14:04:33] github-appium, joining. (#appium)
+[2013-03-14 14:04:34] github-appium: [appium] jlipps opened pull request #270: add mobile: findAndAct method (master...master)  http://git.io/IUOIMA
+[2013-03-14 14:04:34] github-appium, leaving. (#appium)
