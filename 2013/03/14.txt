@@ -154,3 +154,6 @@
 [2013-03-14 16:14:08] toks: I see
 [2013-03-14 16:14:22] toks: appium has been changed to always need to source
 [2013-03-14 16:14:50] toks: before, --app wouldn't need the Info.plist from source
+[2013-03-14 16:23:08] toks: okay
+[2013-03-14 16:23:14] toks: so... now I'm back to what was doin
+[2013-03-14 16:23:20] toks: pull request on its way
