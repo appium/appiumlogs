@@ -53,3 +53,6 @@
 [2013-03-14 13:44:19] sassda, joining. (#appium)
 [2013-03-14 13:45:33] stackedsax, joining. (#appium)
 [2013-03-14 13:53:34] admc, quitting. (Quit: Leaving.)
+[2013-03-14 13:58:26] toks: okay
+[2013-03-14 13:58:28] toks: so...
+[2013-03-14 13:58:35] toks: appium + grid, no go
