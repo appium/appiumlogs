@@ -102,3 +102,4 @@
 [2013-03-14 14:43:02] toks: didn't work!
 [2013-03-14 14:44:15] toks: let's see... what else is different about standalone firefox
 [2013-03-14 14:44:24] toks: location has the full url
+[2013-03-14 14:47:50] toks: testing...
