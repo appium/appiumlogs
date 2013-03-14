@@ -2,3 +2,5 @@
 [2013-03-14 00:17:48] github-appium: [appium] bootstraponline opened pull request #267: Improve fast reset (master...master)  http://git.io/5-yoeA
 [2013-03-14 00:17:48] github-appium, leaving. (#appium)
 [2013-03-14 01:02:33] stackedsax, quitting. (Quit: Leaving.)
+[2013-03-14 08:16:04] sdaniel, joining. (#appium)
+[2013-03-14 08:19:14] sdaniel1, joining. (#appium)
