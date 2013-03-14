@@ -110,3 +110,6 @@
 [2013-03-13 18:04:20] toks: nobody here
 [2013-03-13 18:04:26] toks: er
 [2013-03-13 18:04:42] toks: specifically I was looking for jlipps
+[2013-03-13 18:05:04] toks: so, I guess appium doesn't work with 2 iPhones
+[2013-03-13 18:05:40] toks: as in.. 2 appium processes on one macosx
+[2013-03-13 18:05:51] *toks does more tests'
