@@ -30,3 +30,5 @@
 [2013-03-14 10:52:08] toks: the app starts, but no other commands seem to make it
 [2013-03-14 10:52:14] toks: gonna wireshark it now
 [2013-03-14 10:52:56] toks: try to see the difference between talking to server.js directly versus through the grid
+[2013-03-14 11:01:24] sdaniel, quitting. (Ping timeout: 256 seconds)
+[2013-03-14 11:02:54] sdaniel, joining. (#appium)
