@@ -160,3 +160,6 @@
 [2013-03-14 16:34:49] github-appium, joining. (#appium)
 [2013-03-14 16:34:49] github-appium: [appium] tokunbo opened pull request #272: Fixed for Selenium Grid 2.31.0... Good times for all! (master...master)  http://git.io/7BhMjw
 [2013-03-14 16:34:49] github-appium, leaving. (#appium)
+[2013-03-14 16:36:10] toks: jlipps: https://github.com/appium/appium/pull/272
+[2013-03-14 16:36:15] toks: ^_^
+[2013-03-14 16:36:18] toks: yattaze!
