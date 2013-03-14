@@ -114,3 +114,10 @@
 [2013-03-13 18:05:40] toks: as in.. 2 appium processes on one macosx
 [2013-03-13 18:05:51] *toks does more tests'
 [2013-03-13 18:24:37] larryg, quitting. (Ping timeout: 256 seconds)
+[2013-03-13 18:25:27] sdaniel, quitting. (Quit: Leaving.)
+[2013-03-13 18:26:05] toks: oh wait
+[2013-03-13 18:26:07] toks: no
+[2013-03-13 18:26:15] toks: Appium no longer works with SeleniumGrid
+[2013-03-13 18:26:17] toks: that's the issue
+[2013-03-13 18:26:32] toks: If I send my tests direct at appium, works fine
+[2013-03-13 18:27:05] toks: if I send my tests to the grid that sends to appium, the application starts but apparently appium doesn't answer back to grid.
