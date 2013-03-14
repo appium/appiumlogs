@@ -149,3 +149,8 @@
 [2013-03-14 16:05:05] toks: anyone there?
 [2013-03-14 16:05:25] toks: :(
 [2013-03-14 16:06:31] stackedsax, quitting. (Ping timeout: 264 seconds)
+[2013-03-14 16:12:07] toks: :(
+[2013-03-14 16:14:07] toks: ooohhhh
+[2013-03-14 16:14:08] toks: I see
+[2013-03-14 16:14:22] toks: appium has been changed to always need to source
+[2013-03-14 16:14:50] toks: before, --app wouldn't need the Info.plist from source
