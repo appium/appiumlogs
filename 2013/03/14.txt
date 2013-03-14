@@ -16,3 +16,4 @@
 [2013-03-14 09:31:42] davidko, joining. (#appium)
 [2013-03-14 09:50:46] sassda, joining. (#appium)
 [2013-03-14 09:51:26] stackedsax, joining. (#appium)
+[2013-03-14 09:59:33] fpotter, joining. (#appium)
