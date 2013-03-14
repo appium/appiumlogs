@@ -35,3 +35,8 @@
 [2013-03-14 11:12:33] rodericj, joining. (#appium)
 [2013-03-14 12:05:12] larryg1, joining. (#appium)
 [2013-03-14 12:07:29] larryg, quitting. (Ping timeout: 252 seconds)
+[2013-03-14 12:32:10] github-appium, joining. (#appium)
+[2013-03-14 12:32:10] github-appium: [appium] jlipps pushed 2 new commits to master: http://git.io/0vbRsA
+[2013-03-14 12:32:10] github-appium: appium/master 2e9baa0 Jonathan Lipps: allow x/y values to be independent
+[2013-03-14 12:32:10] github-appium: appium/master 8a013ce Jonathan Lipps: allow secure text fields to be sent keys to
+[2013-03-14 12:32:10] github-appium, leaving. (#appium)
