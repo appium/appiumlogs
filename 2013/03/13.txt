@@ -106,3 +106,7 @@
 [2013-03-13 17:29:29] davidko_, quitting. (Client Quit)
 [2013-03-13 17:31:40] davidko, quitting. (Ping timeout: 245 seconds)
 [2013-03-13 17:43:33] sassda, quitting. (Ping timeout: 276 seconds)
+[2013-03-13 18:04:15] toks: oh....
+[2013-03-13 18:04:20] toks: nobody here
+[2013-03-13 18:04:26] toks: er
+[2013-03-13 18:04:42] toks: specifically I was looking for jlipps
