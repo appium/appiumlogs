@@ -101,3 +101,6 @@
 [2013-03-13 16:27:04] larryg, quitting. (Quit: Leaving.)
 [2013-03-13 16:27:40] smccarthy, quitting. (Remote host closed the connection)
 [2013-03-13 16:28:02] larryg, joining. (#appium)
+[2013-03-13 17:27:00] sfbrian, quitting. (Ping timeout: 248 seconds)
+[2013-03-13 17:28:09] davidko_, joining. (#appium)
+[2013-03-13 17:29:29] davidko_, quitting. (Client Quit)
