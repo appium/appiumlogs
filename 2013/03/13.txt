@@ -145,3 +145,10 @@
 [2013-03-13 22:11:35] fpotter, quitting. (Quit: Computer has gone to sleep.)
 [2013-03-13 22:13:47] sdaniel1, quitting. (Quit: Leaving.)
 [2013-03-13 22:32:05] fpotter, joining. (#appium)
+[2013-03-13 23:47:42] github-appium, joining. (#appium)
+[2013-03-13 23:47:42] github-appium: [appium] jlipps pushed 5 new commits to master: http://git.io/3_vSrQ
+[2013-03-13 23:47:42] github-appium: appium/master 3178d2d Jason Carr: Make execute script compatible with the selenium server args that are passed with execute script calls.
+[2013-03-13 23:47:42] github-appium: appium/master 071578f Jason Carr: Test should use el.value not hardcoded numbers.
+[2013-03-13 23:47:42] github-appium: appium/master 4416c4d Jason Carr: Actually catch issues with bad elements
+[2013-03-13 23:47:42] github-appium, leaving. (#appium)
+[2013-03-13 23:49:15] santiycr, joining. (#appium)
