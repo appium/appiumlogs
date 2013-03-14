@@ -144,3 +144,4 @@
 [2013-03-13 22:09:09] github-appium, leaving. (#appium)
 [2013-03-13 22:11:35] fpotter, quitting. (Quit: Computer has gone to sleep.)
 [2013-03-13 22:13:47] sdaniel1, quitting. (Quit: Leaving.)
+[2013-03-13 22:32:05] fpotter, joining. (#appium)
