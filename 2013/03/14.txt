@@ -91,3 +91,6 @@
 [2013-03-14 14:33:08] smccarthy, joining. (#appium)
 [2013-03-14 14:33:09] toks: check out my ticket, selenium standalone is sending 302
 [2013-03-14 14:33:16] toks: I'm testing now...
+[2013-03-14 14:35:56] larryg1, quitting. (Quit: Leaving.)
+[2013-03-14 14:39:39] toks: hmm
+[2013-03-14 14:39:46] toks: er
