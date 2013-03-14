@@ -152,3 +152,4 @@
 [2013-03-13 23:47:42] github-appium: appium/master 4416c4d Jason Carr: Actually catch issues with bad elements
 [2013-03-13 23:47:42] github-appium, leaving. (#appium)
 [2013-03-13 23:49:15] santiycr, joining. (#appium)
+[2013-03-13 23:51:40] santiycr, quitting. (Client Quit)
