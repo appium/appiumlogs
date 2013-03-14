@@ -121,3 +121,5 @@
 [2013-03-13 18:26:17] toks: that's the issue
 [2013-03-13 18:26:32] toks: If I send my tests direct at appium, works fine
 [2013-03-13 18:27:05] toks: if I send my tests to the grid that sends to appium, the application starts but apparently appium doesn't answer back to grid.
+[2013-03-13 18:37:19] stackedsax1, quitting. (Quit: Leaving.)
+[2013-03-13 18:39:07] stackedsax, joining. (#appium)
