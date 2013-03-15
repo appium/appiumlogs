@@ -28,3 +28,4 @@
 [2013-03-15 06:13:41] rodericj, quitting. (Ping timeout: 255 seconds)
 [2013-03-15 06:18:25] sp0cksbeard, joining. (#appium)
 [2013-03-15 06:40:57] rodericj, joining. (#appium)
+[2013-03-15 07:05:01] rodericj, quitting. (Ping timeout: 256 seconds)
