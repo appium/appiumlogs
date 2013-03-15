@@ -86,3 +86,4 @@
 [2013-03-15 14:22:44] github-appium, leaving. (#appium)
 [2013-03-15 14:34:51] sassda1, joining. (#appium)
 [2013-03-15 14:35:50] sp0cksbeard, quitting. (Quit: sp0cksbeard)
+[2013-03-15 14:47:39] fpotter, quitting. (Quit: Computer has gone to sleep.)
