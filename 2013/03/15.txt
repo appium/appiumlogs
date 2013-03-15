@@ -57,3 +57,4 @@
 [2013-03-15 10:21:50] rodericj, quitting. (Ping timeout: 256 seconds)
 [2013-03-15 10:24:27] fpotter, joining. (#appium)
 [2013-03-15 10:31:59] stackedsax, quitting. (Quit: Leaving.)
+[2013-03-15 10:48:50] fpotter, quitting. (Quit: Computer has gone to sleep.)
