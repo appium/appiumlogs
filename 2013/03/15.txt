@@ -69,3 +69,6 @@
 [2013-03-15 11:49:47] *toks runs around in triangles'
 [2013-03-15 11:54:58] admc, joining. (#appium)
 [2013-03-15 12:43:55] admc, quitting. (Quit: Leaving.)
+[2013-03-15 13:06:57] github-appium, joining. (#appium)
+[2013-03-15 13:06:57] github-appium: [appium] bootstraponline opened pull request #276: Page source (master...page_source)  http://git.io/VRBHoA
+[2013-03-15 13:06:57] github-appium, leaving. (#appium)
