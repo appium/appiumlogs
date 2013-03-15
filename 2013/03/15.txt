@@ -92,3 +92,5 @@
 [2013-03-15 15:04:51] toks: January 17th, 2013 12:26 PM
 [2013-03-15 15:04:52] toks: Hi Folks! We've updated our iPhone Simulator tool to support xCode 4.5.2. Please download the latest version here:
 [2013-03-15 15:04:57] toks: So the project still lives
+[2013-03-15 15:05:40] toks: multiple Simulators on the same device
+[2013-03-15 15:05:49] toks: (same mac)
