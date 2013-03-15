@@ -101,3 +101,8 @@
 [2013-03-15 15:41:40] davidko, quitting. (Quit: davidko)
 [2013-03-15 15:45:10] davidko, joining. (#appium)
 [2013-03-15 15:54:10] fpotter, quitting. (Quit: Computer has gone to sleep.)
+[2013-03-15 16:00:19] toks: I think it's odd that instruments doesn't tell you that it cannot run more than one copy
+[2013-03-15 16:00:25] toks: that just... hangs
+[2013-03-15 16:00:40] toks: I can lauch multiple processes of instruments
+[2013-03-15 16:00:55] toks: it's just when it comes time for appium to use them, something happens
+[2013-03-15 16:02:40] toks: I'm trying to see if I can use instruments outside of appium to verify that it's instruments that can't control 2 devices at the same time
