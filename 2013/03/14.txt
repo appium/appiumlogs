@@ -189,3 +189,4 @@
 [2013-03-14 18:18:44] sassda1, quitting. (Ping timeout: 252 seconds)
 [2013-03-14 18:20:29] fpotter, quitting. (Quit: Computer has gone to sleep.)
 [2013-03-14 18:21:29] larryg, quitting. (Client Quit)
+[2013-03-14 18:28:16] sp0cksbeard, joining. (#appium)
