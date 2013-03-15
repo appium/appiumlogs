@@ -1,3 +1,11 @@
 [2013-03-15 00:19:23] rodericj, joining. (#appium)
 [2013-03-15 00:29:45] stackedsax, quitting. (Quit: Leaving.)
 [2013-03-15 00:39:02] rodericj, quitting. (Ping timeout: 252 seconds)
+[2013-03-15 00:46:16] github-appium, joining. (#appium)
+[2013-03-15 00:46:16] github-appium: [appium] maudineormsby opened pull request #274: Add getUrl and test (master...master)  http://git.io/wnUl5Q
+[2013-03-15 00:46:16] github-appium, leaving. (#appium)
+[2013-03-15 00:46:32] github-appium, joining. (#appium)
+[2013-03-15 00:46:33] github-appium: [appium] admc pushed 2 new commits to master: http://git.io/nssobQ
+[2013-03-15 00:46:33] github-appium: appium/master ba51817 Jason Carr: Add getUrl and test
+[2013-03-15 00:46:33] github-appium: appium/master 81ec8c8 Adam Christian: Merge pull request #274 from maudineormsby/master...
+[2013-03-15 00:46:33] github-appium, leaving. (#appium)
