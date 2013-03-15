@@ -84,3 +84,4 @@
 [2013-03-15 14:22:44] github-appium: appium/master dc96be5 bootstraponline: Add page_source for Android
 [2013-03-15 14:22:44] github-appium: appium/master 464280f Jonathan Lipps: Merge pull request #276 from bootstraponline/page_source...
 [2013-03-15 14:22:44] github-appium, leaving. (#appium)
+[2013-03-15 14:34:51] sassda1, joining. (#appium)
