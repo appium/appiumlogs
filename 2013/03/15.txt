@@ -72,3 +72,4 @@
 [2013-03-15 13:06:57] github-appium, joining. (#appium)
 [2013-03-15 13:06:57] github-appium: [appium] bootstraponline opened pull request #276: Page source (master...page_source)  http://git.io/VRBHoA
 [2013-03-15 13:06:57] github-appium, leaving. (#appium)
+[2013-03-15 13:44:55] admc, joining. (#appium)
