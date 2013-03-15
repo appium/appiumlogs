@@ -52,3 +52,4 @@
 [2013-03-15 09:31:41] rodericj, quitting. (Ping timeout: 255 seconds)
 [2013-03-15 09:35:57] davidko, joining. (#appium)
 [2013-03-15 09:38:58] sassda, quitting. (Read error: Connection reset by peer)
+[2013-03-15 09:59:15] rodericj, joining. (#appium)
