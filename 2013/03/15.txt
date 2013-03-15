@@ -48,3 +48,5 @@
 [2013-03-15 09:27:55] *jlipps is at pycon, signing off for the day'
 [2013-03-15 09:27:55] jlipps, quitting. (Quit: jlipps)
 [2013-03-15 09:28:31] sassda, joining. (#appium)
+[2013-03-15 09:31:34] smccarthy, joining. (#appium)
+[2013-03-15 09:31:41] rodericj, quitting. (Ping timeout: 255 seconds)
