@@ -37,3 +37,5 @@
 [2013-03-15 08:43:54] rodericj, quitting. (Ping timeout: 264 seconds)
 [2013-03-15 08:50:45] jlipps, joining. (#appium)
 [2013-03-15 08:55:41] stackedsax, joining. (#appium)
+[2013-03-15 09:10:09] rodericj, joining. (#appium)
+[2013-03-15 09:13:28] fpotter, joining. (#appium)
