@@ -87,3 +87,8 @@
 [2013-03-15 14:34:51] sassda1, joining. (#appium)
 [2013-03-15 14:35:50] sp0cksbeard, quitting. (Quit: sp0cksbeard)
 [2013-03-15 14:47:39] fpotter, quitting. (Quit: Computer has gone to sleep.)
+[2013-03-15 15:04:38] toks: hmmm
+[2013-03-15 15:04:41] toks: http://www.coderebel.com/2010/08/31/iphone_simulator
+[2013-03-15 15:04:51] toks: January 17th, 2013 12:26 PM
+[2013-03-15 15:04:52] toks: Hi Folks! We've updated our iPhone Simulator tool to support xCode 4.5.2. Please download the latest version here:
+[2013-03-15 15:04:57] toks: So the project still lives
