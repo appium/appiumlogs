@@ -68,3 +68,4 @@
 [2013-03-15 11:40:26] stackedsax, quitting. (Ping timeout: 240 seconds)
 [2013-03-15 11:49:47] *toks runs around in triangles'
 [2013-03-15 11:54:58] admc, joining. (#appium)
+[2013-03-15 12:43:55] admc, quitting. (Quit: Leaving.)
