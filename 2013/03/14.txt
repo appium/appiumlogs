@@ -191,3 +191,4 @@
 [2013-03-14 18:21:29] larryg, quitting. (Client Quit)
 [2013-03-14 18:28:16] sp0cksbeard, joining. (#appium)
 [2013-03-14 18:31:03] santiycr, joining. (#appium)
+[2013-03-14 18:54:52] santiycr, quitting. (Quit: Leaving.)
