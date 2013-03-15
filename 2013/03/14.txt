@@ -195,3 +195,5 @@
 [2013-03-14 18:58:19] toks, quitting. (Ping timeout: 245 seconds)
 [2013-03-14 18:58:26] stackedsax, joining. (#appium)
 [2013-03-14 19:29:13] rodericj, quitting. (Quit: Leaving.)
+[2013-03-14 19:36:29] sp0cksbeard, quitting. (Quit: sp0cksbeard)
+[2013-03-14 19:39:12] admc, quitting. (Quit: Leaving.)
