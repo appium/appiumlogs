@@ -106,3 +106,8 @@
 [2013-03-15 16:00:40] toks: I can lauch multiple processes of instruments
 [2013-03-15 16:00:55] toks: it's just when it comes time for appium to use them, something happens
 [2013-03-15 16:02:40] toks: I'm trying to see if I can use instruments outside of appium to verify that it's instruments that can't control 2 devices at the same time
+[2013-03-15 16:23:31] toks: ....ya know what else is odd?
+[2013-03-15 16:23:43] davidko, quitting. (Remote host closed the connection)
+[2013-03-15 16:23:51] toks: bootstrap.js ... var endpoint = 'http://localhost:4723/instruments/';
+[2013-03-15 16:23:56] davidko, joining. (#appium)
+[2013-03-15 16:23:58] fpotter, joining. (#appium)
