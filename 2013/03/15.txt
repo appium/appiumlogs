@@ -60,3 +60,6 @@
 [2013-03-15 10:48:50] fpotter, quitting. (Quit: Computer has gone to sleep.)
 [2013-03-15 10:51:04] fpotter, joining. (#appium)
 [2013-03-15 10:51:39] rodericj, joining. (#appium)
+[2013-03-15 10:57:40] toks, joining. (#appium)
+[2013-03-15 10:58:26] stackedsax, joining. (#appium)
+[2013-03-15 10:58:43] rodericj, quitting. (Quit: Leaving.)
