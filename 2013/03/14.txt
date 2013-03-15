@@ -192,3 +192,5 @@
 [2013-03-14 18:28:16] sp0cksbeard, joining. (#appium)
 [2013-03-14 18:31:03] santiycr, joining. (#appium)
 [2013-03-14 18:54:52] santiycr, quitting. (Quit: Leaving.)
+[2013-03-14 18:58:19] toks, quitting. (Ping timeout: 245 seconds)
+[2013-03-14 18:58:26] stackedsax, joining. (#appium)
