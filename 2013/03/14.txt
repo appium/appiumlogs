@@ -176,3 +176,5 @@
 [2013-03-14 16:51:07] toks: xcodebuild -> fruitstrap -> seleniumGrid -> appium
 [2013-03-14 16:51:12] toks: then my behave-parallel tests
 [2013-03-14 16:59:48] sassda, joining. (#appium)
+[2013-03-14 17:00:05] sassda1, joining. (#appium)
+[2013-03-14 17:03:58] sassda, quitting. (Ping timeout: 240 seconds)
