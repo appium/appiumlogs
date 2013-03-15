@@ -175,3 +175,4 @@
 [2013-03-14 16:50:40] toks: (the thing that installs apps into physically phones from commandline)
 [2013-03-14 16:51:07] toks: xcodebuild -> fruitstrap -> seleniumGrid -> appium
 [2013-03-14 16:51:12] toks: then my behave-parallel tests
+[2013-03-14 16:59:48] sassda, joining. (#appium)
