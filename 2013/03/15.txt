@@ -94,3 +94,4 @@
 [2013-03-15 15:04:57] toks: So the project still lives
 [2013-03-15 15:05:40] toks: multiple Simulators on the same device
 [2013-03-15 15:05:49] toks: (same mac)
+[2013-03-15 15:24:04] fpotter, joining. (#appium)
