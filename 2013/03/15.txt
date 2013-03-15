@@ -9,3 +9,4 @@
 [2013-03-15 00:46:33] github-appium: appium/master ba51817 Jason Carr: Add getUrl and test
 [2013-03-15 00:46:33] github-appium: appium/master 81ec8c8 Adam Christian: Merge pull request #274 from maudineormsby/master...
 [2013-03-15 00:46:33] github-appium, leaving. (#appium)
+[2013-03-15 00:57:54] jcarr, joining. (#appium)
