@@ -73,3 +73,14 @@
 [2013-03-15 13:06:57] github-appium: [appium] bootstraponline opened pull request #276: Page source (master...page_source)  http://git.io/VRBHoA
 [2013-03-15 13:06:57] github-appium, leaving. (#appium)
 [2013-03-15 13:44:55] admc, joining. (#appium)
+[2013-03-15 14:21:09] github-appium, joining. (#appium)
+[2013-03-15 14:21:09] github-appium: [appium] jlipps pushed 5 new commits to master: http://git.io/5twM2g
+[2013-03-15 14:21:09] github-appium: appium/master 5b33588 bootstraponline: Fast reset rewrite...
+[2013-03-15 14:21:09] github-appium: appium/master 4ad2fc9 bootstraponline: Use rgx.test
+[2013-03-15 14:21:09] github-appium: appium/master 6442181 bootstraponline: Fix case
+[2013-03-15 14:21:09] github-appium, leaving. (#appium)
+[2013-03-15 14:22:44] github-appium, joining. (#appium)
+[2013-03-15 14:22:44] github-appium: [appium] jlipps pushed 2 new commits to master: http://git.io/dBQzzw
+[2013-03-15 14:22:44] github-appium: appium/master dc96be5 bootstraponline: Add page_source for Android
+[2013-03-15 14:22:44] github-appium: appium/master 464280f Jonathan Lipps: Merge pull request #276 from bootstraponline/page_source...
+[2013-03-15 14:22:44] github-appium, leaving. (#appium)
