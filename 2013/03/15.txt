@@ -39,3 +39,9 @@
 [2013-03-15 08:55:41] stackedsax, joining. (#appium)
 [2013-03-15 09:10:09] rodericj, joining. (#appium)
 [2013-03-15 09:13:28] fpotter, joining. (#appium)
+[2013-03-15 09:17:26] github-appium, joining. (#appium)
+[2013-03-15 09:17:26] github-appium: [appium] jlipps pushed 5 new commits to master: http://git.io/KMVDBA
+[2013-03-15 09:17:26] github-appium: appium/master 1e4f728 tokunbo: I gotta believe! Fixing createSession for Selenium grid 2.31.0.
+[2013-03-15 09:17:26] github-appium: appium/master fae8d29 tokunbo: I'm told camelCase is better!
+[2013-03-15 09:17:26] github-appium: appium/master daca240 tokunbo: Oops! Typo broke the tests! fixing!
+[2013-03-15 09:17:26] github-appium, leaving. (#appium)
