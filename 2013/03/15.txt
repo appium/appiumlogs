@@ -143,3 +143,5 @@
 [2013-03-15 20:24:06] fpotter, joining. (#appium)
 [2013-03-15 20:24:19] fpotter, quitting. (Client Quit)
 [2013-03-15 21:44:40] stackedsax, joining. (#appium)
+[2013-03-15 21:52:32] smccarthy, quitting. (Remote host closed the connection)
+[2013-03-15 21:53:19] stackedsax, quitting. (Ping timeout: 252 seconds)
