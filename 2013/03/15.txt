@@ -117,3 +117,4 @@
 [2013-03-15 17:11:32] admc: well if you can figure out a way for it to work, im sure we would be all over having that available in the project
 [2013-03-15 17:19:33] davidko_, joining. (#appium)
 [2013-03-15 17:19:33] davidko_, quitting. (Client Quit)
+[2013-03-15 17:22:06] davidko, quitting. (Ping timeout: 245 seconds)
