@@ -142,3 +142,4 @@
 [2013-03-15 20:20:53] admc, quitting. (Quit: Leaving.)
 [2013-03-15 20:24:06] fpotter, joining. (#appium)
 [2013-03-15 20:24:19] fpotter, quitting. (Client Quit)
+[2013-03-15 21:44:40] stackedsax, joining. (#appium)
