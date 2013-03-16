@@ -112,3 +112,5 @@
 [2013-03-15 16:23:56] davidko, joining. (#appium)
 [2013-03-15 16:23:58] fpotter, joining. (#appium)
 [2013-03-15 16:49:42] smccarthy, quitting. (Remote host closed the connection)
+[2013-03-15 16:59:15] toks: hmm... not completely convinced instruments can only run once per machine.
+[2013-03-15 16:59:45] toks: I see nothing in its documentation or error message that suggest that.
