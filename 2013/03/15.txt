@@ -132,3 +132,8 @@
 [2013-03-15 19:28:43] github-appium, joining. (#appium)
 [2013-03-15 19:28:43] github-appium: [appium] bootstraponline opened pull request #277: Add Ruby documentation link (master...ruby_link)  http://git.io/OsoC-g
 [2013-03-15 19:28:43] github-appium, leaving. (#appium)
+[2013-03-15 19:45:56] github-appium, joining. (#appium)
+[2013-03-15 19:45:56] github-appium: [appium] jlipps pushed 2 new commits to master: http://git.io/_zyChA
+[2013-03-15 19:45:56] github-appium: appium/master 361ab3d bootstraponline: Add Ruby documentation link
+[2013-03-15 19:45:56] github-appium: appium/master 648ff2a Jonathan Lipps: Merge pull request #277 from bootstraponline/ruby_link...
+[2013-03-15 19:45:56] github-appium, leaving. (#appium)
