@@ -9,3 +9,5 @@
 [2013-03-16 10:41:06] larryg, joining. (#appium)
 [2013-03-16 12:19:20] larryg, quitting. (Quit: Leaving.)
 [2013-03-16 12:40:52] stackedsax, joining. (#appium)
+[2013-03-16 14:15:58] jcarr, joining. (#appium)
+[2013-03-16 14:16:22] jcarr, leaving. (#appium)
