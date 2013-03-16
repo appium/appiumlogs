@@ -138,3 +138,7 @@
 [2013-03-15 19:45:56] github-appium: appium/master 648ff2a Jonathan Lipps: Merge pull request #277 from bootstraponline/ruby_link...
 [2013-03-15 19:45:56] github-appium, leaving. (#appium)
 [2013-03-15 20:13:56] jmathes__, quitting. (Ping timeout: 240 seconds)
+[2013-03-15 20:20:38] fpotter, quitting. (Quit: Textual IRC Client: www.textualapp.com)
+[2013-03-15 20:20:53] admc, quitting. (Quit: Leaving.)
+[2013-03-15 20:24:06] fpotter, joining. (#appium)
+[2013-03-15 20:24:19] fpotter, quitting. (Client Quit)
