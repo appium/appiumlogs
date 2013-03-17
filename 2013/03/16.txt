@@ -11,3 +11,5 @@
 [2013-03-16 12:40:52] stackedsax, joining. (#appium)
 [2013-03-16 14:15:58] jcarr, joining. (#appium)
 [2013-03-16 14:16:22] jcarr, leaving. (#appium)
+[2013-03-16 18:18:08] stackedsax, quitting. (Quit: Leaving.)
+[2013-03-16 18:19:51] rodericj, joining. (#appium)
