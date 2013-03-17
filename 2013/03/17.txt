@@ -4,3 +4,4 @@
 [2013-03-17 11:47:10] sassda, joining. (#appium)
 [2013-03-17 13:29:25] sassda, quitting. (Quit: Leaving.)
 [2013-03-17 13:54:30] smccarthy, quitting. (Remote host closed the connection)
+[2013-03-17 14:12:17] sassda, joining. (#appium)
