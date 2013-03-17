@@ -19,3 +19,4 @@
 [2013-03-16 19:37:55] sahazel: fpotter might know about that, maybe ask him next time he pops in
 [2013-03-16 22:34:16] rodericj, quitting. (Quit: Leaving.)
 [2013-03-16 22:56:59] stackedsax, joining. (#appium)
+[2013-03-16 23:23:03] stackedsax, quitting. (Quit: Leaving.)
