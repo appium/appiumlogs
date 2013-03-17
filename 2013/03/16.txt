@@ -18,3 +18,4 @@
 [2013-03-16 19:37:31] sahazel: I hear a rumor facebook has some clever code somewhere for running more than one instruments session at once
 [2013-03-16 19:37:55] sahazel: fpotter might know about that, maybe ask him next time he pops in
 [2013-03-16 22:34:16] rodericj, quitting. (Quit: Leaving.)
+[2013-03-16 22:56:59] stackedsax, joining. (#appium)
