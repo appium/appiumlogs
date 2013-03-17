@@ -7,3 +7,4 @@
 [2013-03-17 14:12:17] sassda, joining. (#appium)
 [2013-03-17 14:28:23] davidko, joining. (#appium)
 [2013-03-17 15:49:33] sassda, quitting. (Quit: Leaving.)
+[2013-03-17 15:57:28] sassda, joining. (#appium)
