@@ -24,3 +24,7 @@
 [2013-03-18 11:08:40] santiycr, joining. (#appium)
 [2013-03-18 11:16:57] jlipps, joining. (#appium)
 [2013-03-18 11:54:24] admc, quitting. (Quit: Leaving.)
+[2013-03-18 11:57:37] github-appium, joining. (#appium)
+[2013-03-18 11:57:37] github-appium: [appium] jlipps opened pull request #279: wait for app to start (master...master)  http://git.io/DO_u9w
+[2013-03-18 11:57:37] github-appium, leaving. (#appium)
+[2013-03-18 11:58:39] fpotter, joining. (#appium)
