@@ -28,3 +28,8 @@
 [2013-03-18 11:57:37] github-appium: [appium] jlipps opened pull request #279: wait for app to start (master...master)  http://git.io/DO_u9w
 [2013-03-18 11:57:37] github-appium, leaving. (#appium)
 [2013-03-18 11:58:39] fpotter, joining. (#appium)
+[2013-03-18 12:00:09] github-appium, joining. (#appium)
+[2013-03-18 12:00:09] github-appium: [appium] sourishkrout pushed 2 new commits to master: http://git.io/eMLc6Q
+[2013-03-18 12:00:09] github-appium: appium/master 6cdfd14 Jonathan Lipps: wait for app's activity to start automating, not just process started
+[2013-03-18 12:00:09] github-appium: appium/master 8127695 Sebastian Tiedtke: Merge pull request #279 from jlipps/master...
+[2013-03-18 12:00:09] github-appium, leaving. (#appium)
