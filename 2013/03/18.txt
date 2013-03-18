@@ -45,3 +45,11 @@
 [2013-03-18 13:13:54] github-appium, joining. (#appium)
 [2013-03-18 13:13:54] github-appium: [appium] bootstraponline opened pull request #282: Clear app if it already exists (master...clear_install)  http://git.io/JTYIRQ
 [2013-03-18 13:13:54] github-appium, leaving. (#appium)
+[2013-03-18 13:52:06] larryg, quitting. (Quit: Leaving.)
+[2013-03-18 13:52:53] larryg, joining. (#appium)
+[2013-03-18 13:53:56] github-appium, joining. (#appium)
+[2013-03-18 13:53:56] github-appium: [appium] jlipps pushed 2 new commits to master: http://git.io/W7S9GQ
+[2013-03-18 13:53:56] github-appium: appium/master 9df0068 bootstraponline: Fall back to android-4.2...
+[2013-03-18 13:53:56] github-appium: appium/master 71d90b0 Jonathan Lipps: Merge pull request #281 from bootstraponline/android42...
+[2013-03-18 13:53:56] github-appium, leaving. (#appium)
+[2013-03-18 13:54:51] davidko, quitting. (Quit: davidko)
