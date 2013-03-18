@@ -12,3 +12,7 @@
 [2013-03-18 10:15:13] santiycr, quitting. (Quit: Leaving.)
 [2013-03-18 10:15:29] admc, joining. (#appium)
 [2013-03-18 10:30:12] danc1, joining. (#appium)
+[2013-03-18 10:35:46] github-appium, joining. (#appium)
+[2013-03-18 10:35:46] github-appium: [appium] jlipps pushed 1 new commit to master: http://git.io/h864AA
+[2013-03-18 10:35:46] github-appium: appium/master dec11a2 Jonathan Lipps: allow textboxes to take typing
+[2013-03-18 10:35:46] github-appium, leaving. (#appium)
