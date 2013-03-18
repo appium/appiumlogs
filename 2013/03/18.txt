@@ -1,3 +1,4 @@
 [2013-03-18 04:57:12] sp0cksbeard, joining. (#appium)
 [2013-03-18 05:23:22] sp0cksbeard, quitting. (Ping timeout: 240 seconds)
 [2013-03-18 07:12:06] smccarthy, joining. (#appium)
+[2013-03-18 09:45:09] davidko, joining. (#appium)
