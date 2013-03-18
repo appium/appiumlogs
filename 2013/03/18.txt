@@ -9,3 +9,5 @@
 [2013-03-18 10:10:17] smccarthy, quitting. (Remote host closed the connection)
 [2013-03-18 10:12:11] stackedsax, joining. (#appium)
 [2013-03-18 10:12:44] danc1, quitting. (Quit: Leaving.)
+[2013-03-18 10:15:13] santiycr, quitting. (Quit: Leaving.)
+[2013-03-18 10:15:29] admc, joining. (#appium)
