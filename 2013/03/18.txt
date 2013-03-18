@@ -71,3 +71,4 @@
 [2013-03-18 14:01:41] github-appium, leaving. (#appium)
 [2013-03-18 14:10:08] danc1, quitting. (Quit: Leaving.)
 [2013-03-18 14:10:31] danc1, joining. (#appium)
+[2013-03-18 14:38:25] fpotter, quitting. (Quit: Computer has gone to sleep.)
