@@ -75,3 +75,5 @@
 [2013-03-18 14:54:56] fpotter, joining. (#appium)
 [2013-03-18 15:29:33] sourishkrout, joining. (#appium)
 [2013-03-18 15:31:01] sourishkrout, quitting. (Client Quit)
+[2013-03-18 15:35:21] sourishkrout, joining. (#appium)
+[2013-03-18 15:35:43] sourishkrout, quitting. (Client Quit)
