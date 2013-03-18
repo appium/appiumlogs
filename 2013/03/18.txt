@@ -16,3 +16,4 @@
 [2013-03-18 10:35:46] github-appium: [appium] jlipps pushed 1 new commit to master: http://git.io/h864AA
 [2013-03-18 10:35:46] github-appium: appium/master dec11a2 Jonathan Lipps: allow textboxes to take typing
 [2013-03-18 10:35:46] github-appium, leaving. (#appium)
+[2013-03-18 10:44:28] toks, joining. (#appium)
