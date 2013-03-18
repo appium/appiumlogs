@@ -41,3 +41,7 @@
 [2013-03-18 13:00:12] davidko_, joining. (#appium)
 [2013-03-18 13:03:31] davidko, quitting. (Ping timeout: 260 seconds)
 [2013-03-18 13:03:32] davidko_, changing nick to davidko.
+[2013-03-18 13:13:16] larryg, joining. (#appium)
+[2013-03-18 13:13:54] github-appium, joining. (#appium)
+[2013-03-18 13:13:54] github-appium: [appium] bootstraponline opened pull request #282: Clear app if it already exists (master...clear_install)  http://git.io/JTYIRQ
+[2013-03-18 13:13:54] github-appium, leaving. (#appium)
