@@ -33,3 +33,4 @@
 [2013-03-18 12:00:09] github-appium: appium/master 6cdfd14 Jonathan Lipps: wait for app's activity to start automating, not just process started
 [2013-03-18 12:00:09] github-appium: appium/master 8127695 Sebastian Tiedtke: Merge pull request #279 from jlipps/master...
 [2013-03-18 12:00:09] github-appium, leaving. (#appium)
+[2013-03-18 12:32:38] admc, joining. (#appium)
