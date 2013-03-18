@@ -6,3 +6,6 @@
 [2013-03-18 09:55:53] sfbrian, joining. (#appium)
 [2013-03-18 09:56:47] sassda, joining. (#appium)
 [2013-03-18 10:08:42] larryg, joining. (#appium)
+[2013-03-18 10:10:17] smccarthy, quitting. (Remote host closed the connection)
+[2013-03-18 10:12:11] stackedsax, joining. (#appium)
+[2013-03-18 10:12:44] danc1, quitting. (Quit: Leaving.)
