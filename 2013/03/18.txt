@@ -53,3 +53,8 @@
 [2013-03-18 13:53:56] github-appium: appium/master 71d90b0 Jonathan Lipps: Merge pull request #281 from bootstraponline/android42...
 [2013-03-18 13:53:56] github-appium, leaving. (#appium)
 [2013-03-18 13:54:51] davidko, quitting. (Quit: davidko)
+[2013-03-18 13:55:56] github-appium, joining. (#appium)
+[2013-03-18 13:55:56] github-appium: [appium] jlipps opened pull request #283: try to restart adb if device can't be found (master...master)  http://git.io/pPyZpg
+[2013-03-18 13:55:56] github-appium, leaving. (#appium)
+[2013-03-18 13:57:02] davidko, joining. (#appium)
+[2013-03-18 13:58:45] fpotter, quitting. (Ping timeout: 256 seconds)
