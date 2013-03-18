@@ -38,3 +38,6 @@
 [2013-03-18 12:45:23] github-appium: [appium] bootstraponline opened pull request #281: Fall back to android-4.2 (master...android42)  http://git.io/j9PC9A
 [2013-03-18 12:45:23] github-appium, leaving. (#appium)
 [2013-03-18 12:54:44] larryg, quitting. (Quit: Leaving.)
+[2013-03-18 13:00:12] davidko_, joining. (#appium)
+[2013-03-18 13:03:31] davidko, quitting. (Ping timeout: 260 seconds)
+[2013-03-18 13:03:32] davidko_, changing nick to davidko.
