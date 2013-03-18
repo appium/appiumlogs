@@ -17,3 +17,8 @@
 [2013-03-18 10:35:46] github-appium: appium/master dec11a2 Jonathan Lipps: allow textboxes to take typing
 [2013-03-18 10:35:46] github-appium, leaving. (#appium)
 [2013-03-18 10:44:28] toks, joining. (#appium)
+[2013-03-18 11:07:31] github-appium, joining. (#appium)
+[2013-03-18 11:07:31] github-appium: [appium] jlipps pushed 1 new commit to master: http://git.io/VG-fdg
+[2013-03-18 11:07:31] github-appium: appium/master 1fefab9 Jonathan Lipps: better error logging in sendResultAndGetNext
+[2013-03-18 11:07:31] github-appium, leaving. (#appium)
+[2013-03-18 11:08:40] santiycr, joining. (#appium)
