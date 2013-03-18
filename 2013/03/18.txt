@@ -22,3 +22,4 @@
 [2013-03-18 11:07:31] github-appium: appium/master 1fefab9 Jonathan Lipps: better error logging in sendResultAndGetNext
 [2013-03-18 11:07:31] github-appium, leaving. (#appium)
 [2013-03-18 11:08:40] santiycr, joining. (#appium)
+[2013-03-18 11:16:57] jlipps, joining. (#appium)
