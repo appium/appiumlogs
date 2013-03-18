@@ -3,3 +3,5 @@
 [2013-03-18 07:12:06] smccarthy, joining. (#appium)
 [2013-03-18 09:45:09] davidko, joining. (#appium)
 [2013-03-18 09:52:25] santiycr, joining. (#appium)
+[2013-03-18 09:55:53] sfbrian, joining. (#appium)
+[2013-03-18 09:56:47] sassda, joining. (#appium)
