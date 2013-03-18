@@ -58,3 +58,14 @@
 [2013-03-18 13:55:56] github-appium, leaving. (#appium)
 [2013-03-18 13:57:02] davidko, joining. (#appium)
 [2013-03-18 13:58:45] fpotter, quitting. (Ping timeout: 256 seconds)
+[2013-03-18 14:00:34] fpotter, joining. (#appium)
+[2013-03-18 14:01:26] github-appium, joining. (#appium)
+[2013-03-18 14:01:26] github-appium: [appium] sourishkrout pushed 2 new commits to master: http://git.io/7NZD3A
+[2013-03-18 14:01:26] github-appium: appium/master b78cdd0 Jonathan Lipps: facility for restarting adb if we aren't able to connect to a device
+[2013-03-18 14:01:26] github-appium: appium/master f4cc35a Sebastian Tiedtke: Merge pull request #283 from jlipps/master...
+[2013-03-18 14:01:26] github-appium, leaving. (#appium)
+[2013-03-18 14:01:41] github-appium, joining. (#appium)
+[2013-03-18 14:01:41] github-appium: [appium] jlipps pushed 2 new commits to master: http://git.io/nm_gEQ
+[2013-03-18 14:01:41] github-appium: appium/master f743349 bootstraponline: Clear app if it already exists...
+[2013-03-18 14:01:41] github-appium: appium/master 67da927 Jonathan Lipps: Merge pull request #282 from bootstraponline/clear_install...
+[2013-03-18 14:01:41] github-appium, leaving. (#appium)
