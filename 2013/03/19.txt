@@ -75,3 +75,6 @@
 [2013-03-19 12:46:55] santiycr, quitting. (Quit: Leaving.)
 [2013-03-19 13:03:14] santiycr, joining. (#appium)
 [2013-03-19 13:04:33] santiycr, quitting. (Client Quit)
+[2013-03-19 13:05:20] santiycr, joining. (#appium)
+[2013-03-19 13:09:06] toks, quitting. (Ping timeout: 264 seconds)
+[2013-03-19 13:09:42] larryg, joining. (#appium)
