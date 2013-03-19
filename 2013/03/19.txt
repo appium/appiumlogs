@@ -52,3 +52,14 @@
 [2013-03-19 10:52:13] knorrium, joining. (#appium)
 [2013-03-19 11:05:39] davidko, quitting. (Quit: davidko)
 [2013-03-19 11:06:04] santiycr, joining. (#appium)
+[2013-03-19 11:10:28] santiycr, quitting. (Client Quit)
+[2013-03-19 11:10:46] santiycr, joining. (#appium)
+[2013-03-19 11:10:48] github-appium, joining. (#appium)
+[2013-03-19 11:10:48] github-appium: [appium] jlipps pushed 2 new commits to master: http://git.io/zwdLDw
+[2013-03-19 11:10:48] github-appium: appium/master 2e1c415 Jonathan Lipps: add some more stuff to reset.sh
+[2013-03-19 11:10:48] github-appium: appium/master b129f23 Jonathan Lipps: gitignore
+[2013-03-19 11:10:48] github-appium, leaving. (#appium)
+[2013-03-19 11:13:54] github-appium, joining. (#appium)
+[2013-03-19 11:13:54] github-appium: [appium] jlipps pushed 1 new commit to master: http://git.io/vyxL0w
+[2013-03-19 11:13:54] github-appium: appium/master 1fdbe1f Jonathan Lipps: add changelog template
+[2013-03-19 11:13:54] github-appium, leaving. (#appium)
