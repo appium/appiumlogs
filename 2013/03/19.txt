@@ -134,3 +134,13 @@
 [2013-03-19 16:00:06] github-appium: appium/master 4649495 Jason Carr: Whitespace
 [2013-03-19 16:00:06] github-appium: appium/master 885ac6a Jonathan Lipps: Merge pull request #286 from maudineormsby/master...
 [2013-03-19 16:00:06] github-appium, leaving. (#appium)
+[2013-03-19 16:11:17] sp0cksbeard, joining. (#appium)
+[2013-03-19 16:11:26] github-appium, joining. (#appium)
+[2013-03-19 16:11:26] github-appium: [appium] jlipps opened pull request #287: even moar webview methods (master...master)  http://git.io/YG73Gg
+[2013-03-19 16:11:26] github-appium, leaving. (#appium)
+[2013-03-19 16:14:41] github-appium, joining. (#appium)
+[2013-03-19 16:14:41] github-appium: [appium] admc pushed 3 new commits to master: http://git.io/VVzH2g
+[2013-03-19 16:14:41] github-appium: appium/master 94ee518 Jonathan Lipps: add clear() to webview support
+[2013-03-19 16:14:41] github-appium: appium/master 8dbdd90 Jonathan Lipps: add selected() webview method
+[2013-03-19 16:14:41] github-appium: appium/master 972f0c1 Adam Christian: Merge pull request #287 from jlipps/master...
+[2013-03-19 16:14:41] github-appium, leaving. (#appium)
