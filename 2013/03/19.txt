@@ -37,3 +37,4 @@
 [2013-03-19 09:23:51] stackedsax1, joining. (#appium)
 [2013-03-19 09:25:02] fpotter, quitting. (Quit: Computer has gone to sleep.)
 [2013-03-19 09:29:38] jcarr, joining. (#appium)
+[2013-03-19 09:30:16] admc, joining. (#appium)
