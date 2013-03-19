@@ -67,3 +67,6 @@
 [2013-03-19 11:41:40] knorrium, quitting. (Quit: knorrium)
 [2013-03-19 11:46:06] knorrium, joining. (#appium)
 [2013-03-19 11:53:23] stackedsax1, quitting. (Quit: Leaving.)
+[2013-03-19 12:17:14] davidko, joining. (#appium)
+[2013-03-19 12:17:50] santiycr, quitting. (Quit: Leaving.)
+[2013-03-19 12:18:13] santiycr, joining. (#appium)
