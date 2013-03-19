@@ -145,3 +145,7 @@
 [2013-03-19 16:14:41] github-appium: appium/master 972f0c1 Adam Christian: Merge pull request #287 from jlipps/master...
 [2013-03-19 16:14:41] github-appium, leaving. (#appium)
 [2013-03-19 16:23:15] fpotter, quitting. (Quit: Computer has gone to sleep.)
+[2013-03-19 16:28:21] github-appium, joining. (#appium)
+[2013-03-19 16:28:21] github-appium: [appium] jlipps opened pull request #288: get css for webviews (master...master)  http://git.io/dtmaCw
+[2013-03-19 16:28:21] github-appium, leaving. (#appium)
+[2013-03-19 16:30:00] sp0cksbeard, quitting. (Quit: sp0cksbeard)
