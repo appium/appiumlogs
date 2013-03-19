@@ -78,3 +78,9 @@
 [2013-03-18 15:35:21] sourishkrout, joining. (#appium)
 [2013-03-18 15:35:43] sourishkrout, quitting. (Client Quit)
 [2013-03-18 17:06:23] sfbrian, quitting. (Ping timeout: 245 seconds)
+[2013-03-18 17:24:39] github-appium, joining. (#appium)
+[2013-03-18 17:24:39] github-appium: [appium] jlipps pushed 6 new commits to master: http://git.io/hFN-Tg
+[2013-03-18 17:24:39] github-appium: appium/master 8239aac Jonathan Lipps: add appium.io as a submodule so we can generate stuff from it
+[2013-03-18 17:24:39] github-appium: appium/master ead61bf Jonathan Lipps: add markdown parser to deps
+[2013-03-18 17:24:39] github-appium: appium/master 76f0dd8 Jonathan Lipps: updating getting-started via grunt
+[2013-03-18 17:24:39] github-appium, leaving. (#appium)
