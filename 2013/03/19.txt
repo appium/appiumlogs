@@ -116,3 +116,8 @@
 [2013-03-19 15:36:57] github-appium: appium/master abbb422 Jonathan Lipps: add mobile safari 'active' support
 [2013-03-19 15:36:57] github-appium: appium/master 209bae5 Adam Christian: Merge pull request #285 from jlipps/master...
 [2013-03-19 15:36:57] github-appium, leaving. (#appium)
+[2013-03-19 15:42:11] admc, quitting. (Quit: Leaving.)
+[2013-03-19 15:44:36] admc, joining. (#appium)
+[2013-03-19 15:44:50] github-appium, joining. (#appium)
+[2013-03-19 15:44:50] github-appium: [appium] maudineormsby opened pull request #286: Support and test for submit() method in webviews. (master...master)  http://git.io/_YE1pg
+[2013-03-19 15:44:50] github-appium, leaving. (#appium)
