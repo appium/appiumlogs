@@ -99,3 +99,4 @@
 [2013-03-18 18:06:14] larryg, quitting. (Ping timeout: 252 seconds)
 [2013-03-18 18:15:01] sassda, quitting. (Ping timeout: 245 seconds)
 [2013-03-18 18:35:41] fpotter, quitting. (Quit: Computer has gone to sleep.)
+[2013-03-18 19:03:53] toks, quitting. (Ping timeout: 256 seconds)
