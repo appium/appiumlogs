@@ -63,3 +63,4 @@
 [2013-03-19 11:13:54] github-appium: [appium] jlipps pushed 1 new commit to master: http://git.io/vyxL0w
 [2013-03-19 11:13:54] github-appium: appium/master 1fdbe1f Jonathan Lipps: add changelog template
 [2013-03-19 11:13:54] github-appium, leaving. (#appium)
+[2013-03-19 11:22:15] smccarthy, quitting. (Remote host closed the connection)
