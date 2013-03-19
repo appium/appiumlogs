@@ -110,3 +110,9 @@
 [2013-03-19 15:31:43] github-appium, joining. (#appium)
 [2013-03-19 15:31:43] github-appium: [appium] jlipps opened pull request #285: more webview selenium support (master...master)  http://git.io/T5q1ew
 [2013-03-19 15:31:43] github-appium, leaving. (#appium)
+[2013-03-19 15:36:57] github-appium, joining. (#appium)
+[2013-03-19 15:36:57] github-appium: [appium] admc pushed 3 new commits to master: http://git.io/x0W2_Q
+[2013-03-19 15:36:57] github-appium: appium/master 29f4900 Jonathan Lipps: driver-level sendKeys command for mobile safari
+[2013-03-19 15:36:57] github-appium: appium/master abbb422 Jonathan Lipps: add mobile safari 'active' support
+[2013-03-19 15:36:57] github-appium: appium/master 209bae5 Adam Christian: Merge pull request #285 from jlipps/master...
+[2013-03-19 15:36:57] github-appium, leaving. (#appium)
