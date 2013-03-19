@@ -42,3 +42,5 @@
 [2013-03-19 09:51:38] sfbrian, joining. (#appium)
 [2013-03-19 10:04:27] admc, quitting. (Quit: Leaving.)
 [2013-03-19 10:04:56] santiycr, joining. (#appium)
+[2013-03-19 10:10:48] larryg, joining. (#appium)
+[2013-03-19 10:13:33] fpotter, joining. (#appium)
