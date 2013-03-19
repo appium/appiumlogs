@@ -84,3 +84,9 @@
 [2013-03-18 17:24:39] github-appium: appium/master ead61bf Jonathan Lipps: add markdown parser to deps
 [2013-03-18 17:24:39] github-appium: appium/master 76f0dd8 Jonathan Lipps: updating getting-started via grunt
 [2013-03-18 17:24:39] github-appium, leaving. (#appium)
+[2013-03-18 17:30:44] github-appium, joining. (#appium)
+[2013-03-18 17:30:44] github-appium: [appium] jlipps pushed 2 new commits to master: http://git.io/FOAgUg
+[2013-03-18 17:30:44] github-appium: appium/master 425cd15 Jonathan Lipps: remove publish script
+[2013-03-18 17:30:44] github-appium: appium/master 4831937 Jonathan Lipps: update readme
+[2013-03-18 17:30:44] github-appium, leaving. (#appium)
+[2013-03-18 17:31:54] jlipps, quitting. (Quit: jlipps)
