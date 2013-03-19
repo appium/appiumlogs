@@ -90,3 +90,4 @@
 [2013-03-18 17:30:44] github-appium: appium/master 4831937 Jonathan Lipps: update readme
 [2013-03-18 17:30:44] github-appium, leaving. (#appium)
 [2013-03-18 17:31:54] jlipps, quitting. (Quit: jlipps)
+[2013-03-18 17:36:07] admc, quitting. (Quit: Leaving.)
