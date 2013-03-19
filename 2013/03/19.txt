@@ -121,3 +121,6 @@
 [2013-03-19 15:44:50] github-appium, joining. (#appium)
 [2013-03-19 15:44:50] github-appium: [appium] maudineormsby opened pull request #286: Support and test for submit() method in webviews. (master...master)  http://git.io/_YE1pg
 [2013-03-19 15:44:50] github-appium, leaving. (#appium)
+[2013-03-19 15:46:04] larryg, quitting. (Quit: Leaving.)
+[2013-03-19 15:48:01] toks, quitting. (Ping timeout: 256 seconds)
+[2013-03-19 15:49:03] larryg, joining. (#appium)
