@@ -66,3 +66,4 @@
 [2013-03-19 11:22:15] smccarthy, quitting. (Remote host closed the connection)
 [2013-03-19 11:41:40] knorrium, quitting. (Quit: knorrium)
 [2013-03-19 11:46:06] knorrium, joining. (#appium)
+[2013-03-19 11:53:23] stackedsax1, quitting. (Quit: Leaving.)
