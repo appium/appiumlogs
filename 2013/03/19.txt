@@ -73,3 +73,5 @@
 [2013-03-19 12:30:07] jcarr, leaving. (#appium)
 [2013-03-19 12:30:08] larryg, quitting. (Quit: Leaving.)
 [2013-03-19 12:46:55] santiycr, quitting. (Quit: Leaving.)
+[2013-03-19 13:03:14] santiycr, joining. (#appium)
+[2013-03-19 13:04:33] santiycr, quitting. (Client Quit)
