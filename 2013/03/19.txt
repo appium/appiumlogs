@@ -25,3 +25,5 @@
 [2013-03-19 07:56:20] stackedsax, joining. (#appium)
 [2013-03-19 08:00:24] wilmoore_, quitting. (Remote host closed the connection)
 [2013-03-19 08:00:59] wilmoore-js, joining. (#appium)
+[2013-03-19 08:05:20] wilmoore-js, quitting. (Ping timeout: 256 seconds)
+[2013-03-19 08:06:50] stackedsax, quitting. (Quit: Leaving.)
