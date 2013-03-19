@@ -1,2 +1,3 @@
 [2013-03-19 01:16:00] wilmoore-js, joining. (#appium)
 [2013-03-19 01:24:59] stackedsax, quitting. (Quit: Leaving.)
+[2013-03-19 01:26:15] stackedsax1, joining. (#appium)
