@@ -92,3 +92,5 @@
 [2013-03-18 17:31:54] jlipps, quitting. (Quit: jlipps)
 [2013-03-18 17:36:07] admc, quitting. (Quit: Leaving.)
 [2013-03-18 17:48:15] davidko_, joining. (#appium)
+[2013-03-18 17:51:32] davidko, quitting. (Ping timeout: 248 seconds)
+[2013-03-18 17:51:32] davidko_, changing nick to davidko.
