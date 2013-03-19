@@ -124,3 +124,7 @@
 [2013-03-19 15:46:04] larryg, quitting. (Quit: Leaving.)
 [2013-03-19 15:48:01] toks, quitting. (Ping timeout: 256 seconds)
 [2013-03-19 15:49:03] larryg, joining. (#appium)
+[2013-03-19 15:50:48] sfbrian_, joining. (#appium)
+[2013-03-19 15:53:50] toks, joining. (#appium)
+[2013-03-19 15:54:08] sfbrian, quitting. (Ping timeout: 252 seconds)
+[2013-03-19 15:54:08] sfbrian_, changing nick to sfbrian.
