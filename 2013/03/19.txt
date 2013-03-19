@@ -128,3 +128,9 @@
 [2013-03-19 15:53:50] toks, joining. (#appium)
 [2013-03-19 15:54:08] sfbrian, quitting. (Ping timeout: 252 seconds)
 [2013-03-19 15:54:08] sfbrian_, changing nick to sfbrian.
+[2013-03-19 16:00:05] github-appium, joining. (#appium)
+[2013-03-19 16:00:06] github-appium: [appium] jlipps pushed 3 new commits to master: http://git.io/mLBNLQ
+[2013-03-19 16:00:06] github-appium: appium/master dfaa538 Jason Carr: Support and test for submit() method in webviews.
+[2013-03-19 16:00:06] github-appium: appium/master 4649495 Jason Carr: Whitespace
+[2013-03-19 16:00:06] github-appium: appium/master 885ac6a Jonathan Lipps: Merge pull request #286 from maudineormsby/master...
+[2013-03-19 16:00:06] github-appium, leaving. (#appium)
