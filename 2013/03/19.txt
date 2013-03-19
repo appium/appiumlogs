@@ -149,3 +149,9 @@
 [2013-03-19 16:28:21] github-appium: [appium] jlipps opened pull request #288: get css for webviews (master...master)  http://git.io/dtmaCw
 [2013-03-19 16:28:21] github-appium, leaving. (#appium)
 [2013-03-19 16:30:00] sp0cksbeard, quitting. (Quit: sp0cksbeard)
+[2013-03-19 16:32:26] jlipps, quitting. (Quit: jlipps)
+[2013-03-19 16:33:05] github-appium, joining. (#appium)
+[2013-03-19 16:33:05] github-appium: [appium] admc pushed 2 new commits to master: http://git.io/6UTsfA
+[2013-03-19 16:33:05] github-appium: appium/master 00f034b Jonathan Lipps: get css properties for webview elements
+[2013-03-19 16:33:05] github-appium: appium/master 6c356b3 Adam Christian: Merge pull request #288 from jlipps/master...
+[2013-03-19 16:33:05] github-appium, leaving. (#appium)
