@@ -20,3 +20,5 @@
 [2013-03-19 07:41:06] sp0cksbeard, quitting. (Quit: sp0cksbeard)
 [2013-03-19 07:44:34] stackedsax, quitting. (Read error: Operation timed out)
 [2013-03-19 07:48:07] sp0cksbeard, joining. (#appium)
+[2013-03-19 07:50:04] sp0cksbeard, quitting. (Client Quit)
+[2013-03-19 07:50:34] sp0cksbeard, joining. (#appium)
