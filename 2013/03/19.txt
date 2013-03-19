@@ -91,3 +91,7 @@
 [2013-03-19 13:30:44] stackedsax1, quitting. (Read error: Connection reset by peer)
 [2013-03-19 13:30:56] stackedsax, joining. (#appium)
 [2013-03-19 13:39:59] toks: ^_^
+[2013-03-19 13:40:15] *toks runs in... Blivets'
+[2013-03-19 13:41:14] toks: O_o;
+[2013-03-19 13:41:16] larryg, quitting. (Quit: Leaving.)
+[2013-03-19 13:41:39] larryg, joining. (#appium)
