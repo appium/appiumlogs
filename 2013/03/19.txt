@@ -6,3 +6,10 @@
 [2013-03-19 03:04:46] admc, quitting. (Quit: Leaving.)
 [2013-03-19 03:19:47] wilmoore-js, quitting. (Ping timeout: 255 seconds)
 [2013-03-19 03:21:04] wilmoore_, joining. (#appium)
+[2013-03-19 04:51:32] rakeshcherian, joining. (#appium)
+[2013-03-19 04:51:50] rakeshcherian: Hello , I am working on appium on simulator ( with ruby )
+[2013-03-19 04:52:09] rakeshcherian: I need to find the right element so that i can call using ruby
+[2013-03-19 04:52:14] rakeshcherian: for eg:
+[2013-03-19 04:52:24] rakeshcherian: @driver.html should give me DOM data
+[2013-03-19 04:52:28] rakeshcherian: is there any tool to do so..
+[2013-03-19 04:52:33] rakeshcherian: is this the right channel ?
