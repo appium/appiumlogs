@@ -46,3 +46,5 @@
 [2013-03-19 10:13:33] fpotter, joining. (#appium)
 [2013-03-19 10:17:51] santiycr, quitting. (Quit: Leaving.)
 [2013-03-19 10:40:17] toks, joining. (#appium)
+[2013-03-19 10:46:16] knorrium, quitting. (Quit: knorrium)
+[2013-03-19 10:47:36] jcarr, quitting. (Quit: Leaving.)
