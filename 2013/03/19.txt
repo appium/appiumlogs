@@ -144,3 +144,4 @@
 [2013-03-19 16:14:41] github-appium: appium/master 8dbdd90 Jonathan Lipps: add selected() webview method
 [2013-03-19 16:14:41] github-appium: appium/master 972f0c1 Adam Christian: Merge pull request #287 from jlipps/master...
 [2013-03-19 16:14:41] github-appium, leaving. (#appium)
+[2013-03-19 16:23:15] fpotter, quitting. (Quit: Computer has gone to sleep.)
