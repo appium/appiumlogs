@@ -13,3 +13,4 @@
 [2013-03-19 04:52:24] rakeshcherian: @driver.html should give me DOM data
 [2013-03-19 04:52:28] rakeshcherian: is there any tool to do so..
 [2013-03-19 04:52:33] rakeshcherian: is this the right channel ?
+[2013-03-19 05:18:41] sp0cksbeard, joining. (#appium)
