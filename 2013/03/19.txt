@@ -107,3 +107,6 @@
 [2013-03-19 15:02:09] santiycr1, changing nick to santiycr.
 [2013-03-19 15:04:49] santiycr, quitting. (Read error: Connection reset by peer)
 [2013-03-19 15:04:58] santiycr, joining. (#appium)
+[2013-03-19 15:31:43] github-appium, joining. (#appium)
+[2013-03-19 15:31:43] github-appium: [appium] jlipps opened pull request #285: more webview selenium support (master...master)  http://git.io/T5q1ew
+[2013-03-19 15:31:43] github-appium, leaving. (#appium)
