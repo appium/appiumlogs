@@ -50,3 +50,5 @@
 [2013-03-19 10:47:36] jcarr, quitting. (Quit: Leaving.)
 [2013-03-19 10:50:31] jcarr, joining. (#appium)
 [2013-03-19 10:52:13] knorrium, joining. (#appium)
+[2013-03-19 11:05:39] davidko, quitting. (Quit: davidko)
+[2013-03-19 11:06:04] santiycr, joining. (#appium)
