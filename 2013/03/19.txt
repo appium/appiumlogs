@@ -95,3 +95,4 @@
 [2013-03-19 13:41:14] toks: O_o;
 [2013-03-19 13:41:16] larryg, quitting. (Quit: Leaving.)
 [2013-03-19 13:41:39] larryg, joining. (#appium)
+[2013-03-19 13:45:33] admc, joining. (#appium)
