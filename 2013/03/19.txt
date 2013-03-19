@@ -79,3 +79,4 @@
 [2013-03-19 13:09:06] toks, quitting. (Ping timeout: 264 seconds)
 [2013-03-19 13:09:42] larryg, joining. (#appium)
 [2013-03-19 13:14:42] larryg, quitting. (Quit: Leaving.)
+[2013-03-19 13:20:58] toks, joining. (#appium)
