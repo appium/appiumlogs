@@ -99,3 +99,5 @@
 [2013-03-19 13:50:48] admc, quitting. (Quit: Leaving.)
 [2013-03-19 13:51:02] admc, joining. (#appium)
 [2013-03-19 13:52:48] toks: :)
+[2013-03-19 13:56:10] santiycr, quitting. (Quit: Leaving.)
+[2013-03-19 13:57:03] santiycr, joining. (#appium)
