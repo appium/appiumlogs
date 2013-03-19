@@ -104,3 +104,6 @@
 [2013-03-19 14:11:21] santiycr1, joining. (#appium)
 [2013-03-19 14:11:22] santiycr, quitting. (Read error: Connection reset by peer)
 [2013-03-19 14:26:55] sp0cksbeard, quitting. (Quit: sp0cksbeard)
+[2013-03-19 15:02:09] santiycr1, changing nick to santiycr.
+[2013-03-19 15:04:49] santiycr, quitting. (Read error: Connection reset by peer)
+[2013-03-19 15:04:58] santiycr, joining. (#appium)
