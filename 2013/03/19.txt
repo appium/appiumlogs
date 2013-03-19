@@ -29,3 +29,4 @@
 [2013-03-19 08:06:50] stackedsax, quitting. (Quit: Leaving.)
 [2013-03-19 08:22:38] smccarthy, joining. (#appium)
 [2013-03-19 08:30:11] wilmoore-js, joining. (#appium)
+[2013-03-19 08:42:25] rakeshcherian, quitting. (Quit: Leaving)
