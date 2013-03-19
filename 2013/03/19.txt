@@ -27,3 +27,4 @@
 [2013-03-19 08:00:59] wilmoore-js, joining. (#appium)
 [2013-03-19 08:05:20] wilmoore-js, quitting. (Ping timeout: 256 seconds)
 [2013-03-19 08:06:50] stackedsax, quitting. (Quit: Leaving.)
+[2013-03-19 08:22:38] smccarthy, joining. (#appium)
