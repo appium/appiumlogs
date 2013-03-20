@@ -189,3 +189,5 @@
 [2013-03-19 21:11:07] github-appium, leaving. (#appium)
 [2013-03-19 21:32:32] fpotter, joining. (#appium)
 [2013-03-19 22:03:22] davidko, joining. (#appium)
+[2013-03-19 22:16:16] davidko, quitting. (Remote host closed the connection)
+[2013-03-19 22:16:27] davidko, joining. (#appium)
