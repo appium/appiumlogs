@@ -178,3 +178,6 @@
 [2013-03-19 20:18:54] santiycr, joining. (#appium)
 [2013-03-19 20:42:53] santiycr, quitting. (Quit: Leaving.)
 [2013-03-19 20:54:08] stackedsax, joining. (#appium)
+[2013-03-19 21:07:21] github-appium, joining. (#appium)
+[2013-03-19 21:07:21] github-appium: [appium] jlipps opened pull request #289: implicitWait(), getLocation(), and getName() for web elements (master...master)  http://git.io/mtGo7Q
+[2013-03-19 21:07:21] github-appium, leaving. (#appium)
