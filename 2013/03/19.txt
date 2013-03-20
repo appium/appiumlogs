@@ -187,3 +187,4 @@
 [2013-03-19 21:11:07] github-appium: appium/master 3c72095 Jonathan Lipps: added getLocation for web elements
 [2013-03-19 21:11:07] github-appium: appium/master b50b8df Jonathan Lipps: add getName() method for web and native elements
 [2013-03-19 21:11:07] github-appium, leaving. (#appium)
+[2013-03-19 21:32:32] fpotter, joining. (#appium)
