@@ -175,3 +175,4 @@
 [2013-03-19 18:51:30] admc, quitting. (Quit: Leaving.)
 [2013-03-19 19:14:37] fpotter, joining. (#appium)
 [2013-03-19 19:29:08] fpotter, quitting. (Quit: Computer has gone to sleep.)
+[2013-03-19 20:18:54] santiycr, joining. (#appium)
