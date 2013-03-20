@@ -169,3 +169,4 @@
 [2013-03-19 17:38:56] davidko_, joining. (#appium)
 [2013-03-19 17:41:55] davidko, quitting. (Ping timeout: 256 seconds)
 [2013-03-19 17:44:35] davidko_, quitting. (Ping timeout: 245 seconds)
+[2013-03-19 18:26:07] admc, joining. (#appium)
