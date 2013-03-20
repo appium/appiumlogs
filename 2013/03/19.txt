@@ -163,3 +163,7 @@
 [2013-03-19 17:24:15] fpotter, joining. (#appium)
 [2013-03-19 17:24:20] santiycr, quitting. (Quit: Leaving.)
 [2013-03-19 17:33:14] sfbrian, quitting. (Quit: sfbrian)
+[2013-03-19 17:36:36] stackedsax, quitting. (Quit: Leaving.)
+[2013-03-19 17:37:40] sassda, quitting. (Read error: Connection reset by peer)
+[2013-03-19 17:38:55] wilmoore-js, joining. (#appium)
+[2013-03-19 17:38:56] davidko_, joining. (#appium)
