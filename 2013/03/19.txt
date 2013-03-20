@@ -181,3 +181,9 @@
 [2013-03-19 21:07:21] github-appium, joining. (#appium)
 [2013-03-19 21:07:21] github-appium: [appium] jlipps opened pull request #289: implicitWait(), getLocation(), and getName() for web elements (master...master)  http://git.io/mtGo7Q
 [2013-03-19 21:07:21] github-appium, leaving. (#appium)
+[2013-03-19 21:11:06] github-appium, joining. (#appium)
+[2013-03-19 21:11:07] github-appium: [appium] jlipps pushed 4 new commits to master: http://git.io/_ORrxg
+[2013-03-19 21:11:07] github-appium: appium/master dbd5c17 Jonathan Lipps: implement implicit wait for web elements
+[2013-03-19 21:11:07] github-appium: appium/master 3c72095 Jonathan Lipps: added getLocation for web elements
+[2013-03-19 21:11:07] github-appium: appium/master b50b8df Jonathan Lipps: add getName() method for web and native elements
+[2013-03-19 21:11:07] github-appium, leaving. (#appium)
