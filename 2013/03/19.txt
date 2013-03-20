@@ -156,3 +156,5 @@
 [2013-03-19 16:33:05] github-appium: appium/master 6c356b3 Adam Christian: Merge pull request #288 from jlipps/master...
 [2013-03-19 16:33:05] github-appium, leaving. (#appium)
 [2013-03-19 16:51:13] wilmoore-js, quitting. (Remote host closed the connection)
+[2013-03-19 16:56:10] jlipps, joining. (#appium)
+[2013-03-19 16:56:35] jlipps, quitting. (Client Quit)
