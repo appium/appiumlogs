@@ -167,3 +167,5 @@
 [2013-03-19 17:37:40] sassda, quitting. (Read error: Connection reset by peer)
 [2013-03-19 17:38:55] wilmoore-js, joining. (#appium)
 [2013-03-19 17:38:56] davidko_, joining. (#appium)
+[2013-03-19 17:41:55] davidko, quitting. (Ping timeout: 256 seconds)
+[2013-03-19 17:44:35] davidko_, quitting. (Ping timeout: 245 seconds)
