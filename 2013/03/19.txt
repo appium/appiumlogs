@@ -159,3 +159,6 @@
 [2013-03-19 16:56:10] jlipps, joining. (#appium)
 [2013-03-19 16:56:35] jlipps, quitting. (Client Quit)
 [2013-03-19 17:06:19] admc, quitting. (Quit: Leaving.)
+[2013-03-19 17:21:40] larryg, quitting. (Ping timeout: 245 seconds)
+[2013-03-19 17:24:15] fpotter, joining. (#appium)
+[2013-03-19 17:24:20] santiycr, quitting. (Quit: Leaving.)
