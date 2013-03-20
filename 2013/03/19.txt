@@ -158,3 +158,4 @@
 [2013-03-19 16:51:13] wilmoore-js, quitting. (Remote host closed the connection)
 [2013-03-19 16:56:10] jlipps, joining. (#appium)
 [2013-03-19 16:56:35] jlipps, quitting. (Client Quit)
+[2013-03-19 17:06:19] admc, quitting. (Quit: Leaving.)
