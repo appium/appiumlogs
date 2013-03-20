@@ -177,3 +177,4 @@
 [2013-03-19 19:29:08] fpotter, quitting. (Quit: Computer has gone to sleep.)
 [2013-03-19 20:18:54] santiycr, joining. (#appium)
 [2013-03-19 20:42:53] santiycr, quitting. (Quit: Leaving.)
+[2013-03-19 20:54:08] stackedsax, joining. (#appium)
