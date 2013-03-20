@@ -192,3 +192,4 @@
 [2013-03-19 22:16:16] davidko, quitting. (Remote host closed the connection)
 [2013-03-19 22:16:27] davidko, joining. (#appium)
 [2013-03-19 22:37:54] wilmoore-js, quitting. (Remote host closed the connection)
+[2013-03-19 22:44:13] davidko, quitting. (Quit: davidko)
